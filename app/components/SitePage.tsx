@@ -1,4 +1,5 @@
 import EtiquetteLab from "./EtiquetteLab";
+import LineageTrail from "./LineageTrail";
 import type { SiteContent } from "../site-content";
 
 export default function SitePage({ content }: { content: SiteContent }) {
@@ -187,16 +188,7 @@ export default function SitePage({ content }: { content: SiteContent }) {
             </div>
             <p>{content.research.copy}</p>
           </div>
-          <div className="reading-list">
-            {content.research.items.map((item, index) => (
-              <a href={item.href} target="_blank" rel="noreferrer" className="reading-row" key={item.title}>
-                <span className="reading-index">0{index + 1}</span>
-                <div><small>{item.source}</small><strong>{item.title}</strong></div>
-                <p>{item.note}</p>
-                <span className="external">↗</span>
-              </a>
-            ))}
-          </div>
+          <LineageTrail locale={content.lang === "zh-Hant-TW" ? "zh-TW" : "en"} />
         </div>
       </section>
 
