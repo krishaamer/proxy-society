@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -9,6 +9,12 @@ export const metadata: Metadata = {
   },
   description:
     "Proxy Society studies the social rules of AI agents acting on behalf of humans: etiquette, delegated presence, authority, disclosure, reciprocity, and human control.",
+  alternates: {
+    languages: {
+      en: "https://proxysociety.org/",
+      "zh-Hant-TW": "https://proxysociety.org/zh-tw",
+    },
+  },
   openGraph: {
     title: "Proxy Society",
     description: "AI acts for us now. What is polite?",
@@ -21,6 +27,11 @@ export const metadata: Metadata = {
     title: "Proxy Society",
     description: "AI acts for us now. What is polite?",
   },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#05050a",
+  colorScheme: "dark",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
