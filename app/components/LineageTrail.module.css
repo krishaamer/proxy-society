@@ -1,0 +1,255 @@
+.wrap {
+  margin-top: 10px;
+}
+
+.methodNote {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+  margin-bottom: 22px;
+  padding: 16px 18px;
+  border: 1px solid var(--line);
+  background: rgba(5, 5, 10, 0.42);
+}
+
+.methodNote > span {
+  color: var(--acid);
+  font: 800 8px/1.3 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.methodNote p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.trail {
+  border-top: 1px solid var(--line);
+}
+
+.entry {
+  position: relative;
+  display: grid;
+  grid-template-columns: 88px minmax(250px, 0.9fr) minmax(300px, 1.1fr) 26px;
+  gap: 24px;
+  align-items: center;
+  min-height: 142px;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--line);
+  transition: background 180ms ease, padding 180ms ease, border-color 180ms ease;
+}
+
+.entry:hover {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: rgba(141, 107, 255, 0.055);
+  border-color: var(--line-strong);
+}
+
+.entry::before {
+  content: "";
+  position: absolute;
+  left: 43px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--line);
+  pointer-events: none;
+}
+
+.yearColumn {
+  position: relative;
+  z-index: 1;
+  min-height: 96px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 9px;
+}
+
+.yearColumn strong {
+  padding: 7px 8px;
+  color: var(--ink);
+  background: var(--void-2);
+  border: 1px solid var(--line-strong);
+  font: 850 11px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: 0.06em;
+}
+
+.sequence {
+  padding-left: 2px;
+  color: var(--faint);
+  font: 800 7px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: 0.12em;
+}
+
+.yearColumn i {
+  position: absolute;
+  left: 39px;
+  top: 50%;
+  width: 9px;
+  height: 9px;
+  transform: translate(-50%, -50%);
+  background: var(--void-2);
+  border: 1px solid var(--violet);
+  box-shadow: 0 0 12px rgba(141, 107, 255, 0.34);
+}
+
+.identity {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.identity small {
+  color: var(--cyan);
+  font: 800 8px/1.3 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.identity h3 {
+  margin: 0;
+  max-width: 520px;
+  color: var(--ink);
+  font-size: clamp(20px, 2vw, 27px);
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  font-weight: 630;
+}
+
+.identity > span {
+  color: var(--faint);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.breadcrumb {
+  margin: 0;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.52;
+}
+
+.external {
+  color: var(--cyan);
+  font-size: 19px;
+  transition: transform 180ms ease;
+}
+
+.entry:hover .external {
+  transform: translate(2px, -2px);
+}
+
+.direct {
+  background: linear-gradient(90deg, rgba(99, 245, 209, 0.035), transparent 44%);
+}
+
+.direct .yearColumn i {
+  background: var(--cyan);
+  border-color: var(--cyan);
+  box-shadow: 0 0 18px rgba(99, 245, 209, 0.58);
+}
+
+.direct .identity small {
+  color: var(--acid);
+}
+
+.current {
+  background: linear-gradient(90deg, rgba(141, 107, 255, 0.09), rgba(99, 245, 209, 0.035));
+}
+
+.current .yearColumn strong {
+  color: var(--void);
+  background: var(--cyan);
+  border-color: var(--cyan);
+}
+
+.current .yearColumn i {
+  background: var(--acid);
+  border-color: var(--acid);
+  box-shadow: 0 0 18px rgba(234, 255, 120, 0.5);
+}
+
+@media (max-width: 980px) {
+  .entry {
+    grid-template-columns: 72px 1fr 24px;
+    gap: 18px;
+  }
+
+  .entry::before {
+    left: 35px;
+  }
+
+  .yearColumn i {
+    left: 31px;
+  }
+
+  .breadcrumb {
+    grid-column: 2;
+    padding-right: 18px;
+  }
+
+  .external {
+    grid-column: 3;
+    grid-row: 1 / span 2;
+  }
+}
+
+@media (max-width: 680px) {
+  .methodNote {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    padding: 14px;
+  }
+
+  .entry {
+    grid-template-columns: 58px 1fr 18px;
+    gap: 12px;
+    align-items: start;
+    min-height: 0;
+    padding: 22px 0;
+  }
+
+  .entry:hover {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .entry::before {
+    left: 28px;
+  }
+
+  .yearColumn {
+    min-height: 78px;
+    justify-content: flex-start;
+  }
+
+  .yearColumn strong {
+    padding: 6px 5px;
+    font-size: 9px;
+  }
+
+  .yearColumn i {
+    left: 24px;
+    top: 55px;
+  }
+
+  .identity h3 {
+    font-size: 20px;
+  }
+
+  .identity > span {
+    font-size: 11px;
+  }
+
+  .breadcrumb {
+    font-size: 14px;
+    padding-right: 4px;
+  }
+}
