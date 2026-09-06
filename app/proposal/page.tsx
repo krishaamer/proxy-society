@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import {
   architecturalClaims,
   centralQuestions,
@@ -77,6 +78,16 @@ export default function ProposalPage() {
       <div className="asymmetry-grid">{spatialTypologies.map(item => <article className="equation-card" key={item.title}><strong>{item.title}</strong><p>{item.copy}</p></article>)}</div>
     </section>
 
+    <section className="section dark-section">
+      <div className="shell">
+        <div className="section-heading inverse">
+          <div><p className="section-kicker">RELATED PROPOSITION</p><h2>Architecture can become part of the harness that maintains human intent.</h2></div>
+          <p>Robot circulation, proxy entrances, machine-readable permissions and human-priority zones are not only technical infrastructure. They can physically express which intentions a society chooses to preserve.</p>
+        </div>
+        <Link className="button primary light" href="/human-intent">READ MAINTAINING HUMAN INTENT</Link>
+      </div>
+    </section>
+
     <section className="section shell" id="method">
       <div className="section-heading compact"><div><p className="section-kicker">RESEARCH PROGRAM</p><h2>Architecture through fieldwork, film and prototyping</h2></div></div>
       <div className="case-flow">{methods.map((m,i) => <div className="case-step-wrap" key={m.id}><div><span>{m.id}</span><strong>{m.title}</strong><p>{m.copy}</p></div>{i < methods.length - 1 && <div className="flow-arrow">↓</div>}</div>)}</div>
@@ -95,7 +106,7 @@ export default function ProposalPage() {
     <section className="closing-section">
       <div className="shell closing-grid">
         <div><p className="section-kicker">PROPOSITION</p><h2>The proxy is the technological change. Human presence is the architectural question.</h2></div>
-        <div className="closing-actions"><p>The dissertation's wager is that the rise of proxies does not make architecture less important. It makes the spatial, social and sensory value of being somewhere together newly visible.</p></div>
+        <div className="closing-actions"><p>The dissertation&apos;s wager is that the rise of proxies does not make architecture less important. It makes the spatial, social and sensory value of being somewhere together newly visible.</p></div>
       </div>
     </section>
   </main>;
