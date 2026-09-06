@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Maintaining Human Intent | Proxy Society",
@@ -242,7 +243,7 @@ function SpatialPermissionDiagram() {
 
         <circle cx="142" cy="265" r="38" fill="#0e0d19" stroke="#63f5d1" strokeWidth="2" />
         <text x="142" y="260" textAnchor="middle" fill="#f5f4ff" fontSize="12">HUMAN</text>
-        <text x="142" y="279" textAnchor="middle" fill="#a3a0b7" fontSize="10">"deliver this"</text>
+        <text x="142" y="279" textAnchor="middle" fill="#a3a0b7" fontSize="10">deliver this</text>
         <path d="M180 265 H620" stroke="#f5f4ff" strokeWidth="2" strokeDasharray="9 8" opacity=".55" />
         <path d="M602 255 l18 10 -18 10" fill="none" stroke="#f5f4ff" strokeWidth="2" />
         <circle cx="620" cy="265" r="14" fill="#ff58d0" />
@@ -259,19 +260,19 @@ export default function HumanIntentPage() {
       <div className="ambient-grid" aria-hidden="true" />
 
       <header className="site-header shell">
-        <a className="wordmark" href="/" aria-label="Proxy Society home">
+        <Link className="wordmark" href="/" aria-label="Proxy Society home">
           <span className="mark" aria-hidden="true">P/S</span>
           <span className="wordmark-copy">
             <strong>PROXY SOCIETY</strong>
             <small>HUMAN / AGENT / SOCIETY</small>
           </span>
-        </a>
+        </Link>
         <nav aria-label="Research navigation">
           <a href="#intent">INTENT</a>
           <a href="#harness">HARNESS</a>
           <a href="#architecture">ARCHITECTURE</a>
           <a href="#precedents">PRECEDENTS</a>
-          <a className="nav-cta" href="/proposal">ARCHITECTURE OF PRESENCE</a>
+          <Link className="nav-cta" href="/proposal">ARCHITECTURE OF PRESENCE</Link>
         </nav>
       </header>
 
@@ -483,8 +484,8 @@ export default function HumanIntentPage() {
             <p>
               The model does not govern society. Society governs models, agents and robots through rights, institutions, protocols, architecture and continuously revisable human decisions. Maintaining human intent is the thesis. Robot tunnels, proxy entrances and machine-readable cities are physical consequences.
             </p>
-            <a className="button primary light" href="/proposal">CONTINUE TO THE ARCHITECTURE OF PRESENCE</a>
-            <a className="button ghost" href="/social-permeability">SEE SOCIAL PERMEABILITY</a>
+            <Link className="button primary light" href="/proposal">CONTINUE TO THE ARCHITECTURE OF PRESENCE</Link>
+            <Link className="button ghost" href="/social-permeability">SEE SOCIAL PERMEABILITY</Link>
           </div>
         </div>
       </section>
