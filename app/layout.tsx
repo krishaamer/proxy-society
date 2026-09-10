@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import "./haam-visual.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://proxysociety.org"),
@@ -30,7 +31,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#05050a",
+  themeColor: "#0f0e0c",
   colorScheme: "dark",
 };
 
