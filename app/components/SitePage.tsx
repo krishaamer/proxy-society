@@ -4,6 +4,7 @@ import type { SiteContent } from "../site-content";
 
 export default function SitePage({ content }: { content: SiteContent }) {
   const spectrumPositions = [4, 16, 31, 49, 67, 82, 93];
+  const contactHref = content.lang === "zh-Hant-TW" ? "/zh-tw/contact" : "/contact";
 
   return (
     <main lang={content.lang}>
@@ -21,7 +22,7 @@ export default function SitePage({ content }: { content: SiteContent }) {
           <a href="#principles">{content.nav.principles}</a>
           <a href="#research">{content.nav.research}</a>
           <a className="locale-switch" href={content.otherLocaleHref}>{content.otherLocaleLabel}</a>
-          <a className="nav-cta" href="mailto:hello@proxysociety.org">{content.nav.contact}</a>
+          <a className="nav-cta" href={contactHref}>{content.nav.contact}</a>
         </nav>
       </header>
 

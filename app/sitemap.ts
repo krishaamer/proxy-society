@@ -27,6 +27,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
       },
     },
     {
+      url: "https://proxysociety.org/contact",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+      alternates: {
+        languages: {
+          en: "https://proxysociety.org/contact",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/contact",
+        },
+      },
+    },
+    {
+      url: "https://proxysociety.org/zh-tw/contact",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
+      alternates: {
+        languages: {
+          en: "https://proxysociety.org/contact",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/contact",
+        },
+      },
+    },
+    {
       url: "https://proxysociety.org/proposal",
       lastModified: new Date(),
       changeFrequency: "monthly",

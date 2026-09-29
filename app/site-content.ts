@@ -95,7 +95,7 @@ export const englishContent: SiteContent = {
     eyebrow: "AI AGENT INTERACTION DESIGN / SOCIAL PROTOCOLS / EST. 2026",
     titleTop: "AI acts for us now.",
     titleAccent: "What is polite?",
-    copy: "Proxy Society is an independent research and design initiative studying the social rules of AI agents acting on behalf of humans.",
+    copy: "Proxy Society is an independent Estonian non-profit research and design organization studying the social rules of AI agents acting on behalf of humans.",
     primary: "Enter the etiquette lab",
     secondary: "Read the thesis",
     nodes: [
@@ -190,7 +190,7 @@ export const englishContent: SiteContent = {
     copy: "Researching AI etiquette, delegated presence and interaction design for machines acting on behalf of humans.",
     contact: "hello@proxysociety.org",
   },
-  footer: { initiative: "Independent research initiative", github: "GitHub ↗" },
+  footer: { initiative: "Estonian non-profit association · Registry 80679069", github: "GitHub ↗" },
 };
 
 export const traditionalChineseContent: SiteContent = {
@@ -203,7 +203,7 @@ export const traditionalChineseContent: SiteContent = {
     eyebrow: "AI 代理人互動設計 / 社會協議 / 2026 起",
     titleTop: "AI 已經開始替我們行動。",
     titleAccent: "怎樣才算有禮貌？",
-    copy: "Proxy Society 是一個獨立研究與設計計畫，研究 AI 代理人代表人類行動時，正在形成的社會規範。",
+    copy: "Proxy Society 是在愛沙尼亞登記成立的獨立非營利研究與設計組織，研究 AI 代理人代表人類行動時，正在形成的社會規範。",
     primary: "進入 AI 禮儀實驗室",
     secondary: "閱讀核心命題",
     nodes: [
@@ -303,5 +303,5 @@ export const traditionalChineseContent: SiteContent = {
     copy: "研究 AI 禮儀、代理式在場，以及替人類行動的機器該如何被設計。",
     contact: "hello@proxysociety.org",
   },
-  footer: { initiative: "獨立研究與設計計畫", github: "GitHub ↗" },
+  footer: { initiative: "愛沙尼亞非營利組織 · 登記編號 80679069", github: "GitHub ↗" },
 };
