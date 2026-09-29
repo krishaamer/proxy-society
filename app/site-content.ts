@@ -3,7 +3,7 @@ export type SiteContent = {
   localeLabel: string;
   otherLocaleLabel: string;
   otherLocaleHref: string;
-  nav: { etiquette: string; principles: string; research: string; contact: string };
+  nav: { etiquette: string; principles: string; projects: string; research: string; contact: string };
   hero: {
     eyebrow: string;
     titleTop: string;
@@ -90,7 +90,7 @@ export const englishContent: SiteContent = {
   localeLabel: "EN",
   otherLocaleLabel: "繁中",
   otherLocaleHref: "/zh-tw",
-  nav: { etiquette: "Etiquette", principles: "Principles", research: "Research", contact: "Transmit" },
+  nav: { etiquette: "Etiquette", principles: "Principles", projects: "Projects", research: "Research", contact: "Transmit" },
   hero: {
     eyebrow: "AI AGENT INTERACTION DESIGN / SOCIAL PROTOCOLS / EST. 2026",
     titleTop: "AI acts for us now.",
@@ -198,7 +198,7 @@ export const traditionalChineseContent: SiteContent = {
   localeLabel: "繁中",
   otherLocaleLabel: "EN",
   otherLocaleHref: "/",
-  nav: { etiquette: "AI 禮儀", principles: "原則", research: "研究", contact: "聯絡" },
+  nav: { etiquette: "AI 禮儀", principles: "原則", projects: "專案", research: "研究", contact: "聯絡" },
   hero: {
     eyebrow: "AI 代理人互動設計 / 社會協議 / 2026 起",
     titleTop: "AI 已經開始替我們行動。",

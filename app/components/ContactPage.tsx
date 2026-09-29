@@ -11,6 +11,7 @@ const content = {
     nav: {
       etiquette: "Etiquette",
       principles: "Principles",
+      projects: "Projects",
       research: "Research",
       contact: "Email",
     },
@@ -49,6 +50,7 @@ const content = {
     nav: {
       etiquette: "AI 禮儀",
       principles: "原則",
+      projects: "專案",
       research: "研究",
       contact: "寄信",
     },
@@ -83,6 +85,7 @@ const content = {
 
 export default function ContactPage({ locale }: { locale: Locale }) {
   const t = content[locale];
+  const projectsHref = locale === "zh-TW" ? "/zh-tw/projects" : "/projects";
 
   return (
     <main lang={t.lang}>
@@ -99,6 +102,7 @@ export default function ContactPage({ locale }: { locale: Locale }) {
         <nav aria-label="Primary navigation">
           <a href={`${t.homeHref}#etiquette`}>{t.nav.etiquette}</a>
           <a href={`${t.homeHref}#principles`}>{t.nav.principles}</a>
+          <a href={projectsHref}>{t.nav.projects}</a>
           <a href={`${t.homeHref}#research`}>{t.nav.research}</a>
           <a className="locale-switch" href={t.otherHref}>{t.otherLabel}</a>
           <a className="nav-cta" href="mailto:hello@proxysociety.org">{t.nav.contact}</a>
