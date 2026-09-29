@@ -1,10 +1,12 @@
 import EtiquetteLab from "./EtiquetteLab";
 import LineageTrail from "./LineageTrail";
+import ProjectsPreview from "./ProjectsPreview";
 import type { SiteContent } from "../site-content";
 
 export default function SitePage({ content }: { content: SiteContent }) {
   const spectrumPositions = [4, 16, 31, 49, 67, 82, 93];
   const contactHref = content.lang === "zh-Hant-TW" ? "/zh-tw/contact" : "/contact";
+  const projectsHref = content.lang === "zh-Hant-TW" ? "/zh-tw/projects" : "/projects";
 
   return (
     <main lang={content.lang}>
@@ -20,6 +22,7 @@ export default function SitePage({ content }: { content: SiteContent }) {
         <nav aria-label="Primary navigation">
           <a href="#etiquette">{content.nav.etiquette}</a>
           <a href="#principles">{content.nav.principles}</a>
+          <a href={projectsHref}>{content.nav.projects}</a>
           <a href="#research">{content.nav.research}</a>
           <a className="locale-switch" href={content.otherLocaleHref}>{content.otherLocaleLabel}</a>
           <a className="nav-cta" href={contactHref}>{content.nav.contact}</a>
@@ -179,6 +182,8 @@ export default function SitePage({ content }: { content: SiteContent }) {
           <div>{content.plurality.copy.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>
         </div>
       </section>
+
+      <ProjectsPreview locale={content.lang === "zh-Hant-TW" ? "zh-TW" : "en"} />
 
       <section className="section research-section" id="research">
         <div className="shell">
