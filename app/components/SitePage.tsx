@@ -23,6 +23,7 @@ export default function SitePage({ content }: { content: SiteContent }) {
           <a href="#etiquette">{content.nav.etiquette}</a>
           <a href="#principles">{content.nav.principles}</a>
           <a href={projectsHref}>{content.nav.projects}</a>
+          <a href="/architecture">{content.lang === "zh-Hant-TW" ? "建築" : "Architecture"}</a>
           <a href="#research">{content.nav.research}</a>
           <a className="locale-switch" href={content.otherLocaleHref}>{content.otherLocaleLabel}</a>
           <a className="nav-cta" href={contactHref}>{content.nav.contact}</a>
