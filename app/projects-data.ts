@@ -82,7 +82,7 @@ const englishProjects: ProjectCase[] = [
     question: "What happens to interaction design when law can create an access path that the product UI does not expose?",
     status: "Active research and operations system",
     links: [
-      { label: "Public research surface ↗", href: "https://haam-gdpr.vercel.app" }
+      { label: "Public research surface ↗", href: "https://gdpr.haam.co/" }
     ]
   },
   {
@@ -307,7 +307,7 @@ const traditionalChineseProjects: ProjectCase[] = [
     ],
     question: "當法律可以建立產品 UI 沒有揭露的存取路徑時，互動設計真正控制的是什麼？",
     status: "持續運作中的研究與作業系統",
-    links: [{ label: "公開研究頁面 ↗", href: "https://haam-gdpr.vercel.app" }]
+    links: [{ label: "公開研究頁面 ↗", href: "https://gdpr.haam.co/" }]
   },
   {
     ...englishProjects[3],
