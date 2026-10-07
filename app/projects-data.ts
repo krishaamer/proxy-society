@@ -69,17 +69,17 @@ const englishProjects: ProjectCase[] = [
     name: "HAAM GDPR",
     domain: "RIGHTS / NEGATION",
     year: "2026",
-    tagline: "Exercise my rights, but do not delete me.",
-    summary: "A long-running data-access and portability workflow coordinated across Gmail, ChatGPT, Codex, local exports and hundreds of company cases.",
+    tagline: "The law is an undocumented API.",
+    summary: "A long-running data-access and portability workflow that tests a broader design claim: legal rights can expose capabilities the product interface does not offer. It is coordinated across Gmail, ChatGPT, Codex, local exports and hundreds of company cases.",
     humanIntent: "Obtain Article 15 access and Article 20 portability data while preserving accounts and explicitly avoiding deletion unless separately authorized.",
     systemAction: "Discover controllers, prepare requests, classify replies, track verification, preserve exports, audit gaps, follow up and escalate while maintaining durable case state.",
-    boundary: "Negative intent must survive every handoff. The project treats “access and portability only” as a hard constraint, keeps sensitive exports outside Git, and tests workflows against fictional scenarios where quoted history or provider mistakes could otherwise trigger destructive action.",
+    boundary: "The project treats product UX and legal entitlement as different layers. A missing export button, blocked self-service path or awkward legacy system does not by itself define what a person can request through a rights process. At the same time, negative intent must survive every handoff: “access and portability only” remains a hard constraint.",
     evidence: [
-      "The workflow distinguishes request, verification, export, audit, follow-up, escalation and closure as separate states.",
-      "Twenty fictional intent-preservation cases test whether prohibited or out-of-scope actions survive multi-stage handoffs.",
-      "Provider mistakes and contradictory claims are preserved as evidence rather than silently normalized away."
+      "Across cases, the project repeatedly encounters a gap between what self-service UI exposes and what an organization can retrieve or provide after a rights request.",
+      "The workflow treats law as a second interface to the organization: product UX defines the ordinary path, while a rights process can require a different path through internal systems.",
+      "Request, verification, export, audit, follow-up, escalation and closure remain separate states so the agent can pursue access without silently changing the remedy."
     ],
-    question: "Can an agent pursue a right over weeks or months without losing the original intent, especially the word “not”?",
+    question: "What happens to interaction design when law can create an access path that the product UI does not expose?",
     status: "Active research and operations system",
     links: [
       { label: "Public research surface ↗", href: "https://haam-gdpr.vercel.app" }
@@ -295,17 +295,17 @@ const traditionalChineseProjects: ProjectCase[] = [
   {
     ...englishProjects[2],
     domain: "權利 / 否定條件",
-    tagline: "幫我行使權利，但不要刪掉我。",
-    summary: "一套長期的資料存取與可攜流程，橫跨 Gmail、ChatGPT、Codex、本機匯出檔與數百個公司案例。",
+    tagline: "法律是一個沒有寫在產品介面裡的 API。",
+    summary: "一套長期的資料存取與可攜流程，同時測試一個更大的設計命題：法律權利可以打開產品 UI 沒有提供的能力。流程橫跨 Gmail、ChatGPT、Codex、本機匯出檔與數百個公司案例。",
     humanIntent: "取得 GDPR Article 15 存取與 Article 20 可攜資料，同時保留帳號，除非另外明確授權，否則不得刪除。",
     systemAction: "尋找資料控制者、準備申請、分類回覆、追蹤身分驗證、保存匯出檔、稽核缺口、追問與升級，同時維持可延續的案件狀態。",
-    boundary: "否定條件必須穿越每一次交接。「只要存取與可攜」是硬限制。敏感匯出資料不進 Git，並用虛構案例測試代理人是否會因歷史引文或公司誤解而執行破壞性動作。",
+    boundary: "這個專案把產品 UX 與法律權利視為不同層。沒有匯出按鈕、自助流程被擋住，或舊系統很難操作，本身都不等於權利的邊界。同時，否定條件仍必須穿越每一次交接：「只要存取與可攜」維持為硬限制。",
     evidence: [
-      "申請、驗證、匯出、稽核、追問、升級與結案都是不同狀態。",
-      "20 個虛構意圖保存案例測試禁止事項是否能跨多階段交接。",
-      "公司處理錯誤與互相矛盾的說法會保留下來，不會被系統默默合理化。"
+      "不同案例反覆出現同一種落差：自助 UI 沒有提供的資料，組織在收到權利請求後仍可能從內部系統整理或提供。",
+      "因此，法律可以被視為組織的第二套介面：產品 UX 定義平常的路徑，權利程序則可能要求另一條穿過內部系統的路徑。",
+      "申請、驗證、匯出、稽核、追問、升級與結案維持為不同狀態，讓代理人追求存取權時不會默默換成另一種救濟。"
     ],
-    question: "一個代理人能不能追一項權利好幾週甚至幾個月，還記得人當初說的那個「不要」？",
+    question: "當法律可以建立產品 UI 沒有揭露的存取路徑時，互動設計真正控制的是什麼？",
     status: "持續運作中的研究與作業系統",
     links: [{ label: "公開研究頁面 ↗", href: "https://haam-gdpr.vercel.app" }]
   },
