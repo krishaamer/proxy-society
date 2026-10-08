@@ -1,5 +1,7 @@
 # Global architecture PhD and research connections
 
+This is the dated 8 October 2026 global-pass snapshot (102 leads). The [9 October continuation](continuation.md) expands the current shared map to 118 leads and adds an [18-route funding/recruitment screen](funding-and-recruitment.md). Counts and programme checks below describe this earlier pass, not current open-call status.
+
 Status: Research map and prioritization, not confirmed admissions, vacancies or partnerships.
 
 Checked: 8 October 2026, Asia/Manila. Source batch: global expansion of the [initial contact map](README.md).

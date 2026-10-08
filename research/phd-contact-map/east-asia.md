@@ -1,5 +1,7 @@
 # Architecture and PhD leads — China, Taiwan, South Korea and Japan
 
+Regional evidence below is the 8 October 2026 snapshot. See the [continuation](continuation.md) and [funding/recruitment screen](funding-and-recruitment.md) for later connections and current China, Taiwan, South Korea and Japan route caveats.
+
 Checked 8 October 2026. This adds 16 leads, four in each geography, to the [main contact map](README.md), bringing the initial map to 41 people. The later [global expansion](global-expansion.md) brings the shared tracker to 102 leads. These are professional/project locations, not citizenship classifications. The original European and other international leads remain in the same tracker.
 
 Fit, priority and suggested roles are assessments. All 16 have an unknown prior relationship and no outreach in this research task. Capacity, funding, willingness and formal advising commitments remain unconfirmed.

@@ -1,18 +1,20 @@
 # Proxy Society research
 
-This is the project's research index. Updated 8 October 2026.
+This is the project's research index. Updated 9 October 2026 (Asia/Manila).
 
 ## Architecture and PhD
 
-- [Architecture and PhD contact map](phd-contact-map/README.md): 102 academic, practice and industry leads, fit assessments, published contact routes and supervision evidence.
-- [Global expansion](phd-contact-map/global-expansion.md): 61 additions across six regions; 54 university and architecture-school organizations represented in the combined map; nine programme screenings and proposed academic/practice connections.
+- [Architecture and PhD contact map](phd-contact-map/README.md): 118 academic, practice and industry leads, fit assessments, published contact routes and supervision evidence.
+- [Global expansion](phd-contact-map/global-expansion.md): the 8 October snapshot with 61 additions and nine programme screenings.
+- [Continuation](phd-contact-map/continuation.md): 16 more leads; current coverage is 61 university and architecture-school organizations across 36 search geographies.
+- [Funding and recruitment](phd-contact-map/funding-and-recruitment.md): 18 routes, separating open recruitment, competitive funding, restricted projects and closed/next-round watchlists. [Route CSV](phd-contact-map/funding-routes.csv) · [Route JSON](phd-contact-map/funding-routes.json).
 - [China, Taiwan, South Korea and Japan](phd-contact-map/east-asia.md): four leads in each geography, including programme and contact distinctions.
 - [CSV tracker](phd-contact-map/contacts.csv) and [structured records](phd-contact-map/contacts.json).
 - [Prepared writing index](../writing/README.md): the current architecture track, earlier proposal, social permeability, human intent and first-contact wording.
 
 The current architecture framing proposes a civic-building threshold pilot and comparison with ordinary booking, fixed automation and human assistance. It treats robot circulation and dedicated entrances as hypotheses to test. The website source is [app/architecture/page.tsx](../app/architecture/page.tsx).
 
-Next research work is to narrow the pilot to one building and bounded task, discuss supervisory fit, choose observation/evaluation methods, and check relevant programme eligibility and funding. These are proposed next steps, not agreed collaborations.
+Next research work is to prepare programme-specific fit material using the recruitment screen, confirm formal eligibility and funding terms, and narrow the pilot to one willing operator and bounded task. Methods and access permissions need agreement. These are proposed next steps, not agreed collaborations.
 
 ## Project strands
 

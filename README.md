@@ -12,7 +12,8 @@ This repository is the home for the entire Proxy Society project: the website, r
 | --- | --- |
 | Research and project index | [research/README.md](research/README.md) |
 | Architecture and PhD contact leads | [Contact map](research/phd-contact-map/README.md) · [CSV tracker](research/phd-contact-map/contacts.csv) · [Structured records](research/phd-contact-map/contacts.json) |
-| Global architecture PhD and industry research | [Global expansion](research/phd-contact-map/global-expansion.md): 61 additions, 102 total leads, 30 search geographies and nine programme screenings |
+| Global architecture PhD and industry research | [8 October expansion](research/phd-contact-map/global-expansion.md) · [Continuation](research/phd-contact-map/continuation.md): 118 current leads, 61 university/school organizations and 36 search geographies |
+| Doctoral funding and recruitment | [18-route screen](research/phd-contact-map/funding-and-recruitment.md) · [CSV](research/phd-contact-map/funding-routes.csv) · [JSON](research/phd-contact-map/funding-routes.json) |
 | China, Taiwan, South Korea and Japan | [East Asia leads](research/phd-contact-map/east-asia.md) |
 | Prepared writing and versions | [writing/README.md](writing/README.md) |
 | First-contact wording | [Architecture research introduction](writing/outreach/architecture-research-introduction.md) |

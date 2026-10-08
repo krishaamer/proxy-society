@@ -1,10 +1,18 @@
 # Proxy Society architecture and PhD contact map
 
-Expanded research map, checked 8 October 2026 (Asia/Manila). 102 academic, practice and industry leads across 30 search geographies, with 54 distinct university and architecture-school organizations represented. The [global expansion](global-expansion.md) adds 61 records to the retained 41-lead starting map.
+Expanded research map, updated 9 October 2026 (Asia/Manila). 118 academic, practice and industry leads across 36 search geographies, with 61 distinct university and architecture-school organizations represented. The [8 October global expansion](global-expansion.md) added 61 records to the retained 41-lead starting map; the [continuation](continuation.md) adds another 16. Individual records retain their own check dates.
 
 The strongest first conversations are Ava Fatah gen Schieck, Jüri Soolep, Kerstin Sailer, Maroš Krivý, Klaske Havik, Panu Lehtovuori, Ruth Conroy Dalton and Sam Conrad Joyce. For an early practice conversation, approach Usman Haque and Ling Tan together at HAQUE TAN.
 
 The map began from the Architecture of Presence proposal, Social Permeability Map and Maintaining Human Intent proposition. The current [Architecture of Delegated Presence brief](../../writing/proposals/architecture-of-delegated-presence.md) adds an equitable-access framing and a bounded civic-building threshold pilot, with comparisons against ordinary booking, fixed automation and human assistance. Priorities and possible contributions below are judgments about fit. Published supervision evidence is stated separately. Capacity, funding, willingness, admission eligibility and any formal appointment remain unconfirmed. Existing relationships and the applicant's enrolment status are unknown. No outreach was performed.
+
+## Current recruitment and regional continuation
+
+The [continuation](continuation.md) adds nine academic and seven company/practice connections, including Indonesia, Malaysia, Mexico, the Philippines, Spain and Turkey. Xun Liu (UBC GenEnv) and Vernelle A. A. Noel (CMU Sit.Co.De) have explicit funded 2027 recruitment notices. Nicolas Tixier (Grenoble) adds architectural-ambiance and spatial-ethnography expertise without a verified new funded vacancy.
+
+The [18-route funding and recruitment screen](funding-and-recruitment.md), [route CSV](funding-routes.csv) and [route JSON](funding-routes.json) distinguish dated calls from programmes, pending catalogues, restricted projects and closed rounds. Stages, funding evidence and eligibility caveats are separate. No outreach or applications were performed.
+
+The original 102 lead records remain unchanged without a full new role audit. Use the new screen for current programme/funding findings, not older intake dates.
 
 ## Global expansion
 
@@ -18,7 +26,7 @@ The original 41 records are retained without a new full re-audit. The sections b
 
 ## China, Taiwan, South Korea and Japan
 
-The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All 102 leads are in the same CSV/JSON tracker; use its `geography` field to filter.
+The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All 118 leads are in the same CSV/JSON tracker; use its `geography` field to filter.
 
 | Geography | Added leads |
 | --- | --- |
@@ -552,3 +560,7 @@ Architect and ALA partner. Helsinki, Finland. Suggested role: practitioner and c
 - This report covers the original 25 leads; [the East Asia report](east-asia.md) adds the 16 leads in China, Taiwan, South Korea and Japan. The [global report](global-expansion.md) adds readable notes for the other 61 leads. Together these reports cover all 102 records.
 
 After an authorised conversation, record the actual response, capacity, recommended role and next step. Recheck published roles and addresses before sending. A listed supervisor or open invitation to inquire is not a commitment to this project.
+
+## Checking the records
+
+Run `node research/phd-contact-map/validate-map.mjs` from the repository root. It checks CSV/JSON mirrors, source and contact IDs, normalized coverage counts, report fields and primary-deadline dates. It does not establish that a source is still current or that an applicant is eligible.

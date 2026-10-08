@@ -1,0 +1,769 @@
+{
+  "metadata": {
+    "title": "Proxy Society doctoral funding and recruitment route screen",
+    "checked_on": "2026-10-09",
+    "timezone": "Asia/Manila",
+    "status": "Research only; no outreach, applications or form submissions performed",
+    "route_count": 18,
+    "method": "Primary university, lab and funding-agency pages. Dated calls, standing programmes and historical deadlines are separated. Scoped screen, not an exhaustive global vacancy audit.",
+    "fit_assessment": "Fit and priorities are research judgments, not endorsements or confirmed eligibility.",
+    "funding_caution": "Packages, gross salaries and tuition waivers are not interchangeable. No award, place, appointment or partnership secured.",
+    "deadline_policy": "Blank dates mean no applicable current deadline verified. Recurring or historical dates are text, not confirmed future calls.",
+    "contacts_path": "contacts.json"
+  },
+  "sources": {
+    "funding_ubc_programme": {
+      "title": "PhD in Design, Technology and Society | SALA",
+      "url": "https://sala.ubc.ca/program/ph-d-in-design-technology-and-society/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ubc_deadlines": {
+      "title": "Doctor of Philosophy in Design, Technology and Society (PhD) | Graduate School at The University of British Columbia (UBC)",
+      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-design-technology-society",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ubc_policy": {
+      "title": "Minimum Funding Policy for PhD Students | Graduate School at The University of British Columbia (UBC)",
+      "url": "https://www.grad.ubc.ca/awards/minimum-funding-policy-phd-students",
+      "checked_on": "2026-10-09"
+    },
+    "funding_sutd_intake": {
+      "title": "SUTD PhD Programme - Singapore University of Technology and Design (SUTD)",
+      "url": "https://www.sutd.edu.sg/programme-listing/sutd-phd-programme",
+      "checked_on": "2026-10-09"
+    },
+    "funding_sutd_asd": {
+      "title": "ASD PhD Programme - Singapore University of Technology and Design (SUTD) PhD in Architecture and Sustainable Design | SUTD Architecture and Sustainable Design",
+      "url": "https://www.sutd.edu.sg/programme-listing/asd-phd-programme/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_sutd_awards": {
+      "title": "SUTD graduate fellowships / scholarships - Singapore University of Technology and Design (SUTD)",
+      "url": "https://www.sutd.edu.sg/admissions/graduate/scholarship/sutd-graduate-fellowships-scholarships/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_hkpfs_guidance": {
+      "title": "Hong Kong PhD Fellowship Scheme - Research Grants Council",
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/Explanatory/Explanatory_Init_App.jsp",
+      "checked_on": "2026-10-09"
+    },
+    "funding_hku_awards": {
+      "title": "Hong Kong PhD Fellowship Scheme | HKU Graduate School",
+      "url": "https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme",
+      "checked_on": "2026-10-09"
+    },
+    "funding_hku_period": {
+      "title": "Application Period | HKU Graduate School",
+      "url": "https://gradsch.hku.hk/prospective_students/application/application_period",
+      "checked_on": "2026-10-09"
+    },
+    "funding_hku_architecture": {
+      "title": "MPhil and PhD | HKU Faculty of Architecture",
+      "url": "https://www.arch.hku.hk/programmes/arch/mphil-and-phd/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_cambridge_apply": {
+      "title": "PhD in Architecture | Postgraduate Study",
+      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/aharpdahc/apply",
+      "checked_on": "2026-10-09"
+    },
+    "funding_cambridge_finance": {
+      "title": "PhD in Architecture | Postgraduate Study",
+      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/aharpdahc/finance",
+      "checked_on": "2026-10-09"
+    },
+    "funding_cambridge_general": {
+      "title": "Postgraduate funding | Postgraduate Study",
+      "url": "https://www.postgraduate.study.cam.ac.uk/funding?ucam-ref=global-header",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ucl_res": {
+      "title": "Research Excellence Scholarship | UCL Scholarships and funding - UCL – University College London",
+      "url": "https://www.ucl.ac.uk/scholarships/research-excellence-scholarship?trk=public_post_comment-text",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ucl_uela": {
+      "title": "UCL EPSRC Doctoral Landscape Award (UELA) studentships | UCL EPSRC Doctoral Training - UCL – University College London",
+      "url": "https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-doctoral-landscape-award-uela-studentships",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ucl_uela_catalogue": {
+      "title": "UCL EPSRC Doctoral Landscape Award (UELA) studentships | UCL EPSRC Doctoral Training - UCL – University College London",
+      "url": "https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-doctoral-landscape-award-uela-studentships",
+      "checked_on": "2026-10-09"
+    },
+    "funding_epfl_apply": {
+      "title": "EDAR How to apply? ‒ EDAR ‐ EPFL",
+      "url": "https://www.epfl.ch/education/phd/edar-architecture-and-sciences-of-the-city/edar-how-to-apply/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_epfl_salary": {
+      "title": "Doctoral Students’ Salary ‒ Doctorate ‐ EPFL",
+      "url": "https://www.epfl.ch/education/phd/doctoral-studies-structure/doctoral-students-salary/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_epfl_admission": {
+      "title": "Doctorate’s admission ‒ Architecture ‐ EPFL",
+      "url": "https://www.epfl.ch/schools/enac/education/architecture/admission-en/doctorate/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_eth_employment": {
+      "title": "Employment at ETH Zurich | ETH Zurich",
+      "url": "https://ethz.ch/en/doctorate/Anstellung.html",
+      "checked_on": "2026-10-09"
+    },
+    "funding_eth_vacancies": {
+      "title": "Vacancies – Department of Architecture | ETH Zurich",
+      "url": "https://arch.ethz.ch/en/departement/governance_support/offene-stellen.html",
+      "checked_on": "2026-10-09"
+    },
+    "funding_kth_architecture": {
+      "title": "Applying for Doctoral Studies | KTH",
+      "url": "https://www.kth.se/en/abe/inst/arch/forskning/doctoral-studies/applying-for-doctoral-studies-1.1077003",
+      "checked_on": "2026-10-09"
+    },
+    "funding_kth_vacancies": {
+      "title": "KTH | Vacancies at KTH",
+      "url": "https://www.kth.se/lediga-jobb/?jobNotFound=&l=en",
+      "checked_on": "2026-10-09"
+    },
+    "funding_delft_vacancies": {
+      "title": "Jobs at TU Delft",
+      "url": "https://careers.tudelft.nl/go/All-jobs/9021002/?q=&sortColumn=sort_title&sortDirection=desc&title=PhD",
+      "checked_on": "2026-10-09"
+    },
+    "funding_eka_intake": {
+      "title": "Admissions 2026/27 - Estonian Academy of Arts",
+      "url": "https://www.artun.ee/en/admissions/doctoral/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_kaist_timeline": {
+      "title": "(23)KAIST admissions",
+      "url": "https://admission.kaist.ac.kr/intl-graduate/Admission/YearlyTimelines",
+      "checked_on": "2026-10-09"
+    },
+    "funding_kaist_awards": {
+      "title": "(26)KAIST admissions",
+      "url": "https://admission.kaist.ac.kr/intl-graduate/FinancialSupport/Scholarship/KAISTScholarship/",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ncku_intake": {
+      "title": "〖Open for Application〗NCKU 2027 Spring Admission for International Students",
+      "url": "https://oia.ncku.edu.tw/p/406-1032-301821%2Cr3414.php?Lang=en",
+      "checked_on": "2026-10-09"
+    },
+    "funding_ncku_awards": {
+      "title": "Scholarships (Degree programs)",
+      "url": "https://oia.ncku.edu.tw/p/404-1032-229890.php?Lang=en",
+      "checked_on": "2026-10-09"
+    },
+    "funding_science_tokyo_igpa": {
+      "title": "| Science Tokyo Prospective students",
+      "url": "https://admissions.isct.ac.jp/en/013/graduate/programs/igp/igp-a",
+      "checked_on": "2026-10-09"
+    },
+    "funding_science_tokyo_guide": {
+      "title": "Science Tokyo IGP(A), Fall 2027 official application guide",
+      "url": "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?contentsDataId=&contentsId=&fileName=Application+Guide_IGP(A)_2027+fall&key=dc9a7fe9209122106ae26a29bf81b85e.pdf&pageId=6209&prevId=&type=1",
+      "checked_on": "2026-10-09"
+    },
+    "funding_penn_restrictions": {
+      "title": "Fall 2027 PhD Admissions Update",
+      "url": "https://www.design.upenn.edu/graduate-admissions/fall-2027-admissions-update",
+      "checked_on": "2026-10-09"
+    },
+    "funding_cifre_scheme": {
+      "title": "Le dispositif Cifre | Association Nationale Recherche Technologie",
+      "url": "https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844?trk=public_post_comment-text",
+      "checked_on": "2026-10-09"
+    },
+    "funding_cifre_preparation": {
+      "title": "Préparer sa Cifre | Association Nationale Recherche Technologie",
+      "url": "https://www.anrt.asso.fr/fr/preparer-sa-cifre-7845",
+      "checked_on": "2026-10-09"
+    },
+    "funding_tongji_2026": {
+      "title": "Tongji University Doctorate Student Enrollment Guide for International Students in 2026-Tongji University International Students Office",
+      "url": "https://study.tongji.edu.cn/en/info/1079/1236.htm",
+      "checked_on": "2026-10-09"
+    },
+    "continuation_genenv": {
+      "title": "Join GenEnv - Openings",
+      "url": "https://genenv.ai/openings",
+      "checked_on": "2026-10-09"
+    },
+    "continuation_xun_1": {
+      "title": "Xun Liu | SALA",
+      "url": "https://sala.ubc.ca/people/xun-liu/",
+      "checked_on": "2026-10-09"
+    },
+    "continuation_vernelle_2": {
+      "title": "Open Positions - Situated Computation + Design Lab",
+      "url": "https://sit-code.com/open-positions/",
+      "checked_on": "2026-10-09"
+    },
+    "continuation_cmu_admissions": {
+      "title": "Graduate Admissions | CMU School of Architecture",
+      "url": "https://www.architecture.cmu.edu/admissions/graduate-admissions",
+      "checked_on": "2026-10-09"
+    },
+    "continuation_tixier_1": {
+      "title": "TIXIER Nicolas | Laboratoire AAU",
+      "url": "https://aau.archi.fr/equipe/tixier-nicolas/",
+      "checked_on": "2026-10-09"
+    }
+  },
+  "routes": [
+    {
+      "id": "ubc_genenv_2027",
+      "institution": "University of British Columbia",
+      "programme": "PhD in Design, Technology and Society / GenEnv",
+      "geography": "Canada",
+      "contact_ids": [
+        "xun_liu",
+        "annalisa_meyboom"
+      ],
+      "route_type": "Architecture-school doctorate with funded lab recruitment",
+      "status": "Open funded lab recruitment",
+      "priority": "Act first",
+      "intake": "September 2027",
+      "deadline": "2027-01-01",
+      "deadline_time": "",
+      "deadline_timezone": "Not specified in retrieved programme deadline",
+      "deadline_stage": "Official programme application",
+      "secondary_deadlines": "Lab reviews start late October 2026; transcripts 2027-01-15; references 2027-01-31.",
+      "recruitment_evidence": "GenEnv recruits for September 2027. Programme applications opened 1 October 2026.",
+      "funding_evidence": "Four-year lab support; UBC's full-time Vancouver PhD minimum is CAD 40,000/year for the first four years from September 2026. Award payments go to tuition/fees before the balance is paid.",
+      "eligibility_caveats": "A relevant master's and research potential are required. Lab openness to HCI and interaction design does not override formal degree or English requirements.",
+      "fit_assessment": "Highest actionable bridge from interaction design into an architecture-school doctorate: spatial handoff and bounded human authority, not a generic agent tool.",
+      "next_action": "Prepare a concise fit statement, CV, work samples and repo link for user review; clarify degree eligibility and the fee/stipend split.",
+      "unknowns": "Lab selection, admission, capacity and net funding unconfirmed.",
+      "source_ids": [
+        "continuation_genenv",
+        "continuation_xun_1",
+        "funding_ubc_programme",
+        "funding_ubc_deadlines",
+        "funding_ubc_policy"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "cmu_sitcode_2027",
+      "institution": "Carnegie Mellon University",
+      "programme": "Architecture / Computational Design, Situated Computation + Design Lab",
+      "geography": "United States",
+      "contact_ids": [
+        "vernelle_noel",
+        "daniel_cardoso"
+      ],
+      "route_type": "Funded architecture-lab PhD recruitment",
+      "status": "Open funded lab recruitment",
+      "priority": "Act first",
+      "intake": "Fall 2027",
+      "deadline": "2026-12-01",
+      "deadline_time": "",
+      "deadline_timezone": "Not specified in lab notice",
+      "deadline_stage": "Lab expression-of-interest form",
+      "secondary_deadlines": "Lab says formal school application January 2027; school page gives January 10 without an intake year. Confirm exact cycle/date.",
+      "recruitment_evidence": "Noel's lab advertises a Fall 2027 PhD call with an earlier lab expression-of-interest deadline.",
+      "funding_evidence": "Call specifies tuition, health insurance and a twelve-month stipend, without a published amount.",
+      "eligibility_caveats": "Design, HCI and humanities backgrounds are welcomed; formal PhD degree equivalence still needs confirmation.",
+      "fit_assessment": "Strong critical and ethnographic computation route for studying delegated authority as embodied civic practice.",
+      "next_action": "Prepare the one-page proposal, CV and portfolio for review before the lab deadline; confirm the formal programme and offer terms.",
+      "unknowns": "Selection, capacity, exact school deadline, stipend amount and full funding duration unconfirmed. No form submitted.",
+      "source_ids": [
+        "continuation_vernelle_2",
+        "continuation_cmu_admissions"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "sutd_asd_jan2027",
+      "institution": "Singapore University of Technology and Design",
+      "programme": "PhD in Architecture and Sustainable Design",
+      "geography": "Singapore",
+      "contact_ids": [
+        "joyce"
+      ],
+      "route_type": "Programme admission with competitive fellowships",
+      "status": "Open programme with competitive funding",
+      "priority": "Time-sensitive eligibility check",
+      "intake": "January 2027",
+      "deadline": "2026-10-30",
+      "deadline_time": "",
+      "deadline_timezone": "Not specified on retrieved intake page",
+      "deadline_stage": "Programme application",
+      "secondary_deadlines": "",
+      "recruitment_evidence": "Official PhD listing gives 30 October 2026 for the January 2027 intake and includes ASD.",
+      "funding_evidence": "All-nationality fellowships cover applicable tuition for up to four years. International monthly stipends effective January 2026: SGD 3,100 PhD Fellowship; SGD 4,300 President's Graduate Fellowship.",
+      "eligibility_caveats": "Awards are competitive. Confirm ASD admission requirements, supervisory fit and whether this start is feasible.",
+      "fit_assessment": "Potential Asia-Pacific computational/spatial anchor, conditional on topic and timing fit.",
+      "next_action": "Ask Joyce and the programme office about MA equivalence, capacity and fellowship requirements before deciding between January and a later cycle.",
+      "unknowns": "No supervisor acceptance or funded place confirmed.",
+      "source_ids": [
+        "funding_sutd_intake",
+        "funding_sutd_asd",
+        "funding_sutd_awards"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "hku_hkpfs_2027",
+      "institution": "University of Hong Kong / Research Grants Council",
+      "programme": "Architecture PhD with Hong Kong PhD Fellowship Scheme",
+      "geography": "Hong Kong",
+      "contact_ids": [
+        "kristof_crolla"
+      ],
+      "route_type": "Two-stage competitive fellowship and university admission",
+      "status": "Open programme with competitive funding",
+      "priority": "Prepare if degree route fits",
+      "intake": "2027/28",
+      "deadline": "2026-12-01",
+      "deadline_time": "12:00",
+      "deadline_timezone": "Asia/Hong_Kong",
+      "deadline_stage": "RGC initial fellowship application",
+      "secondary_deadlines": "HKU full application by 2026-12-01 23:59 Asia/Hong_Kong, after obtaining the RGC reference number.",
+      "recruitment_evidence": "RGC and HKU publish a 2027/28 exercise with distinct initial and full submissions.",
+      "funding_evidence": "HKU lists HKD 28,700/month and HKD 14,400/year research/conference travel for up to three years, plus Presidential scholarship support for HKPFS holders.",
+      "eligibility_caveats": "Internationally open scheme; architecture-specific degree and English requirements remain separate. Confirm support for the full doctorate.",
+      "fit_assessment": "Crolla is a computational-design connection; the civic-access strand needs complementary spatial/social methods.",
+      "next_action": "Verify degree admissibility and supervisor interest, then prepare the two submissions separately.",
+      "unknowns": "Admission, nomination, fellowship, fees and later-year funding unconfirmed.",
+      "source_ids": [
+        "funding_hkpfs_guidance",
+        "funding_hku_awards",
+        "funding_hku_period",
+        "funding_hku_architecture"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "cambridge_architecture_2027",
+      "institution": "University of Cambridge",
+      "programme": "PhD in Architecture",
+      "geography": "United Kingdom",
+      "contact_ids": [
+        "ronita_bardhan"
+      ],
+      "route_type": "Programme admission with competitive funding consideration",
+      "status": "Open programme with competitive funding",
+      "priority": "Prepare if degree route fits",
+      "intake": "October 2027",
+      "deadline": "2026-12-08",
+      "deadline_time": "",
+      "deadline_timezone": "United Kingdom; confirm portal cut-off",
+      "deadline_stage": "First admissions / funding deadline",
+      "secondary_deadlines": "Final course deadline 2027-05-13 if places remain, not the funding deadline.",
+      "recruitment_evidence": "Architecture publishes the first deadline and recommends discussing fit with an established University Teaching Officer.",
+      "funding_evidence": "Timely applicants are considered for funding. The course finance page advertises no specific course award; selection is separate.",
+      "eligibility_caveats": "Confirm that the MA is a relevant research degree and that grades meet equivalence requirements. Later admission is not a funding plan.",
+      "fit_assessment": "Bardhan may anchor equitable environmental conditions, complemented by interaction-design methods.",
+      "next_action": "Prepare a short architectural proposal, writing sample and CV; identify applicable awards before the first deadline.",
+      "unknowns": "Supervisor availability, admission eligibility and funding unconfirmed.",
+      "source_ids": [
+        "funding_cambridge_apply",
+        "funding_cambridge_finance",
+        "funding_cambridge_general"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "ucl_res_2027_watch",
+      "institution": "UCL",
+      "programme": "Research Excellence Scholarship with an eligible MPhil/PhD",
+      "geography": "United Kingdom",
+      "contact_ids": [
+        "ava_fatah",
+        "sailer"
+      ],
+      "route_type": "University-wide scholarship watchlist",
+      "status": "Upcoming call; previous round closed",
+      "priority": "Monitor",
+      "intake": "2027/28, next call unconfirmed",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No verified 2027/28 deadline",
+      "secondary_deadlines": "Do not reuse 9 January 2026 from the prior round.",
+      "recruitment_evidence": "Official page says 2026/27 is closed and offers notification when 2027/28 opens.",
+      "funding_evidence": "Prior round was fully funded and internationally open; its terms do not establish a new-round award.",
+      "eligibility_caveats": "Departmental admission and scholarship rules both apply. Do not transfer home-only eligibility from other Bartlett schemes.",
+      "fit_assessment": "Retains a funding pathway for strong UCL spatial-interaction fit without treating a historical award as open.",
+      "next_action": "Prepare supervisor-fit material and recheck the official scholarship and department pages when the call appears.",
+      "unknowns": "Opening, terms, dates, departmental nomination and capacity unconfirmed.",
+      "source_ids": [
+        "funding_ucl_res"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "ucl_uela_2027_catalogue",
+      "institution": "UCL",
+      "programme": "EPSRC Doctoral Landscape Award (UELA)",
+      "geography": "United Kingdom",
+      "contact_ids": [
+        "ava_fatah"
+      ],
+      "route_type": "Advertised-project studentship competition",
+      "status": "Published deadline; matching project catalogue pending",
+      "priority": "Check catalogue after publication",
+      "intake": "Expected October 2027",
+      "deadline": "2027-01-08",
+      "deadline_time": "12:00",
+      "deadline_timezone": "Europe/London",
+      "deadline_stage": "UELA application deadline",
+      "secondary_deadlines": "Catalogue expected 2026-10-26. UCL encourages applications/references by 2026-12-16 because of closure-period support limits.",
+      "recruitment_evidence": "Official 2027/28 catalogue is forthcoming; no matching architecture project verified yet.",
+      "funding_evidence": "Four-year studentships cover fees, including the international/home difference for international awardees. International recruitment is capped.",
+      "eligibility_caveats": "Requires a matching eligible advertised project and departmental entry qualifications; not unrestricted support for any Bartlett proposal.",
+      "fit_assessment": "Conditional built-environment or embodied-interaction opportunity only.",
+      "next_action": "Check the published catalogue for an actual project match before preparing an application.",
+      "unknowns": "Applicable project, supervisor, award and capacity unconfirmed.",
+      "source_ids": [
+        "funding_ucl_uela",
+        "funding_ucl_uela_catalogue"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "epfl_edar_route",
+      "institution": "EPFL",
+      "programme": "Architecture and Sciences of the City (EDAR)",
+      "geography": "Switzerland",
+      "contact_ids": [
+        "dieter_dietz"
+      ],
+      "route_type": "Programme admission plus funded chair/employment match",
+      "status": "Recurring programme deadlines; funded match unverified",
+      "priority": "Focused funding conversation",
+      "intake": "Programme cycles",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "Recurring January 15 / April 30 / September 15",
+      "secondary_deadlines": "January 15, 2027 is the next calendar occurrence, not a verified dated funded call.",
+      "recruitment_evidence": "EDAR publishes three annual admission dates; final acceptance depends on topic, director and funding.",
+      "funding_evidence": "Doctoral-assistant starting salary is CHF 55,225 gross/year from January 2026. Admission can occur without a funded position.",
+      "eligibility_caveats": "Salary applies to an actual appointment, not automatically to all admitted candidates.",
+      "fit_assessment": "ALICE may support collective spatial making and embodied presence if the chair and financial route fit.",
+      "next_action": "Ask Dietz/EDAR about funded recruitment or acceptable external funding before relying on a programme date.",
+      "unknowns": "Matching lab position, degree equivalence, funded appointment and capacity unconfirmed.",
+      "source_ids": [
+        "funding_epfl_apply",
+        "funding_epfl_salary",
+        "funding_epfl_admission"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "eth_darch_route",
+      "institution": "ETH Zurich",
+      "programme": "D-ARCH doctorate / chair employment",
+      "geography": "Switzerland",
+      "contact_ids": [
+        "benjamin_dillenburger"
+      ],
+      "route_type": "Professor selection and normally linked employment",
+      "status": "Programme available; matching funded vacancy unverified",
+      "priority": "Focused funding conversation",
+      "intake": "Position-specific",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No matching dated vacancy established",
+      "secondary_deadlines": "",
+      "recruitment_evidence": "D-ARCH directs candidates to the ETH job portal.",
+      "funding_evidence": "ETH says a doctorate is predominantly linked to employment; registration and departmental approval precede an employment contract.",
+      "eligibility_caveats": "Recognized degree, academic admission and funded appointment are distinct requirements.",
+      "fit_assessment": "Digital Building Technologies may support physical prototyping; fabrication alone is not the social-governance anchor.",
+      "next_action": "Check chair recruitment and ask how the specific spatial experiment would be funded and evaluated.",
+      "unknowns": "No matching open job, salary offer or capacity verified.",
+      "source_ids": [
+        "funding_eth_employment",
+        "funding_eth_vacancies"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "kth_architecture_route",
+      "institution": "KTH Royal Institute of Technology",
+      "programme": "Doctorate in Architecture",
+      "geography": "Sweden",
+      "contact_ids": [
+        "daniel_koch"
+      ],
+      "route_type": "Doctoral employment or approved external-employer funding",
+      "status": "Matching architecture vacancy not found in retrieved listings",
+      "priority": "Focused funding conversation",
+      "intake": "Position-specific",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No matching open doctoral job established",
+      "secondary_deadlines": "",
+      "recruitment_evidence": "The retrieved current board did not establish a fitting architecture PhD; its architecture/built-environment role was an associate professorship.",
+      "funding_evidence": "Architecture doctoral study requires at least four years of guaranteed funding, through the institution or an external employer.",
+      "eligibility_caveats": "An architecture master's or relevant equivalent is assessed for the position. General interest does not create a funded vacancy.",
+      "fit_assessment": "Koch remains a strong spatial/social-use anchor, with funding feasibility currently unresolved.",
+      "next_action": "Discuss fit and qualifications, then identify a real vacancy or approved employer-financed route.",
+      "unknowns": "Finding is limited to retrieved listings on the check date, not all possible future or unpublished opportunities.",
+      "source_ids": [
+        "funding_kth_architecture",
+        "funding_kth_vacancies"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "delft_architecture_route",
+      "institution": "TU Delft",
+      "programme": "Architecture and the Built Environment / funded PhD vacancies",
+      "geography": "Netherlands",
+      "contact_ids": [
+        "henriette_bier",
+        "havik"
+      ],
+      "route_type": "Project-specific doctoral recruitment",
+      "status": "Current faculty vacancies; delegated-presence match unverified",
+      "priority": "Focused funding conversation",
+      "intake": "Position-specific",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No matching delegated-presence vacancy established",
+      "secondary_deadlines": "",
+      "recruitment_evidence": "Current listings include natural building skins and indoor thermal variation; neither is a verified match for this proposal.",
+      "funding_evidence": "Funding must be established through a specific position or approved arrangement; no funded Bier/Havik position for this topic established.",
+      "eligibility_caveats": "Requirements and dates are vacancy-specific. Do not transfer another project's terms to Robotic Building.",
+      "fit_assessment": "Bier and qualitative architectural methods could form a useful team, with employment still unresolved.",
+      "next_action": "Ask what current or forthcoming funded project could actually accommodate this question.",
+      "unknowns": "Topic fit, degree equivalence, faculty capacity and funded offer unconfirmed.",
+      "source_ids": [
+        "funding_delft_vacancies"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "eka_2027_watch",
+      "institution": "Estonian Academy of Arts",
+      "programme": "Architecture and Urban Planning doctorate",
+      "geography": "Estonia",
+      "contact_ids": [
+        "soolep",
+        "krivy"
+      ],
+      "route_type": "Annual doctoral admission with position-specific support",
+      "status": "Upcoming 2027/28 call; 2026/27 closed",
+      "priority": "Monitor and prepare local fit",
+      "intake": "2027/28",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "Next intake opens at beginning of 2027",
+      "secondary_deadlines": "Prior 31 March 2026 date and position counts are historical, not new-round terms.",
+      "recruitment_evidence": "EKA explicitly says 2026/27 is closed and 2027/28 opens at the beginning of 2027.",
+      "funding_evidence": "Prior call distinguished junior-researcher employment, scholarship and unsupported places. New-round funded places are not verified.",
+      "eligibility_caveats": "Relevant master's-level access and degree recognition need next-call confirmation.",
+      "fit_assessment": "Potential local architectural and governance anchor if a particular supported place fits.",
+      "next_action": "Prepare the spatial contribution and supervisory discussion; recheck the new call before relying on funding.",
+      "unknowns": "Dates, position numbers, terms, capacity and funding unconfirmed.",
+      "source_ids": [
+        "funding_eka_intake"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "kaist_fall2027_watch",
+      "institution": "KAIST",
+      "programme": "International graduate PhD route / Civil and Environmental Engineering fit",
+      "geography": "South Korea",
+      "contact_ids": [
+        "seung_hyun_cha"
+      ],
+      "route_type": "International admission with scholarship consideration",
+      "status": "Fall 2027 dates TBA; Spring 2027 closed",
+      "priority": "Monitor",
+      "intake": "Fall 2027",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No published Fall date in retrieved timeline",
+      "secondary_deadlines": "Spring 2027 period ended 2026-09-01.",
+      "recruitment_evidence": "Official timeline lists Fall 2027 as TBA.",
+      "funding_evidence": "International scholarship route lists tuition, health insurance and research/college-dependent stipend support. Selecting the route means consideration, not an offer.",
+      "eligibility_caveats": "Confirm the FACT-related department and degree pathway; relevant architectural work may be housed in engineering.",
+      "fit_assessment": "Cha is relevant for technology, built space and behaviour while retaining a clear architectural contribution.",
+      "next_action": "Check lab fit, department entry requirements and newly published Fall dates and complete award terms.",
+      "unknowns": "Lab recruitment, capacity, dates and exact support unconfirmed.",
+      "source_ids": [
+        "funding_kaist_timeline",
+        "funding_kaist_awards"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "ncku_next_intake_watch",
+      "institution": "National Cheng Kung University",
+      "programme": "Architecture doctorate / international admission",
+      "geography": "Taiwan",
+      "contact_ids": [
+        "jeng",
+        "pei_hsien_hsu"
+      ],
+      "route_type": "Departmental admission and scholarship selection",
+      "status": "Spring 2027 closed; next call not verified",
+      "priority": "Monitor",
+      "intake": "Next eligible intake",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No next call verified",
+      "secondary_deadlines": "Spring deadline was 2026-09-15 23:59 Taiwan time.",
+      "recruitment_evidence": "Page's open label is stale relative to its explicit Spring 2027 date.",
+      "funding_evidence": "Elite Doctoral Scholarship for new entrants from 2026/27 lists tuition waiver and up to TWD 25,000/month through departmental nomination. Other scholarships and renewal rules differ.",
+      "eligibility_caveats": "Confirm architecture participation, degree/English requirements, nomination and duration. Do not reuse old advisor supplements.",
+      "fit_assessment": "Jeng/Hsu connect computational interaction and architecture; the next funded route needs a fresh call.",
+      "next_action": "Ask OIA/department for the next architecture intake and relevant scholarship process; keep dates blank until published.",
+      "unknowns": "Next date, eligibility, language, nomination, renewal and duration unconfirmed.",
+      "source_ids": [
+        "funding_ncku_intake",
+        "funding_ncku_awards"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "science_tokyo_igpa_2027",
+      "institution": "Institute of Science Tokyo",
+      "programme": "IGP(A), architecture-related integrated master's and doctorate",
+      "geography": "Japan",
+      "contact_ids": [
+        "tsukamoto"
+      ],
+      "route_type": "Integrated M+D admission with possible MEXT nomination",
+      "status": "Open integrated route; not direct doctoral entry",
+      "priority": "Conditional route, extra master's stage",
+      "intake": "Fall 2027",
+      "deadline": "2026-11-15",
+      "deadline_time": "",
+      "deadline_timezone": "Asia/Tokyo",
+      "deadline_stage": "Supervisor consent-letter submission",
+      "secondary_deadlines": "Full application 2026-11-22 23:59 Asia/Tokyo.",
+      "recruitment_evidence": "Official Fall 2027 IGP(A) includes architecture-related programmes and prior supervisor consent.",
+      "funding_evidence": "Eligible outstanding applicants may receive limited MEXT nomination; not guaranteed.",
+      "eligibility_caveats": "Guide requires master's enrolment even for applicants already holding a master's. Scholarship conditions are additional; not direct PhD entry.",
+      "fit_assessment": "Potential Japan connection, but the extra master's could be a material mismatch. General programme listing does not establish Tsukamoto participation.",
+      "next_action": "Check participating supervisor, lab process and degree route before preparing application materials.",
+      "unknowns": "Supervisor participation, scholarship eligibility, selection and capacity unconfirmed.",
+      "source_ids": [
+        "funding_science_tokyo_igpa",
+        "funding_science_tokyo_guide"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "penn_architecture_2027_restricted",
+      "institution": "University of Pennsylvania, Weitzman School",
+      "programme": "PhD in Architecture",
+      "geography": "United States",
+      "contact_ids": [
+        "robert_stuart_smith"
+      ],
+      "route_type": "Restricted projects or verified external sponsorship",
+      "status": "2027 funded architecture intake restricted",
+      "priority": "Do not prioritize without genuine fit",
+      "intake": "Fall 2027",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "Check dates only if project and funding fit",
+      "secondary_deadlines": "",
+      "recruitment_evidence": "Funded architecture intake is limited to housing/epidemiology and responsive material/structure projects. The latter NSF-linked route is limited to US citizens, nationals and permanent residents.",
+      "funding_evidence": "External support must cover four years of tuition, fees, health insurance and minimum stipend. Penn does not accept self-pay PhD students.",
+      "eligibility_caveats": "Current delegated-presence proposal is not an evident project match.",
+      "fit_assessment": "Retain Smith for research discussion, not as evidence of funded admission for an independent topic.",
+      "next_action": "Pursue only with a genuinely matching listed project or qualifying third-party sponsorship.",
+      "unknowns": "No fitting project, sponsorship, eligibility, capacity or admission established.",
+      "source_ids": [
+        "funding_penn_restrictions"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "france_cifre_route",
+      "institution": "ANRT / employer and French doctoral laboratory",
+      "programme": "CIFRE employer-sponsored doctorate",
+      "geography": "France",
+      "contact_ids": [
+        "nicolas_tixier",
+        "schneider_building_data"
+      ],
+      "route_type": "Rolling employer-laboratory funding mechanism",
+      "status": "Mechanism available; employer and project not agreed",
+      "priority": "Explore with willing employer and lab",
+      "intake": "Rolling project arrangement",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "Year-round review, no universal deadline",
+      "secondary_deadlines": "",
+      "recruitment_evidence": "ANRT publishes year-round review. Tixier's lab records a historical CIFRE doctorate, not a present vacancy.",
+      "funding_evidence": "ANRT's 2026 scheme sets hiring salary at least EUR 27,600 gross/year; its subsidy goes to the employer, not automatically to the student.",
+      "eligibility_caveats": "Needs a qualifying employer, laboratory, doctoral admission and approval. Nationality openness is not personal or project eligibility.",
+      "fit_assessment": "A possible structure for architecture plus a real building-access partner. Tixier/company pairing is an inference, not an existing partnership.",
+      "next_action": "Establish mutual interest and a suitable employer site, then verify ANRT eligibility and publication/IP terms.",
+      "unknowns": "No employer, lab commitment, qualifying contract or project approval. Schneider is a connector hypothesis, not a sponsor.",
+      "source_ids": [
+        "funding_cifre_scheme",
+        "funding_cifre_preparation",
+        "continuation_tixier_1"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    },
+    {
+      "id": "tongji_2027_watch",
+      "institution": "Tongji University",
+      "programme": "Architecture-related international doctorate and scholarship tracks",
+      "geography": "China",
+      "contact_ids": [
+        "philip_yuan"
+      ],
+      "route_type": "International admission and separate scholarship tracks",
+      "status": "Retrieved call is 2026; 2027 call not verified",
+      "priority": "Monitor",
+      "intake": "Next verified intake",
+      "deadline": "",
+      "deadline_time": "",
+      "deadline_timezone": "",
+      "deadline_stage": "No verified 2027 deadline",
+      "secondary_deadlines": "Retrieved 2026 scholarship periods ended December 2025 or March 2026 by track.",
+      "recruitment_evidence": "Official international doctoral guide retrieved is for 2026, not a verified 2027 call.",
+      "funding_evidence": "Guide describes government, municipal and university scholarships; next-round award terms and architectural participation need rechecking.",
+      "eligibility_caveats": "Qualifying master's, language, department, supervisor and track-specific conditions must be verified.",
+      "fit_assessment": "Yuan is a computational-architecture connection conditional on a human-access rather than fabrication-only contribution.",
+      "next_action": "Check the official next guide and architecture department's language and supervisory route when published.",
+      "unknowns": "2027 call, dates, scholarship, capacity and topic acceptance unconfirmed.",
+      "source_ids": [
+        "funding_tongji_2026"
+      ],
+      "checked_on": "2026-10-09",
+      "outreach_in_this_task": "None"
+    }
+  ]
+}
