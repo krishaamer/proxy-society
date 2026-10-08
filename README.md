@@ -12,6 +12,7 @@ This repository is the home for the entire Proxy Society project: the website, r
 | --- | --- |
 | Research and project index | [research/README.md](research/README.md) |
 | Architecture and PhD contact leads | [Contact map](research/phd-contact-map/README.md) · [CSV tracker](research/phd-contact-map/contacts.csv) · [Structured records](research/phd-contact-map/contacts.json) |
+| China, Taiwan, South Korea and Japan | [East Asia leads](research/phd-contact-map/east-asia.md) |
 | Prepared writing and versions | [writing/README.md](writing/README.md) |
 | First-contact wording | [Architecture research introduction](writing/outreach/architecture-research-introduction.md) |
 | Website | `app/` and `public/` |

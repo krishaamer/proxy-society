@@ -9,6 +9,7 @@
 ## Research and leads
 
 - Store research and contact maps under `research/`. The current architecture/PhD map is `research/phd-contact-map/`.
+- Include China, Taiwan, South Korea and Japan as explicit search geographies in architecture/PhD mapping, alongside the existing international coverage.
 - Record published affiliation, source URLs, date checked, the proposed contribution, supervision evidence and open questions.
 - Keep evidence separate from fit assessments. A title, a supervisor listing or an invitation to inquire does not establish capacity, funding or a commitment.
 - Do not assume prior relationships or prior outreach. Record actual communications and outcomes only when evidenced.

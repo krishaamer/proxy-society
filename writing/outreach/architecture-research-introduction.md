@@ -28,6 +28,12 @@ Choose a lead and identify the relevant work from its published sources. Add onl
 
 Begin with a small set: one local programme conversation, two international supervisor conversations and one practice conversation. HAQUE TAN is a joint practice approach to Usman Haque and Ling Tan. Stagger approaches within other departments and tailor each message to its recipient.
 
+## Regional tailoring
+
+The [East Asia map](../../research/phd-contact-map/east-asia.md) adds China, Taiwan, South Korea and Japan. Tailor the question to the relevant role: an architectural contribution, community/public-space critique, empirical methods or a prototype collaboration. Use the same focused pilot introduction where appropriate.
+
+Keep the intended degree route explicit: NYCU’s architecture doctoral route is through Civil Engineering Group G; KAIST Culture Technology, UTokyo Information Studies and Kyoto Informatics have different disciplinary homes. Confirm language and supervision requirements rather than assuming an English architecture PhD route. Tsukamoto Lab directs admissions questions through its published general process and does not provide individual email/phone admissions responses.
+
 ## Delivery record
 
 No recipient-specific message has been prepared or sent in this record. Record any later preparation, delivery and response with its date and supporting evidence.

@@ -1,10 +1,23 @@
 # Proxy Society — architecture and PhD contact map
 
-Initial research map, checked 8 October 2026 (Asia/Manila). 25 people across Estonia, Finland, the UK, the Netherlands, Denmark, Singapore, the US and Australia. Scope: international, with a European core.
+Initial research map, checked 8 October 2026 (Asia/Manila). 41 people across Estonia, Finland, the UK, the Netherlands, Denmark, Singapore, the US, Australia, China, Taiwan, South Korea and Japan. Scope: international, including a dedicated East Asia expansion.
 
 The strongest first conversations are Ava Fatah gen Schieck, Jüri Soolep, Kerstin Sailer, Maroš Krivý, Klaske Havik, Panu Lehtovuori, Ruth Conroy Dalton and Sam Conrad Joyce. For an early practice conversation, approach Usman Haque and Ling Tan together at HAQUE TAN.
 
 The map began from the Architecture of Presence proposal, Social Permeability Map and Maintaining Human Intent proposition. The current [Architecture of Delegated Presence brief](../../writing/proposals/architecture-of-delegated-presence.md) adds an equitable-access framing and a bounded civic-building threshold pilot, with comparisons against ordinary booking, fixed automation and human assistance. Priorities and possible contributions below are judgments about fit. Published supervision evidence is stated separately. Capacity, funding, willingness, admission eligibility and any formal appointment remain unconfirmed. Existing relationships and the applicant's enrolment status are unknown. No outreach was performed.
+
+## China, Taiwan, South Korea and Japan
+
+The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All 41 people are in the same CSV/JSON tracker; use its `geography` field to filter.
+
+| Geography | Added leads |
+| --- | --- |
+| China | Philip F. Yuan · Xu Weiguo · Zhang Li · Xu Tiantian |
+| Taiwan | Taysheng Jeng · Pei-Hsien Hsu · June-Hao Hou · Shu-Chang Kung |
+| South Korea | Seung Hyun Cha · Ji-Hyun Lee · Lisa Lim · Minsuk Cho |
+| Japan | Yoshiharu Tsukamoto · Yosuke Mano · Yasuaki Kakehi · Takayuki Kanda |
+
+The regional architecture starting points are Yuan, Jeng/Hsu, Cha and Tsukamoto. Kakehi and Kanda complement an architecture supervisor with embodied interaction and HRI methods. For Tsukamoto admissions enquiries, follow the lab’s general published process; its current notice says individual email/phone responses are unavailable.
 
 ## What the project needs
 
@@ -526,6 +539,6 @@ Architect and ALA partner. Helsinki, Finland. Suggested role: practitioner and c
 
 - `contacts.json` contains the complete structured records and source directory.
 - `contacts.csv` is a spreadsheet-friendly tracker with sources, contact routes, open points and space to record outreach.
-- This report is the readable interpretation of those records.
+- This report covers the original 25 leads; [the East Asia report](east-asia.md) adds the 16 leads in China, Taiwan, South Korea and Japan. Together they provide readable notes for all 41 records.
 
 After an authorised conversation, record the actual response, capacity, recommended role and next step. Recheck published roles and addresses before sending. A listed supervisor or open invitation to inquire is not a commitment to this project.
