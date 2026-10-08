@@ -1,0 +1,961 @@
+{
+  "sources": {
+    "eka_supervisors": {
+      "title": "EKA PhD supervisors",
+      "url": "https://www.artun.ee/en/curricula/architecture-and-urban-design/about/phd-studies/supervisors/"
+    },
+    "eka_staff": {
+      "title": "EKA architecture teaching staff",
+      "url": "https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/"
+    },
+    "soolep": {
+      "title": "Jüri Soolep — EKA",
+      "url": "https://www.artun.ee/en/people/juri-soolep-2/"
+    },
+    "krivy": {
+      "title": "Maroš Krivý — EKA",
+      "url": "https://www.artun.ee/en/people/maros-krivy-2/"
+    },
+    "pakk": {
+      "title": "PAKK research groups",
+      "url": "https://pakk.artun.ee/"
+    },
+    "ucl_supervisors": {
+      "title": "Bartlett teaching staff and doctoral supervisors",
+      "url": "https://www.ucl.ac.uk/bartlett/architecture/study/teaching-staff"
+    },
+    "ucl_lab": {
+      "title": "UCL Space Syntax Laboratory",
+      "url": "https://www.ucl.ac.uk/bartlett/architecture/research/space-syntax-laboratory"
+    },
+    "sailer": {
+      "title": "Kerstin Sailer — UCL profile",
+      "url": "https://profiles.ucl.ac.uk/10575-kerstin-sailer"
+    },
+    "psarra": {
+      "title": "Sophia Psarra research — UCL",
+      "url": "https://www.ucl.ac.uk/brain-sciences/pals/research/ecological-brain-dtp/people"
+    },
+    "havik": {
+      "title": "Klaske Havik — TU Delft research profile",
+      "url": "https://research.tudelft.nl/en/persons/km-havik/"
+    },
+    "havik_contact": {
+      "title": "Poetics of Place (2025) — TU Delft, published contact",
+      "url": "https://pure.tudelft.nl/ws/portalfiles/portal/266800780/Poetics_of_Place.pdf"
+    },
+    "lehtovuori": {
+      "title": "TURNS doctoral school tutors — Tampere",
+      "url": "https://research.tuni.fi/turns/international-phd-school-2025/lecturers-and-tutors/"
+    },
+    "lehtovuori_supervision": {
+      "title": "Panu Lehtovuori — project supervisor",
+      "url": "https://projects.tuni.fi/temporaryuses/team/"
+    },
+    "dalton": {
+      "title": "Ruth Conroy Dalton — Northumbria",
+      "url": "https://www.northumbria.ac.uk/about-us/our-staff/d/ruth-dalton"
+    },
+    "aalto_fields": {
+      "title": "Aalto research fields and supervising professors, updated 26 August 2026",
+      "url": "https://www.aalto.fi/en/programmes/aalto-doctoral-programme-in-arts-design-and-architecture/research-fields"
+    },
+    "aalto_staff": {
+      "title": "Aalto architecture personnel",
+      "url": "https://www.aalto.fi/en/department-of-architecture/department-of-architecture-personnel"
+    },
+    "ahlava": {
+      "title": "Antti Ahlava — Aalto research profile",
+      "url": "https://research.aalto.fi/en/persons/antti-ahlava/"
+    },
+    "fricker": {
+      "title": "Pia Fricker — Aalto research profile",
+      "url": "https://research.aalto.fi/en/persons/prof-dr-pia-fricker/"
+    },
+    "reuter": {
+      "title": "Jenni Reuter — Aalto research profile",
+      "url": "https://research.aalto.fi/en/persons/jenni-reuter/"
+    },
+    "joyce": {
+      "title": "Sam Conrad Joyce — SUTD",
+      "url": "https://www.sutd.edu.sg/profile/sam-conrad-joyce/"
+    },
+    "joyce_contact": {
+      "title": "Meta Design Lab — published contact",
+      "url": "https://metadesignlab.com/people.html"
+    },
+    "sevtsuk": {
+      "title": "Andres Sevtsuk — MIT Architecture",
+      "url": "https://architecture.mit.edu/people/andres-sevtsuk"
+    },
+    "carpo_contact": {
+      "title": "UCL doctoral contacts — Mario Carpo",
+      "url": "https://www.ucl.ac.uk/study/doctoral-school/key-contacts/faculty-and-department-contacts"
+    },
+    "carpo_paper": {
+      "title": "Mario Carpo, AI Tectonics (2025)",
+      "url": "https://link.springer.com/article/10.1007/s44223-024-00081-0"
+    },
+    "thomsen": {
+      "title": "Mette Ramsgaard Thomsen — Royal Danish Academy",
+      "url": "https://royaldanishacademy.com/en/profile/4380"
+    },
+    "snooks": {
+      "title": "Roland Snooks — RMIT",
+      "url": "https://www.rmit.edu.au/profiles/s/roland-snooks"
+    },
+    "picon": {
+      "title": "Antoine Picon — Harvard GSD",
+      "url": "https://www.gsd.harvard.edu/person/antoine-picon/"
+    },
+    "elara": {
+      "title": "Mohan Rajesh Elara — SUTD",
+      "url": "https://www.sutd.edu.sg/profile/mohan-rajesh-elara"
+    },
+    "elara_contact": {
+      "title": "SUTD research projects — published contact",
+      "url": "https://www.sutd.edu.sg/admissions/graduate/masters/faculty-and-research/research-projects/"
+    },
+    "haquetan": {
+      "title": "HAQUE TAN — founders and research practice",
+      "url": "https://haquetan.com/about/"
+    },
+    "assembly": {
+      "title": "HAQUE TAN — More-than-Human Assembly",
+      "url": "https://haquetan.com/more-than-human-assembly/"
+    },
+    "haquetan_contact": {
+      "title": "HAQUE TAN — contact routes",
+      "url": "https://haquetan.com/contact/"
+    },
+    "johar": {
+      "title": "Dark Matter Labs — institutional infrastructure research",
+      "url": "https://provocations.darkmatterlabs.org/about"
+    },
+    "dml_team": {
+      "title": "Dark Matter Labs — team",
+      "url": "https://darkmatterlabs.org/team"
+    },
+    "dml_contact": {
+      "title": "Dark Matter Labs — contact",
+      "url": "https://darkmatterlabs.org/contact"
+    },
+    "ala_contact": {
+      "title": "ALA — contacts",
+      "url": "https://ala.fi/who-we-are/contacts/"
+    },
+    "oodi": {
+      "title": "ALA — Helsinki Central Library Oodi",
+      "url": "https://ala.fi/work/helsinki-central-library/"
+    },
+    "eka_admissions": {
+      "title": "EKA doctoral admissions 2026/27",
+      "url": "https://www.artun.ee/en/admissions/doctoral/"
+    },
+    "ucl_programme": {
+      "title": "UCL Architectural Space and Computation MPhil/PhD, 2027/28",
+      "url": "https://www.ucl.ac.uk/study/prospective-students/graduate/courses/architectural-space-and-computation-mphilphd"
+    },
+    "aalto_admissions": {
+      "title": "Aalto doctoral programme — applicants",
+      "url": "https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-arts-design-and-architecture"
+    },
+    "tampere_programme": {
+      "title": "Tampere Doctoral Programme in Built Environment",
+      "url": "https://www.tuni.fi/en/tau/doctoral-programmes/doctoral-programme-built-environment"
+    },
+    "reuter_advisor": {
+      "title": "Aalto thesis record naming Jenni Reuter as advisor",
+      "url": "https://research.aalto.fi/en/publications/tv%C3%A5-kvalitetsbegrepp-som-ler-och-l%C3%A5nghalm-arkitektonisk-kvalitet-/"
+    }
+  },
+  "contacts": [
+    {
+      "id": "ava_fatah",
+      "name": "Ava Fatah gen Schieck",
+      "institution": "UCL, Bartlett School of Architecture",
+      "role": "Professor of Media Architecture and Urban Digital Interaction; Architectural Space & Computation programme director",
+      "location": "London, United Kingdom",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Delegated presence",
+        "Spatial prototypes"
+      ],
+      "email": "ava.fatah@ucl.ac.uk",
+      "contact_url": "https://www.ucl.ac.uk/bartlett/architecture/research/space-syntax-laboratory",
+      "evidence": "UCL identifies her media-architecture role and lists her among doctoral supervisors.",
+      "possible_contribution": "Strong bridge between interaction design and spatial experience; could turn mixed human/proxy participation into a programme of architectural experiments.",
+      "first_ask": "Would a project on delegated presence, reception thresholds and rooms of deliberation fit your doctoral research, and what empirical study would make it compelling?",
+      "supervision_evidence": "Listed among current Architectural Space & Computation and Architecture & Digital Theory supervisors.",
+      "unknowns": "Capacity, funding, entry qualifications and willingness to advise externally are unconfirmed.",
+      "source_ids": [
+        "ucl_lab",
+        "ucl_supervisors",
+        "ucl_programme"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "soolep",
+      "name": "Jüri Soolep",
+      "institution": "Estonian Academy of Arts (EKA)",
+      "role": "Head of architecture and urban planning doctoral programme",
+      "location": "Tallinn, Estonia",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Delegated presence",
+        "Architectural theory"
+      ],
+      "email": "jyri.soolep@artun.ee",
+      "contact_url": "https://www.artun.ee/en/people/juri-soolep-2/",
+      "evidence": "EKA publishes his programme role and research on architectural representation in the digital age.",
+      "possible_contribution": "Local doctoral anchor for defining delegated presence as an architectural condition and finding an appropriate supervisory team.",
+      "first_ask": "Could The Architecture of Presence fit EKA architecture doctoral research, and which supervisor combination and degree background would it require?",
+      "supervision_evidence": "Named on EKA's architecture PhD supervisor page.",
+      "unknowns": "Capacity, next admission round, funding and eligibility for the applicant's actual qualifications need confirmation.",
+      "source_ids": [
+        "soolep",
+        "eka_supervisors",
+        "eka_admissions"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "sailer",
+      "name": "Kerstin Sailer",
+      "institution": "UCL, Bartlett School of Architecture",
+      "role": "Professor in the Sociology of Architecture",
+      "location": "London, United Kingdom",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Chosen presence",
+        "Social permeability",
+        "Field methods"
+      ],
+      "email": "k.sailer@ucl.ac.uk",
+      "contact_url": "https://profiles.ucl.ac.uk/10575-kerstin-sailer",
+      "evidence": "Studies work practices and building layouts using space syntax, social network analysis and evidence-based design; profile includes research-degree supervision.",
+      "possible_contribution": "Could make the social permeability map defensible by connecting spatial configuration, interactions and organisational routines.",
+      "first_ask": "How would you design a study of which layouts support encounters when routine transactions are increasingly delegated?",
+      "supervision_evidence": "UCL profile advertises research-degree supervision; listed on the Bartlett doctoral supervisor roster.",
+      "unknowns": "Capacity, funded opportunities and balance between quantitative and qualitative methods are unconfirmed.",
+      "source_ids": [
+        "sailer",
+        "ucl_supervisors"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "krivy",
+      "name": "Maroš Krivý",
+      "institution": "Estonian Academy of Arts (EKA)",
+      "role": "Professor and Director of Urban Studies",
+      "location": "Tallinn, Estonia",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Human intent",
+        "Civic governance",
+        "Architectural theory"
+      ],
+      "email": "maros.krivy@artun.ee",
+      "contact_url": "https://www.artun.ee/en/people/maros-krivy-2/",
+      "evidence": "Researches design, power and knowledge, including cybernetic urbanism.",
+      "possible_contribution": "Could challenge whose intent gets encoded into buildings and cities, and prevent the governance strand from treating social conflict as a technical optimisation problem.",
+      "first_ask": "Would you critique the societal-harness proposition, particularly how buildings represent contested collective intentions?",
+      "supervision_evidence": "Named on EKA's architecture PhD supervisor page.",
+      "unknowns": "Supervision capacity and interest in the project's prospective rather than historical orientation are unconfirmed.",
+      "source_ids": [
+        "krivy",
+        "eka_supervisors"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "havik",
+      "name": "Klaske Havik",
+      "institution": "TU Delft, Architecture and the Built Environment",
+      "role": "Professor of Methods of Analysis and Imagination",
+      "location": "Delft, Netherlands",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Chosen presence",
+        "Field methods",
+        "Architectural theory"
+      ],
+      "email": "k.m.havik@tudelft.nl",
+      "contact_url": "https://research.tudelft.nl/en/persons/km-havik/",
+      "evidence": "Develops architectural research on experience and imagination of place through literary and situated methods; contact is published in a 2025 TU Delft book.",
+      "possible_contribution": "Could help fieldwork, film and spatial narratives explain the value of physical presence, and support a qualitative architectural method.",
+      "first_ask": "Could observation, film and spatial narratives form a rigorous design-research method for chosen presence, and would this fit your research group?",
+      "supervision_evidence": "Professor and architectural researcher; this pass did not verify individual recruitment availability or an applicable supervisor roster.",
+      "unknowns": "Current PhD capacity, funded route, and use of film as a research output need discussion.",
+      "source_ids": [
+        "havik",
+        "havik_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "lehtovuori",
+      "name": "Panu Lehtovuori",
+      "institution": "Tampere University, School of Architecture",
+      "role": "Professor of Planning Theory",
+      "location": "Tampere, Finland",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Social permeability",
+        "Chosen presence",
+        "Field methods"
+      ],
+      "email": "panu.lehtovuori@tuni.fi",
+      "contact_url": "https://research.tuni.fi/turns/international-phd-school-2025/lecturers-and-tutors/",
+      "evidence": "Researches public urban space and new urban design approaches; previously Professor of Urban Studies at EKA.",
+      "possible_contribution": "Could anchor the encounter-mapping strand in public-space theory and connect a Tallinn field study with Nordic urban research.",
+      "first_ask": "Could the social permeability map become an architecture doctoral project, and how would you distinguish encounter quality from footfall?",
+      "supervision_evidence": "Official Tampere project page identifies him as supervisor; EKA also names him on its PhD supervisor list.",
+      "unknowns": "Capacity, degree route, external-advisor arrangement and funding are unconfirmed.",
+      "source_ids": [
+        "lehtovuori",
+        "lehtovuori_supervision",
+        "eka_supervisors",
+        "tampere_programme"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "dalton",
+      "name": "Ruth Conroy Dalton",
+      "institution": "Northumbria University",
+      "role": "Professor of Architecture",
+      "location": "Newcastle upon Tyne, United Kingdom",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Social permeability",
+        "Field methods",
+        "Chosen presence"
+      ],
+      "email": "ruth.dalton@northumbria.ac.uk",
+      "contact_url": "https://www.northumbria.ac.uk/about-us/our-staff/d/ruth-dalton",
+      "evidence": "Research covers spatial cognition, navigation, space syntax and architectural experience.",
+      "possible_contribution": "Could validate the relationship between built form, encounter opportunities, wayfinding and humane experience, including the proposed serendipity routes.",
+      "first_ask": "Would encounter mapping and comparisons of physical/proxy participation fit your research area, and which outcome measures would you recommend?",
+      "supervision_evidence": "Official profile explicitly welcomes applications from potential PhD students in her research area.",
+      "unknowns": "An invitation to inquire does not establish a funded vacancy or acceptance of this topic.",
+      "source_ids": [
+        "dalton"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "joyce",
+      "name": "Sam Conrad Joyce",
+      "institution": "Singapore University of Technology and Design (SUTD)",
+      "role": "Associate Professor; Architecture and Sustainable Design PhD coordinator; Spatial AI Studio leader",
+      "location": "Singapore",
+      "category": "Potential doctoral supervisor",
+      "priority": "First conversations",
+      "strands": [
+        "Delegated presence",
+        "Human intent",
+        "Spatial prototypes"
+      ],
+      "email": "sam_joyce@sutd.edu.sg",
+      "contact_url": "https://www.sutd.edu.sg/profile/sam-conrad-joyce/",
+      "evidence": "Leads Meta Design Lab on cities, computation and human-machine collaboration; published lab contact was surfaced in search.",
+      "possible_contribution": "Strong Asia-Pacific route for designing and evaluating spaces, interfaces and permissions for human and autonomous-agent cooperation.",
+      "first_ask": "Could mixed human/proxy thresholds be framed as spatial AI research within ASD, and is there a suitable supervisory and funding route?",
+      "supervision_evidence": "Official biography identifies him as ASD PhD coordinator.",
+      "unknowns": "Capacity and funding are unconfirmed; lab contact was search-readable but the direct lab-page fetch failed.",
+      "source_ids": [
+        "joyce",
+        "joyce_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "ahlava",
+      "name": "Antti Ahlava",
+      "institution": "Aalto University, Department of Architecture",
+      "role": "Professor of Emergent Design Methodologies",
+      "location": "Espoo/Helsinki, Finland",
+      "category": "Potential doctoral supervisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Chosen presence",
+        "Spatial prototypes",
+        "Civic governance"
+      ],
+      "email": "antti.ahlava@aalto.fi",
+      "contact_url": "https://research.aalto.fi/en/persons/antti-ahlava/",
+      "evidence": "Research includes urban and building design, Human Cities, and collaborative visualisation of future public space.",
+      "possible_contribution": "Could anchor a design-led dissertation in architectural methods and test how chosen presence reorganises public rooms and urban environments.",
+      "first_ask": "Would chosen presence under AI delegation fit emergent design methodologies, and what design experiment would establish an architectural contribution?",
+      "supervision_evidence": "Listed as a supervising professor for Aalto's Architecture, Landscape and Urbanism doctoral field.",
+      "unknowns": "Capacity, funding and expectations for architectural design work are unconfirmed.",
+      "source_ids": [
+        "ahlava",
+        "aalto_fields",
+        "aalto_staff"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "fricker",
+      "name": "Pia Fricker",
+      "institution": "Aalto University, Department of Architecture",
+      "role": "Professor; Vice Head of Department; Augmented Computational Design",
+      "location": "Espoo/Helsinki, Finland",
+      "category": "Potential doctoral supervisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Delegated presence",
+        "Spatial prototypes",
+        "Human intent"
+      ],
+      "email": "pia.fricker@aalto.fi",
+      "contact_url": "https://research.aalto.fi/en/persons/prof-dr-pia-fricker/",
+      "evidence": "Research includes data-driven urban landscapes and immersive collaborative mixed-reality environments.",
+      "possible_contribution": "Could help prototype participation across physical and digital environments while keeping the work grounded in architecture and urbanism.",
+      "first_ask": "Could hybrid rooms of deliberation and place-specific permissions fit your computational and immersive-design research?",
+      "supervision_evidence": "Listed as a supervising professor in Aalto's architecture doctoral field; research portal also records PhD supervision.",
+      "unknowns": "Capacity, funding and the fit beyond landscape-focused research are unconfirmed.",
+      "source_ids": [
+        "fricker",
+        "aalto_fields",
+        "aalto_staff"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "puusepp",
+      "name": "Renee Puusepp",
+      "institution": "Estonian Academy of Arts (EKA)",
+      "role": "Senior Researcher; Head of Research",
+      "location": "Tallinn, Estonia",
+      "category": "Potential doctoral supervisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Spatial prototypes",
+        "Human intent",
+        "Computational methods"
+      ],
+      "email": "renee.puusepp@artun.ee",
+      "contact_url": "https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/",
+      "evidence": "EKA's supervisor biography records a doctorate on agent-based architectural modelling and work with programmable design tools.",
+      "possible_contribution": "Local technical partner for simulations and prototypes; could help distinguish modelling occupants from agents that actually act on a person's behalf.",
+      "first_ask": "Could you help scope a prototype of permission-aware thresholds or circulation, and assess whether that could form part of an EKA dissertation?",
+      "supervision_evidence": "Named on EKA's architecture PhD supervisor page.",
+      "unknowns": "Current work emphasises construction systems; interest in inhabited space and delegated agency needs confirmation.",
+      "source_ids": [
+        "eka_supervisors",
+        "eka_staff",
+        "pakk"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "psarra",
+      "name": "Sophia Psarra",
+      "institution": "UCL, Bartlett School of Architecture",
+      "role": "Professor of Architecture and Spatial Design",
+      "location": "London, United Kingdom",
+      "category": "Potential doctoral supervisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Social permeability",
+        "Rooms of deliberation",
+        "Field methods"
+      ],
+      "email": "",
+      "contact_url": "https://profiles.ucl.ac.uk/31395-sophia-psarra/about",
+      "evidence": "UCL describes spatial modelling combined with empirical user activity to study social, cultural and organisational performance.",
+      "possible_contribution": "Could connect assembly, spatial visibility and patterns of participation to architectural layout; particularly relevant to civic and deliberative rooms.",
+      "first_ask": "How could a room's configuration make represented participation legible while supporting embodied deliberation?",
+      "supervision_evidence": "Listed among current Architectural Space & Computation doctoral supervisors.",
+      "unknowns": "Capacity is unconfirmed; current profile was reachable but text extraction was empty, so use the institutional profile/department route rather than a guessed email.",
+      "source_ids": [
+        "psarra",
+        "ucl_supervisors"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "sevtsuk",
+      "name": "Andres Sevtsuk",
+      "institution": "MIT, DUSP and Department of Architecture",
+      "role": "Charles and Ann Spaulding Associate Professor of Urban Science and Planning; City Form Lab lead",
+      "location": "Cambridge, Massachusetts, United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Social permeability",
+        "Urban mapping",
+        "Field methods"
+      ],
+      "email": "asevtsuk@mit.edu",
+      "contact_url": "https://architecture.mit.edu/people/andres-sevtsuk",
+      "evidence": "Research concerns walking, urban ground floors and amenity patterns; developed Urban Network Analysis tools.",
+      "possible_contribution": "Could make encounter-route mapping spatially rigorous and help separate opportunities to meet from actual meaningful encounters.",
+      "first_ask": "What would distinguish a social-encounter network from an accessibility or pedestrian-flow model, and could your lab advise on a pilot?",
+      "supervision_evidence": "EKA lists him among architecture PhD supervisors; the applicable MIT degree/supervision route was not checked.",
+      "unknowns": "MIT recruitment, cross-institutional appointment, capacity and funding are unconfirmed.",
+      "source_ids": [
+        "sevtsuk",
+        "eka_supervisors"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "carpo",
+      "name": "Mario Carpo",
+      "institution": "UCL, Bartlett School of Architecture",
+      "role": "Reyner Banham Professor of Architectural History and Theory; Architecture & Digital Theory programme director",
+      "location": "London, United Kingdom",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Architectural theory",
+        "Delegated presence"
+      ],
+      "email": "m.carpo@ucl.ac.uk",
+      "contact_url": "https://www.ucl.ac.uk/study/doctoral-school/key-contacts/faculty-and-department-contacts",
+      "evidence": "Works on architecture, media and computation; published AI Tectonics in 2025.",
+      "possible_contribution": "Could situate delegated action within architectural digital culture and sharpen the thesis's originality relative to AI-assisted design.",
+      "first_ask": "Does delegated presence identify a distinct architectural shift, and which historical/theoretical framework would best establish that claim?",
+      "supervision_evidence": "UCL lists him as Architecture & Digital Theory programme director and supervisor; EKA also lists him.",
+      "unknowns": "Capacity and fit with a predominantly empirical/design-based dissertation are unconfirmed.",
+      "source_ids": [
+        "ucl_supervisors",
+        "carpo_contact",
+        "carpo_paper",
+        "eka_supervisors"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "thomsen",
+      "name": "Mette Ramsgaard Thomsen",
+      "institution": "Royal Danish Academy",
+      "role": "Professor of Architecture and Digital Technologies; Head of CITA",
+      "location": "Copenhagen, Denmark",
+      "category": "Potential doctoral supervisor or research host",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Spatial prototypes",
+        "Computational methods"
+      ],
+      "email": "mette.thomsen@kglakademi.dk",
+      "contact_url": "https://royaldanishacademy.com/en/profile/4380",
+      "evidence": "Combines computation, material systems and architectural demonstrators in research.",
+      "possible_contribution": "Could advise on full-scale demonstrators and research through architectural experimentation if the project develops a substantial built prototype.",
+      "first_ask": "What would a credible architectural demonstrator for human/proxy thresholds look like, and could it fit a CITA research collaboration?",
+      "supervision_evidence": "Professor leading a research centre; individual doctoral recruitment and supervisor eligibility for this proposal were not verified.",
+      "unknowns": "Current emphasis is bio-based materials and ecological systems; delegated presence is an inferred methodological connection.",
+      "source_ids": [
+        "thomsen"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "snooks",
+      "name": "Roland Snooks",
+      "institution": "RMIT University",
+      "role": "Professor of Architecture; Architecture Tectonic Formation Lab director",
+      "location": "Melbourne, Australia",
+      "category": "Potential doctoral supervisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Computational methods",
+        "Spatial prototypes"
+      ],
+      "email": "roland.snooks@rmit.edu.au",
+      "contact_url": "https://www.rmit.edu.au/profiles/s/roland-snooks",
+      "evidence": "Researches algorithmic design and multi-agent formation; official profile shows current PhD projects.",
+      "possible_contribution": "Could support a computational or practice-research route if architectural prototyping becomes the main contribution.",
+      "first_ask": "Could a practice-research PhD investigate autonomous agency in inhabited space rather than only algorithmic form generation?",
+      "supervision_evidence": "Official RMIT profile explicitly lists openness to Masters Research or PhD supervision.",
+      "unknowns": "Form-generating multi-agent algorithms differ from delegated social agents; topical fit and funding remain unconfirmed.",
+      "source_ids": [
+        "snooks"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "picon",
+      "name": "Antoine Picon",
+      "institution": "Harvard Graduate School of Design",
+      "role": "Professor of the History of Architecture and Technology; Director of Doctoral Programs",
+      "location": "Cambridge, Massachusetts, United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Architectural theory",
+        "Human intent",
+        "Delegated presence"
+      ],
+      "email": "",
+      "contact_url": "https://www.gsd.harvard.edu/person/antoine-picon/",
+      "evidence": "Studies relations between architectural/urban space, technology and society; directs doctoral programmes.",
+      "possible_contribution": "Could challenge and contextualise the broader claim that proxy agency alters architectural presence and urban institutions.",
+      "first_ask": "How should a project on delegated presence be positioned within the history and theory of architectural technology, and which doctoral format would fit?",
+      "supervision_evidence": "Official Harvard profile identifies his doctoral leadership; EKA includes him on its supervisor page.",
+      "unknowns": "Harvard PhD versus DDes fit, capacity and funded admission are unconfirmed; use the profile's published contact link.",
+      "source_ids": [
+        "picon",
+        "eka_supervisors"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "elara",
+      "name": "Mohan Rajesh Elara",
+      "institution": "Singapore University of Technology and Design (SUTD)",
+      "role": "Professor, Engineering Product Development",
+      "location": "Singapore",
+      "category": "Technical advisor or possible co-supervisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Human intent",
+        "Robot circulation",
+        "Spatial prototypes"
+      ],
+      "email": "rajeshelara@sutd.edu.sg",
+      "contact_url": "https://www.sutd.edu.sg/profile/mohan-rajesh-elara",
+      "evidence": "Works on autonomous systems, robot ergonomics and reconfigurable robotics; co-founded Lionsbot.",
+      "possible_contribution": "Could test whether proposed proxy entrances, handoff zones and human-priority areas match real robot requirements and operational constraints.",
+      "first_ask": "Could your team review the operational assumptions behind a robot-compatible threshold and circulation prototype?",
+      "supervision_evidence": "Engineering professor with robotics research; architecture co-supervision or an external appointment was not verified.",
+      "unknowns": "This is a technical-advisor lead; any formal role needs agreement from the architecture programme.",
+      "source_ids": [
+        "elara",
+        "elara_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "reuter",
+      "name": "Jenni Reuter",
+      "institution": "Aalto University, Department of Architecture",
+      "role": "Professor of Architectural Principles and Theory; Head of Department",
+      "location": "Espoo/Helsinki, Finland",
+      "category": "Architectural advisor and institutional connector",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Chosen presence",
+        "Humane architecture",
+        "Field methods"
+      ],
+      "email": "jenni.reuter@aalto.fi",
+      "contact_url": "https://research.aalto.fi/en/persons/jenni-reuter/",
+      "evidence": "Her portfolio includes built architectural work and an Architecture and Film contribution; Aalto lists her departmental leadership.",
+      "possible_contribution": "Could protect the humane, sensory and socially attentive architectural ambition and introduce an appropriate Aalto supervisory arrangement.",
+      "first_ask": "Could you critique the chosen-presence proposition and advise who at Aalto should supervise a design/fieldwork dissertation in this area?",
+      "supervision_evidence": "Not named on the current architecture supervising-professor list; Aalto records an earlier thesis-advisor role.",
+      "unknowns": "Do not assume primary-supervisor eligibility; advisor appointment and capacity need confirmation.",
+      "source_ids": [
+        "reuter",
+        "aalto_staff",
+        "aalto_fields",
+        "reuter_advisor"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "pihlak",
+      "name": "Sille Pihlak",
+      "institution": "Estonian Academy of Arts (EKA)",
+      "role": "Dean of the Faculty of Architecture; PAKK research-group co-lead",
+      "location": "Tallinn, Estonia",
+      "category": "Architectural advisor and institutional connector",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Spatial prototypes",
+        "Computational methods"
+      ],
+      "email": "sille.pihlak@artun.ee",
+      "contact_url": "https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/",
+      "evidence": "EKA identifies her dean role; PAKK identifies her leadership in algorithmic timber architecture.",
+      "possible_contribution": "Could help position the project within EKA, find prototype facilities and connect architecture with computational research.",
+      "first_ask": "Which EKA research context could host experiments on rooms and thresholds for mixed human/proxy participation?",
+      "supervision_evidence": "Academic/research leadership is verified; an individual architecture PhD supervisor listing was not established in this pass.",
+      "unknowns": "Do not assume primary-supervisor eligibility or available resources; current work is mainly timber and computational construction.",
+      "source_ids": [
+        "eka_staff",
+        "pakk"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "tammis",
+      "name": "Toomas Tammis",
+      "institution": "Estonian Academy of Arts (EKA)",
+      "role": "Professor of Architectural Design",
+      "location": "Tallinn, Estonia",
+      "category": "Architectural advisor and design critic",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Chosen presence",
+        "Spatial prototypes",
+        "Architectural theory"
+      ],
+      "email": "toomas.tammis@artun.ee",
+      "contact_url": "https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/",
+      "evidence": "EKA lists him as Professor of Architectural Design and master's thesis supervisor.",
+      "possible_contribution": "Could critique whether the project produces an architectural contribution in plans, sections, rooms and thresholds.",
+      "first_ask": "What spatial design experiment would make the Architecture of Presence proposition architecturally convincing?",
+      "supervision_evidence": "Master's supervision is published; individual PhD-supervisor status was not established in this pass.",
+      "unknowns": "Formal doctoral role, capacity and project interest need confirmation.",
+      "source_ids": [
+        "eka_staff"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "haque",
+      "name": "Usman Haque",
+      "institution": "HAQUE TAN",
+      "role": "Architect-trained designer and studio co-founder",
+      "location": "London/Marseille/Singapore",
+      "category": "Practitioner and project advisor",
+      "priority": "Practice conversations",
+      "strands": [
+        "Delegated presence",
+        "Rooms of deliberation",
+        "Civic governance"
+      ],
+      "email": "",
+      "contact_url": "https://haquetan.com/contact/",
+      "evidence": "Works in interactive architecture and participatory urban systems; HAQUE TAN develops an assembly with AI-mediated representation.",
+      "possible_contribution": "Very close practice connection to rooms of deliberation and represented agency; could share lessons from real participatory prototypes.",
+      "first_ask": "Could you discuss what your assembly experiments reveal about space, representation, authority and the limits of AI proxies?",
+      "supervision_evidence": "No formal doctoral supervision role identified.",
+      "unknowns": "Project access, collaboration and advising availability are unconfirmed; approach the studio jointly with Ling Tan.",
+      "source_ids": [
+        "haquetan",
+        "assembly",
+        "haquetan_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "tan",
+      "name": "Ling Tan",
+      "institution": "HAQUE TAN",
+      "role": "Architect-trained designer, artist and creative technologist; studio co-founder",
+      "location": "London/Marseille/Singapore",
+      "category": "Practitioner and project advisor",
+      "priority": "Practice conversations",
+      "strands": [
+        "Civic governance",
+        "Field methods",
+        "Rooms of deliberation"
+      ],
+      "email": "",
+      "contact_url": "https://haquetan.com/contact/",
+      "evidence": "Her practice combines citizen participation, urban data and collective agency; studio works on AI-mediated assembly.",
+      "possible_contribution": "Could strengthen participatory evaluation: how people negotiate representation and control, and what an installation actually lets them do.",
+      "first_ask": "How would you involve participants in designing and evaluating a room where AI proxies represent absent interests?",
+      "supervision_evidence": "No formal doctoral supervision role identified.",
+      "unknowns": "Approach jointly with Usman Haque through one studio inquiry, avoiding duplicate requests.",
+      "source_ids": [
+        "haquetan",
+        "assembly",
+        "haquetan_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "johar",
+      "name": "Indy Johar",
+      "institution": "Dark Matter Labs",
+      "role": "Co-founder of Dark Matter Labs",
+      "location": "London, United Kingdom / international practice",
+      "category": "Practitioner and project advisor",
+      "priority": "Practice conversations",
+      "strands": [
+        "Human intent",
+        "Civic governance"
+      ],
+      "email": "",
+      "contact_url": "https://darkmatterlabs.org/contact",
+      "evidence": "Dark Matter Labs researches and prototypes institutional infrastructure; its team and publication pages identify Johar.",
+      "possible_contribution": "Could help turn governance of autonomous action into institutional and spatial design questions, and challenge how mandates persist over time.",
+      "first_ask": "Could the societal-harness idea become a testable institutional/spatial prototype, and where do questions of rights and collective control belong?",
+      "supervision_evidence": "No formal doctoral supervision role identified.",
+      "unknowns": "Capacity and collaboration are unconfirmed; the verified current route is the organisation's general contact.",
+      "source_ids": [
+        "johar",
+        "dml_team",
+        "dml_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    },
+    {
+      "id": "nousjoki",
+      "name": "Antti Nousjoki",
+      "institution": "ALA Architects",
+      "role": "Architect and ALA partner",
+      "location": "Helsinki, Finland",
+      "category": "Practitioner and case-study advisor",
+      "priority": "Practice conversations",
+      "strands": [
+        "Chosen presence",
+        "Humane architecture",
+        "Social permeability"
+      ],
+      "email": "antti.nousjoki@ala.fi",
+      "contact_url": "https://ala.fi/who-we-are/contacts/",
+      "evidence": "ALA credits him among the partners on Helsinki Central Library Oodi and publishes his office address.",
+      "possible_contribution": "Could provide a concrete civic-space case for why people choose to linger, gather and encounter one another when services can also be accessed remotely.",
+      "first_ask": "Could you discuss which design decisions at Oodi support chosen presence and suggest an appropriate route to a field study?",
+      "supervision_evidence": "No formal doctoral supervision role identified.",
+      "unknowns": "Architect advice does not confer permission to observe/film users or access operational data; site research requires the operator's agreement.",
+      "source_ids": [
+        "oodi",
+        "ala_contact"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": ""
+    }
+  ],
+  "metadata": {
+    "title": "Proxy Society — architecture and PhD contact map",
+    "checked_on": "2026-10-08",
+    "timezone": "Asia/Manila",
+    "scope": "Initial international map with a European core",
+    "status": "Research only; no outreach performed",
+    "fit_assessment": "Suggested contributions, priorities and first asks are research judgments, not endorsements or confirmed commitments.",
+    "availability": "Published roles, contact routes and supervision evidence were checked. No person has confirmed capacity, funding, topic acceptance or an appointment for this project.",
+    "relationship": "Prior relationships and prior outreach are unknown.",
+    "enrolment": "Current PhD enrolment status and intended institution are unconfirmed.",
+    "project_context": [
+      {
+        "path": "app/architecture/page.tsx",
+        "description": "Architecture of Delegated Presence: equitable absence/access and a bounded civic-building threshold pilot, with ordinary booking, fixed automation and human-assistance comparisons."
+      },
+      {
+        "path": "app/proposal/page.tsx",
+        "description": "The Architecture of Presence: delegated presence, chosen presence and humane architecture."
+      },
+      {
+        "path": "app/proposal/data.ts",
+        "description": "Research questions, typologies, fieldwork/film/prototype methods and expected dissertation outputs."
+      },
+      {
+        "path": "app/social-permeability/page.tsx",
+        "description": "Spatial conditions supporting stranger encounters and a proposed behavioural observation map."
+      },
+      {
+        "path": "app/human-intent/page.tsx",
+        "description": "Architecture as part of governance: permissions, circulation, handoffs and collective intent."
+      }
+    ],
+    "website_source_revision": "8b621c9effe179a9f91463c32e10b6183004d13b"
+  }
+}
