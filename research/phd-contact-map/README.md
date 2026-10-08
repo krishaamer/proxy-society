@@ -1,14 +1,24 @@
-# Proxy Society — architecture and PhD contact map
+# Proxy Society architecture and PhD contact map
 
-Initial research map, checked 8 October 2026 (Asia/Manila). 41 people across Estonia, Finland, the UK, the Netherlands, Denmark, Singapore, the US, Australia, China, Taiwan, South Korea and Japan. Scope: international, including a dedicated East Asia expansion.
+Expanded research map, checked 8 October 2026 (Asia/Manila). 102 academic, practice and industry leads across 30 search geographies, with 54 distinct university and architecture-school organizations represented. The [global expansion](global-expansion.md) adds 61 records to the retained 41-lead starting map.
 
 The strongest first conversations are Ava Fatah gen Schieck, Jüri Soolep, Kerstin Sailer, Maroš Krivý, Klaske Havik, Panu Lehtovuori, Ruth Conroy Dalton and Sam Conrad Joyce. For an early practice conversation, approach Usman Haque and Ling Tan together at HAQUE TAN.
 
 The map began from the Architecture of Presence proposal, Social Permeability Map and Maintaining Human Intent proposition. The current [Architecture of Delegated Presence brief](../../writing/proposals/architecture-of-delegated-presence.md) adds an equitable-access framing and a bounded civic-building threshold pilot, with comparisons against ordinary booking, fixed automation and human assistance. Priorities and possible contributions below are judgments about fit. Published supervision evidence is stated separately. Capacity, funding, willingness, admission eligibility and any formal appointment remain unconfirmed. Existing relationships and the applicant's enrolment status are unknown. No outreach was performed.
 
+## Global expansion
+
+The [global research report](global-expansion.md) adds 37 academic leads, 23 company/practice leads and one independent research institute across six regions. It includes a combined shortlist, nine programme screenings, proposed academic/practice connections, status corrections and detailed notes for every addition. The new records are in the shared [CSV](contacts.csv) and [JSON](contacts.json); filter by `source_batch`, `provider_type`, `geography` and `priority`.
+
+New academic starting points include Daniel Cardoso Llach (CMU), Henriette Bier (TU Delft), Daniel Koch López (KTH), AnnaLisa Meyboom (UBC), Lars Marcus (Chalmers), Sonit Bafna (Georgia Tech), Sean Ahlquist (Michigan), Ana Paula Baltazar (UFMG) and Ronita Bardhan (Cambridge). The expansion also covers Africa, Latin America, the Middle East, additional European countries, Hong Kong, India, Canada and New Zealand. The initial map's China, Taiwan, South Korea and Japan coverage remains explicit.
+
+For the civic-threshold pilot, the dormakaba/ANYbotics/LEGIC access pilot, NAVER 1784 and KONE/Schindler building interfaces are useful operational connections. Machine authentication is separate from proving a person's delegated mandate. All proposed contributions are assessments; individual capacity, admission and funding remain unconfirmed.
+
+The original 41 records are retained without a new full re-audit. The sections below preserve the earlier shortlist and notes; use the global report for the combined first-conversation sequence.
+
 ## China, Taiwan, South Korea and Japan
 
-The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All 41 people are in the same CSV/JSON tracker; use its `geography` field to filter.
+The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All 102 leads are in the same CSV/JSON tracker; use its `geography` field to filter.
 
 | Geography | Added leads |
 | --- | --- |
@@ -539,6 +549,6 @@ Architect and ALA partner. Helsinki, Finland. Suggested role: practitioner and c
 
 - `contacts.json` contains the complete structured records and source directory.
 - `contacts.csv` is a spreadsheet-friendly tracker with sources, contact routes, open points and space to record outreach.
-- This report covers the original 25 leads; [the East Asia report](east-asia.md) adds the 16 leads in China, Taiwan, South Korea and Japan. Together they provide readable notes for all 41 records.
+- This report covers the original 25 leads; [the East Asia report](east-asia.md) adds the 16 leads in China, Taiwan, South Korea and Japan. The [global report](global-expansion.md) adds readable notes for the other 61 leads. Together these reports cover all 102 records.
 
 After an authorised conversation, record the actual response, capacity, recommended role and next step. Recheck published roles and addresses before sending. A listed supervisor or open invitation to inquire is not a commitment to this project.

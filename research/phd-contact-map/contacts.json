@@ -323,6 +323,711 @@
     "kanda_lab": {
       "title": "Kyoto HRI Lab — doctoral/collaboration inquiry invitation and current research on authority",
       "url": "https://www.robot.soc.i.kyoto-u.ac.jp/"
+    },
+    "global_henriette_bier_1": {
+      "title": "Henriette H. Bier – Robotic Building (RB)",
+      "url": "https://roboticbuilding.tudelft.nl/about/who/henriettebier/",
+      "checked_on": "2026-10-08"
+    },
+    "global_henriette_bier_2": {
+      "title": "H.H. Bier - TU Delft Research Portal",
+      "url": "https://research.tudelft.nl/en/persons/hh-bier/",
+      "checked_on": "2026-10-08"
+    },
+    "global_benjamin_dillenburger_1": {
+      "title": "Benjamin Dillenburger - dbt",
+      "url": "https://dbt.arch.ethz.ch/team-member/professor-benjamin-dillenburger/",
+      "checked_on": "2026-10-08"
+    },
+    "global_benjamin_dillenburger_2": {
+      "title": "Course Catalogue - ETH Zurich",
+      "url": "https://www.vvz.ethz.ch/Vorlesungsverzeichnis/dozent.view?ansicht=2&dozide=10045082&lang=en&semkez=2027S",
+      "checked_on": "2026-10-08"
+    },
+    "global_benjamin_dillenburger_3": {
+      "title": "Doctoral Studies – Department of Architecture | ETH Zurich",
+      "url": "https://arch.ethz.ch/en/doktorat.leftnav.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_dieter_dietz_1": {
+      "title": "DIETER DIETZ ‒ ALICE ‐ EPFL",
+      "url": "https://www.epfl.ch/labs/alice/index-fr-html/about/team/dieter-dietz/",
+      "checked_on": "2026-10-08"
+    },
+    "global_dieter_dietz_2": {
+      "title": "Atelier de la conception de l'espace ‐ EPFL",
+      "url": "https://www.epfl.ch/labs/alice/",
+      "checked_on": "2026-10-08"
+    },
+    "global_dieter_dietz_3": {
+      "title": "EPFL - Dieter Dietz",
+      "url": "https://people.epfl.ch/dieter.dietz",
+      "checked_on": "2026-10-08"
+    },
+    "global_dieter_dietz_4": {
+      "title": "Architecture and sciences of the city ‐ EPFL",
+      "url": "https://www.epfl.ch/education/phd/edar-architecture-and-sciences-of-the-city/",
+      "checked_on": "2026-10-08"
+    },
+    "global_achim_menges_1": {
+      "title": "Prof. Achim Menges | Institute for Computational Design and Construction | University of Stuttgart",
+      "url": "https://www.icd.uni-stuttgart.de/team/Menges-00002/",
+      "checked_on": "2026-10-08"
+    },
+    "global_achim_menges_2": {
+      "title": "Prof. Achim Menges | Cluster of Excellence Integrative Computational Design and Construction for Transformative Architecture (IntCDC) | University of Stuttgart",
+      "url": "https://www.intcdc.uni-stuttgart.de/team/person/Menges-00004/",
+      "checked_on": "2026-10-08"
+    },
+    "global_kathrin_doerfler_1": {
+      "title": "Dörfler_Kathrin",
+      "url": "https://www.professoren.tum.de/en/doerfler-kathrin",
+      "checked_on": "2026-10-08"
+    },
+    "global_kathrin_doerfler_2": {
+      "title": "Professorship - Professorship of Digital Fabrication",
+      "url": "https://www.arc.ed.tum.de/en/df/professorship/",
+      "checked_on": "2026-10-08"
+    },
+    "global_kathrin_doerfler_3": {
+      "title": "Kathrin Dörfler - Technical University of Munich",
+      "url": "https://portal.fis.tum.de/en/persons/kathrin-d%C3%B6rfler/",
+      "checked_on": "2026-10-08"
+    },
+    "global_lars_marcus_1": {
+      "title": "www.chalmers.se",
+      "url": "https://www.chalmers.se/en/persons/larmarcu/",
+      "checked_on": "2026-10-08"
+    },
+    "global_lars_marcus_2": {
+      "title": "Spatial Morphology | Chalmers",
+      "url": "https://www.chalmers.se/en/departments/ace/research/spatial-morphology/",
+      "checked_on": "2026-10-08"
+    },
+    "global_lars_marcus_3": {
+      "title": "Architecture | Chalmers",
+      "url": "https://www.chalmers.se/en/research/we-train-new-researchers/graduate-schools/architecture/",
+      "checked_on": "2026-10-08"
+    },
+    "global_daniel_koch_1": {
+      "title": "KTH | Daniel Koch López",
+      "url": "https://www.kth.se/profile/dkoch?l=en",
+      "checked_on": "2026-10-08"
+    },
+    "global_daniel_koch_2": {
+      "title": "Employees KTH Architecture | KTH",
+      "url": "https://www.arch.kth.se/en/om-oss/kontakt/medarbetare/personal-kth-arkitektur-1.1058019",
+      "checked_on": "2026-10-08"
+    },
+    "global_daniel_koch_3": {
+      "title": "Applying for Doctoral Studies | KTH",
+      "url": "https://www.kth.se/en/abe/inst/arch/forskning/doctoral-studies/applying-for-doctoral-studies-1.1077003",
+      "checked_on": "2026-10-08"
+    },
+    "global_andrew_morrison_1": {
+      "title": "Andrew Morrison - dR",
+      "url": "https://designresearch.no/people/andrew-morrison",
+      "checked_on": "2026-10-08"
+    },
+    "global_ole_jensen_1": {
+      "title": "Ole B. Jensen - Aalborg University's Research Portal",
+      "url": "https://vbn.aau.dk/en/persons/obje/",
+      "checked_on": "2026-10-08"
+    },
+    "global_ole_jensen_2": {
+      "title": "Mobilities Design: Cities, Movements and Materialities - Aalborg University's Research Portal",
+      "url": "https://vbn.aau.dk/en/publications/mobilities-design-cities-movements-and-materialities/",
+      "checked_on": "2026-10-08"
+    },
+    "global_ole_jensen_3": {
+      "title": "Mobilitet, knudepunkter, luftfart, havne og mobilitetsdesign - Aalborg Universitet",
+      "url": "https://www.create.aau.dk/nyheder-og-presse/find-en-ekspert/mobilitet-knudepunkter-luftfart-havne-og-mobilitetsdesign",
+      "checked_on": "2026-10-08"
+    },
+    "global_alessandro_biamonti_1": {
+      "title": "Biamonti Alessandro | Department of design",
+      "url": "https://dipartimentodesign.polimi.it/en/staff/alessandro.biamonti",
+      "checked_on": "2026-10-08"
+    },
+    "global_alessandro_biamonti_2": {
+      "title": "POLIMI DESIGN",
+      "url": "https://re.public.polimi.it/retrieve/e0c31c0c-44f7-4599-e053-1705fe0aef77/Curatela.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_teresa_heitor_1": {
+      "title": "Biography – Teresa Frederica Tojal de Valsassina Heitor – Scholar",
+      "url": "https://scholar.tecnico.ulisboa.pt/authors/004d3f8ef17fec06081d9034d4778743efe53d0d8038e9abc75287ee09a0f47d/bio?lang=en",
+      "checked_on": "2026-10-08"
+    },
+    "global_teresa_heitor_2": {
+      "title": "People - CiTUA",
+      "url": "https://citua.tecnico.ulisboa.pt/people/",
+      "checked_on": "2026-10-08"
+    },
+    "global_teresa_heitor_3": {
+      "title": "Teresa Heitor (451F-CFEA-0ECA) | CIÊNCIAVITAE",
+      "url": "https://www.cienciavitae.pt/portal/pt/451F-CFEA-0ECA",
+      "checked_on": "2026-10-08"
+    },
+    "global_tatjana_schneider_1": {
+      "title": "Prof. Dr. Tatjana Schneider — GTAS",
+      "url": "https://www.gtas-braunschweig.de/introducing/detail/tatjana-schneider",
+      "checked_on": "2026-10-08"
+    },
+    "global_tatjana_schneider_2": {
+      "title": "Team",
+      "url": "https://www.tu-braunschweig.de/gtas/team",
+      "checked_on": "2026-10-08"
+    },
+    "global_tatjana_schneider_3": {
+      "title": "GTAS | Prof. Dr. Tatjana Schneider",
+      "url": "https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK3/abu/allgemein/Dokumente/Internationales/FK3-Research-and-Teaching-V23_2026-Druck.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_rachel_armstrong_1": {
+      "title": "Rachel Armstrong — Faculteit Architectuur",
+      "url": "https://arch.kuleuven.be/over-de-faculteit/team/members/armstrong-rachel",
+      "checked_on": "2026-10-08"
+    },
+    "global_rachel_armstrong_2": {
+      "title": "People & contact — Epistemic practices",
+      "url": "https://architectuur.kuleuven.be/epistemic-practices/people-contact",
+      "checked_on": "2026-10-08"
+    },
+    "global_rachel_armstrong_3": {
+      "title": "KU Leuven who's who - Rachel Armstrong",
+      "url": "https://www.kuleuven.be/wieiswie/%7Blocale%7D/person/00137805",
+      "checked_on": "2026-10-08"
+    },
+    "global_francesco_musco_1": {
+      "title": "UNIFIND - IUAV -MUSCO FRANCESCO",
+      "url": "https://iuav.unifind.cineca.it/resource/person/4811?language=en-US",
+      "checked_on": "2026-10-08"
+    },
+    "global_francesco_musco_2": {
+      "title": "UNESCO_Chair_Heritage_Urban_Regeneration",
+      "url": "https://www.iuav.it/sites/default/files/2026-06/UNESCO_Chair_Heritage_Urban_Regeneration.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_francesco_musco_3": {
+      "title": "Francesco Musco nuovo presidente di CORILA | Università Iuav di Venezia",
+      "url": "https://www.iuav.it/it/notizie/francesco-musco-nuovo-presidente-di-corila",
+      "checked_on": "2026-10-08"
+    },
+    "global_christian_kuehn_1": {
+      "title": "Gebäudelehre und Entwerfen | Christian Kühn - Gebäudelehre und Entwerfen",
+      "url": "https://www.gbl.tuwien.ac.at/personen/christian-kuehn/",
+      "checked_on": "2026-10-08"
+    },
+    "global_daniel_cardoso_1": {
+      "title": "Daniel Cardoso Llach | CMU School of Architecture",
+      "url": "https://www.architecture.cmu.edu/profiles/daniel-cardoso-llach",
+      "checked_on": "2026-10-08"
+    },
+    "global_daniel_cardoso_2": {
+      "title": "Daniel Cardoso Llach - Manufacturing Futures Institute",
+      "url": "https://engineering.cmu.edu/mfi/directory/bios/cardoso-llach-daniel.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_daniel_cardoso_3": {
+      "title": "Program Page - Computational Design MSCD PhD-CD | CMU School of Architecture",
+      "url": "https://www.architecture.cmu.edu/computational-design",
+      "checked_on": "2026-10-08"
+    },
+    "global_jenny_sabin_1": {
+      "title": "Jenny E. Sabin - Cornell AAP",
+      "url": "https://aap.cornell.edu/people/jenny-sabin/",
+      "checked_on": "2026-10-08"
+    },
+    "global_jenny_sabin_2": {
+      "title": "Fellows Profile | Cornell Atkinson",
+      "url": "https://fellows.atkinson.cornell.edu/view.php?NetID=jes557",
+      "checked_on": "2026-10-08"
+    },
+    "global_sean_ahlquist_1": {
+      "title": "Sean Ahlquist - Taubman College",
+      "url": "https://taubmancollege.umich.edu/faculty/directory/sean-ahlquist/",
+      "checked_on": "2026-10-08"
+    },
+    "global_robert_stuart_smith_1": {
+      "title": "Robert Stuart-Smith",
+      "url": "https://www.design.upenn.edu/people/robert-stuart-smith",
+      "checked_on": "2026-10-08"
+    },
+    "global_robert_stuart_smith_2": {
+      "title": "Autonomous Manufacturing Lab (AML-Penn)",
+      "url": "https://www.design.upenn.edu/work/autonomous-manufacturing-lab-aml-penn",
+      "checked_on": "2026-10-08"
+    },
+    "global_kyle_steinfeld_1": {
+      "title": "Kyle Steinfeld | Research UC Berkeley",
+      "url": "https://vcresearch.berkeley.edu/faculty/kyle-steinfeld",
+      "checked_on": "2026-10-08"
+    },
+    "global_sonit_bafna_1": {
+      "title": "Sonit Bafna | School of Architecture",
+      "url": "https://arch.gatech.edu/people/sonit-bafna",
+      "checked_on": "2026-10-08"
+    },
+    "global_sonit_bafna_2": {
+      "title": "Sonit Bafna | SimTigrate Design Center",
+      "url": "https://simtigrate.gatech.edu/people/sonit-bafna",
+      "checked_on": "2026-10-08"
+    },
+    "global_sonit_bafna_3": {
+      "title": "Ph.D. Admissions | School of Architecture",
+      "url": "https://arch.gatech.edu/phd-admissions",
+      "checked_on": "2026-10-08"
+    },
+    "global_jose_duarte_1": {
+      "title": "José Pinto Duarte - College of Arts & Architecture",
+      "url": "https://arts.psu.edu/directory/jose-pinto-duarte/",
+      "checked_on": "2026-10-08"
+    },
+    "global_jose_duarte_2": {
+      "title": "Stuckeman Center for Design Computing (SCDC) - College of Arts & Architecture",
+      "url": "https://arts.psu.edu/directory/stuckeman-center-for-design-computing-2",
+      "checked_on": "2026-10-08"
+    },
+    "global_carlo_ratti_1": {
+      "title": "Carlo Ratti – THE CENTER FOR COMPLEX ENGINEERING SYSTEMS at KACST and MIT",
+      "url": "https://cces.mit.edu/team/carlo-ratti/",
+      "checked_on": "2026-10-08"
+    },
+    "global_carlo_ratti_2": {
+      "title": "Designing the cities of tomorrow | MIT News | Massachusetts Institute of Technology",
+      "url": "https://news.mit.edu/2022/designing-cities-tomorrow-carlo-ratti-1025",
+      "checked_on": "2026-10-08"
+    },
+    "global_philip_beesley_1": {
+      "title": "Philip Beesley | Architecture | University of Waterloo",
+      "url": "https://uwaterloo.ca/architecture/contacts/philip-beesley",
+      "checked_on": "2026-10-08"
+    },
+    "global_philip_beesley_2": {
+      "title": "Philip Beesley, RCA FRAIC | Waterloo Institute Sustainable Energy | University of Waterloo",
+      "url": "https://uwaterloo.ca/waterloo-institute-sustainable-energy/profile/pbeesley",
+      "checked_on": "2026-10-08"
+    },
+    "global_annalisa_meyboom_1": {
+      "title": "AnnaLisa Meyboom | SALA",
+      "url": "https://sala.ubc.ca/people/annalisa-meyboom/",
+      "checked_on": "2026-10-08"
+    },
+    "global_annalisa_meyboom_2": {
+      "title": "Annalisa Meyboom | Graduate School at The University of British Columbia (UBC)",
+      "url": "https://www.grad.ubc.ca/researcher/15112-meyboom",
+      "checked_on": "2026-10-08"
+    },
+    "global_annalisa_meyboom_3": {
+      "title": "Doctor of Philosophy in Design, Technology and Society (PhD) | Graduate School at The University of British Columbia (UBC)",
+      "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-design-technology-society",
+      "checked_on": "2026-10-08"
+    },
+    "global_annalisa_meyboom_4": {
+      "title": "Design, Technology and Society | UBC Academic Calendar",
+      "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/design-technology-and-society",
+      "checked_on": "2026-10-08"
+    },
+    "global_luke_hespanhol_1": {
+      "title": "Urban Interfaces Lab - Design",
+      "url": "https://design.sydney.edu.au/research-2/urbaninterfaces/",
+      "checked_on": "2026-10-08"
+    },
+    "global_luke_hespanhol_2": {
+      "title": "Five minutes with Dr Luke Hespanhol - The University of Sydney",
+      "url": "https://www.sydney.edu.au/architecture/news-and-events/news/2018/11/13/five-minutes-with-dr-luke-hespanhol.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_luke_hespanhol_3": {
+      "title": "University launches new digital placemaking Footbridge Gallery - The University of Sydney",
+      "url": "https://www.sydney.edu.au/news-opinion/news/2019/02/26/university-launches-new-digital-placemaking-footbridge-gallery.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_hank_haeusler_1": {
+      "title": "Professor M. Hank Matthias Haeusler | UNSW Research",
+      "url": "https://research.unsw.edu.au/people/professor-m-hank-matthias-haeusler",
+      "checked_on": "2026-10-08"
+    },
+    "global_hank_haeusler_2": {
+      "title": "Professor M. Hank Haeusler",
+      "url": "https://www.unsw.edu.au/staff/matthias-haeusler",
+      "checked_on": "2026-10-08"
+    },
+    "global_hank_haeusler_3": {
+      "title": "Machine learning can help mend our relationship with waste for cleaner, smarter cities | Arts, Design & Architecture - UNSW Sydney",
+      "url": "https://www.unsw.edu.au/arts-design-architecture/our-research/research-impact/case-studies/machine-learning-can-help-mend-our-relationship-with-waste-for-cleaner-smarter-cities",
+      "checked_on": "2026-10-08"
+    },
+    "global_stanislav_roudavski_1": {
+      "title": "Rethinking the planet with eels as guides",
+      "url": "https://www.unimelb.edu.au/newsroom/news/2025/december/rethinking-the-planet-with-eels-as-guides",
+      "checked_on": "2026-10-08"
+    },
+    "global_stanislav_roudavski_2": {
+      "title": "Architecture staff | Melbourne School of Design",
+      "url": "https://msd.unimelb.edu.au/about-us/our-people/architecture",
+      "checked_on": "2026-10-08"
+    },
+    "global_stanislav_roudavski_3": {
+      "title": "Beyond human-centred approaches to urban design",
+      "url": "https://msd.unimelb.edu.au/news/research/future-practice/beyond-human-approaches-to-urban-design",
+      "checked_on": "2026-10-08"
+    },
+    "global_tane_moleta_1": {
+      "title": "Digital design and virtual and augmented space | Te Kura Waihanga / School of Architecture | Te Herenga Waka—Victoria University of Wellington",
+      "url": "https://www.wgtn.ac.nz/architecture/research/performance-and-technologies/digital-design-and-virtual-and-augmented-space",
+      "checked_on": "2026-10-08"
+    },
+    "global_tane_moleta_2": {
+      "title": "Jie Jin | Te Kura Waihanga / School of Architecture | Te Herenga Waka—Victoria University of Wellington",
+      "url": "https://www.wgtn.ac.nz/architecture/research/phd-research/current-phd-research/jie-jin",
+      "checked_on": "2026-10-08"
+    },
+    "global_tane_moleta_3": {
+      "title": "First year staff—Kaimahi | Te Wāhanga Waihanga-Hoahoa / Faculty of Architecture and Design Innovation | Te Herenga Waka—Victoria University of Wellington",
+      "url": "https://www.wgtn.ac.nz/wfadi/current-students/first-steps/first-year-staff",
+      "checked_on": "2026-10-08"
+    },
+    "global_kristof_crolla_1": {
+      "title": "Crolla, Kristof | HKU Faculty of Architecture",
+      "url": "https://www.arch.hku.hk/staff/arch/crolla-kristof/?dept=faculty-office-staff",
+      "checked_on": "2026-10-08"
+    },
+    "global_kristof_crolla_2": {
+      "title": "Design | Department | HKU Faculty of Architecture",
+      "url": "https://www.arch.hku.hk/department/design/",
+      "checked_on": "2026-10-08"
+    },
+    "global_patrick_janssen_1": {
+      "title": "Home | patrick-janssen",
+      "url": "https://patrick.janssen.name/",
+      "checked_on": "2026-10-08"
+    },
+    "global_patrick_janssen_2": {
+      "title": "Principle and Co-Principle Investigators – Centre for Sustainable Asian Cities",
+      "url": "https://cde.nus.edu.sg/csac/principle-and-co-principle-investigators/",
+      "checked_on": "2026-10-08"
+    },
+    "global_david_sperling_1": {
+      "title": "David Moreno Sperling – INSTITUTO DE ARQUITETURA E URBANISMO – IAU.USP",
+      "url": "https://www.iau.usp.br/institucional/david-moreno-sperling/",
+      "checked_on": "2026-10-08"
+    },
+    "global_david_sperling_2": {
+      "title": "EQUIPE - grupo de pesquisa nec.iau.usp",
+      "url": "https://www.iau.usp.br/pesquisa/grupos/nec/index.php/equipe/",
+      "checked_on": "2026-10-08"
+    },
+    "global_ana_paula_baltazar_1": {
+      "title": "www.arq.ufmg.br",
+      "url": "https://www.arq.ufmg.br/ea/pessoas/corpo-docente/ana-paula-baltazar-dos-santos/",
+      "checked_on": "2026-10-08"
+    },
+    "global_ana_paula_baltazar_2": {
+      "title": "Professor » Ana Paula Baltazar dos Santos » Escola de Arquitetura » ARQ-Departamento de Projetos » Somos UFMG",
+      "url": "https://somos.ufmg.br/professor/Ana-Paula-Baltazar-dos-Santos",
+      "checked_on": "2026-10-08"
+    },
+    "global_ana_paula_baltazar_3": {
+      "title": "Colegiado – NPGAU | PROGRAMA DE PÓS-GRADUAÇÃO EM ARQUITETURA E URBANISMO",
+      "url": "https://sites.arq.ufmg.br/posgraduacao/arquiteturaeurbanismo/colegiado/",
+      "checked_on": "2026-10-08"
+    },
+    "global_chrisna_du_plessis_1": {
+      "title": "Chrisna du Plessis | University Of Pretoria",
+      "url": "https://www.up.ac.za/architecture/staff-profiles/chrisna-du-plessis",
+      "checked_on": "2026-10-08"
+    },
+    "global_chrisna_du_plessis_2": {
+      "title": "DEPARTMENT OF",
+      "url": "https://www.up.ac.za/media/shared/760/ZP_Files/architecture.zp196341.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_kirsten_doermann_1": {
+      "title": "Staff - Wits University",
+      "url": "https://www.wits.ac.za/soap/staff/",
+      "checked_on": "2026-10-08"
+    },
+    "global_kirsten_doermann_2": {
+      "title": "People - Wits University",
+      "url": "https://www.wits.ac.za/yeovillestudio/people/",
+      "checked_on": "2026-10-08"
+    },
+    "global_kirsten_doermann_3": {
+      "title": "Groundwork: Exploring architecture-environment reciprocity in the Karoo",
+      "url": "https://wiredspace.wits.ac.za/items/f922387f-42af-4e5e-9a2d-298425d779fe/full",
+      "checked_on": "2026-10-08"
+    },
+    "global_sejal_patel_1": {
+      "title": "Prof. Sejal Patel Appointed Dean of Faculty of Management - CEPT University",
+      "url": "https://cept.ac.in/news/2026/prof-sejal-patel-appointed-dean-of-faculty-of-management",
+      "checked_on": "2026-10-08"
+    },
+    "global_sejal_patel_2": {
+      "title": "Sejal Patel - CEPT University",
+      "url": "https://cept.ac.in/people/dr-sejal-patel",
+      "checked_on": "2026-10-08"
+    },
+    "global_sejal_patel_3": {
+      "title": "PhD in Plan: PhD in Planning - CEPT University",
+      "url": "https://cept.ac.in/programs/phd-in-planning",
+      "checked_on": "2026-10-08"
+    },
+    "global_sejal_patel_4": {
+      "title": "PhD in Arch: Admission Information 2026 - CEPT University",
+      "url": "https://cept.ac.in/programs/phd-in-architecture/admissions",
+      "checked_on": "2026-10-08"
+    },
+    "global_ronita_bardhan_1": {
+      "title": "Ronita Bardhan | Sustainable Design",
+      "url": "https://www.sustainabledesign.arct.cam.ac.uk/people/ronita-bardhan",
+      "checked_on": "2026-10-08"
+    },
+    "global_ronita_bardhan_2": {
+      "title": "Professor Ronita Bardhan | Department of Computer Science and Technology",
+      "url": "https://www.cst.cam.ac.uk/people/rb867",
+      "checked_on": "2026-10-08"
+    },
+    "global_ronita_bardhan_3": {
+      "title": "PhD in Architecture | Postgraduate Study",
+      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/aharpdahc",
+      "checked_on": "2026-10-08"
+    },
+    "global_ronita_bardhan_4": {
+      "title": "PhD in Architecture | Postgraduate Study",
+      "url": "https://www.postgraduate.study.cam.ac.uk/courses/directory/aharpdahc/requirements",
+      "checked_on": "2026-10-08"
+    },
+    "global_martha_tsigkari_1": {
+      "title": "Cyclops",
+      "url": "https://cyclops.fosterandpartners.com/About",
+      "checked_on": "2026-10-08"
+    },
+    "global_martha_tsigkari_2": {
+      "title": "Applied R+D | Team",
+      "url": "https://dev.fosterandpartners.com/people/teams/applied-rplusd",
+      "checked_on": "2026-10-08"
+    },
+    "global_martha_tsigkari_3": {
+      "title": "Deep learning surrogate models for spatial and visual connectivity - Sherif Tarabishy, Stamatios Psarras, Marcin Kosicki, Martha Tsigkari, 2020",
+      "url": "https://journals.sagepub.com/doi/10.1177/1478077119894483",
+      "checked_on": "2026-10-08"
+    },
+    "global_shajay_bhooshan_1": {
+      "title": "Shajay Bhooshan Profile | ZHA Architects",
+      "url": "https://www.zha.com/people/shajay-bhooshan?disclaimer=true",
+      "checked_on": "2026-10-08"
+    },
+    "global_birgitte_svarre_1": {
+      "title": "Reorganising the city core into green, climate-adapted public space -",
+      "url": "https://www.gehlpeople.com/projects/reorganising-the-city-core-into-green-climate-adapted-public-space/",
+      "checked_on": "2026-10-08"
+    },
+    "global_birgitte_svarre_2": {
+      "title": "Global scan: practitioners and scholars working outside the US",
+      "url": "https://ihp.gehlpeople.com/wp-content/uploads/2022/08/Inclusive-Healthy-Places_Gehl-Institute.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_upali_nanda_1": {
+      "title": "Upali Nanda, PhD | HKS Architects",
+      "url": "https://www.hksinc.com/people/upali-nanda/",
+      "checked_on": "2026-10-08"
+    },
+    "global_upali_nanda_2": {
+      "title": "Upali Nanda - Taubman College",
+      "url": "https://taubmancollege.umich.edu/faculty/directory/upali-nanda/",
+      "checked_on": "2026-10-08"
+    },
+    "global_tim_stonor_1": {
+      "title": "Prof Tim Stonor - Space Syntax",
+      "url": "https://spacesyntax.com/staff/tim-stonor/",
+      "checked_on": "2026-10-08"
+    },
+    "global_tim_stonor_2": {
+      "title": "UK - Space Syntax",
+      "url": "https://spacesyntax.com/contact/europe/uk/",
+      "checked_on": "2026-10-08"
+    },
+    "global_anab_jain_1": {
+      "title": "Anab Jain — Co-Founder and Director @Superflux",
+      "url": "https://superflux.in/index.php/team/anab/",
+      "checked_on": "2026-10-08"
+    },
+    "global_anab_jain_2": {
+      "title": "About — Superflux",
+      "url": "https://superflux.in/index.php/about/",
+      "checked_on": "2026-10-08"
+    },
+    "global_kone_robot_api_1": {
+      "title": "KONE Service Robot API",
+      "url": "https://dev.kone.com/api-portal/service-robot-api",
+      "checked_on": "2026-10-08"
+    },
+    "global_kone_robot_api_2": {
+      "title": "Innovating together",
+      "url": "https://www.kone.com/global/en/innovation/innovating-together.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_naver_labs_1": {
+      "title": "Preparing for the Widespread Adoption of Service Robots | NAVER LABS",
+      "url": "https://www.naverlabs.com/en/blogDetail?seq=34339",
+      "checked_on": "2026-10-08"
+    },
+    "global_naver_labs_2": {
+      "title": "NAVER 1784: The Latest in Smart Buildings Powered by Robots | NAVER LABS",
+      "url": "https://naverlabs.com/en/blogDetail?seq=34071",
+      "checked_on": "2026-10-08"
+    },
+    "global_naver_labs_3": {
+      "title": "NAVER 1784: 1,000 Days of Innovation | NAVER LABS",
+      "url": "https://naverlabs.com/en/blogDetail?seq=34068",
+      "checked_on": "2026-10-08"
+    },
+    "global_takenaka_rd_1": {
+      "title": "Open Innovation - Takenaka R&D",
+      "url": "https://www.takenaka.co.jp/takenaka_e/rd/openinnovation/01/index.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_arup_research_1": {
+      "title": "Research - Arup",
+      "url": "https://www.arup.com/services/research/",
+      "checked_on": "2026-10-08"
+    },
+    "global_nbbj_research_1": {
+      "title": "Our Story",
+      "url": "https://www.nbbj.com/our-story",
+      "checked_on": "2026-10-08"
+    },
+    "global_nbbj_research_2": {
+      "title": "NBBJ: An Ideas-Driven Architecture and Design Firm",
+      "url": "https://www.nbbj.com/",
+      "checked_on": "2026-10-08"
+    },
+    "global_plp_labs_1": {
+      "title": "PLP Labs | Research and Strategy | PLP Architecture | Place, Behaviour, Lasting Value",
+      "url": "https://www.plparchitecture.com/labs",
+      "checked_on": "2026-10-08"
+    },
+    "global_plp_labs_2": {
+      "title": "Research Expertise | PLP Labs | Labs | PLP Architecture | Place, Behaviour, Lasting Value",
+      "url": "https://www.plparchitecture.com/labs/research",
+      "checked_on": "2026-10-08"
+    },
+    "global_wong_mun_summ_1": {
+      "title": "Mun Summ Wong - WOHA",
+      "url": "https://woha.net/member/wong-mun-summ/",
+      "checked_on": "2026-10-08"
+    },
+    "global_wong_mun_summ_2": {
+      "title": "WOHA - WOHA #",
+      "url": "https://woha.net/woha/",
+      "checked_on": "2026-10-08"
+    },
+    "global_wong_mun_summ_3": {
+      "title": "Design Philosophy - WOHA",
+      "url": "https://woha.net/design-philosophy/",
+      "checked_on": "2026-10-08"
+    },
+    "global_schindler_colab_1": {
+      "title": "Schindler CoLab | Schindler Group",
+      "url": "https://group.schindler.com/en/company/innovations/schindler-colab.html",
+      "checked_on": "2026-10-08"
+    },
+    "global_schindler_colab_2": {
+      "title": "Schindler Developer Portal - Home page",
+      "url": "https://developer.schindler.com/",
+      "checked_on": "2026-10-08"
+    },
+    "global_dormakaba_pilot_1": {
+      "title": "dormakaba, ANYbotics and LEGIC present a successful pilot of autonomous robots passing through access-controlled doors",
+      "url": "https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors",
+      "checked_on": "2026-10-08"
+    },
+    "global_dormakaba_pilot_2": {
+      "title": "dormakaba - Entrance Systems",
+      "url": "https://www.dormakaba.com/us-en/offering/products/entrance-systems",
+      "checked_on": "2026-10-08"
+    },
+    "global_snohetta_practice_1": {
+      "title": "Snøhetta",
+      "url": "https://old.snohetta.com/",
+      "checked_on": "2026-10-08"
+    },
+    "global_snohetta_practice_2": {
+      "title": "Projects",
+      "url": "https://old.snohetta.com/projects",
+      "checked_on": "2026-10-08"
+    },
+    "global_winy_maas_1": {
+      "title": "MVRDV - WINY MAAS",
+      "url": "https://mvrdv.com/about/team/1/winy-maas",
+      "checked_on": "2026-10-08"
+    },
+    "global_winy_maas_2": {
+      "title": "MVRDV - We enable cities and landscapes to develop towards a better future",
+      "url": "https://www.mvrdv.com/about",
+      "checked_on": "2026-10-08"
+    },
+    "global_winy_maas_3": {
+      "title": "Table of Contents",
+      "url": "https://www.mvrdv.com/media/uploads/220504_Wego_SL_Pages%20selection.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_unstudio_research_1": {
+      "title": "Sensing Cities: Adaptive Design for Smarter, Human-Centric Urban Spaces",
+      "url": "https://www.unstudio.com/news/articles/sensing-cities/",
+      "checked_on": "2026-10-08"
+    },
+    "global_ahti_heinla_starship_1": {
+      "title": "Uber Eats and Starship Technologies launch robot deliveries in Leeds in time for",
+      "url": "https://www.starship.xyz/wp-content/uploads/2026/01/Uber-Eats-x-Starship-Leeds-Launch.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_ahti_heinla_starship_2": {
+      "title": "Starship Technologies and Bolt launch robot-powered",
+      "url": "https://www.starship.xyz/wp-content/uploads/2024/11/Starship-x-Bolt_press-release.pdf",
+      "checked_on": "2026-10-08"
+    },
+    "global_masdar_city_1": {
+      "title": "Sustainable Tech Innovation | Masdar City",
+      "url": "https://masdarcity.ae/tech-and-innovation/tech",
+      "checked_on": "2026-10-08"
+    },
+    "global_masdar_city_2": {
+      "title": "INNOVATING TODAY FOR",
+      "url": "https://masdarcity.ae/docs/default-source/pdf-to-download/masdar-city-brochure---2024.pdf?sfvrsn=5876c190_3",
+      "checked_on": "2026-10-08"
+    },
+    "global_masdar_city_3": {
+      "title": "Masdar City | Mubadala",
+      "url": "https://www.mubadala.com/en/what-we-do/masdar-city",
+      "checked_on": "2026-10-08"
+    },
+    "global_lesley_lokko_afi_1": {
+      "title": "About the African Futures Institute | AFI",
+      "url": "https://www.africanfuturesinstitute.com/about",
+      "checked_on": "2026-10-08"
+    },
+    "global_lesley_lokko_afi_2": {
+      "title": "African Futures Institute",
+      "url": "https://www.africanfuturesinstitute.com/",
+      "checked_on": "2026-10-08"
+    },
+    "global_alejandro_aravena_1": {
+      "title": "ELEMENTAL - About",
+      "url": "https://www.elementalchile.cl/about",
+      "checked_on": "2026-10-08"
+    },
+    "global_alejandro_aravena_2": {
+      "title": "ELEMENTAL - Contact",
+      "url": "https://www.elementalchile.cl/contact",
+      "checked_on": "2026-10-08"
+    },
+    "global_alejandro_aravena_3": {
+      "title": "Biennale Architettura 2021 | ELEMENTAL",
+      "url": "https://www.labiennale.org/en/architecture/2021/emerging-communities/elemental",
+      "checked_on": "2026-10-08"
     }
   },
   "contacts": [
@@ -1612,13 +2317,2171 @@
       "outreach_in_this_task": "None",
       "response": "",
       "next_follow_up": ""
+    },
+    {
+      "id": "henriette_bier",
+      "name": "Henriette Bier",
+      "institution": "TU Delft, Architecture and the Built Environment / Robotic Building",
+      "role": "Associate Professor; Robotic Building lab leader",
+      "location": "Delft, Netherlands",
+      "geography": "Netherlands",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Robotic building operation",
+        "Adaptive environments",
+        "Spatial prototyping"
+      ],
+      "email": "",
+      "contact_url": "https://roboticbuilding.tudelft.nl/about/who/henriettebier/",
+      "evidence": "The lab identifies Bier as its leader and associate professor. Her institutional research profile explicitly includes design-to-robotic-production, assembly and operation, and embedding robotics in buildings.",
+      "possible_contribution": "Direct bridge from computational architecture to buildings in use. Could test whether threshold geometry, shared circulation and handoff locations change human/robot outcomes.",
+      "first_ask": "Could a civic-building threshold comparison extend your robotic-operation research, and which spatial variables would establish the architectural contribution?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_henriette_bier_1",
+        "global_henriette_bier_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "benjamin_dillenburger",
+      "name": "Benjamin Dillenburger",
+      "institution": "ETH Zurich, Digital Building Technologies",
+      "role": "Professor of Digital Building Technologies",
+      "location": "Zurich, Switzerland",
+      "geography": "Switzerland",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Computational architecture",
+        "Spatial prototyping",
+        "Material systems"
+      ],
+      "email": "dillenburger@arch.ethz.ch",
+      "contact_url": "https://dbt.arch.ethz.ch/team-member/professor-benjamin-dillenburger/",
+      "evidence": "ETH's chair profile identifies his professorship and digital building technologies research; the ETH course catalogue publishes his email. D-ARCH publishes a doctoral route.",
+      "possible_contribution": "Potential architecture and fabrication partner for full-scale threshold prototypes. Construction expertise must be connected to use, authority and access rather than treated as proof of operational-agent expertise.",
+      "first_ask": "Could your chair help prototype alternative transfer zones, with evaluation focused on building use rather than fabrication performance?",
+      "supervision_evidence": "Architecture professorship and D-ARCH doctoral route verified; individual willingness and a funded chair opening are unconfirmed.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_benjamin_dillenburger_1",
+        "global_benjamin_dillenburger_2",
+        "global_benjamin_dillenburger_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "dieter_dietz",
+      "name": "Dieter Dietz",
+      "institution": "EPFL, ALICE laboratory",
+      "role": "Associate Professor of Architectural Design; ALICE director",
+      "location": "Lausanne, Switzerland",
+      "geography": "Switzerland",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Research by design",
+        "Chosen presence",
+        "Spatial prototypes"
+      ],
+      "email": "dieter.dietz@epfl.ch",
+      "contact_url": "https://www.epfl.ch/labs/alice/index-fr-html/about/team/dieter-dietz/",
+      "evidence": "EPFL identifies Dietz and ALICE. The lab describes experimental projects at the intersection of design, philosophy and society, including events, performance and physical making.",
+      "possible_contribution": "A strong setting for staging shared thresholds and testing when physical participation remains desirable. Could support film and embodied experiments alongside conventional spatial documentation.",
+      "first_ask": "Could ALICE turn the library-threshold pilot into a research-by-design sequence that compares spatial arrangements and documents social experience?",
+      "supervision_evidence": "Architecture faculty role and EDAR doctoral programme verified; individual EDAR supervision availability for this topic is unconfirmed.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_dieter_dietz_1",
+        "global_dieter_dietz_2",
+        "global_dieter_dietz_3",
+        "global_dieter_dietz_4"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "achim_menges",
+      "name": "Achim Menges",
+      "institution": "University of Stuttgart, ICD / IntCDC",
+      "role": "Full Professor; ICD founding director; IntCDC director",
+      "location": "Stuttgart, Germany",
+      "geography": "Germany",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Integrative computational design",
+        "Robotic fabrication",
+        "Spatial prototypes"
+      ],
+      "email": "",
+      "contact_url": "https://www.icd.uni-stuttgart.de/team/Menges-00002/",
+      "evidence": "Stuttgart identifies his leadership of computational design and construction and IntCDC. The research setting concerns integrated architectural design and production.",
+      "possible_contribution": "Could support technically credible spatial prototypes and an architecture research network. Relevance is conditional because robotic construction differs from delegated participation in occupied buildings.",
+      "first_ask": "Which ICD or IntCDC work could support a building-in-use threshold study, rather than a construction-automation dissertation?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_achim_menges_1",
+        "global_achim_menges_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "kathrin_doerfler",
+      "name": "Kathrin Dörfler",
+      "institution": "Technical University of Munich, Digital Fabrication",
+      "role": "Professor of Digital Fabrication",
+      "location": "Munich, Germany",
+      "geography": "Germany",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Human-robot collaboration",
+        "Situated robotics",
+        "Spatial prototypes"
+      ],
+      "email": "",
+      "contact_url": "https://www.professoren.tum.de/en/doerfler-kathrin",
+      "evidence": "TUM identifies her architecture-based digital fabrication professorship. The chair explicitly studies augmented reality, collaborative robots and human-robot teams; its portal includes situated spatial AI research.",
+      "possible_contribution": "Could make shared-space experiments technically credible and help distinguish robot capability from architectural effects. Construction-site research requires adaptation to a civic service setting.",
+      "first_ask": "What would transfer from your human-robot teamwork methods to comparing circulation and handoffs at a civic-building threshold?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_kathrin_doerfler_1",
+        "global_kathrin_doerfler_2",
+        "global_kathrin_doerfler_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "lars_marcus",
+      "name": "Lars Marcus",
+      "institution": "Chalmers University of Technology, Spatial Morphology Group",
+      "role": "Full Professor of Urban Design and Planning",
+      "location": "Gothenburg, Sweden",
+      "geography": "Sweden",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Spatial morphology",
+        "Social permeability",
+        "Spatial evaluation"
+      ],
+      "email": "lars.marcus@chalmers.se",
+      "contact_url": "https://www.chalmers.se/en/persons/larmarcu/",
+      "evidence": "Chalmers identifies Marcus and a spatial morphology group studying how built form organizes activity at building and urban scales. An architecture graduate school is published.",
+      "possible_contribution": "Could supply measurable spatial variables and explain how layouts distribute access, encounters and conflict. Particularly useful for separating a spatial intervention from a better software interface.",
+      "first_ask": "How would you compare access and encounter opportunities in conventional and delegated threshold layouts?",
+      "supervision_evidence": "Professor role and architecture doctoral school verified; individual recruitment and project funding are unconfirmed.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_lars_marcus_1",
+        "global_lars_marcus_2",
+        "global_lars_marcus_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "daniel_koch",
+      "name": "Daniel Koch López",
+      "institution": "KTH Royal Institute of Technology, Architecture",
+      "role": "Associate Professor of Urban Design, specialization in Spatial Analysis; docent in Architecture",
+      "location": "Stockholm, Sweden",
+      "geography": "Sweden",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Spatial analysis",
+        "Public sphere",
+        "AI and equitable access"
+      ],
+      "email": "dkoch@kth.se",
+      "contact_url": "https://www.kth.se/profile/dkoch?l=en",
+      "evidence": "KTH identifies his spatial-analysis role and research on digitalization, AI, sustainability, the public sphere and equal living environments. Its doctoral page explains funded architecture study.",
+      "possible_contribution": "Especially close fit for how delegation alters access to public institutions and social encounters. Could connect architectural analysis with critical evaluation of digital participation.",
+      "first_ask": "Could a library-threshold pilot fit your work on AI, the public sphere and equal living environments?",
+      "supervision_evidence": "KTH architecture doctoral route verified, commonly through advertised positions; individual supervisor approval and an applicable funded vacancy are unconfirmed.",
+      "unknowns": "A relevant vacancy or approved external funding, equivalence of an interaction-design MA, capacity, language and site access need checking.",
+      "source_ids": [
+        "global_daniel_koch_1",
+        "global_daniel_koch_2",
+        "global_daniel_koch_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "andrew_morrison",
+      "name": "Andrew Morrison",
+      "institution": "Oslo School of Architecture and Design (AHO), Centre for Design Research",
+      "role": "Professor of Interdisciplinary Design; Centre for Design Research director",
+      "location": "Oslo, Norway",
+      "geography": "Norway",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Research by design",
+        "Narrative and film methods",
+        "Service interaction"
+      ],
+      "email": "andrew.morrison@aho.no",
+      "contact_url": "https://designresearch.no/people/andrew-morrison",
+      "evidence": "AHO's research site identifies practice-based research, dynamic interfaces, service design, narrative media and design writing, and documents supervision of a dozen AHO PhD students.",
+      "possible_contribution": "A useful bridge from interaction design into architectural design research, particularly for making film, staged scenarios and qualitative evidence defensible.",
+      "first_ask": "How could film and situated threshold prototypes form a rigorous design doctorate while preserving a clear architectural contribution?",
+      "supervision_evidence": "Published AHO doctoral supervision history verified; current capacity and the appropriate design/architecture degree framing need confirmation.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_andrew_morrison_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "ole_jensen",
+      "name": "Ole B. Jensen",
+      "institution": "Aalborg University, Architecture and Urban Design",
+      "role": "Professor; mobilities and urban theory researcher",
+      "location": "Aalborg, Denmark",
+      "geography": "Denmark",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Mobilities design",
+        "Access and waiting",
+        "Non-human agency"
+      ],
+      "email": "obje@create.aau.dk",
+      "contact_url": "https://vbn.aau.dk/en/persons/obje/",
+      "evidence": "Aalborg identifies his professor role. His mobilities-design work relates movement, material arrangements and non-human agencies; the university publishes his email.",
+      "possible_contribution": "Could frame queues, permissions, machine circulation and human handoffs as designed mobility rather than simple throughput. Useful for who benefits from avoiding travel and who bears extra work.",
+      "first_ask": "How would mobilities design compare who gains and who loses when a public-building task can be delegated?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_ole_jensen_1",
+        "global_ole_jensen_2",
+        "global_ole_jensen_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "alessandro_biamonti",
+      "name": "Alessandro Biamonti",
+      "institution": "Politecnico di Milano, Department of Design / LABIRINT",
+      "role": "Associate Professor; LABIRINT coordinator",
+      "location": "Milan, Italy",
+      "geography": "Italy",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Interior and spatial design",
+        "Service settings",
+        "Research by design"
+      ],
+      "email": "alessandro.biamonti@polimi.it",
+      "contact_url": "https://dipartimentodesign.polimi.it/en/staff/alessandro.biamonti",
+      "evidence": "The dedicated institutional profile identifies an associate professor coordinating LABIRINT. A Polimi publication describes applied research in interior, spatial and environmental design.",
+      "possible_contribution": "Could help design reception interiors and material cues for limited authority and handoff. Useful for converting interface concepts into spatial arrangements that people can read.",
+      "first_ask": "What interior design experiment could make delegated authority understandable without adding surveillance or administrative burden?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "The dedicated profile says associate professor while some staff search listings show a different rank. Degree route, individual supervisor approval, capacity, funding and topic fit need confirmation.",
+      "source_ids": [
+        "global_alessandro_biamonti_1",
+        "global_alessandro_biamonti_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "teresa_heitor",
+      "name": "Teresa Heitor",
+      "institution": "Instituto Superior Técnico, University of Lisbon",
+      "role": "Professor of Architecture; Space-Use Analysis and Post Occupancy Evaluation research lead",
+      "location": "Lisbon, Portugal",
+      "geography": "Portugal",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Post occupancy evaluation",
+        "Space syntax",
+        "Educational and civic buildings"
+      ],
+      "email": "teresa.heitor@tecnico.ulisboa.pt",
+      "contact_url": "https://scholar.tecnico.ulisboa.pt/authors/004d3f8ef17fec06081d9034d4778743efe53d0d8038e9abc75287ee09a0f47d/bio?lang=en",
+      "evidence": "IST identifies her architectural role and research on space-use analysis, post-occupancy evaluation, educational facilities and learning environments; her professional email is published.",
+      "possible_contribution": "Could help evaluate a library or campus pilot through observed behavior and user/staff outcomes. Strong method fit before any expensive robotic installation.",
+      "first_ask": "How should post-occupancy evaluation establish whether threshold redesign improves equitable access, comprehension and staff workload?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_teresa_heitor_1",
+        "global_teresa_heitor_2",
+        "global_teresa_heitor_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "tatjana_schneider",
+      "name": "Tatjana Schneider",
+      "institution": "TU Braunschweig, Institute for History and Theory of Architecture and the City (GTAS)",
+      "role": "Professor of Architectural Theory",
+      "location": "Braunschweig, Germany",
+      "geography": "Germany",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Spatial agency",
+        "Institutional power",
+        "Participatory design"
+      ],
+      "email": "tatjana.schneider@tu-braunschweig.de",
+      "contact_url": "https://www.gtas-braunschweig.de/introducing/detail/tatjana-schneider",
+      "evidence": "GTAS identifies research on the social, economic and political production of architecture, and methods enabling transformative intervention. TU Braunschweig publishes her role and email.",
+      "possible_contribution": "Could question who authorizes proxies, whose work becomes invisible and when a technical intervention reduces public agency. Strong critical counterpart to a computational supervisor.",
+      "first_ask": "What would make a delegated threshold redistribute spatial agency rather than privatize access or conceal staff labor?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_tatjana_schneider_1",
+        "global_tatjana_schneider_2",
+        "global_tatjana_schneider_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "rachel_armstrong",
+      "name": "Rachel Armstrong",
+      "institution": "KU Leuven, Faculty and Department of Architecture",
+      "role": "Professor of regenerative architecture / design-driven construction",
+      "location": "Belgium, KU Leuven architecture campuses",
+      "geography": "Belgium",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Regenerative architecture",
+        "More-than-human environments",
+        "Material experimentation"
+      ],
+      "email": "rachel.armstrong@kuleuven.be",
+      "contact_url": "https://arch.kuleuven.be/over-de-faculteit/team/members/armstrong-rachel",
+      "evidence": "KU Leuven's faculty and research group pages identify her regenerative architecture role and published professional email.",
+      "possible_contribution": "Could expand shared intent to ecological systems and challenge the maintenance and environmental costs of adding AI infrastructure. Fit is strongest if these become dissertation questions.",
+      "first_ask": "How would regenerative architecture evaluate whether delegated-building infrastructure creates ecological value or avoidable material and energy costs?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_rachel_armstrong_1",
+        "global_rachel_armstrong_2",
+        "global_rachel_armstrong_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "francesco_musco",
+      "name": "Francesco Musco",
+      "institution": "Università Iuav di Venezia, Planning Climate Change Lab",
+      "role": "Full Professor of Urban and Environmental Planning",
+      "location": "Venice, Italy",
+      "geography": "Italy",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Climate governance",
+        "Civic institutions",
+        "Urban ecology"
+      ],
+      "email": "cesco@iuav.it",
+      "contact_url": "https://iuav.unifind.cineca.it/resource/person/4811?language=en-US",
+      "evidence": "Iuav identifies his planning role, PCC Lab and research leadership. Its 2026 UNESCO chair material describes heritage and urban regeneration.",
+      "possible_contribution": "Could connect delegated public services with collective environmental obligations and Venice-scale civic pressures. A bounded building pilot remains a different scale and needs an architectural partner.",
+      "first_ask": "Which institutional or climate-governance question would make a delegated civic-building pilot useful to your urban research?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_francesco_musco_1",
+        "global_francesco_musco_2",
+        "global_francesco_musco_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "christian_kuehn",
+      "name": "Christian Kühn",
+      "institution": "TU Wien, Building Theory and Design",
+      "role": "Associate University Professor; building theory and design faculty",
+      "location": "Vienna, Austria",
+      "geography": "Austria",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Building typologies",
+        "Spatial thresholds",
+        "Architectural critique"
+      ],
+      "email": "christian.kuehn@tuwien.ac.at",
+      "contact_url": "https://www.gbl.tuwien.ac.at/personen/christian-kuehn/",
+      "evidence": "TU Wien's Building Theory and Design unit publishes his faculty title and email. The listed office hours are from 2024, not a current appointment schedule.",
+      "possible_contribution": "Could critique whether proxy entrances and transfer zones are distinct building typologies or rework existing reception and service arrangements. Topic-specific interest remains to be established.",
+      "first_ask": "Do the proposed proxy thresholds introduce a useful architectural typology, or can existing building types already explain them?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Current availability, topic-specific research fit, individual doctoral supervision approval and funding are unconfirmed. Do not use the old office-hours schedule.",
+      "source_ids": [
+        "global_christian_kuehn_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "daniel_cardoso",
+      "name": "Daniel Cardoso Llach",
+      "institution": "Carnegie Mellon University, School of Architecture / CodeLab",
+      "role": "Associate Professor; Computational Design track chair; CodeLab director",
+      "location": "Pittsburgh, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Critical computation",
+        "Human-machine interaction",
+        "Architectural technology cultures"
+      ],
+      "email": "dcardoso@cmu.edu",
+      "contact_url": "https://www.architecture.cmu.edu/profiles/daniel-cardoso-llach",
+      "evidence": "CMU identifies his Computational Design PhD track leadership. His work studies automation and technological cultures; the programme explicitly includes tangible interaction, responsive environments and ethnography.",
+      "possible_contribution": "An unusually strong bridge for your interaction-design MA and a critical architecture dissertation. Could keep building agency, human authority and situated evidence together.",
+      "first_ask": "Could the delegated-threshold pilot fit PhD-CD, and what combination of spatial prototypes and ethnographic evidence would establish its contribution?",
+      "supervision_evidence": "Published PhD-CD track-chair role and programme verified. Fit across technical, creative and critical backgrounds is stated by the programme; admission equivalence, funding and capacity remain unconfirmed.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_daniel_cardoso_1",
+        "global_daniel_cardoso_2",
+        "global_daniel_cardoso_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "jenny_sabin",
+      "name": "Jenny E. Sabin",
+      "institution": "Cornell University, Architecture, Art and Planning",
+      "role": "Wiesenberger Professor in Architecture",
+      "location": "Ithaca, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Responsive material systems",
+        "Full-scale prototypes",
+        "Architecture and science"
+      ],
+      "email": "jsabin@cornell.edu",
+      "contact_url": "https://aap.cornell.edu/people/jenny-sabin/",
+      "evidence": "Cornell identifies her architecture professorship and work connecting architecture, biology, mathematics and material structures; Cornell Atkinson publishes her email.",
+      "possible_contribution": "Could help build experiential prototypes in which permission or handoff has a material expression. Material responsiveness is adjacent to the civic governance question.",
+      "first_ask": "What full-scale material experiment could make a proxy's bounded authority perceptible while supporting diverse human users?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_jenny_sabin_1",
+        "global_jenny_sabin_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "sean_ahlquist",
+      "name": "Sean Ahlquist",
+      "institution": "University of Michigan, Taubman College / Lab for Socio-material Architectures",
+      "role": "Associate Professor of Architecture",
+      "location": "Ann Arbor, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Disability and inclusion",
+        "Sensory-responsive architecture",
+        "Spatial evaluation"
+      ],
+      "email": "ahlquist@umich.edu",
+      "contact_url": "https://taubmancollege.umich.edu/faculty/directory/sean-ahlquist/",
+      "evidence": "Michigan describes his lab's sensory-responsive environments and studies of social behavior for people with disabilities, including public educational spaces. He teaches across programmes including PhD.",
+      "possible_contribution": "Could make equitable access and dignity central to the design experiment. Particularly useful for avoiding a robot-friendly threshold that disadvantages people with sensory or mobility needs.",
+      "first_ask": "How should a threshold pilot involve disabled participants and measure inclusion beyond successful task completion?",
+      "supervision_evidence": "PhD teaching and architecture faculty role verified. Teaching across PhD programmes does not establish individual supervisor approval, capacity or a funded opening.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_sean_ahlquist_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "robert_stuart_smith",
+      "name": "Robert Stuart-Smith",
+      "institution": "University of Pennsylvania, Weitzman School of Design / Autonomous Manufacturing Lab",
+      "role": "Assistant Professor of Architecture; MSD-RAS director; GRASP affiliate",
+      "location": "Philadelphia, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Autonomous systems",
+        "Architectural prototypes",
+        "Robotic design"
+      ],
+      "email": "",
+      "contact_url": "https://www.design.upenn.edu/people/robert-stuart-smith",
+      "evidence": "Penn identifies his architecture and GRASP roles and a lab integrating design with robotic building production. His named degree directorship is MSD-RAS.",
+      "possible_contribution": "Could advise on architectural autonomy and practical prototype constraints. The core lab emphasis is manufacturing, so operational civic-service relevance should be tested before pursuing the route.",
+      "first_ask": "Could an occupied-building threshold study connect to your autonomous-systems work, and which doctoral route would actually host it?",
+      "supervision_evidence": "MSD-RAS is a master's programme, not a verified PhD route for this project. Individual doctoral supervisor approval and cross-school arrangements were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_robert_stuart_smith_1",
+        "global_robert_stuart_smith_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "kyle_steinfeld",
+      "name": "Kyle Steinfeld",
+      "institution": "University of California, Berkeley, Architecture",
+      "role": "Associate Professor of Architecture",
+      "location": "Berkeley, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Computational design as culture",
+        "AI tools",
+        "Critical architectural practice"
+      ],
+      "email": "ksteinfe@berkeley.edu",
+      "contact_url": "https://vcresearch.berkeley.edu/faculty/kyle-steinfeld",
+      "evidence": "Berkeley identifies computational design as a cultural practice and work combining creative production, writing and digital tool-making.",
+      "possible_contribution": "Could help formulate an architectural contribution in which AI is a social and design condition rather than simply an optimization method. Useful for critique of proxy permission interfaces.",
+      "first_ask": "How could the threshold pilot expose the cultural assumptions encoded in architectural computation and delegated authority?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_kyle_steinfeld_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "sonit_bafna",
+      "name": "Sonit Bafna",
+      "institution": "Georgia Institute of Technology, School of Architecture",
+      "role": "Associate Professor; architecture PhD programme director",
+      "location": "Atlanta, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Spatial cognition",
+        "Social dimensions of architecture",
+        "Research methods"
+      ],
+      "email": "",
+      "contact_url": "https://arch.gatech.edu/people/sonit-bafna",
+      "evidence": "Georgia Tech identifies his architecture PhD leadership and teaching on social and psychological dimensions of architecture, analysis and research methods.",
+      "possible_contribution": "Strong architecture and methods conversation for whether people understand authority, encounter opportunities and alternatives in a building. Could help make the comparison academically defensible.",
+      "first_ask": "Would your architecture PhD support a spatial comparison of delegated and conventional thresholds for an applicant trained in interaction design?",
+      "supervision_evidence": "Published architecture PhD programme directorship and doctoral admissions route verified; capacity, fit, qualifying-degree equivalence and funding remain unconfirmed.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_sonit_bafna_1",
+        "global_sonit_bafna_2",
+        "global_sonit_bafna_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "jose_duarte",
+      "name": "José Pinto Duarte",
+      "institution": "Penn State University, Stuckeman School / Stuckeman Center for Design Computing",
+      "role": "Stuckeman Chair in Design Innovation; SCDC director",
+      "location": "University Park, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Design computation",
+        "Rule-based spatial design",
+        "Architectural innovation"
+      ],
+      "email": "",
+      "contact_url": "https://arts.psu.edu/directory/jose-pinto-duarte/",
+      "evidence": "Penn State identifies his design innovation chair and leadership of the Stuckeman Center for Design Computing.",
+      "possible_contribution": "Could help turn scope-limited proxy permissions into explicit spatial design rules and compare generated alternatives. Needs a human-use evaluation partner so the dissertation does not stop at formal computation.",
+      "first_ask": "Could a design-rule model of proxy permissions generate spatial alternatives that can be tested against ordinary reception arrangements?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_jose_duarte_1",
+        "global_jose_duarte_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "carlo_ratti",
+      "name": "Carlo Ratti",
+      "institution": "MIT, Senseable City Lab / Carlo Ratti Associati",
+      "role": "Professor of Urban Technologies and Planning; Senseable City Lab director",
+      "location": "Cambridge, Massachusetts, United States",
+      "geography": "United States",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Urban sensing",
+        "Physical-digital public space",
+        "Building and city interfaces"
+      ],
+      "email": "",
+      "contact_url": "https://cces.mit.edu/team/carlo-ratti/",
+      "evidence": "MIT identifies his urban technologies role, Senseable City Lab leadership and architectural practice. His research connects digital technologies with cities.",
+      "possible_contribution": "Could offer field methods and urban-scale comparison for delegated mobility and institutional interfaces. Keep the pilot's building scale and public authority question explicit.",
+      "first_ask": "Could a small civic-building study complement Senseable City research on how digital systems change urban participation?",
+      "supervision_evidence": "MIT faculty and lab role verified. Appropriate doctorate may sit in planning or a related programme; an architecture PhD route or individual opening for this topic was not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_carlo_ratti_1",
+        "global_carlo_ratti_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "philip_beesley",
+      "name": "Philip Beesley",
+      "institution": "University of Waterloo / Living Architecture Systems Group",
+      "role": "University Professor Emeritus; Living Architecture Systems Group research leader",
+      "location": "Waterloo / Cambridge, Ontario, Canada",
+      "geography": "Canada",
+      "category": "External research advisor or practice collaborator",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Responsive environments",
+        "Immersive testbeds",
+        "Embodied experience"
+      ],
+      "email": "pbeesley@uwaterloo.ca",
+      "contact_url": "https://uwaterloo.ca/architecture/contacts/philip-beesley",
+      "evidence": "Waterloo's current architecture contact page identifies him as emeritus. Other institutional pages document responsive building controls and an international Living Architecture Systems partnership.",
+      "possible_contribution": "Useful for experiential testbeds and the material expression of artificial agency. Approach for critique or collaboration rather than assuming an active primary-supervisor route.",
+      "first_ask": "Could Living Architecture Systems methods help stage and evaluate understandable authority in a shared threshold?",
+      "supervision_evidence": "Current emeritus status verified. Primary-supervisor eligibility, any continuing supervision and a suitable degree-awarding host require separate confirmation.",
+      "unknowns": "Continuing lab role, emeritus supervision rules, availability, collaborator funding and site access are unconfirmed.",
+      "source_ids": [
+        "global_philip_beesley_1",
+        "global_philip_beesley_2",
+        "global_philip_beesley_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "annalisa_meyboom",
+      "name": "AnnaLisa Meyboom",
+      "institution": "University of British Columbia, School of Architecture and Landscape Architecture",
+      "role": "Associate Professor",
+      "location": "Vancouver, Canada",
+      "geography": "Canada",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Design technology and society",
+        "Robotics and public space",
+        "Architectural prototypes"
+      ],
+      "email": "ameyboom@sala.ubc.ca",
+      "contact_url": "https://sala.ubc.ca/people/annalisa-meyboom/",
+      "evidence": "UBC identifies her architecture/engineering research and lists Design, Technology and Society among relevant thesis-based degrees. The SALA PhD integrates design with social and technical disciplines.",
+      "possible_contribution": "Strong interdisciplinary doctoral setting for connecting an interaction-design background to spatial agency. Could pair public-space questions with a technically credible pilot.",
+      "first_ask": "Could the Design, Technology and Society PhD accept the delegated-threshold proposal and an interaction-design MA as a relevant qualifying background?",
+      "supervision_evidence": "UBC's graduate supervisor directory explicitly links her to the Design, Technology and Society PhD. No capacity, funded opening or degree-equivalence decision has been confirmed.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_annalisa_meyboom_1",
+        "global_annalisa_meyboom_2",
+        "global_annalisa_meyboom_3",
+        "global_annalisa_meyboom_4"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "North America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "luke_hespanhol",
+      "name": "Luke Hespanhol",
+      "institution": "University of Sydney, Design Lab / Urban Interfaces Lab",
+      "role": "Design researcher; Urban Interfaces Lab member",
+      "location": "Sydney, Australia",
+      "geography": "Australia",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Urban interaction",
+        "Public digital interfaces",
+        "Situated field evaluation"
+      ],
+      "email": "",
+      "contact_url": "https://design.sydney.edu.au/research-2/urbaninterfaces/",
+      "evidence": "Sydney's lab site identifies Hespanhol and research in urban interfaces, civic interaction and ecological approaches; university accounts document his digital placemaking projects.",
+      "possible_contribution": "A close bridge from interaction design to situated public-space experiments. Could help evaluate how physical and digital boundaries affect comprehension and meaningful participation.",
+      "first_ask": "Could the threshold pilot become a situated urban-interface study with clearly compared spatial arrangements?",
+      "supervision_evidence": "Current lab membership and institutional project history verified. Individual current doctoral-supervisor eligibility, academic rank and the applicable degree route were not verified.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_luke_hespanhol_1",
+        "global_luke_hespanhol_2",
+        "global_luke_hespanhol_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "hank_haeusler",
+      "name": "M. Hank Haeusler",
+      "institution": "UNSW Sydney, School of Built Environment / Computational Design",
+      "role": "Professor; computational design and media architecture researcher",
+      "location": "Sydney, Australia",
+      "geography": "Australia",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Media architecture",
+        "AI in built environments",
+        "Computational evaluation"
+      ],
+      "email": "",
+      "contact_url": "https://research.unsw.edu.au/people/professor-m-hank-matthias-haeusler",
+      "evidence": "UNSW identifies his professor role and research in computational design and media architecture; institutional research covers machine learning and environmental performance.",
+      "possible_contribution": "Could strengthen the bridge between architectural computation, public interfaces and the environmental costs of automation. The dissertation must still test spatial outcomes rather than AI performance alone.",
+      "first_ask": "How could computational design support the pilot while accounting for maintenance, staff work and the environmental cost of added automation?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_hank_haeusler_1",
+        "global_hank_haeusler_2",
+        "global_hank_haeusler_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "stanislav_roudavski",
+      "name": "Stanislav Roudavski",
+      "institution": "University of Melbourne, Architecture, Building and Planning",
+      "role": "Architecture researcher; more-than-human design",
+      "location": "Melbourne, Australia",
+      "geography": "Australia",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Conditional specialist",
+      "strands": [
+        "More-than-human design",
+        "Ecological agency",
+        "Spatial prototypes"
+      ],
+      "email": "",
+      "contact_url": "https://www.unimelb.edu.au/newsroom/news/2025/december/rethinking-the-planet-with-eels-as-guides",
+      "evidence": "Melbourne identifies his architecture affiliation and projects on more-than-human urban design, including a 2025 international research award.",
+      "possible_contribution": "Could challenge treating robots as the only non-human actors. Useful for ecological permissions, human-priority or agent-free zones and deciding when no intervention is better.",
+      "first_ask": "How should a civic-building pilot represent ecological and non-human interests without equating them with commercial robot access?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Current academic rank, individual doctoral-supervisor approval, topic fit, funding and site access require confirmation.",
+      "source_ids": [
+        "global_stanislav_roudavski_1",
+        "global_stanislav_roudavski_2",
+        "global_stanislav_roudavski_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "tane_moleta",
+      "name": "Tane Moleta",
+      "institution": "Te Herenga Waka, Victoria University of Wellington, School of Architecture",
+      "role": "Architecture faculty researcher in digital, virtual and augmented space",
+      "location": "Wellington, New Zealand",
+      "geography": "New Zealand",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Virtual and augmented space",
+        "Situated prototypes",
+        "Spatial interaction"
+      ],
+      "email": "",
+      "contact_url": "https://www.wgtn.ac.nz/architecture/research/performance-and-technologies/digital-design-and-virtual-and-augmented-space",
+      "evidence": "The school names Moleta in digital and augmented-space research and in the supervisory team of a current doctoral project on augmented-reality street performance.",
+      "possible_contribution": "Could help stage alternative threshold arrangements before building them and use embodied simulation as part of architectural inquiry. Simulation must be checked against actual staff and public use.",
+      "first_ask": "What staged or mixed-reality study could test permission and handoff layouts before a full-scale civic-building trial?",
+      "supervision_evidence": "Institutional doctoral project identifies Moleta in its supervisory team. That is evidence of doctoral advising, not a current vacancy or commitment.",
+      "unknowns": "Current title, direct email, intake, capacity, degree equivalence, funding and scope for physical fieldwork require confirmation.",
+      "source_ids": [
+        "global_tane_moleta_1",
+        "global_tane_moleta_2",
+        "global_tane_moleta_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "kristof_crolla",
+      "name": "Kristof Crolla",
+      "institution": "University of Hong Kong, Faculty of Architecture / Building Simplexity Lab",
+      "role": "Associate Professor; Building Simplexity Lab director; Associate Dean (Special Projects)",
+      "location": "Hong Kong",
+      "geography": "Hong Kong",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Design computation",
+        "Mixed physical-digital practice",
+        "Spatial prototyping"
+      ],
+      "email": "",
+      "contact_url": "https://www.arch.hku.hk/staff/arch/crolla-kristof/?dept=faculty-office-staff",
+      "evidence": "HKU's profile identifies his architecture appointment and Building Simplexity Lab, with design and architectural teaching spanning programmes.",
+      "possible_contribution": "Could connect digital design, fabrication and pragmatic full-scale experimentation in an Asian architecture school. Relevance is strongest when prototypes remain tied to human access and real use.",
+      "first_ask": "Could the lab support an architectural threshold prototype evaluated for public access and understandable delegated authority?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_kristof_crolla_1",
+        "global_kristof_crolla_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "patrick_janssen",
+      "name": "Patrick Janssen",
+      "institution": "National University of Singapore, Department of Architecture / Design Automation Lab",
+      "role": "Associate Professor; Design Automation Laboratory director",
+      "location": "Singapore",
+      "geography": "Singapore",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Design automation",
+        "Spatial rules",
+        "Computational comparison"
+      ],
+      "email": "patrick.janssen@nus.edu.sg",
+      "contact_url": "https://patrick.janssen.name/",
+      "evidence": "Janssen's professional site identifies his NUS role and Design Automation Laboratory. An NUS research-centre investigator page confirms affiliation and email.",
+      "possible_contribution": "Could model bounded mandates and alternative building configurations, then connect them to observed human outcomes. Algorithmic generation alone would not answer the civic access question.",
+      "first_ask": "Can a permission model generate threshold alternatives whose social and spatial effects can be tested in a real civic building?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Dedicated university rank and individual doctoral supervisor listing, current capacity, qualifying-degree equivalence and funding require confirmation. Avoid relying on the old CV's assistant-professor title.",
+      "source_ids": [
+        "global_patrick_janssen_1",
+        "global_patrick_janssen_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "david_sperling",
+      "name": "David Moreno Sperling",
+      "institution": "University of São Paulo, Institute of Architecture and Urbanism / NEC",
+      "role": "Full Professor; Contemporary Spatialities research-group coordinator",
+      "location": "São Carlos, Brazil",
+      "geography": "Brazil",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Contemporary spatialities",
+        "Politics of digital design",
+        "Architectural media"
+      ],
+      "email": "sperling@sc.usp.br",
+      "contact_url": "https://www.iau.usp.br/institucional/david-moreno-sperling/",
+      "evidence": "USP's dedicated profile identifies his full professorship, NEC leadership and exhibitions on the politics and appropriations of digital fabrication in Latin America.",
+      "possible_contribution": "Could bring a situated Latin American critique of architectural technologies, representations and public space. Strong fit for avoiding a universal model derived only from affluent automated buildings.",
+      "first_ask": "How could a threshold study reveal locally specific politics of digital delegation and architectural access?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Some other USP pages retain older associate-professor wording; the dedicated IAU profile is used. Programme accreditation, current capacity, Portuguese/English arrangements and funding need checking.",
+      "source_ids": [
+        "global_david_sperling_1",
+        "global_david_sperling_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Latin America",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "ana_paula_baltazar",
+      "name": "Ana Paula Baltazar dos Santos",
+      "institution": "Federal University of Minas Gerais, School of Architecture / MOM and LAGEAR",
+      "role": "Associate Professor; architecture and virtual environments researcher",
+      "location": "Belo Horizonte, Brazil",
+      "geography": "Brazil",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Spatial autonomy",
+        "Architectural interfaces",
+        "Participatory design"
+      ],
+      "email": "",
+      "contact_url": "https://www.arq.ufmg.br/ea/pessoas/corpo-docente/ana-paula-baltazar-dos-santos/",
+      "evidence": "UFMG identifies an architecture-and-virtual-environments doctorate, undergraduate and postgraduate teaching, and MOM/LAGEAR research participation. Her research record includes autonomy and architectural interfaces.",
+      "possible_contribution": "An especially useful critical connection between interaction design and architecture. Could study whether delegation expands people's autonomy or shifts control to institutions and interface owners.",
+      "first_ask": "Could the pilot compare spatial autonomy and control across direct participation, human assistance and AI delegation?",
+      "supervision_evidence": "Postgraduate architecture teaching and programme governance are documented. Individual doctoral-supervisor accreditation, capacity and a current call were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_ana_paula_baltazar_1",
+        "global_ana_paula_baltazar_2",
+        "global_ana_paula_baltazar_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Latin America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "chrisna_du_plessis",
+      "name": "Chrisna du Plessis",
+      "institution": "University of Pretoria, Department of Architecture",
+      "role": "Professor of Architecture",
+      "location": "Pretoria, South Africa",
+      "geography": "South Africa",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Regenerative built environments",
+        "Collective intent",
+        "Institutional sustainability"
+      ],
+      "email": "",
+      "contact_url": "https://www.up.ac.za/architecture/staff-profiles/chrisna-du-plessis",
+      "evidence": "Pretoria identifies her professor role. Departmental material situates the architecture research setting around collaborative urban citizenship and built-environment research.",
+      "possible_contribution": "Could test the public value and maintenance obligations of delegated services in a different institutional context. Ecological and access criteria would complement a technically oriented pilot.",
+      "first_ask": "How should the pilot assess collective benefit, upkeep and regenerative value alongside individual convenience?",
+      "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
+      "unknowns": "Topic-specific regenerative research should be discussed directly; individual supervisor approval, capacity, funding, programme eligibility and an appropriate site are unconfirmed.",
+      "source_ids": [
+        "global_chrisna_du_plessis_1",
+        "global_chrisna_du_plessis_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Africa",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "kirsten_doermann",
+      "name": "Kirsten Dörmann (Doermann)",
+      "institution": "University of the Witwatersrand, School of Architecture and Planning",
+      "role": "Senior Lecturer; architect and housing researcher",
+      "location": "Johannesburg, South Africa",
+      "geography": "South Africa",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Spatial adaptation",
+        "Urban inclusion",
+        "Field observation"
+      ],
+      "email": "kirsten.doermann@wits.ac.za",
+      "contact_url": "https://www.wits.ac.za/soap/staff/",
+      "evidence": "Wits' current school roster identifies her as senior lecturer. Yeoville Studio documents situated housing work; an institutional repository records her as a master's thesis supervisor.",
+      "possible_contribution": "Could ground the project in adapted buildings, informal practices and access conditions that resist tidy automation assumptions. A valuable comparative fieldwork or critique partner.",
+      "first_ask": "What would a threshold study miss if it models authorization only through formal building systems?",
+      "supervision_evidence": "Master's thesis supervision evidenced. Formal doctoral-supervisor accreditation, an applicable doctorate and current capacity were not established.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "source_ids": [
+        "global_kirsten_doermann_1",
+        "global_kirsten_doermann_2",
+        "global_kirsten_doermann_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Africa",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "sejal_patel",
+      "name": "Sejal Patel",
+      "institution": "CEPT University, Faculty of Management / planning and housing research",
+      "role": "Professor; Dean of Faculty of Management, appointed in 2026",
+      "location": "Ahmedabad, India",
+      "geography": "India",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "Focused follow-up",
+      "strands": [
+        "Participatory urban governance",
+        "Housing and access",
+        "Institutional policy"
+      ],
+      "email": "",
+      "contact_url": "https://cept.ac.in/news/2026/prof-sejal-patel-appointed-dean-of-faculty-of-management",
+      "evidence": "CEPT's newer 2026 announcement appoints Patel dean of Management. Her work spans housing, planning legislation and participatory governance; CEPT separately publishes architecture and planning doctorates.",
+      "possible_contribution": "Could provide a governance conversation and connect to an appropriate CEPT architecture/planning research team. A management appointment does not itself identify the right architectural dissertation home.",
+      "first_ask": "Which CEPT doctoral context could study the access and governance consequences of a delegated civic-building service?",
+      "supervision_evidence": "CEPT architecture and planning doctoral programmes verified. Individual supervisor approval was not established; do not confuse the Management deanship with leadership of the planning PhD.",
+      "unknowns": "Older profiles show previous roles. Appropriate department, supervisor accreditation, degree equivalence, language and funding need confirmation; July 2026 intake pages are historical.",
+      "source_ids": [
+        "global_sejal_patel_1",
+        "global_sejal_patel_2",
+        "global_sejal_patel_3",
+        "global_sejal_patel_4"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "ronita_bardhan",
+      "name": "Ronita Bardhan",
+      "institution": "University of Cambridge, Department of Architecture / Sustainable Design Group",
+      "role": "Professor of Sustainable Built Environment and Health",
+      "location": "Cambridge, United Kingdom",
+      "geography": "United Kingdom",
+      "category": "Potential doctoral supervisor or external advisor",
+      "priority": "First conversations",
+      "strands": [
+        "Equitable built environments",
+        "Computational social science",
+        "AI and health"
+      ],
+      "email": "",
+      "contact_url": "https://www.sustainabledesign.arct.cam.ac.uk/people/ronita-bardhan",
+      "evidence": "Cambridge identifies her architecture and sustainable-design leadership. Its architecture PhD includes computational social sciences and digital media design; requirements distinguish a research master's from a professional master's.",
+      "possible_contribution": "Could make equitable access, health and measurable human outcomes the architectural centre of the project. Especially useful if the pilot connects delegated services to mobility or access burdens.",
+      "first_ask": "Could your group support this access-focused pilot, and would an interaction-design MA meet the related research-master's requirement?",
+      "supervision_evidence": "Architecture faculty and PhD route verified; individual acceptance and capacity unconfirmed.",
+      "unknowns": "Cambridge explicitly requires a research master's or equivalent in architecture or a related discipline with specified grades. Confirm MA classification, grade equivalence, funding, capacity and the next cycle.",
+      "source_ids": [
+        "global_ronita_bardhan_1",
+        "global_ronita_bardhan_2",
+        "global_ronita_bardhan_3",
+        "global_ronita_bardhan_4"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "University",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "martha_tsigkari",
+      "name": "Martha Tsigkari",
+      "institution": "Foster + Partners, Applied R+D",
+      "role": "Head of Applied R+D",
+      "location": "London, United Kingdom; international practice",
+      "geography": "United Kingdom",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Spatial simulation",
+        "Applied architectural research",
+        "Human-computer interaction"
+      ],
+      "email": "",
+      "contact_url": "https://cyclops.fosterandpartners.com/About",
+      "evidence": "Foster's Cyclops site identifies Tsigkari as Head of Applied R+D. The team develops computational research; its published work includes spatial and visual connectivity models.",
+      "possible_contribution": "Could help simulate and compare thresholds, visibility and circulation before field testing. A focused research-methods inquiry is more plausible than asking a large practice to host the entire doctorate.",
+      "first_ask": "Could Applied R+D critique a spatial comparison of conventional and delegated reception layouts, especially visibility and circulation measures?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_martha_tsigkari_1",
+        "global_martha_tsigkari_2",
+        "global_martha_tsigkari_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "shajay_bhooshan",
+      "name": "Shajay Bhooshan",
+      "institution": "ZHA Architects, Computation and Design (ZHA CODE)",
+      "role": "Associate Director; ZHA CODE co-founder and leader",
+      "location": "London, United Kingdom; international practice",
+      "geography": "United Kingdom",
+      "category": "Practice or industry collaborator",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Computational architecture",
+        "Practice-embedded research",
+        "Spatial prototypes"
+      ],
+      "email": "",
+      "contact_url": "https://www.zha.com/people/shajay-bhooshan?disclaimer=true",
+      "evidence": "The current official ZHA profile identifies his role, research group and design/robotic fabrication background. The group bridges research with practice and uses game technologies.",
+      "possible_contribution": "Potential collaborator for prototype design or participatory simulation. Manufacturing and geometry expertise must be related explicitly to equitable access in occupied buildings.",
+      "first_ask": "Could ZHA CODE help prototype spatial permission scenarios and identify what field evidence would make them architecturally meaningful?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Current practice uses ZHA Architects branding. Topic interest, appropriate team route, costs, research permissions and access to a relevant occupied building are unconfirmed.",
+      "source_ids": [
+        "global_shajay_bhooshan_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "birgitte_svarre",
+      "name": "Birgitte Bundesen Svarre",
+      "institution": "Gehl",
+      "role": "Director Team Lead; public-life and mobility practice",
+      "location": "Copenhagen, Denmark; international projects",
+      "geography": "Denmark",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Public-life observation",
+        "Social permeability",
+        "Inclusive mobility"
+      ],
+      "email": "",
+      "contact_url": "https://www.gehlpeople.com/projects/reorganising-the-city-core-into-green-climate-adapted-public-space/",
+      "evidence": "Gehl's current project credits identify Svarre's team role in a public-space redesign informed by mobility studies. Gehl also publishes an Inclusive Healthy Places framework.",
+      "possible_contribution": "Could provide observation protocols and a human-use baseline, so success includes encounter quality and access rather than automation speed.",
+      "first_ask": "Which public-life observation measures would reveal whether delegated services improve access while weakening or strengthening meaningful co-presence?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_birgitte_svarre_1",
+        "global_birgitte_svarre_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "upali_nanda",
+      "name": "Upali Nanda",
+      "institution": "HKS, Innovation / Research / CADRE",
+      "role": "Partner and Executive Vice President; Global Sector Director, Innovation",
+      "location": "United States; international practice",
+      "geography": "United States",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Evidence-based design",
+        "Human perception",
+        "Equitable access"
+      ],
+      "email": "",
+      "contact_url": "https://www.hksinc.com/people/upali-nanda/",
+      "evidence": "HKS identifies Nanda's current innovation leadership and work on design's effects on health and perception. Her previous CADRE leadership and Michigan teaching are documented.",
+      "possible_contribution": "Could help operationalize dignity, perceived control and staff/user experience, and connect the pilot with post-occupancy research. Strong practice-methods conversation.",
+      "first_ask": "What evaluation plan would make access, comprehension, dignity and staff work credible outcomes for a delegated civic-building threshold?",
+      "supervision_evidence": "Michigan teaching is documented but this record is a practice/research route. No individual doctoral-supervisor eligibility or appointment is established.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_upali_nanda_1",
+        "global_upali_nanda_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "North America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "tim_stonor",
+      "name": "Tim Stonor",
+      "institution": "Space Syntax Limited",
+      "role": "Managing Director; architect and urban planner",
+      "location": "London, United Kingdom; international projects",
+      "geography": "United Kingdom",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Spatial configuration",
+        "Pedestrian movement",
+        "Evidence-based design"
+      ],
+      "email": "",
+      "contact_url": "https://spacesyntax.com/staff/tim-stonor/",
+      "evidence": "Space Syntax identifies Stonor's leadership and architectural planning practice.",
+      "possible_contribution": "Could advise on configuration and movement measures for threshold alternatives and identify the limits of using movement counts as proxies for social value.",
+      "first_ask": "Can space-syntax analysis distinguish layout effects on conflict, access and encounters in a delegated-threshold pilot?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_tim_stonor_1",
+        "global_tim_stonor_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "anab_jain",
+      "name": "Anab Jain",
+      "institution": "Superflux",
+      "role": "Co-founder and Director",
+      "location": "London, United Kingdom; international work",
+      "geography": "United Kingdom",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Experiential futures",
+        "Situated speculation",
+        "Critical technology"
+      ],
+      "email": "",
+      "contact_url": "https://superflux.in/index.php/team/anab/",
+      "evidence": "Superflux identifies Jain and a design, research, futures and experiential practice working across art and technology.",
+      "possible_contribution": "Could stage proxy-authority scenarios that participants can experience and critique before deployment. A useful way to surface conflict and hidden maintenance work.",
+      "first_ask": "Could an experiential threshold scenario reveal the social rules and failure cases that a functional AI demonstration would miss?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_anab_jain_1",
+        "global_anab_jain_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "kone_robot_api",
+      "name": "KONE Service Robot API team",
+      "institution": "KONE",
+      "role": "Elevator and building-integration technology team",
+      "location": "Espoo, Finland; global installations",
+      "geography": "Finland",
+      "category": "Practice or industry collaborator",
+      "priority": "First conversations",
+      "strands": [
+        "Robot circulation",
+        "Building interfaces",
+        "Permission boundaries"
+      ],
+      "email": "",
+      "contact_url": "https://dev.kone.com/api-portal/service-robot-api",
+      "evidence": "KONE's developer portal publishes a Service Robot API for autonomous elevator calls and operation; its corporate innovation page describes developer and partner collaboration.",
+      "possible_contribution": "Concrete infrastructure for studying where a bounded mandate must narrow as a robot moves between floors. Could support a prototype or technical feasibility review.",
+      "first_ask": "How can a trial constrain elevator access by task, floor and expiry, and preserve accessible priority and human handoff?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Building and elevator compatibility, API access, commercial terms, research support, local permissions and a named collaboration contact are unconfirmed.",
+      "source_ids": [
+        "global_kone_robot_api_1",
+        "global_kone_robot_api_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "naver_labs",
+      "name": "Jong-yoon Baek / NAVER LABS robotics team",
+      "institution": "NAVER LABS / NAVER 1784",
+      "role": "Group Leader of Robotics & Autonomous Driving, as identified in a 2026 company account",
+      "location": "Seongnam, South Korea",
+      "geography": "South Korea",
+      "category": "Practice or industry collaborator",
+      "priority": "First conversations",
+      "strands": [
+        "Robot-friendly buildings",
+        "Human-robot coexistence",
+        "Occupied-building operations"
+      ],
+      "email": "",
+      "contact_url": "https://naverlabs.com/en/proposal",
+      "evidence": "NAVER documents robot delivery in its occupied 1784 headquarters, robot-exclusive elevators and a digital-twin/cloud system. A 2026 account identifies Baek's robotics group role.",
+      "possible_contribution": "A close operational precedent for circulation and dedicated entrances. Useful for testing your separation/mixing hypotheses, while recognizing that a corporate headquarters differs from a public institution.",
+      "first_ask": "What evidence from 1784 supports separating or mixing robot/human circulation, and what access or staff burdens emerged?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Public-institution transferability, access to operational evidence, site visits, data permissions, current individual availability and a research collaboration are unconfirmed.",
+      "source_ids": [
+        "global_naver_labs_1",
+        "global_naver_labs_2",
+        "global_naver_labs_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Published organizational inquiry route",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "takenaka_rd",
+      "name": "Takenaka R&D / open innovation team",
+      "institution": "Takenaka Corporation",
+      "role": "Building and service-robot integration research",
+      "location": "Japan; Osaka/Tokyo and project sites",
+      "geography": "Japan",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Service robots in buildings",
+        "Route simulation",
+        "Building operations"
+      ],
+      "email": "",
+      "contact_url": "https://www.takenaka.co.jp/takenaka_e/rd/openinnovation/01/index.html",
+      "evidence": "Takenaka's open-innovation archive documents a December 2019 building/service-robot demonstration and a BIM-based robot platform. The dated record is historical evidence.",
+      "possible_contribution": "Could provide lessons from integrating building operations and robot routes, including retrofitting constraints. Useful as a precedent and possible technical interview.",
+      "first_ask": "What did the building/service-robot demonstrations reveal about transfer zones, existing layouts and operational responsibility?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "The cited demonstrations are historical. Current team, systems, research availability, site access, language, data rights and costs need confirmation.",
+      "source_ids": [
+        "global_takenaka_rd_1",
+        "global_takenaka_rd_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "arup_research",
+      "name": "Arup research team",
+      "institution": "Arup",
+      "role": "Applied research and experimental development",
+      "location": "London, United Kingdom; global research network",
+      "geography": "United Kingdom",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Applied building research",
+        "Whole-life carbon",
+        "Human and technical systems"
+      ],
+      "email": "",
+      "contact_url": "https://www.arup.com/services/research/",
+      "evidence": "Arup describes research with universities and clients, including AI applications, whole-life carbon reduction and established scientific methods combined with design exploration.",
+      "possible_contribution": "Could help evaluate whole-life costs, facilities operations and technical feasibility of a threshold pilot. Appropriate for making the public-value case credible to a building owner.",
+      "first_ask": "Could a small delegated-service pilot compare whole-life carbon, staff work and access benefits with fixed automation and human assistance?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_arup_research_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "nbbj_research",
+      "name": "NBBJ design and research team",
+      "institution": "NBBJ",
+      "role": "Architecture and research practice",
+      "location": "Seattle / United States; international offices",
+      "geography": "United States",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Human experience",
+        "Organizational settings",
+        "Applied architectural research"
+      ],
+      "email": "",
+      "contact_url": "https://www.nbbj.com/our-story",
+      "evidence": "NBBJ's official account describes a research-rooted design process and work affecting community, health and the environment.",
+      "possible_contribution": "Potential practice critique or case-study route for human experience in institutional buildings. Topic-specific researchers and delegated-agent expertise are not yet established.",
+      "first_ask": "Which NBBJ team could critique the pilot's measures of comprehension, staff burden and perceived control in a shared public threshold?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "A topic-specific research contact and current relevant project were not verified. Capacity, access, data rights, research costs and any funding contribution require discussion.",
+      "source_ids": [
+        "global_nbbj_research_1",
+        "global_nbbj_research_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "North America",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "plp_labs",
+      "name": "Ron Bakker / PLP Labs team",
+      "institution": "PLP Architecture / PLP Labs",
+      "role": "Founding Partner; built-environment research and strategy team",
+      "location": "London, United Kingdom",
+      "geography": "United Kingdom",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Human experience",
+        "Research partnerships",
+        "Building strategy"
+      ],
+      "email": "",
+      "contact_url": "https://www.plparchitecture.com/labs",
+      "evidence": "PLP describes a consultancy connecting academia, industry and practice, and names Bakker as founding partner. It documents a university Knowledge Transfer Partnership.",
+      "possible_contribution": "Could help translate a research question into a brief a building owner can assess and test assumptions before design. Useful practice connection for a university-hosted partnership.",
+      "first_ask": "Could the delegated-threshold study form a focused academic/practice research brief with measurable spatial and public-value outcomes?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_plp_labs_1",
+        "global_plp_labs_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "wong_mun_summ",
+      "name": "Wong Mun Summ",
+      "institution": "WOHA",
+      "role": "Founding Director; NUS Professor in Practice",
+      "location": "Singapore",
+      "geography": "Singapore",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Community space",
+        "Regenerative architecture",
+        "Chosen presence"
+      ],
+      "email": "",
+      "contact_url": "https://woha.net/member/wong-mun-summ/",
+      "evidence": "WOHA identifies Wong's founding and NUS practice roles. The firm describes human-scaled environments, community, ecological stewardship and shared amenities.",
+      "possible_contribution": "Could critique when architecture preserves public life and ecological value as routine services become delegable. An appropriate counterweight to infrastructure-first building experiments.",
+      "first_ask": "How could a civic threshold preserve community and ecological value while allowing routine tasks to be delegated?",
+      "supervision_evidence": "Published NUS Professor in Practice and master's studio role verified. A practice title is not evidence of individual doctoral supervision eligibility.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_wong_mun_summ_1",
+        "global_wong_mun_summ_2",
+        "global_wong_mun_summ_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Asia-Pacific",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "schindler_colab",
+      "name": "Schindler CoLab team",
+      "institution": "Schindler Group",
+      "role": "Building integration and robot logistics platform",
+      "location": "Ebikon, Switzerland; global installations",
+      "geography": "Switzerland",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Vertical robot circulation",
+        "Access integration",
+        "Building operations"
+      ],
+      "email": "",
+      "contact_url": "https://group.schindler.com/en/company/innovations/schindler-colab.html",
+      "evidence": "Schindler publishes an open building-integration platform and a robot-building-logistics package that enables robots to take elevators and operate across floors.",
+      "possible_contribution": "A second infrastructure route for comparing shared elevators, segregated machine access and scope-limited authority. Useful for avoiding a pilot dependent on only one supplier.",
+      "first_ask": "What control boundaries, failure states and human overrides would a research trial need for mixed human/robot elevator use?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Compatible site, platform permissions, costs, research access, local building policies and a named partnership contact require confirmation.",
+      "source_ids": [
+        "global_schindler_colab_1",
+        "global_schindler_colab_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "dormakaba_pilot",
+      "name": "David Fuller / dormakaba innovation team",
+      "institution": "dormakaba",
+      "role": "Chief Innovation Officer; access management and door automation",
+      "location": "Rümlang, Switzerland; international deployments",
+      "geography": "Switzerland",
+      "category": "Practice or industry collaborator",
+      "priority": "First conversations",
+      "strands": [
+        "Delegated credentials",
+        "Spatial authorization",
+        "Access-controlled thresholds"
+      ],
+      "email": "",
+      "contact_url": "https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors",
+      "evidence": "A September 2026 company announcement documents an industrial pilot with ANYbotics and LEGIC. A robot uses secure digital credentials, and the door system applies existing access rules.",
+      "possible_contribution": "Very close precedent for your authorization threshold. Could provide a technical comparison and help examine expiry, exceptions and human handoff without assuming a public-building solution is already proven.",
+      "first_ask": "Could the credential pilot support a university-led comparison of understandable authority and human-priority access at a civic threshold?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "This is a pilot and future-solution claim in an industrial setting. Civic transferability, product availability, expiry/revocation features, research access, costs and human-use evidence need checking.",
+      "source_ids": [
+        "global_dormakaba_pilot_1",
+        "global_dormakaba_pilot_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "anybotics_pilot",
+      "name": "Péter Fankhauser / ANYbotics partnerships",
+      "institution": "ANYbotics",
+      "role": "Co-founder and CEO; autonomous inspection robotics",
+      "location": "Zurich, Switzerland",
+      "geography": "Switzerland",
+      "category": "Practice or industry collaborator",
+      "priority": "First conversations",
+      "strands": [
+        "Robot identity",
+        "Human handoff",
+        "Operational field trials"
+      ],
+      "email": "",
+      "contact_url": "https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors",
+      "evidence": "The jointly described dormakaba/ANYbotics/LEGIC pilot identifies ANYmal as the robot using digital credentials to request access in an industrial environment.",
+      "possible_contribution": "Could help distinguish robot navigation and identity capabilities from spatial and institutional design effects. The same precedent is recorded separately for the door and robot partners.",
+      "first_ask": "Which failures require a person to regain control when an autonomous robot presents a limited mandate at a shared doorway?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Industrial inspection hardware may be excessive for a civic service pilot. Suitability, trial support, costs, safety approvals, data rights and current contact route are unconfirmed.",
+      "source_ids": [
+        "global_dormakaba_pilot_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "snohetta_practice",
+      "name": "Snøhetta architecture and landscape team",
+      "institution": "Snøhetta",
+      "role": "Architecture, landscape and interdisciplinary design practice",
+      "location": "Oslo, Norway; international offices",
+      "geography": "Norway",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Chosen presence",
+        "Shared public space",
+        "Cross-disciplinary design"
+      ],
+      "email": "",
+      "contact_url": "https://old.snohetta.com/",
+      "evidence": "The firm's official practice account emphasizes human interaction as a driver of spatial design across architecture, landscape and interiors.",
+      "possible_contribution": "Potential critique or public-building case-study route for what makes direct presence worth choosing. Start with human experience and a specific building rather than a generic AI collaboration.",
+      "first_ask": "Which spatial choices in your public buildings make gathering valuable when people could delegate routine transactions?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "The retrieved practice account includes the legacy official site. Current topic-specific team, relevant building case, contact route, access and research availability need checking.",
+      "source_ids": [
+        "global_snohetta_practice_1",
+        "global_snohetta_practice_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "winy_maas",
+      "name": "Winy Maas",
+      "institution": "MVRDV / The Why Factory connection",
+      "role": "MVRDV Founding Partner; architect, urban planner and landscape architect",
+      "location": "Rotterdam, Netherlands; international projects",
+      "geography": "Netherlands",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Speculative spatial research",
+        "Public realm",
+        "Prototype typologies"
+      ],
+      "email": "",
+      "contact_url": "https://mvrdv.com/about/team/1/winy-maas",
+      "evidence": "MVRDV identifies Maas and its research practice; its publication connects MVRDV and TU Delft's The Why Factory.",
+      "possible_contribution": "Could critique speculative spatial typologies and help visualize alternative distributions of public and proxy access. A practice/university connection is a lead to investigate, not a confirmed doctorate.",
+      "first_ask": "Would proxy thresholds or human-priority spaces form a useful spatial research question for MVRDV or The Why Factory?",
+      "supervision_evidence": "Practice and university-project connection documented. Current TU Delft individual PhD supervision eligibility, recruitment and formal collaboration were not established.",
+      "unknowns": "Research interest, appropriate named contact, study-site access, procurement or prototype costs, data permissions and any funding contribution are unconfirmed.",
+      "source_ids": [
+        "global_winy_maas_1",
+        "global_winy_maas_2",
+        "global_winy_maas_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "unstudio_research",
+      "name": "UNStudio research / human-centred technology team",
+      "institution": "UNStudio",
+      "role": "Architecture and urban technology practice",
+      "location": "Amsterdam, Netherlands; international projects",
+      "geography": "Netherlands",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Human-centred smart cities",
+        "Physical-digital interfaces",
+        "Public-space experience"
+      ],
+      "email": "",
+      "contact_url": "https://www.unstudio.com/news/articles/sensing-cities/",
+      "evidence": "UNStudio's 2018 Sensing Cities account describes human-focused urban technology and UNSense projects. It is a historical research/practice precedent.",
+      "possible_contribution": "Could inform a critique of smart-building services measured only by efficiency. Relevance depends on whether a current team still works on these questions.",
+      "first_ask": "Which current team could discuss how a delegated public-service interface preserves human agency and participation?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "UNSense's current organizational status and team were not verified. Do not treat the 2018 account as an active company offer; current work, contact and availability need confirmation.",
+      "source_ids": [
+        "global_unstudio_research_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "ahti_heinla_starship",
+      "name": "Ahti Heinla / Starship Technologies research or campus partnerships",
+      "institution": "Starship Technologies",
+      "role": "Co-founder and CEO, as identified in its 2026 launch release",
+      "location": "Tallinn, Estonia / international campus and urban operations",
+      "geography": "Estonia",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Delivery handoffs",
+        "Public robot circulation",
+        "Delegation and oversight"
+      ],
+      "email": "",
+      "contact_url": "https://www.starship.xyz/wp-content/uploads/2026/01/Uber-Eats-x-Starship-Leeds-Launch.pdf",
+      "evidence": "Starship's January 2026 release identifies Heinla as co-founder and CEO and describes Level-4 delivery robots with human oversight for assistance.",
+      "possible_contribution": "A practical case for the boundary between outdoor autonomous delivery and a building's public entrance. Could examine waiting, transfer zones, congestion and who resolves exceptions.",
+      "first_ask": "Could a campus study compare doorway handoff locations and human-priority circulation, including the work needed to resolve robot-delivery exceptions?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "Current individual availability, local deployment partner, campus access, data permissions, costs and public-sector applicability are unconfirmed.",
+      "source_ids": [
+        "global_ahti_heinla_starship_1",
+        "global_ahti_heinla_starship_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "masdar_city",
+      "name": "Masdar City innovation / R&D ecosystem team",
+      "institution": "Masdar City",
+      "role": "Urban development and sustainability testbed",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "geography": "United Arab Emirates",
+      "category": "Practice or industry collaborator",
+      "priority": "Conditional specialist",
+      "strands": [
+        "Urban living laboratories",
+        "Automation and sustainability",
+        "Whole-life costs"
+      ],
+      "email": "",
+      "contact_url": "https://masdarcity.ae/tech-and-innovation/tech",
+      "evidence": "Masdar City describes testing R&D initiatives and an innovation ecosystem. Its brochure calls the city a living laboratory; Mubadala describes mobility and AI research.",
+      "possible_contribution": "Potential setting for examining whether delegated convenience justifies energy, hardware and maintenance costs. A commercial innovation district is not evidence of equivalent civic access.",
+      "first_ask": "Could an occupied-building test compare access benefits and whole-life costs of delegation against simpler service arrangements?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "A relevant building owner, neutral evaluation access, public-use comparability, academic partner, operating costs and research permissions require confirmation.",
+      "source_ids": [
+        "global_masdar_city_1",
+        "global_masdar_city_2",
+        "global_masdar_city_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Middle East",
+      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "lesley_lokko_afi",
+      "name": "Lesley Lokko / African Futures Institute",
+      "institution": "African Futures Institute (AFI)",
+      "role": "Founder; architectural education and research institute",
+      "location": "Accra, Ghana",
+      "geography": "Ghana",
+      "category": "Critical advisor or research-network connector",
+      "priority": "Practice conversations",
+      "strands": [
+        "Architecture and agency",
+        "Educational futures",
+        "Situated public research"
+      ],
+      "email": "info@africanfuturesinstitute.com",
+      "contact_url": "https://www.africanfuturesinstitute.com/about",
+      "evidence": "AFI identifies Lokko and an institute focused on teaching, research, public events, exhibitions and publishing, including a 2026 nomadic programme.",
+      "possible_contribution": "Could challenge a geographically narrow account of whose absence and presence matter, and connect the work to African architectural debate. Appropriate for critique or a research-network conversation.",
+      "first_ask": "What assumptions about representation and public access should an architecture-of-delegation project revisit outside affluent automated institutions?",
+      "supervision_evidence": "No degree-awarding architecture PhD or individual doctoral-supervision route verified at AFI. Record as a research-network and critical-advice connection.",
+      "unknowns": "The mailbox is a general institute route, not Lokko's personal address. Interest, availability, programme participation, costs and any academic partnership require confirmation.",
+      "source_ids": [
+        "global_lesley_lokko_afi_1",
+        "global_lesley_lokko_afi_2"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Independent research institute",
+      "region": "Africa",
+      "contact_route_status": "Published professional email",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "alejandro_aravena",
+      "name": "Alejandro Aravena / ELEMENTAL team",
+      "institution": "ELEMENTAL",
+      "role": "Architect and practice leader",
+      "location": "Santiago, Chile",
+      "geography": "Chile",
+      "category": "Practice or industry collaborator",
+      "priority": "Practice conversations",
+      "strands": [
+        "Public deliberation",
+        "Community participation",
+        "Spatial agency"
+      ],
+      "email": "",
+      "contact_url": "https://www.elementalchile.cl/contact",
+      "evidence": "ELEMENTAL identifies Aravena and its work from housing to public space. The 2021 Biennale project examined places for Chilean and Mapuche communities to meet and deliberate.",
+      "possible_contribution": "Useful precedent for shared intent and rooms of deliberation grounded in contested collective life. Could challenge the premise that representation problems should be solved by AI infrastructure.",
+      "first_ask": "What spatial conditions make representation and deliberation meaningful, and when would a proxy weaken rather than support them?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; approach for critique, technical collaboration or case-study access through an academic host.",
+      "unknowns": "The Biennale work is historical. Current availability, a relevant public-building case, study access, language and any research collaboration require confirmation.",
+      "source_ids": [
+        "global_alejandro_aravena_1",
+        "global_alejandro_aravena_2",
+        "global_alejandro_aravena_3"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Latin America",
+      "contact_route_status": "Published organizational inquiry route",
+      "source_batch": "Global expansion 2026-10-08"
+    },
+    {
+      "id": "mehdi_elhaoussine_legic",
+      "name": "Mehdi Elhaoussine / LEGIC",
+      "institution": "LEGIC Identsystems",
+      "role": "General Manager; secure digital identity and credential technology",
+      "location": "Switzerland; international access-system partners",
+      "geography": "Switzerland",
+      "category": "Practice or industry collaborator",
+      "priority": "First conversations",
+      "strands": [
+        "Delegated identity",
+        "Limited credentials",
+        "Spatial authorization"
+      ],
+      "email": "",
+      "contact_url": "https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors",
+      "evidence": "The September 2026 pilot announcement identifies Elhaoussine and LEGIC's secure digital credentials as the identity layer allowing ANYmal to request door access.",
+      "possible_contribution": "Could help test how a person's limited mandate differs from a robot's technical identity, and where staff must resolve exceptions. Useful for linking the pilot to Proxy Society's authority and rights work.",
+      "first_ask": "How could a research trial distinguish robot identity from a person's delegated mandate, including expiration, withdrawal and human exceptions?",
+      "supervision_evidence": "No doctoral supervision or degree-awarding route established; technical collaboration would require an academic host.",
+      "unknowns": "The pilot proves machine authentication, not a person-to-proxy delegation chain. Mandate representation, expiration/revocation, civic applicability, availability, contact route and costs require confirmation.",
+      "source_ids": [
+        "global_dormakaba_pilot_1"
+      ],
+      "checked_on": "2026-10-08",
+      "existing_relationship": "Unknown",
+      "outreach_in_this_task": "None",
+      "response": "",
+      "next_follow_up": "",
+      "provider_type": "Company",
+      "region": "Europe",
+      "contact_route_status": "Official joint pilot announcement; direct personal contact not verified",
+      "source_batch": "Global expansion 2026-10-08"
     }
   ],
   "metadata": {
-    "title": "Proxy Society — architecture and PhD contact map",
+    "title": "Proxy Society architecture and PhD contact map",
     "checked_on": "2026-10-08",
     "timezone": "Asia/Manila",
-    "scope": "International map including Europe, China, Taiwan, South Korea, Japan and other Asia-Pacific/US routes",
+    "scope": "Global research map across Europe, North America, Latin America, Africa, Middle East and Asia-Pacific, with China, Taiwan, South Korea and Japan retained explicitly.",
     "status": "Research only; no outreach performed",
     "fit_assessment": "Suggested contributions, priorities and first asks are research judgments, not endorsements or confirmed commitments.",
     "availability": "Published roles, contact routes and supervision evidence were checked. No person has confirmed capacity, funding, topic acceptance or an appointment for this project.",
@@ -1676,6 +4539,242 @@
         "kanda"
       ]
     },
-    "geography_definition": "Professional location or project base; not citizenship. Taiwan and China are separate search geographies in this map."
+    "geography_definition": "Professional location or project base; not citizenship. Taiwan and China are separate search geographies in this map.",
+    "global_expansion": {
+      "checked_on": "2026-10-08",
+      "retained_leads": 41,
+      "new_leads": 61,
+      "total_leads": 102,
+      "new_academic_leads": 37,
+      "new_company_leads": 23,
+      "new_independent_institute_leads": 1,
+      "search_geographies": [
+        "Australia",
+        "Austria",
+        "Belgium",
+        "Brazil",
+        "Canada",
+        "Chile",
+        "China",
+        "Denmark",
+        "Estonia",
+        "Finland",
+        "France",
+        "Germany",
+        "Ghana",
+        "Hong Kong",
+        "India",
+        "Italy",
+        "Japan",
+        "Netherlands",
+        "New Zealand",
+        "Norway",
+        "Portugal",
+        "Singapore",
+        "South Africa",
+        "South Korea",
+        "Sweden",
+        "Switzerland",
+        "Taiwan",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "university_and_architecture_school_network": [
+        "UCL",
+        "Estonian Academy of Arts",
+        "TU Delft",
+        "Tampere University",
+        "Northumbria University",
+        "Aalto University",
+        "Singapore University of Technology and Design",
+        "MIT",
+        "Royal Danish Academy",
+        "RMIT University",
+        "Harvard University",
+        "Tongji University",
+        "Tsinghua University",
+        "National Cheng Kung University",
+        "National Yang Ming Chiao Tung University",
+        "KAIST",
+        "Institute of Science Tokyo",
+        "University of Tokyo",
+        "Kyoto University",
+        "ETH Zurich",
+        "EPFL",
+        "University of Stuttgart",
+        "Technical University of Munich",
+        "Chalmers University of Technology",
+        "KTH Royal Institute of Technology",
+        "Oslo School of Architecture and Design",
+        "Aalborg University",
+        "Politecnico di Milano",
+        "University of Lisbon",
+        "TU Braunschweig",
+        "KU Leuven",
+        "Università Iuav di Venezia",
+        "TU Wien",
+        "Carnegie Mellon University",
+        "Cornell University",
+        "University of Michigan",
+        "University of Pennsylvania",
+        "University of California Berkeley",
+        "Georgia Institute of Technology",
+        "Penn State University",
+        "University of Waterloo",
+        "University of British Columbia",
+        "University of Sydney",
+        "UNSW Sydney",
+        "University of Melbourne",
+        "Victoria University of Wellington",
+        "University of Hong Kong",
+        "National University of Singapore",
+        "University of São Paulo",
+        "Federal University of Minas Gerais",
+        "University of Pretoria",
+        "University of the Witwatersrand",
+        "CEPT University",
+        "University of Cambridge"
+      ],
+      "lead_ids": [
+        "henriette_bier",
+        "benjamin_dillenburger",
+        "dieter_dietz",
+        "achim_menges",
+        "kathrin_doerfler",
+        "lars_marcus",
+        "daniel_koch",
+        "andrew_morrison",
+        "ole_jensen",
+        "alessandro_biamonti",
+        "teresa_heitor",
+        "tatjana_schneider",
+        "rachel_armstrong",
+        "francesco_musco",
+        "christian_kuehn",
+        "daniel_cardoso",
+        "jenny_sabin",
+        "sean_ahlquist",
+        "robert_stuart_smith",
+        "kyle_steinfeld",
+        "sonit_bafna",
+        "jose_duarte",
+        "carlo_ratti",
+        "philip_beesley",
+        "annalisa_meyboom",
+        "luke_hespanhol",
+        "hank_haeusler",
+        "stanislav_roudavski",
+        "tane_moleta",
+        "kristof_crolla",
+        "patrick_janssen",
+        "david_sperling",
+        "ana_paula_baltazar",
+        "chrisna_du_plessis",
+        "kirsten_doermann",
+        "sejal_patel",
+        "ronita_bardhan",
+        "martha_tsigkari",
+        "shajay_bhooshan",
+        "birgitte_svarre",
+        "upali_nanda",
+        "tim_stonor",
+        "anab_jain",
+        "kone_robot_api",
+        "naver_labs",
+        "takenaka_rd",
+        "arup_research",
+        "nbbj_research",
+        "plp_labs",
+        "wong_mun_summ",
+        "schindler_colab",
+        "dormakaba_pilot",
+        "anybotics_pilot",
+        "snohetta_practice",
+        "winy_maas",
+        "unstudio_research",
+        "ahti_heinla_starship",
+        "masdar_city",
+        "lesley_lokko_afi",
+        "alejandro_aravena",
+        "mehdi_elhaoussine_legic"
+      ],
+      "method": "Primary institutional, lab, company and professional pages. Published evidence is separate from fit judgments; historical, moved and emeritus roles are identified. Original 41 records retained without a new full re-audit.",
+      "programme_checks": "Programme existence and selected eligibility distinctions checked; no comprehensive open-vacancy, funding or deadline audit.",
+      "programme_screening": [
+        {
+          "id": "cmu",
+          "name": "Carnegie Mellon, PhD in Computational Design",
+          "lead": "Daniel Cardoso Llach",
+          "evidence": "The architecture-school programme explicitly combines technical, creative and critical backgrounds, tangible interaction, responsive environments and ethnographic study.",
+          "next": "Strong fit to investigate for an interaction-design MA; confirm formal degree equivalence, funding, current application cycle and supervisor capacity.",
+          "source_id": "global_daniel_cardoso_3"
+        },
+        {
+          "id": "ubc",
+          "name": "UBC, PhD in Design, Technology and Society",
+          "lead": "AnnaLisa Meyboom",
+          "evidence": "SALA hosts an interdisciplinary design doctorate; the graduate supervisor directory links Meyboom to it.",
+          "next": "Check whether the MA's research component and architectural relevance meet admission requirements; separate admission from available funding.",
+          "source_id": "global_annalisa_meyboom_3"
+        },
+        {
+          "id": "kth",
+          "name": "KTH, doctorate in Architecture",
+          "lead": "Daniel Koch López",
+          "evidence": "Doctoral study is normally employment through an advertised vacancy, with at least four years of guaranteed funding; relevant equivalent degrees may qualify.",
+          "next": "Find a matching vacancy or approved external-employer funding route. General supervisor interest does not create an open funded position.",
+          "source_id": "global_daniel_koch_3"
+        },
+        {
+          "id": "chalmers",
+          "name": "Chalmers, graduate school in Architecture",
+          "lead": "Lars Marcus",
+          "evidence": "An architecture doctoral school and its formal syllabus are published.",
+          "next": "Ask about group fit, qualifying background and a real funded recruitment route; no applicable vacancy was established.",
+          "source_id": "global_lars_marcus_3"
+        },
+        {
+          "id": "cambridge",
+          "name": "Cambridge, PhD in Architecture",
+          "lead": "Ronita Bardhan",
+          "evidence": "Requirements distinguish a research master's or equivalent in architecture or a related discipline from a professional MArch; grade equivalence is specified.",
+          "next": "Confirm the interaction-design MA is accepted as a related research degree and check transcript equivalence, supervisor interest, current cycle and funding.",
+          "source_id": "global_ronita_bardhan_4"
+        },
+        {
+          "id": "eth",
+          "name": "ETH Zurich, D-ARCH doctorate",
+          "lead": "Benjamin Dillenburger",
+          "evidence": "D-ARCH publishes a doctorate requiring a recognized master's and excellent academic performance; individual and programme routes are distinguished.",
+          "next": "Identify an accepting professor and the chair's funding route. Do not assume an architecture-only degree rule or an automatic acceptance of a design MA.",
+          "source_id": "global_benjamin_dillenburger_3"
+        },
+        {
+          "id": "epfl",
+          "name": "EPFL, Architecture and Sciences of the City (EDAR)",
+          "lead": "Dieter Dietz",
+          "evidence": "EDAR unites architecture with social sciences concerned with inhabited space; programme applications have their own admissions process.",
+          "next": "Confirm an appropriate thesis director, topic and qualification fit, application cycle and funding. A laboratory conversation is not programme admission.",
+          "source_id": "global_dieter_dietz_4"
+        },
+        {
+          "id": "gatech",
+          "name": "Georgia Tech, PhD in Architecture",
+          "lead": "Sonit Bafna",
+          "evidence": "A formal architecture doctorate and admissions page are published; the school emphasizes design, technology and culture.",
+          "next": "Ask the programme director about interaction-design degree equivalence, portfolio/research expectations, funding and current deadlines.",
+          "source_id": "global_sonit_bafna_3"
+        },
+        {
+          "id": "cept",
+          "name": "CEPT, PhD in Architecture / Planning",
+          "lead": "Architecture or Planning programme team; Sejal Patel as a connector",
+          "evidence": "CEPT publishes separate architecture and planning doctorates. The retrieved 2026 intake pages concern Monsoon/July 2026.",
+          "next": "That intake is past. Find the next official call and appropriate programme chair; Patel's 2026 Management deanship does not establish a planning-supervisor route.",
+          "source_id": "global_sejal_patel_4"
+        }
+      ]
+    }
   }
 }

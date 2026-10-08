@@ -4,7 +4,8 @@ This is the project's research index. Updated 8 October 2026.
 
 ## Architecture and PhD
 
-- [Architecture and PhD contact map](phd-contact-map/README.md): 41 academic and practice leads, fit assessments, published contact routes and supervision evidence.
+- [Architecture and PhD contact map](phd-contact-map/README.md): 102 academic, practice and industry leads, fit assessments, published contact routes and supervision evidence.
+- [Global expansion](phd-contact-map/global-expansion.md): 61 additions across six regions; 54 university and architecture-school organizations represented in the combined map; nine programme screenings and proposed academic/practice connections.
 - [China, Taiwan, South Korea and Japan](phd-contact-map/east-asia.md): four leads in each geography, including programme and contact distinctions.
 - [CSV tracker](phd-contact-map/contacts.csv) and [structured records](phd-contact-map/contacts.json).
 - [Prepared writing index](../writing/README.md): the current architecture track, earlier proposal, social permeability, human intent and first-contact wording.
