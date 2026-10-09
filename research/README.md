@@ -4,9 +4,11 @@ This is the project's research index. Updated 9 October 2026 (Asia/Manila).
 
 ## Architecture and PhD
 
-- [Architecture and PhD contact map](phd-contact-map/README.md): 118 academic, practice and industry leads, fit assessments, published contact routes and supervision evidence.
+- [Architecture and PhD contact map](phd-contact-map/README.md): 303 leads, including 153 named people and 150 institutional, practice and industry referral contacts; evidence, fit and supervision are recorded separately.
+- [World country coverage](phd-contact-map/world-map.md): 201 search geographies, including all 193 UN members and both observers. Published country-connected routes cover 197 geographies; three have externally based connections and North Korea has only an indirect referral. Includes a verification queue.
+- [Country coverage CSV](phd-contact-map/world-coverage.csv) and [JSON](phd-contact-map/world-coverage.json): geography, lead IDs, search method, source links and remaining gaps.
 - [Global expansion](phd-contact-map/global-expansion.md): the 8 October snapshot with 61 additions and nine programme screenings.
-- [Continuation](phd-contact-map/continuation.md): 16 more leads; current coverage is 61 university and architecture-school organizations across 36 search geographies.
+- [Continuation](phd-contact-map/continuation.md): the 16 additions and 118-lead snapshot preceding the world sweep, with 61 university and architecture-school organizations across 36 search geographies at that point.
 - [Funding and recruitment](phd-contact-map/funding-and-recruitment.md): 18 routes, separating open recruitment, competitive funding, restricted projects and closed/next-round watchlists. [Route CSV](phd-contact-map/funding-routes.csv) · [Route JSON](phd-contact-map/funding-routes.json).
 - [China, Taiwan, South Korea and Japan](phd-contact-map/east-asia.md): four leads in each geography, including programme and contact distinctions.
 - [CSV tracker](phd-contact-map/contacts.csv) and [structured records](phd-contact-map/contacts.json).

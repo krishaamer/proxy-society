@@ -77,7 +77,7 @@ checkMirror("funding-routes.csv", funding.routes, funding.sources);
 
 const coverage = contacts.metadata.current_coverage;
 assert.equal(coverage.total_leads, contacts.contacts.length);
-const geographies = [...new Set(contacts.contacts.flatMap(c => (c.geography || "").split(/\s*\/\s*/)).filter(Boolean))].sort();
+const geographies = [...new Set(contacts.contacts.flatMap(c => c.coverage_geographies ?? (c.geography || "").split(/\s*\/\s*/)).filter(Boolean))].sort();
 assert.deepEqual(coverage.search_geographies, geographies);
 assert.equal(coverage.search_geography_count, geographies.length);
 assert.equal(coverage.university_and_architecture_school_organizations, new Set(coverage.university_and_architecture_school_network).size);
@@ -86,7 +86,13 @@ assert.equal(coverage.funding_routes, funding.routes.length);
 
 const continuation = contacts.metadata.continuation;
 assert.equal(continuation.new_leads, continuation.lead_ids.length);
-assert.equal(continuation.retained_leads + continuation.new_leads, contacts.contacts.length);
+const world = contacts.metadata.world_expansion;
+assert.equal(continuation.retained_leads + continuation.new_leads, world?.retained_leads ?? contacts.contacts.length);
+if (world) {
+  assert.equal(world.new_leads, world.lead_ids.length);
+  assert.equal(world.retained_leads + world.new_leads, contacts.contacts.length);
+  for (const id of world.lead_ids) assert.ok(ids.has(id), "Unknown world-expansion lead " + id);
+}
 const leadReport = read("continuation.md");
 for (const id of continuation.lead_ids) {
   assert.ok(ids.has(id), "Unknown continuation lead " + id);

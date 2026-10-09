@@ -1,10 +1,16 @@
 # Proxy Society architecture and PhD contact map
 
-Expanded research map, updated 9 October 2026 (Asia/Manila). 118 academic, practice and industry leads across 36 search geographies, with 61 distinct university and architecture-school organizations represented. The [8 October global expansion](global-expansion.md) added 61 records to the retained 41-lead starting map; the [continuation](continuation.md) adds another 16. Individual records retain their own check dates.
+Expanded research map, updated 9 October 2026 (Asia/Manila). The shared tracker contains 303 leads: 153 named people and 150 institutional, practice and industry referral contacts across 201 search geographies. The retained 118-lead map includes the initial 41 people, the [8 October global expansion](global-expansion.md) and the [continuation](continuation.md). The world sweep adds 185 leads after reconciling two duplicate professors. Individual records retain their own check dates.
 
 The strongest first conversations are Ava Fatah gen Schieck, Jüri Soolep, Kerstin Sailer, Maroš Krivý, Klaske Havik, Panu Lehtovuori, Ruth Conroy Dalton and Sam Conrad Joyce. For an early practice conversation, approach Usman Haque and Ling Tan together at HAQUE TAN.
 
 The map began from the Architecture of Presence proposal, Social Permeability Map and Maintaining Human Intent proposition. The current [Architecture of Delegated Presence brief](../../writing/proposals/architecture-of-delegated-presence.md) adds an equitable-access framing and a bounded civic-building threshold pilot, with comparisons against ordinary booking, fixed automation and human assistance. Priorities and possible contributions below are judgments about fit. Published supervision evidence is stated separately. Capacity, funding, willingness, admission eligibility and any formal appointment remain unconfirmed. Existing relationships and the applicant's enrolment status are unknown. No outreach was performed.
+
+## World coverage
+
+The [world map and verification queue](world-map.md) records all 193 UN member states and the two observer states, plus Taiwan, Kosovo, the Cook Islands, Niue, Western Sahara and the retained Hong Kong research geography: 201 rows. Published country-connected routes cover 197 geographies. Marshall Islands, Niue and Western Sahara have externally based connections; North Korea has only an indirect UIA referral and its local route remains unresolved. Eleven dated, directory-sourced or access-limited routes require extra verification.
+
+Use the [coverage CSV](world-coverage.csv) or [JSON](world-coverage.json) for every geography, its lead IDs, research method and open questions. New candidate notes are grouped by [Africa](world-leads/africa.md), [Americas](world-leads/americas.md), [Asia](world-leads/asia.md), [Europe](world-leads/europe.md) and [Oceania](world-leads/oceania.md). Named people are connected to 86 geographies. Referral routes are distinguished from individual architects, academics and potential supervisors. Coverage does not establish topic fit, current capacity or a doctoral route.
 
 ## Current recruitment and regional continuation
 
@@ -26,7 +32,7 @@ The original 41 records are retained without a new full re-audit. The sections b
 
 ## China, Taiwan, South Korea and Japan
 
-The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All 118 leads are in the same CSV/JSON tracker; use its `geography` field to filter.
+The [East Asia expansion](east-asia.md) adds four people in each requested geography, with detailed fit, contacts, supervision evidence and degree-route caveats. All leads are in the same CSV/JSON tracker; use `coverage_geographies`, `contact_kind`, `provider_type` and `source_batch` to filter.
 
 | Geography | Added leads |
 | --- | --- |
@@ -557,7 +563,7 @@ Architect and ALA partner. Helsinki, Finland. Suggested role: practitioner and c
 
 - `contacts.json` contains the complete structured records and source directory.
 - `contacts.csv` is a spreadsheet-friendly tracker with sources, contact routes, open points and space to record outreach.
-- This report covers the original 25 leads; [the East Asia report](east-asia.md) adds the 16 leads in China, Taiwan, South Korea and Japan. The [global report](global-expansion.md) adds readable notes for the other 61 leads. Together these reports cover all 102 records.
+- This report covers the original 25 leads; [East Asia](east-asia.md) covers 16; the [global report](global-expansion.md) covers 61; the [continuation](continuation.md) covers 16; and the [world report](world-map.md) links to notes for 185 more. Together these reports cover all 303 records.
 
 After an authorised conversation, record the actual response, capacity, recommended role and next step. Recheck published roles and addresses before sending. A listed supervisor or open invitation to inquire is not a commitment to this project.
 

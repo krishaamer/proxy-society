@@ -1,6 +1,6 @@
 # Regional and recruitment continuation
 
-Checked 9 October 2026 (Asia/Manila). This pass adds 16 leads: nine academic connections and seven company/practice connections. The combined map now contains 118 leads, 61 distinct university and architecture-school organizations, and 36 search geographies. The new geography coverage is Indonesia, Malaysia, Mexico, the Philippines, Spain and Turkey. These labels describe professional or project location, not nationality.
+Checked 9 October 2026 (Asia/Manila). This pass added 16 leads: nine academic connections and seven company/practice connections, bringing the map at that point to 118 leads, 61 distinct university and architecture-school organizations, and 36 search geographies. The new geography coverage was Indonesia, Malaysia, Mexico, the Philippines, Spain and Turkey. These labels describe professional or project location, not nationality. The later [world sweep](world-map.md) preserves these records within the 303-lead tracker and its 201 search geographies.
 
 The original 102 records remain intact, without a full new affiliation audit. The [8 October global expansion](global-expansion.md) and [East Asia report](east-asia.md) retain their historical evidence. The current combined [CSV](contacts.csv) and [JSON](contacts.json) include this pass under `source_batch = regional_and_funding_continuation_2026_10_09`.
 
