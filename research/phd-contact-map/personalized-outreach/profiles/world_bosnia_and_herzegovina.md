@@ -1,6 +1,6 @@
 # Erdin Salihović — research for first contact
 
-**Lead:** `world_bosnia_and_herzegovina`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bosnia_and_herzegovina`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Sarajevo, Faculty of Architecture. **Recorded role:** Professor; dean named on university directory.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could connect the project to architectural research and doctoral colleagues. The recorded mailbox is the faculty’s general route.
 
-**Draft connection (assessment):** The University of Sarajevo identifies your architecture leadership, and the faculty publishes study cycles including doctoral research. I am seeking an appropriate architectural home for a bounded design experiment.
+**Selected source anchor:** [Sarajevo architecture faculty’s three-cycle study structure](https://af.unsa.ba/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you suggest a supervisor or research group for comparing civic-threshold layouts through access, waiting and social experience, and the correct doctoral enquiry process?
+**Draft connection (assessment):** [Sarajevo architecture faculty’s three-cycle study structure](https://af.unsa.ba/) identifies an architectural doctoral context. I would like to establish the appropriate researcher rather than infer your supervision capacity from the dean listing.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares counter visibility and staff reach across personal and AI-mediated collection, with the software and task held constant. Plans, sections and staged encounters would form the architectural evidence.
+
+**Concrete first ask (proposed):** Could you suggest a faculty colleague to review that study and assess doctoral fit? I would send the comparison diagram and ask which spatial contribution the dissertation would need to establish.
 
 ## Supervision and open questions
 

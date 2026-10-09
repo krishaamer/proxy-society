@@ -1,6 +1,6 @@
 # Seema Khanwalkar — research for first contact
 
-**Lead:** `world_india`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_india`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** CEPT University, Faculty of Design. **Recorded role:** Adjunct professor of social sciences.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A complementary methods advisor for spatial meaning and the legibility of delegation; an architecture supervisor and formal doctoral eligibility would be separate questions.
 
-**Draft connection (assessment):** Your CEPT work in semiotics, anthropology and design offers a relevant way to examine how people interpret a spatial boundary and the authority of a representative.
+**Selected source anchor:** [CEPT teaching in semiotics, anthropology and digital cultures](https://cept.ac.in/publications/applied-semiotic-tools-for-the-indian-cultural-context) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Which observations or elicitation methods would reveal whether users understand a proxy's limited mandate, and who might anchor the architectural doctoral component?
+**Draft connection (assessment):** Your [CEPT teaching in semiotics, anthropology and digital cultures](https://cept.ac.in/publications/applied-semiotic-tools-for-the-indian-cultural-context) connects the proposed interface to a precise interpretive problem: what does a visitor take the agent’s presence and its permission marker to mean?
+
+**Specific spatial case (proposal):** For Proxy Society, a library-counter prototype would show an AI agent’s named author, one permitted action and a human takeover state. Participants would interpret the cues in two layouts, including a request whose permission has ended.
+
+**Concrete first ask (proposed):** Could you critique that interpretation exercise or advise on a semiotic method? I am seeking a methods advisor alongside an architecture PhD supervisor, starting with the cue-and-scene sheet rather than an assumed technology collaboration.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Ronita Bardhan — research for first contact
 
-**Lead:** `ronita_bardhan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `ronita_bardhan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Cambridge, Department of Architecture / Sustainable Design Group. **Recorded role:** Professor of Sustainable Built Environment and Health.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could make equitable access, health and measurable human outcomes the architectural centre of the project. Especially useful if the pilot connects delegated services to mobility or access burdens.
 
-**Draft connection (assessment):** Your work triangulates building physics, computational methods and social research to examine health and environmental burdens. The pilot similarly needs to identify who benefits and who bears the cost of a service change.
+**Selected source anchor:** [Cambridge Sustainable Design research](https://www.sustainabledesign.arct.cam.ac.uk/people/ronita-bardhan) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an access-focused threshold comparison fit your group, and which health, gender or workload measures would be proportionate to a small architectural pilot?
+**Draft connection (assessment):** Your [Cambridge Sustainable Design research](https://www.sustainabledesign.arct.cam.ac.uk/people/ronita-bardhan) gives a context for tying a design change to measurable human outcomes. I want the study to report whose access improves, rather than only an average service time.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare personal arrival, human assistance and an AI-mediated request across two layouts. The plan would record travel avoided, access to help, waiting and perceived control, with participant differences explicit in the analysis.
+
+**Concrete first ask (proposed):** Would you consider a Cambridge architecture PhD conversation? I would send the plan and outcome matrix, asking which access claim a small pilot can substantiate and which would need a larger or different study.
 
 ## Supervision and open questions
 

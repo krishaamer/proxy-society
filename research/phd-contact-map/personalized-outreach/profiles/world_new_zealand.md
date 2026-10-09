@@ -1,6 +1,6 @@
 # Te Kāhui Whaihanga New Zealand Institute of Architects — research for first contact
 
-**Lead:** `world_new_zealand`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_new_zealand`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Te Kāhui Whaihanga New Zealand Institute of Architects. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Te Kāhui Whaihanga promotes architecture that enhances cities, towns and natural environments. I am looking for a practitioner whose work can question the wider value of a small service change.
+**Selected source anchor:** [Te Kāhui Whaihanga’s professional network](https://www.nzia.co.nz/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend someone studying civic reception, inclusive access or everyday public-building use who might critique a delegated-threshold experiment?
+**Draft connection (assessment):** I am approaching [Te Kāhui Whaihanga’s professional network](https://www.nzia.co.nz/) for a member with public-library and occupied-interior evaluation experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare two handoff positions for AI-delegated collection, documenting staff visibility, passage and the ability to question or resume the task personally.
+
+**Concrete first ask (proposed):** Could you recommend a New Zealand architect or researcher for a focused plan-and-script critique? I would seek practice advice alongside an architecture PhD proposal, with a willing operator and study permissions still unresolved.
 
 ## Supervision and open questions
 

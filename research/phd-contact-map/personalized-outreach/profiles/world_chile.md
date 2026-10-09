@@ -1,6 +1,6 @@
 # Colegio de Arquitectos de Chile — research for first contact
 
-**Lead:** `world_chile`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_chile`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Colegio de Arquitectos de Chile. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Colegio's published programme includes architecture-for-all and inclusive-design activity. That is a useful connection to a pilot that must protect people who choose or need to attend in person.
+**Selected source anchor:** [Colegio de Arquitectos de Chile](https://colegioarquitectos.com/noticias/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or researcher studying inclusive civic access, reception or spatial behaviour who might advise on the comparison?
+**Draft connection (assessment):** [Colegio de Arquitectos de Chile](https://colegioarquitectos.com/noticias/) is the professional route for finding a member experienced in civic buildings or post-occupancy evaluation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare the ordinary counter with a reversible AI-mediated collection point, testing access to staff, refusal and the option to remain in shared space.
+
+**Concrete first ask (proposed):** Could you suggest a Chilean architect or researcher to critique the plans and evaluation questions? I would begin with a focused design conversation alongside my search for a doctoral context, without presuming an available study site.
 
 ## Supervision and open questions
 

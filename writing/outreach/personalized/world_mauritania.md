@@ -1,14 +1,14 @@
 # Email draft — Atelier d’Architecture et de Design (AAD)
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_mauritania`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_mauritania`.
 
 **Recipient:** Atelier d’Architecture et de Design (AAD) — AAD.
 
 **Published email:** info@aad.mr. **Route:** [Published contact page](https://aad.mr/contact/).
 
-**Subject:** A Mauritanian practice enquiry on civic access
+**Subject:** AAD: review a staff-accessible delegated collection bay
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_mauritania.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_mauritania.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear AAD team,
 
-AAD's published architecture-and-design route provides a starting point for a local critique of reception and everyday service arrangements.
+[AAD’s Mauritania practice contact](https://aad.mr/contact/) provides the local architectural route I am using to request a small feasibility critique.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a proposed library reception would retain the human counter while testing two positions for AI-mediated collection. The dimensions and sightlines would be evaluated for staff intervention and passing visitors.
 
-Could an appropriate designer discuss a small civic-threshold comparison, or suggest a Mauritanian architect or researcher with public-building experience?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could an architect in your office review the plan and section, or refer me to a Mauritania civic-building colleague? This is practice advice for an architecture PhD proposal before proposing a site, equipment or collaboration.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_mauritania.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 133 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 94 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

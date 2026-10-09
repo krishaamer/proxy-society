@@ -1,6 +1,6 @@
 # Ordre National des Architectes de la RDC — research for first contact
 
-**Lead:** `world_democratic_republic_of_the_congo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_democratic_republic_of_the_congo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ONARDC. **Recorded role:** Professional architecture order.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a local architect for community-space and threshold design critique; current delivery needs checking.
 
-**Draft connection (assessment):** ONARDC's professional register and public enquiry route offer a way to identify a relevant architect in the Democratic Republic of the Congo.
+**Selected source anchor:** [ONARDC’s Kinshasa professional route](https://www.onadrc.com/contact.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a practitioner or researcher experienced in civic facilities, inclusive reception or everyday building use for a short discussion of the proposed pilot?
+**Draft connection (assessment):** [ONARDC’s Kinshasa professional route](https://www.onadrc.com/contact.html) identifies the professional order in the Democratic Republic of the Congo. I am looking for a member with civic-building or interior-use experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-library study would test a visible handoff bay for AI-mediated requests beside an ordinary help counter, documenting waiting, passing and staff intervention.
+
+**Concrete first ask (proposed):** Could you suggest an architect or architecture researcher to critique the plan and observation criteria? I would begin with a focused conversation for an architecture PhD proposal, without presuming a field site or advisory commitment.
 
 ## Supervision and open questions
 

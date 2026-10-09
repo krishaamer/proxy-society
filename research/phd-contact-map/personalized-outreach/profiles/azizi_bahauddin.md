@@ -1,6 +1,6 @@
 # Azizi Bahauddin — research for first contact
 
-**Lead:** `azizi_bahauddin`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `azizi_bahauddin`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universiti Sains Malaysia, School of Housing, Building and Planning. **Recorded role:** Professor of interior and environmental design.
 
@@ -18,9 +18,13 @@ The indexed USM CV identifies Azizi bin Bahauddin and expertise in interior/envi
 
 Help assess how entry, waiting, orientation and handoff affect embodied comfort and belonging. An interiors-based evaluation could prevent the prototype from measuring only task completion.
 
-**Draft connection (assessment):** Your published expertise in interior and environmental design and psychology and behaviour in architecture is relevant to how users interpret a reception space and their choices within it.
+**Selected source anchor:** [USM CV on interior/environment design and architectural behaviour](https://experts.usm.my/cv_path/M2YwMDlmZmM2NzBlY2Q2YzRiYzFhOTIyMjkzMWFhNmRkNjM1MTI5YTdlNDNlZjdjYjQ0ZTVhMTIzNDQ5OGYxNTFlYmUxMjI1OWNmODhmZWQ5YzY5YWYzYjM5MGUwZWJmNzVkNGQxMDM2ZTVjYWQ5ZmZjZGU3ZTE3ZmNmMWM2MDROcXVIOFRWTFp0NlBRK3BxV2Q0cWdIaUlaeHpmQ0VsUTh3MGg3Tmsrb3pNPQ%3D%3D/1) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed USM CV text identifies the scholar and expertise in interior/environment design and psychology/behaviour in architecture. The complete publication and supervision lists were not reviewed.
 
-**Concrete first ask (proposed):** Which spatial-experience measures would make a delegated-threshold comparison credible, and who at USM should assess its architectural doctoral fit?
+**Draft connection (assessment):** [USM CV on interior/environment design and architectural behaviour](https://experts.usm.my/cv_path/M2YwMDlmZmM2NzBlY2Q2YzRiYzFhOTIyMjkzMWFhNmRkNjM1MTI5YTdlNDNlZjdjYjQ0ZTVhMTIzNDQ5OGYxNTFlYmUxMjI1OWNmODhmZWQ5YzY5YWYzYjM5MGUwZWJmNzVkNGQxMDM2ZTVjYWQ5ZmZjZGU3ZTE3ZmNmMWM2MDROcXVIOFRWTFp0NlBRK3BxV2Q0cWdIaUlaeHpmQ0VsUTh3MGg3Tmsrb3pNPQ%3D%3D/1) identifies a precise methods connection for this proposal: how an interior is perceived and how people act within it.
+
+**Specific spatial case (proposal):** For Proxy Society, two library handoff layouts would handle the same delegated collection. The study would record hesitation, help-seeking, perceived control and willingness to remain, alongside personal arrival and human assistance.
+
+**Concrete first ask (proposed):** Could you review the plan and outcome set and discuss a possible USM research or doctoral fit? I would ask how to separate the effect of enclosure and staff visibility from unfamiliarity with the AI-mediated service.
 
 ## Supervision and open questions
 

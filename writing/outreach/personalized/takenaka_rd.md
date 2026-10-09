@@ -1,14 +1,14 @@
 # Email draft — Takenaka R&D / open innovation team
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `takenaka_rd`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `takenaka_rd`.
 
 **Recipient:** Takenaka R&D / open innovation team — Takenaka Corporation.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.takenaka.co.jp/takenaka_e/rd/openinnovation/01/index.html).
 
-**Subject:** Lessons from the 2019 building-service-robot trial
+**Subject:** Lessons from the 2019 BIM/service-robot demonstration
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/takenaka_rd.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/takenaka_rd.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear Takenaka Corporation team,
 
-Takenaka's published December 2019 Midou Building demonstration and BIM-based robot platform provide a historical precedent for studying service robots in an existing building.
+The archived [Takenaka’s 2019 building/service-robot demonstration](https://www.takenaka.co.jp/takenaka_e/rd/openinnovation/01/index.html) provides a specific precedent for connecting building information and robot operation. I am using it as historical evidence, rather than assuming that pilot is still active.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library trial would compare where a robot waits when its delegated collection cannot proceed. The architectural issue is whether the building model’s route corresponds to a visible, staff-accessible and human-priority handoff space.
 
-Which current team could discuss what those trials revealed about transfer zones, existing layouts and operational responsibility, and whether any findings are publicly available?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you direct me to public findings or an appropriate R&D colleague on route exceptions and staff intervention from that work? I would send a small operation diagram for a feasibility critique alongside an architecture PhD.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/takenaka_rd.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 144 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 113 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

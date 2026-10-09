@@ -1,6 +1,6 @@
 # Tatjana Schneider — research for first contact
 
-**Lead:** `tatjana_schneider`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `tatjana_schneider`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** TU Braunschweig, Institute for History and Theory of Architecture and the City (GTAS). **Recorded role:** Professor of Architectural Theory.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could question who authorizes proxies, whose work becomes invisible and when a technical intervention reduces public agency. Strong critical counterpart to a computational supervisor.
 
-**Draft connection (assessment):** Your research on the political production of architecture and resistance to exclusionary space is a relevant critique of who benefits when access is automated.
+**Selected source anchor:** [GTAS research on the political production of architecture](https://www.gtas-braunschweig.de/introducing/detail/tatjana-schneider) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you design this pilot to make staff labour, public rights and the distribution of spatial agency visible, rather than assuming convenience is a common benefit?
+**Draft connection (assessment):** [GTAS research on the political production of architecture](https://www.gtas-braunschweig.de/introducing/detail/tatjana-schneider) is why I want a critical advisor involved before prototyping an AI-mediated reception service. The spatial arrangement could shift burdens while presenting itself as convenience.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose mapping who can refuse a delegated library request, who must explain the refusal and who performs correction or maintenance. Two counter layouts would test whether those responsibilities and opportunities to intervene are visible to the people involved.
+
+**Concrete first ask (proposed):** Could you critique that responsibility map and discuss an advisory or doctoral fit? I would send one plan and a refusal scenario, asking what evidence would reveal diminished public agency rather than merely dissatisfied users.
 
 ## Supervision and open questions
 

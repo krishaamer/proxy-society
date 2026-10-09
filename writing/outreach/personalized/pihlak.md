@@ -1,14 +1,14 @@
 # Email draft — Sille Pihlak
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `pihlak`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `pihlak`.
 
 **Recipient:** Sille Pihlak — Estonian Academy of Arts (EKA).
 
 **Published email:** sille.pihlak@artun.ee. **Route:** [Published contact page](https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/).
 
-**Subject:** An EKA context for threshold prototyping
+**Subject:** An EKA prototype route for delegated presence
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/pihlak.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/pihlak.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear Sille Pihlak,
 
-PAKK's work brings research, teaching and industry together through algorithmic design and timber systems. I am exploring whether a modest spatial prototype could similarly connect design decisions with lived building use.
+[PAKK’s algorithmic timber architecture research](https://pakk.artun.ee/) offers a local route to material experimentation. I would like to use a prototype to test reception rather than assume that a new digital service demands new permanent construction.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For an architecture PhD within Proxy Society, I propose one movable threshold mock-up with alternative sightlines, an explicit human route and a bounded AI agent handoff point. The existing counter would provide the baseline; observations would determine whether any added element is warranted.
 
-Which EKA research group or colleague would best critique the architectural contribution and practical scale of this proposed civic-threshold pilot?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you advise on the appropriate EKA supervisory team and prototype facilities? I would send a plan and section first, asking whether that limited comparison is a useful architectural research problem for the faculty.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/pihlak.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 120 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

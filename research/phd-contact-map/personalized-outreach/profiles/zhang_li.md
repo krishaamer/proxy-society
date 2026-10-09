@@ -1,6 +1,6 @@
 # Zhang Li — research for first contact
 
-**Lead:** `zhang_li`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `zhang_li`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Tsinghua University, School of Architecture / Atelier TeamMinus. **Recorded role:** Professor of Architecture and Dean; leads Atelier TeamMinus.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could ground the project in embodied experience, accessibility and public life, helping test which spatial qualities people value when routine transactions can be delegated.
 
-**Draft connection (assessment):** Your work on urban ergonomics connects the body with space and active urban environments. It offers a human-centred starting point for testing a service that can be performed without the person attending.
+**Selected source anchor:** [Tsinghua’s account of urban ergonomics](https://arch.tsinghua.edu.cn/info/xw/2266) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you compare bodily experience, waiting and movement at conventional and delegated civic-building thresholds, and could this support an architectural research discussion?
+**Draft connection (assessment):** [Tsinghua’s account of urban ergonomics](https://arch.tsinghua.edu.cn/info/xw/2266) connects the body with active urban environments. That offers a way to keep bodily choice at the centre of a study involving absent authors and artificial representatives.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed threshold test would compare turning, waiting, sightlines and access to staff across a personal visit and a delegated collection. I would include people who prefer assistance or in-person participation, rather than evaluate the layout only for AI agent circulation.
+
+**Concrete first ask (proposed):** Would you consider discussing supervision or design critique? I would send an ergonomic plan and task sequence, asking which bodily observations would make the architectural comparison convincing and which access needs the first prototype must represent.
 
 ## Supervision and open questions
 

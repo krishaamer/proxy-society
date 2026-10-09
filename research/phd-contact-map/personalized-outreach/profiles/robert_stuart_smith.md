@@ -1,6 +1,6 @@
 # Robert Stuart-Smith — research for first contact
 
-**Lead:** `robert_stuart_smith`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `robert_stuart_smith`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Pennsylvania, Weitzman School of Design / Autonomous Manufacturing Lab. **Recorded role:** Assistant Professor of Architecture; MSD-RAS director; GRASP affiliate.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could advise on architectural autonomy and practical prototype constraints. The core lab emphasis is manufacturing, so operational civic-service relevance should be tested before pursuing the route.
 
-**Draft connection (assessment):** Your Autonomous Manufacturing Lab integrates architectural design with collective robotic processes. I am exploring a related but different condition: bounded autonomous action in a building people already occupy.
+**Selected source anchor:** [Autonomous Manufacturing Lab](https://www.design.upenn.edu/work/autonomous-manufacturing-lab-aml-penn) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you critique the architectural scope of that condition, and which doctoral route or colleague would be appropriate beyond the MSD-RAS programme?
+**Draft connection (assessment):** [Autonomous Manufacturing Lab](https://www.design.upenn.edu/work/autonomous-manufacturing-lab-aml-penn) offers experience with autonomous architectural systems. My proposed experiment concerns their encounter with public use after construction, and I want to test that disciplinary fit explicitly.
+
+**Specific spatial case (proposal):** Proxy Society’s library prototype would give an agent one destination and a stop/handoff rule. Alternative threshold geometries would be tested for passage, staff reach and interruption, with a human-assisted collection as the baseline.
+
+**Concrete first ask (proposed):** Could you review a one-page operation diagram or identify a suitable Penn colleague? I am exploring an architecture PhD, but the immediate request is to distinguish feasible autonomous behaviour from a spatial arrangement that depends on an unrealistic robot capability.
 
 ## Supervision and open questions
 

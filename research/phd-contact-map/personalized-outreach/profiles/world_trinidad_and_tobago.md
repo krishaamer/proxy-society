@@ -1,6 +1,6 @@
 # Trinidad & Tobago Institute of Architects — research for first contact
 
-**Lead:** `world_trinidad_and_tobago`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_trinidad_and_tobago`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Trinidad & Tobago Institute of Architects. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Institute connects local practice with architectural education internationally, including its published support for students studying abroad. I am seeking both a local critique and, where relevant, a research referral.
+**Selected source anchor:** [Trinidad and Tobago Institute of Architects](https://architecture.tt/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a practitioner or academic studying civic reception, inclusive access or everyday public-building use who might discuss the proposed pilot?
+**Draft connection (assessment):** I am approaching [Trinidad and Tobago Institute of Architects](https://architecture.tt/) for a practitioner who has designed or evaluated civic reception and waiting areas.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare a shared counter and side handoff bay for the same AI-mediated task, documenting staff visibility, queue overlap and human takeover alongside ordinary assistance.
+
+**Concrete first ask (proposed):** Could you recommend a local architect or researcher to critique the plans and outcome sheet? I would start with a focused practice conversation for an architecture PhD proposal before seeking a pilot operator.
 
 ## Supervision and open questions
 

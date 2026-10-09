@@ -1,6 +1,6 @@
 # National Council of Architects, Planners, Landscapers and Conservationists (CNAPPC) — research for first contact
 
-**Lead:** `world_italy`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_italy`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Council of Architects, Planners, Landscapers and Conservationists (CNAPPC). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** CNAPPC's national professional network is a relevant route to find an architect or researcher working on the experience of shared public buildings.
+**Selected source anchor:** [CNAPPC’s published professional route](https://www.awn.it/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest someone in reception design, inclusive access or architectural interaction with technology who might critique a small delegated-service pilot?
+**Draft connection (assessment):** I am approaching [CNAPPC’s published professional route](https://www.awn.it/) to find a member experienced in public reception or environment–behaviour evaluation. I would first confirm the current enquiry channel.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare a shared counter with a separate delegated-collection bay, holding the service task constant and documenting human assistance and refusal recovery.
+
+**Concrete first ask (proposed):** Could you identify an Italian architect or researcher to critique the plans and task sequence? This is a focused practice enquiry for an architecture PhD proposal, rather than a request for the council to endorse AI infrastructure.
 
 ## Supervision and open questions
 

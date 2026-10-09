@@ -1,14 +1,14 @@
 # Email draft — Department of Architecture
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_iraq`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_iraq`.
 
 **Recipient:** Department of Architecture — Ashur University, Baghdad.
 
 **Published email:** info@au.edu.iq. **Route:** [Published contact page](https://au.edu.iq/dept_e.php?id=27).
 
-**Subject:** An Ashur architecture research referral
+**Subject:** Ashur architecture referral: observation of reception and human help
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_iraq.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_iraq.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear Ashur University, Baghdad team,
 
-Your architecture department's published Baghdad route is a starting point for finding an appropriate researcher before making claims about topic fit or a doctoral programme.
+I am using [Ashur University’s Baghdad architecture department](https://au.edu.iq/dept_e.php?id=27) to find a faculty colleague who studies public-building use or architectural design research.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library test would compare two handoff positions for an AI-delegated collection, recording approach, waiting, staff intervention and the ability to complete the task personally.
 
-Could you suggest a colleague studying civic facilities, reception or environment-behaviour questions who might critique the pilot's architectural contribution?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you forward this to a suitable researcher or design lecturer? I would send a plan and observation protocol for critique and establish the appropriate doctoral or external-advisory route separately.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_iraq.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 142 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 89 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

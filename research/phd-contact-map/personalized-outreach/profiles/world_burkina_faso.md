@@ -1,6 +1,6 @@
 # Order of Architects of Burkina Faso – OAB — research for first contact
 
-**Lead:** `world_burkina_faso`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_burkina_faso`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Order of Architects of Burkina Faso – OAB. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** OAB's stated mission connects professional ethics and architectural quality with improving the national built environment. Those aims are relevant to deciding whether a delegated service creates public value.
+**Selected source anchor:** [Order of Architects of Burkina Faso](https://oab-faso.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend an architect or researcher in Burkina Faso with experience of civic facilities, inclusive access or participatory spatial design?
+**Draft connection (assessment):** [Order of Architects of Burkina Faso](https://oab-faso.org/) is my route to a member who can question the proposed intervention against ordinary architectural and staff assistance.
+
+**Specific spatial case (proposal):** For Proxy Society, a community-centre study would compare an AI-delegated errand with a human-assisted task at two reception positions. The unchanged threshold would remain a serious alternative.
+
+**Concrete first ask (proposed):** Could you suggest a Burkina Faso architect or academic with public-building experience? I would request a plan-and-task critique for an architecture PhD proposal, especially on which spatial change is justified before adding technical infrastructure.
 
 ## Supervision and open questions
 

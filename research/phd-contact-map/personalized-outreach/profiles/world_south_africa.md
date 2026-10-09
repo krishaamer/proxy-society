@@ -1,6 +1,6 @@
 # School of Architecture, Planning and Geomatics — research for first contact
 
-**Lead:** `world_south_africa`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_south_africa`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Cape Town. **Recorded role:** Architecture/planning school.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architecture or urban-design academic for social-space methods and doctoral research discussion; administrative programme mailboxes are not supervisors.
 
-**Draft connection (assessment):** Your school brings architecture, planning and geomatics together. I am seeking a researcher who can evaluate a small building threshold in relation to its public and institutional setting.
+**Selected source anchor:** [UCT’s School of Architecture, Planning and Geomatics routes](https://ebe.uct.ac.za/school-apg/contact-us) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who could critique access, everyday spatial use and authority in this pilot, and advise on an appropriate architectural doctoral or advisory context?
+**Draft connection (assessment):** I am using [UCT’s School of Architecture, Planning and Geomatics routes](https://ebe.uct.ac.za/school-apg/contact-us) to identify an architectural researcher who can assess the proposed threshold comparison before discussing formal degree arrangements.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare personal, assisted and AI-mediated collection in two layouts, documenting staff work, visible human help and users’ ability to contest the mandate.
+
+**Concrete first ask (proposed):** Could you suggest a colleague in design research, spatial analysis or post-occupancy evaluation? I would send the plan pair and outcome matrix for a focused doctoral-fit or advisory conversation.
 
 ## Supervision and open questions
 

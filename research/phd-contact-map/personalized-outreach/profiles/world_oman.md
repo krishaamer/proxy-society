@@ -1,6 +1,6 @@
 # Hanan Al-Khatri — research for first contact
 
-**Lead:** `world_oman`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_oman`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Sultan Qaboos University, Civil and Architectural Engineering. **Recorded role:** Associate professor; environmental design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could help evaluate building experience and environmental conditions; governance/social-interaction methods may require a complementary advisor.
 
-**Draft connection (assessment):** Your Sultan Qaboos University profile identifies environmental-design expertise and an architecture background. That is relevant to the comfort and experience of users waiting or receiving assistance at a threshold.
+**Selected source anchor:** [Sultan Qaboos University’s environmental-design listing](https://www.squ.edu.om/engineering/Faculty-and-Staff/Deans-Office/Department-of-Civil-andArchitectural-Engineering) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which spatial and environmental variables should this comparison observe, and could you suggest an appropriate architectural research or doctoral context?
+**Draft connection (assessment):** [Sultan Qaboos University’s environmental-design listing](https://www.squ.edu.om/engineering/Faculty-and-Staff/Deans-Office/Department-of-Civil-andArchitectural-Engineering) identifies your environmental-design connection. I would like to test the spatial experience of reception rather than infer an AI specialism from that listing.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would vary enclosure and staff visibility while keeping the delegated task constant, documenting waiting, perceived control and access to human assistance.
+
+**Concrete first ask (proposed):** Could you critique the section and outcome matrix and discuss doctoral or advisory fit? I would ask which environmental variables the initial experiment must control before attributing any effect to the new threshold.
 
 ## Supervision and open questions
 

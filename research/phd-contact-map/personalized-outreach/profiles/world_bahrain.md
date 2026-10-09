@@ -1,6 +1,6 @@
 # Fay Al Khalifa — research for first contact
 
-**Lead:** `world_bahrain`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bahrain`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Bahrain, Architecture and Interior Design. **Recorded role:** Associate professor.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss architectural design and spatial evaluation or refer an appropriate methods colleague; specific topic fit remains open.
 
-**Draft connection (assessment):** The University of Bahrain's updated engineering handbook identifies your architecture faculty role. I am seeking advice on a bounded architectural question before choosing a doctoral research setting.
+**Selected source anchor:** [University of Bahrain’s engineering handbook](https://www.uob.edu.bh/wp-content/uploads/2026/04/Engineering_Handbook_2025_Updated_8th_Feb_2026.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you assess the threshold pilot's fit with your interests, or suggest a colleague working on spatial experience, civic facilities and human-centred building use?
+**Draft connection (assessment):** [University of Bahrain’s engineering handbook](https://www.uob.edu.bh/wp-content/uploads/2026/04/Engineering_Handbook_2025_Updated_8th_Feb_2026.pdf) identifies your architecture-faculty connection. I am approaching you for a research-fit check or referral, without inferring a particular topic or supervision capacity from that listing.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare a visible shared handoff with a recessed AI agent bay, measuring staff reach, visitor orientation and recovery when permission is questioned.
+
+**Concrete first ask (proposed):** Would you suggest an appropriate architecture/interior-design researcher at Bahrain, or critique the proposed comparison yourself? I would send a plan and outcome matrix before asking about a formal doctoral arrangement.
 
 ## Supervision and open questions
 

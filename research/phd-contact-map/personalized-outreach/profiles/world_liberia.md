@@ -1,6 +1,6 @@
 # Royal Paradise Design & Construction Group (ROPADEACOG) — research for first contact
 
-**Lead:** `world_liberia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_liberia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ROPADEACOG Inc.. **Recorded role:** Architectural design and construction practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an architectural designer and discuss building access; its founder is described as an engineer, and no individual architect or doctoral role is verified.
 
-**Draft connection (assessment):** ROPADEACOG describes architectural design, remodelling and construction in Liberia. I am interested in whether an existing reception arrangement can support a delegated task with a modest spatial change.
+**Selected source anchor:** [ROPADEACOG’s architecture and school-construction services](https://www.ropadeacog.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team critique a threshold-and-handoff scenario, or suggest an appropriate local civic-building practitioner or research contact?
+**Draft connection (assessment):** [ROPADEACOG’s architecture and school-construction services](https://www.ropadeacog.com/) gives a specific educational-building practice connection. I am seeking an arrival-and-handoff critique, without assuming a technology or doctoral role.
+
+**Specific spatial case (proposal):** For Proxy Society, a library threshold mock-up would compare a shared counter and a separate AI-mediated collection point, observing access to staff and interruptions when a person needs assistance.
+
+**Concrete first ask (proposed):** Could your architectural team review the route sketch or suggest a relevant Liberia colleague? I would ask which practical reception constraints the PhD study must represent before proposing a live system.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Amina Al-Kandari — research for first contact
 
-**Lead:** `world_qatar`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_qatar`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Qatar University, Architecture and Urban Planning. **Recorded role:** Architecture programme coordinator.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a relevant architectural design or spatial-evaluation colleague and discuss the pilot’s disciplinary fit.
 
-**Draft connection (assessment):** Your Qatar University programme contact page identifies your coordination role. I am seeking a researcher who can assess a service change through a concrete architectural comparison.
+**Selected source anchor:** [Qatar University’s architecture programme contact](https://www.qu.edu.qa/en-us/Colleges/engineering/academics/architecture/programs/Pages/contact-us.aspx) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you suggest a colleague studying civic-building use, reception or spatial behaviour, and advise on an appropriate research or doctoral enquiry route?
+**Draft connection (assessment):** [Qatar University’s architecture programme contact](https://www.qu.edu.qa/en-us/Colleges/engineering/academics/architecture/programs/Pages/contact-us.aspx) identifies your programme-coordination role. I am seeking the appropriate research colleague, without treating that role as evidence of topic fit or supervision capacity.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment changes the counter layout while keeping an AI-delegated collection interface fixed, measuring staff visibility, waiting and users’ ability to resume the task personally.
+
+**Concrete first ask (proposed):** Could you critique the study or suggest someone in architectural behaviour or design research? I would send the plan pair and outcome matrix and establish an appropriate doctoral context separately.
 
 ## Supervision and open questions
 

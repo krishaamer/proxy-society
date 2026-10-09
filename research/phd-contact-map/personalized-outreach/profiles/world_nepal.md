@@ -1,6 +1,6 @@
 # Department of Architecture — research for first contact
 
-**Lead:** `world_nepal`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_nepal`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Kathmandu University. **Recorded role:** Architecture department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss spatial experience and locally grounded architectural methods; the focused pilot’s fit needs confirmation.
 
-**Draft connection (assessment):** Kathmandu University's architecture department identifies mountain architecture as a distinctive research focus. That is relevant to keeping a threshold experiment grounded in local climate, movement and building practices.
+**Selected source anchor:** [Kathmandu University’s mountain-architecture research](https://arch.ku.edu.np/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a researcher who might critique civic access, waiting and assistance in this pilot, and advise on an appropriate research route?
+**Draft connection (assessment):** [Kathmandu University’s mountain-architecture research](https://arch.ku.edu.np/) is a reason to question a supposedly universal agent-ready entrance. I want the threshold to begin with the existing place and its human use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would observe arrival, waiting and assistance before testing two reversible AI-mediated handoff arrangements. Ordinary reception would remain a valid outcome.
+
+**Concrete first ask (proposed):** Could you suggest a researcher to critique the fieldwork and plan comparison, and an appropriate doctoral/advisory route? I would ask which contextual conditions must enter the first study before claiming the layout is transferable.
 
 ## Supervision and open questions
 

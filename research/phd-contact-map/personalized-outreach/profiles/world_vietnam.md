@@ -1,6 +1,6 @@
 # Lê Thị Thúy Hằng — research for first contact
 
-**Lead:** `world_vietnam`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_vietnam`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Vietnamese–German University, Architecture programme. **Recorded role:** Lecturer in architecture theory and design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss architectural meaning and prototype evaluation or refer an appropriate doctoral context; an individual supervision appointment has not been verified.
 
-**Draft connection (assessment):** VGU's architecture staff page identifies your theory-and-design teaching. I am seeking advice on whether a proposed service change produces a clear architectural question.
+**Selected source anchor:** [VGU’s architectural theory/design staff profile](https://sites.google.com/vgu.edu.vn/arc/arc-information/arc-lecturers-and-staffs) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you critique a comparison of reception and handoff arrangements, or suggest a colleague and appropriate doctoral or advisory context for its spatial contribution?
+**Draft connection (assessment):** [VGU’s architectural theory/design staff profile](https://sites.google.com/vgu.edu.vn/arc/arc-information/arc-lecturers-and-staffs) identifies your design-and-theory connection. I would like to test the proposal’s architectural claim before treating an AI-mediated service as a new typology.
+
+**Specific spatial case (proposal):** Proxy Society’s library study compares ordinary reception, a shared delegated handoff and a separate agent bay, using plans and staged encounters to document what changes in recognition, passage and human intervention.
+
+**Concrete first ask (proposed):** Could you critique the three spatial sequences or suggest a research colleague? I would send the diagrams and discuss an appropriate doctoral/advisory route separately from the staff appointment.
 
 ## Supervision and open questions
 

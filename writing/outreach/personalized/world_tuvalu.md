@@ -1,14 +1,14 @@
 # Email draft — Director of Public Works — building-code enquiries
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_tuvalu`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_tuvalu`.
 
 **Recipient:** Director of Public Works — building-code enquiries — Government of Tuvalu, Public Works Department.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://theprif.org/sites/theprif.org/files/documents/National%20Building%20Code%20of%20Tuvalu%202024%20%28Incorporating%20Amendment%201%29%20-%20Gazetted%2010Dec2024.pdf).
 
-**Subject:** A Tuvalu public-building design referral
+**Subject:** Public Works: a public-building architect referral, not a code request
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_tuvalu.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_tuvalu.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Government of Tuvalu, Public Works Department team,
 
-The 2024 National Building Code identifies your Public Works office as its enquiry route. I am seeking the appropriate architectural or building-design contact before proposing a research site.
+[Tuvalu’s December 2024 building-code enquiry route](https://theprif.org/sites/theprif.org/files/documents/National%20Building%20Code%20of%20Tuvalu%202024%20%28Incorporating%20Amendment%201%29%20-%20Gazetted%2010Dec2024.pdf) identifies the Public Works director’s office. I am using it to find the appropriate architect or design consultant for a research question, rather than seek a code approval.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed civic-library study would compare ordinary reception and an optional AI-mediated handoff, testing human passage, staff reach and recovery when the request is refused.
 
-Could you suggest someone who can discuss accessible reception, waiting and service handoffs, and advise on the correct route for a modest civic-building research conversation?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could the office direct me to the relevant public professional contact? I would initially request a critique of one plan for an architecture PhD proposal; no building, operator or technical trial is agreed.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_tuvalu.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 154 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 107 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

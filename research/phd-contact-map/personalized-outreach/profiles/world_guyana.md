@@ -1,6 +1,6 @@
 # Ai Architects — research for first contact
 
-**Lead:** `world_guyana`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_guyana`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ai Architects, Georgetown. **Recorded role:** Architecture and engineering practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could provide a local design critique and identify a civic-building case-study contact.
 
-**Draft connection (assessment):** Your Georgetown practice's public enquiry route provides a starting point for a locally grounded architectural critique of delegated arrival.
+**Selected source anchor:** [Ai Architects’ Georgetown practice route](https://aiarchitectsgy.com/contact-us) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate architect discuss reception, waiting and human assistance in a civic building, or suggest a local researcher or institutional operator?
+**Draft connection (assessment):** I am contacting [Ai Architects’ Georgetown practice route](https://aiarchitectsgy.com/contact-us) for an architectural layout critique; I am not assuming that the practice name establishes an AI research connection.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares an ordinary counter with a bounded delegated collection point, observing staff visibility, passing and recovery when authorisation is questioned.
+
+**Concrete first ask (proposed):** Could the appropriate designer review the plan or suggest a Guyana civic-building colleague? The first request is practice advice for an architecture PhD proposal before seeking a field site or technical partner.
 
 ## Supervision and open questions
 

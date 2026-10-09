@@ -1,6 +1,6 @@
 # Cabinet AERAU — research for first contact
 
-**Lead:** `world_central_african_republic`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_central_african_republic`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Cabinet AERAU, Bangui. **Recorded role:** Architecture, urbanism and civil-engineering practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a local architect and discuss civic access and community design; research collaboration is unconfirmed.
 
-**Draft connection (assessment):** AERAU's published portfolio includes the ICASESS educational complex and work in architecture and urbanism. That offers a practical connection to spaces of arrival, study and shared service.
+**Selected source anchor:** [AERAU’s Bangui architecture and project portfolio](https://aerau.org/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could your team advise which reception or handoff arrangements would be worth comparing, or suggest a local architect or institutional operator for a research discussion?
+**Draft connection (assessment):** [AERAU’s Bangui architecture and project portfolio](https://aerau.org/) supplies a local practice connection for reviewing a civic-building arrangement. I would like the proposed threshold to be judged as an occupied place before considering technical integration.
+
+**Specific spatial case (proposal):** Proxy Society’s library study would test a visible staff-handoff bay beside an ordinary reception, observing waiting, passage and interruption during an AI-mediated collection.
+
+**Concrete first ask (proposed):** Could an AERAU architect critique the plan or suggest an educational/civic-building colleague? I would send the small intervention brief as practice input to an architecture PhD proposal, without assuming a live project is available.
 
 ## Supervision and open questions
 

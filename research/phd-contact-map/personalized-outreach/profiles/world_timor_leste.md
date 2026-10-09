@@ -1,6 +1,6 @@
 # CN — Christophe Nortier Lda — research for first contact
 
-**Lead:** `world_timor_leste`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_timor_leste`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** CN — Christophe Nortier Lda, Dili. **Recorded role:** Design-services company and architecture/engineering representative.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a practising architect for civic-building access and locally adapted design; no doctoral role is verified.
 
-**Draft connection (assessment):** Your Dili practice asks prospective enquiries to specify the location and nature of a proposal. This is an early research conversation; a field site has not yet been selected.
+**Selected source anchor:** [CN’s architectural-design service and Dili contact](https://www.cntimor.com/pt/contact) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the appropriate designer discuss reception, accessibility and service handoffs in a Timor-Leste civic building, or suggest a local practitioner or researcher?
+**Draft connection (assessment):** [CN’s architectural-design service and Dili contact](https://www.cntimor.com/pt/contact) provides a design-service route. I would like to reach the responsible architect or architectural partner rather than infer an individual qualification from the company contact.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up compares a shared counter and a side AI-mediated collection bay, testing staff access and clear human passage during a paused task.
+
+**Concrete first ask (proposed):** Could you direct me to the appropriate designer in Timor-Leste? I would request a plan-and-section critique as practice input to an architecture PhD proposal before considering any field site.
 
 ## Supervision and open questions
 

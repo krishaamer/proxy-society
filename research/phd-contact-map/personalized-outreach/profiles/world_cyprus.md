@@ -1,6 +1,6 @@
 # Cyprus Architects Association — research for first contact
 
-**Lead:** `world_cyprus`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cyprus`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Cyprus Architects Association. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Association's published RE:FRAME workshop concerns infrastructures of reuse. That suggests starting a threshold study with existing arrangements rather than assuming new technical infrastructure is needed.
+**Selected source anchor:** [Cyprus Architects Association](https://architecture.org.cy/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or researcher interested in adaptive civic space, reception and inclusive access who might review the pilot?
+**Draft connection (assessment):** I am approaching [Cyprus Architects Association](https://architecture.org.cy/) for a practitioner who has designed or evaluated public service counters and their circulation.
+
+**Specific spatial case (proposal):** For Proxy Society, an AI-authorised library collection would be tested in two layouts. Each must keep staff reachable and permit a visitor to stop, question or resume the task personally.
+
+**Concrete first ask (proposed):** Could you suggest a Cyprus architect or researcher to critique the plan and interruption script? The immediate request is practice input to an architecture PhD proposal, with any operator and study permissions still to be established.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Mette Ramsgaard Thomsen — research for first contact
 
-**Lead:** `thomsen`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `thomsen`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Royal Danish Academy. **Recorded role:** Professor of Architecture and Digital Technologies; Head of CITA.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could advise on full-scale demonstrators and research through architectural experimentation if the project develops a substantial built prototype.
 
-**Draft connection (assessment):** CITA's work connects computation, architectural demonstrators and material ecology. It prompts a question about whether a threshold can communicate bounded authority through spatial and material design.
+**Selected source anchor:** [CITA research on computation and material systems](https://royaldanishacademy.com/en/profile/4380) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What would a credible demonstrator compare, and how could it account for the material and maintenance costs of the intervention as well as its social effects?
+**Draft connection (assessment):** Your institutional account of [CITA research on computation and material systems](https://royaldanishacademy.com/en/profile/4380) treats architectural demonstrators as a way to investigate relationships among computation, materials and use.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose a small reception demonstrator whose physical boundary changes when an AI-mediated task is accepted, paused or handed to a person. It would be tested beside a fixed boundary, so that movement and visibility can be assessed separately from the software’s success.
+
+**Concrete first ask (proposed):** Could you review the demonstrator brief and advise whether this could fit a doctoral project with CITA? I would particularly welcome your judgment on which material behaviour would yield architectural evidence rather than simply dramatise the interface.
 
 ## Supervision and open questions
 

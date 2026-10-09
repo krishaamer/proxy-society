@@ -1,6 +1,6 @@
 # Ahti Heinla / Starship Technologies research or campus partnerships — research for first contact
 
-**Lead:** `ahti_heinla_starship`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `ahti_heinla_starship`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Starship Technologies. **Recorded role:** Co-founder and CEO, as identified in its 2026 launch release.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 A practical case for the boundary between outdoor autonomous delivery and a building's public entrance. Could examine waiting, transfer zones, congestion and who resolves exceptions.
 
-**Draft connection (assessment):** Starship's January 2026 Leeds announcement describes delivery robots with human assistance when needed. Doorway handoff is a useful point for studying the relationship between autonomous convenience and work done by other people.
+**Selected source anchor:** [Starship’s 2026 account of autonomous delivery with human oversight](https://www.starship.xyz/wp-content/uploads/2026/01/Uber-Eats-x-Starship-Leeds-Launch.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a campus or research partnerships colleague discuss comparing handoff locations and human-priority circulation, including the staff or remote work needed to resolve exceptions?
+**Draft connection (assessment):** [Starship’s 2026 account of autonomous delivery with human oversight](https://www.starship.xyz/wp-content/uploads/2026/01/Uber-Eats-x-Starship-Leeds-Launch.pdf) provides a concrete operating model for studying a handoff, including the continuing role of human assistance.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed campus-library task would send a representative to collect one authorised item. The architecture study would compare a shared entrance and a side bay for stopping, accessible passage and reaching a staff member when the task cannot proceed.
+
+**Concrete first ask (proposed):** Could you suggest a campus-partnership or research colleague to critique that arrival scenario? I would send a dimensioned plan and ask which pause/handoff constraints must be met before any robot trial is considered.
 
 ## Supervision and open questions
 

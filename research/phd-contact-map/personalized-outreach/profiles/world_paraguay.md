@@ -1,6 +1,6 @@
 # Faculty of Architecture, Design and Art (FADA) — research for first contact
 
-**Lead:** `world_paraguay`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_paraguay`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Nacional de Asunción. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could route a request to an architectural design researcher and local civic-space collaborator.
 
-**Draft connection (assessment):** FADA's architecture, design and art setting is relevant to developing and evaluating a small spatial experiment rather than treating it solely as a technical service.
+**Selected source anchor:** [FADA’s architecture, design and research route](https://fada.una.py/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Focused indexed primary text; full current page and contact operation not established. Historical publications do not establish a current appointment.
 
-**Concrete first ask (proposed):** Could you suggest a colleague in civic access, reception or spatial behaviour who might assess the pilot and advise on a suitable research or doctoral route?
+**Draft connection (assessment):** I am using [FADA’s architecture, design and research route](https://fada.una.py/) to find an academic/design-research contact, rather than send the proposal to the government directory’s IT mailbox.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library prototype would compare two counter arrangements for an AI-delegated collection, testing sightlines, waiting and human takeover against the ordinary reception.
+
+**Concrete first ask (proposed):** Could you suggest a faculty colleague to critique the plan and experiment? I would send a section and task sequence and establish doctoral or external-advisory options separately.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Livin Henry Mosha — research for first contact
 
-**Lead:** `world_tanzania`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_tanzania`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ardhi University. **Recorded role:** Architecture academic.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss housing and shared-space observation methods and the architectural contribution of a civic threshold study; doctoral capacity requires confirmation.
 
-**Draft connection (assessment):** Your Ardhi profile connects architectural research with housing. It offers a relevant perspective on how spatial arrangements communicate access, assistance and belonging in everyday use.
+**Selected source anchor:** [Ardhi profile on architecture and housing research](https://www.aru.ac.tz/pages/prof-livin-henry-mosha) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise how to compare those conditions at a delegated civic threshold, and whether an appropriate architecture research or doctoral context exists at Ardhi?
+**Draft connection (assessment):** Your [Ardhi profile on architecture and housing research](https://www.aru.ac.tz/pages/prof-livin-henry-mosha) is relevant to the ordinary shared edge of a community building. I want the proposed service to be evaluated alongside existing assistance and informal use.
+
+**Specific spatial case (proposal):** Proxy Society’s community-centre pilot would observe waiting and handoffs before testing a bounded AI-mediated collection point, comparing staff reach and optional staying with the unchanged reception.
+
+**Concrete first ask (proposed):** Could you critique the fieldwork and plan comparison and discuss doctoral or advisory fit? I would ask which evidence can show a spatial benefit without interpreting informal negotiation as a problem to automate away.
 
 ## Supervision and open questions
 

@@ -1,14 +1,14 @@
 # Email draft — Royal Institute of the Architects of Ireland (RIAI)
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_ireland`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_ireland`.
 
 **Recipient:** Royal Institute of the Architects of Ireland (RIAI) — Royal Institute of the Architects of Ireland (RIAI).
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.riai.ie/).
 
-**Subject:** An Irish referral for inclusive civic thresholds
+**Subject:** RIAI referral: accessible civic reception and post-occupancy evidence
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_ireland.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_ireland.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Royal Institute of the Architects of Ireland (RIAI) team,
 
-RIAI's published architecture awards include both special-educational-needs buildings and public-realm work. Those settings are relevant to evaluating access through varied users' experiences.
+[Royal Institute of the Architects of Ireland](https://www.riai.ie/) is my route to a practitioner who can assess the proposed layout through accessibility and actual use.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s library study would compare ordinary reception with an optional AI-mediated handoff, measuring turning, queue overlap, help-seeking and user control rather than automated completion alone.
 
-Could you recommend a practitioner or researcher studying inclusive civic reception, spatial orientation or public-building use for a short research conversation?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you recommend an Irish architect or researcher with public-library or post-occupancy experience? I would request a critique of the plans and outcome matrix as practice input to an architecture PhD proposal.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_ireland.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 146 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 98 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

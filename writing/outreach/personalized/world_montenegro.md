@@ -1,14 +1,14 @@
 # Email draft — Faculty of Architecture
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_montenegro`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_montenegro`.
 
 **Recipient:** Faculty of Architecture — University of Montenegro.
 
 **Published email:** arhitektura@ucg.ac.me. **Route:** [Published contact page](https://ucg.ac.me/objava/blog/10/objava/93536-studentski-adresar-univerziteta-crne-gore).
 
-**Subject:** A Montenegro architectural research referral
+**Subject:** Confirming a faculty research route for a reception-layout study
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_montenegro.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_montenegro.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear University of Montenegro team,
 
-Your Faculty of Architecture's published programme connects design with urban-planning and building questions. I am looking for a colleague who studies shared space in use.
+I found the faculty route in [University of Montenegro’s architecture contact listing](https://ucg.ac.me/objava/blog/10/objava/93536-studentski-adresar-univerziteta-crne-gore). I would first confirm the current office and research contact rather than rely on an older student directory.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a proposed library pilot compares two counter layouts for the same AI-mediated collection, documenting staff intervention and visitors’ ability to attend or recover the task personally.
 
-Who could assess a civic-threshold comparison focused on access, waiting and perceived control, and advise on a suitable research or doctoral enquiry process?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you refer me to an architectural-design or environment–behaviour researcher to critique the plan pair? I would separately confirm current programme operation and any doctoral-fit enquiry channel.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_montenegro.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 146 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 97 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

@@ -1,6 +1,6 @@
 # Alberto T. Estévez — research for first contact
 
-**Lead:** `alberto_estevez`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `alberto_estevez`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universitat Internacional de Catalunya, School of Architecture. **Recorded role:** Full Professor; Genetic Architectures research-group coordinator.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A computational-architecture route for a materially demonstrable threshold prototype. Keep biodigital or generative form as a conditional method, not a reason to lose the project's social-authority question.
 
-**Draft connection (assessment):** UIC's architecture doctorate lists your BioDigital Architecture research context. I am exploring whether a small spatial experiment on human-AI authority belongs within that design-led setting.
+**Selected source anchor:** [UIC Genetic Architectures research](https://www.uic.es/en/teacher/estevez) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would this threshold comparison fit an existing research line, or who would be better placed to assess its architectural scope and doctoral eligibility?
+**Draft connection (assessment):** [UIC Genetic Architectures research](https://www.uic.es/en/teacher/estevez) offers an architectural-composition context for questioning how a responsive element changes use. I want the adaptation to be tested against a fixed, simpler threshold.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library prototype would change a boundary cue when an AI agent’s mandate is accepted, paused or returned to a person. Two spatial arrangements would test comprehension, passage and staff reach, including an unavailable-system condition.
+
+**Concrete first ask (proposed):** Would you consider a UIC architecture PhD conversation? I would send the section and state sequence, asking which spatial question warrants an adaptive component and which can be answered with an ordinary counter.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # June-Hao Hou — research for first contact
 
-**Lead:** `june_hao_hou`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `june_hao_hou`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** NYCU, Graduate Institute of Architecture / College of Artificial Intelligence. **Recorded role:** Associate Professor of Architecture; Associate Dean, College of Artificial Intelligence.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could connect architectural design research with interaction methods and help isolate spatial effects from software or automation effects.
 
-**Draft connection (assessment):** Your work in design computation, human-computer interaction and information design is relevant to a difficulty in this pilot: identifying what the layout changes independently of the AI service.
+**Selected source anchor:** [NYCU profile linking design computation and HCI](https://arch.nycu.edu.tw/en/about/faculty/jhou/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** How would you design a comparison that separates spatial arrangement, interface and task effects, and could this question fit NYCU's architecture research context?
+**Draft connection (assessment):** Your [NYCU profile linking design computation and HCI](https://arch.nycu.edu.tw/en/about/faculty/jhou/) spans architecture, design computation and interaction. I am approaching you about a specific confound in a proposed experiment: space and software may improve together.
+
+**Specific spatial case (proposal):** Proxy Society’s library pilot could compare two reception layouts using both an ordinary booking interface and an AI-mediated request interface. The four conditions would share the task; observations would separate route errors, permission comprehension and staff interventions.
+
+**Concrete first ask (proposed):** Would you critique that comparison and discuss a suitable PhD route at NYCU? I would bring the four-condition diagram and ask whether it is feasible enough to reveal an architectural contribution rather than simply a software effect.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Department of Infrastructure Development — secretary's office — research for first contact
 
-**Lead:** `world_nauru`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_nauru`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Government of Nauru. **Recorded role:** Infrastructure planning office; dated public referral route.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify the architect or building-design officer responsible for civic facilities. This is an adjacent government referral, with a dated contact route.
 
-**Draft connection (assessment):** Published government material identifies the Department of Infrastructure Development. I am seeking the appropriate current building-design contact for a small research question about civic access.
+**Selected source anchor:** [2020 government infrastructure-planning release](https://www.nauru.gov.nr/government-information-office/media-release/nauru-launches-national-integrated-infrastructure-investment-strategic-plan.aspx) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could your office suggest a designer or public-building colleague who could discuss reception and human assistance, and confirm the correct professional enquiry route?
+**Draft connection (assessment):** I found this office route in [2020 government infrastructure-planning release](https://www.nauru.gov.nr/government-information-office/media-release/nauru-launches-national-integrated-infrastructure-investment-strategic-plan.aspx). My first request is to confirm the current architectural enquiry channel, rather than assume the older mailbox identifies an active design contact.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library study compares ordinary reception with an optional AI-mediated collection point, focusing on human passage and staff takeover during an uncertain request.
+
+**Concrete first ask (proposed):** Could your office direct me to the public-building architect, design consultant or appropriate professional? I would initially seek a critique of one plan for an architecture PhD proposal, without requesting a government site or trial.
 
 ## Supervision and open questions
 

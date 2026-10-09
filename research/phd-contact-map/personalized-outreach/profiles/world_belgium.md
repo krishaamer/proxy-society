@@ -1,6 +1,6 @@
 # Royal Federation of Architects of Belgium — research for first contact
 
-**Lead:** `world_belgium`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_belgium`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Royal Federation of Architects of Belgium. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your federation connects Belgian architectural societies. It is a useful starting point for finding a practitioner or research group with direct experience of civic-building access.
+**Selected source anchor:** [Royal Federation of Architects of Belgium](https://www.fab-arch.be/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you refer me to someone studying reception, accessibility or human-technology interaction in buildings who might critique a small architectural pilot?
+**Draft connection (assessment):** I am approaching [Royal Federation of Architects of Belgium](https://www.fab-arch.be/) for a member with experience evaluating public interiors after occupation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare the existing counter with a reversible handoff bay, keeping the task identical. The evidence would include sightlines, staff interruption and users’ ability to contest an AI-mediated request.
+
+**Concrete first ask (proposed):** Could you suggest a Belgian architect or architecture researcher for a focused plan-and-protocol critique? I am seeking practice-methods advice for an architecture PhD, rather than a general endorsement of automated buildings.
 
 ## Supervision and open questions
 

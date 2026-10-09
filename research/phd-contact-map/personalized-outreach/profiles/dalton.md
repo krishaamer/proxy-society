@@ -1,6 +1,6 @@
 # Ruth Conroy Dalton — research for first contact
 
-**Lead:** `dalton`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `dalton`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Northumbria University. **Recorded role:** Professor of Architecture.
 
@@ -12,13 +12,19 @@ Research covers spatial cognition, navigation, space syntax and architectural ex
 
 The underlying contact record was checked on **2026-10-08**. Source review this pass: **Public source text available for focused review**. Availability is not confirmation that all role, programme or project claims remain current.
 
+Northumbria’s repository lists Ruth Dalton, Christoph Hölscher and Daniel Montello as authors of Wayfinding as a Social Activity (2019). Its abstract describes how other people’s actions and presence influence navigation and proposes a classification framework for social wayfinding.
+
 ## Proposed fit and contribution
 
 Could validate the relationship between built form, encounter opportunities, wayfinding and humane experience, including the proposed serendipity routes.
 
-**Draft connection (assessment):** Your work on spatial cognition, wayfinding and space syntax suggests ways to evaluate whether people understand a shared threshold, rather than simply pass through it successfully.
+**Selected source anchor:** [Wayfinding as a Social Activity](https://researchportal.northumbria.ac.uk/en/publications/wayfinding-as-a-social-activity/) — reviewed 2026-10-10; Primary publication-record abstract reviewed. Abstract and authorship reviewed; not the full article.
 
-**Concrete first ask (proposed):** Which spatial and experiential measures would reveal confusion about a proxy's authority or a human handoff, and could this fit an architecture research conversation?
+**Draft connection (assessment):** Your co-authored [Wayfinding as a Social Activity](https://researchportal.northumbria.ac.uk/en/publications/wayfinding-as-a-social-activity/) treats navigation as influenced by other people, including their presence. That gives my threshold experiment a more precise starting point than signage alone.
+
+**Specific spatial case (proposal):** In Proxy Society’s proposed civic-building pilot, a visitor must recognise where to go personally, where an AI-mediated collection is handled and where help remains available. I want to test two threshold layouts with the same signage, including a deliberately ambiguous arrival scenario.
+
+**Concrete first ask (proposed):** Could you advise which navigation errors, requests for help and recovery behaviours to record? I would send a plan and task script and would like to explore whether this could become a methods-advisory or supervisory conversation.
 
 ## Supervision and open questions
 
@@ -37,6 +43,7 @@ No additional route constraint recorded; recheck the published channel before us
 ## Public sources
 
 1. [Ruth Conroy Dalton — Northumbria](https://www.northumbria.ac.uk/about-us/our-staff/d/ruth-dalton) — reviewed 2026-10-09; public text retrieved. Underlying evidence date: 2026-10-08. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
+2. [Wayfinding as a Social Activity](https://researchportal.northumbria.ac.uk/en/publications/wayfinding-as-a-social-activity/) — reviewed 2026-10-10; Primary publication-record abstract reviewed. Underlying evidence date: 2026-10-10. Abstract and authorship reviewed; not the full article.
 
 ## Prepared correspondence
 

@@ -1,6 +1,6 @@
 # AESAP Council Eswatini — research for first contact
 
-**Lead:** `world_eswatini`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_eswatini`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Architects, Engineers, Surveyors and Allied Professionals Registration Council. **Recorded role:** Built-environment professional registration council.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an architect for civic-building design and access critique; it is a referral body, not a doctoral school.
 
-**Draft connection (assessment):** AESAP's registration remit brings architects and allied built-environment professionals together. I am looking for the appropriate professional expertise for a civic-building access question.
+**Selected source anchor:** [AESAP’s architecture-registration remit](https://aesap.net/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect in Eswatini working on public facilities, accessibility or reception design who might critique a small spatial pilot?
+**Draft connection (assessment):** [AESAP’s architecture-registration remit](https://aesap.net/) gives me a route to a registered professional, rather than an assumed research collaborator.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed community-centre study compares the ordinary help counter with a bounded point for AI-delegated errands, focusing on human passage and staff takeover when the mandate is uncertain.
+
+**Concrete first ask (proposed):** Could you direct me to a suitable Eswatini architect or a public register enquiry route? The initial request would be a plan-and-section critique for an architecture PhD proposal; I am not asking the council to assess the research itself.
 
 ## Supervision and open questions
 

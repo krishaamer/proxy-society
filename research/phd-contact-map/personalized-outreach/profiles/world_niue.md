@@ -1,6 +1,6 @@
 # Graham Turner — research for first contact
 
-**Lead:** `world_niue`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_niue`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Alexander & Lloyd Group, Australia. **Recorded role:** Architect and infrastructure adviser with Niue work experience.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss stakeholder observation, educational/community-building thresholds and local collaborator introductions; no local residence or doctoral-supervisor role is established.
 
-**Draft connection (assessment):** Alexander & Lloyd's published account connects your work with school design and community consultation in Niue. It is a useful project-based connection from your Australian practice.
+**Selected source anchor:** [Alexander & Lloyd’s Niue school-project account](https://www.algroup.net.au/~alexande/projects/niue/59) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you advise what that consultation suggests about arrival and shared space, or introduce an appropriate locally based Niue professional for a civic-threshold discussion?
+**Draft connection (assessment):** [Alexander & Lloyd’s Niue school-project account](https://www.algroup.net.au/~alexande/projects/niue/59) establishes a school-design and community-consultation connection from your Australian practice. I am seeking that specific experience or a Niue professional introduction.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library workshop would ask users and staff to define one AI-mediated errand and rearrange its reception, retaining ordinary arrival and human assistance.
+
+**Concrete first ask (proposed):** Could you share a consultation lesson about arrival/shared space or identify a locally based colleague? I would send the workshop-and-plan sequence for architecture PhD advice, without presenting your practice as a local Niue contact.
 
 ## Supervision and open questions
 

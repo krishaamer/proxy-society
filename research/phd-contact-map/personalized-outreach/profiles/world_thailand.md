@@ -1,6 +1,6 @@
 # Chaipat Ngambusabongsophin — research for first contact
 
-**Lead:** `world_thailand`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_thailand`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Chulalongkorn University, Department of Architecture. **Recorded role:** Architecture lecturer.
 
@@ -18,9 +18,13 @@ An alternative Chulalongkorn faculty page describes architectural history, media
 
 Could critique how a civic threshold communicates authority, identity and delegated presence; no current individual doctoral-supervisor listing was verified.
 
-**Draft connection (assessment):** Your architectural-history research on monuments, civic symbols and their changing perception is relevant to how a building communicates institutional authority to those arriving there.
+**Selected source anchor:** [Chulalongkorn research on civic symbols and changing perception](https://www.imarch.arch.chula.ac.th/faculty/chaipat-ngambutsabongsophin-ph-d/) — reviewed 2026-10-09; not retrieved in the direct-source pass. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** How might a threshold study capture changes in that meaning when a task arrives through a representative, and could you advise on an appropriate architectural research context?
+**Draft connection (assessment):** Your [Chulalongkorn research on civic symbols and changing perception](https://www.imarch.arch.chula.ac.th/faculty/chaipat-ngambutsabongsophin-ph-d/) offers a specific interpretive question for this proposal: which spatial signs make a representative appear to possess institutional authority?
+
+**Specific spatial case (proposal):** Proxy Society’s library prototype would vary a mandate marker’s placement and the AI agent’s position relative to the staff counter. Participants would interpret who authorised the task, what is permitted and whom they can question, including a withdrawn mandate.
+
+**Concrete first ask (proposed):** Could you critique that scene-and-symbol comparison and discuss an advisory or doctoral fit? I would send the sightline plan and interpretation prompts, asking how to separate recognition of a civic cue from acceptance of the agent’s claim.
 
 ## Supervision and open questions
 

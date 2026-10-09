@@ -1,6 +1,6 @@
 # Takenaka R&D / open innovation team — research for first contact
 
-**Lead:** `takenaka_rd`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `takenaka_rd`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Takenaka Corporation. **Recorded role:** Building and service-robot integration research.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could provide lessons from integrating building operations and robot routes, including retrofitting constraints. Useful as a precedent and possible technical interview.
 
-**Draft connection (assessment):** Takenaka's published December 2019 Midou Building demonstration and BIM-based robot platform provide a historical precedent for studying service robots in an existing building.
+**Selected source anchor:** [Takenaka’s 2019 building/service-robot demonstration](https://www.takenaka.co.jp/takenaka_e/rd/openinnovation/01/index.html) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Which current team could discuss what those trials revealed about transfer zones, existing layouts and operational responsibility, and whether any findings are publicly available?
+**Draft connection (assessment):** The archived [Takenaka’s 2019 building/service-robot demonstration](https://www.takenaka.co.jp/takenaka_e/rd/openinnovation/01/index.html) provides a specific precedent for connecting building information and robot operation. I am using it as historical evidence, rather than assuming that pilot is still active.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library trial would compare where a robot waits when its delegated collection cannot proceed. The architectural issue is whether the building model’s route corresponds to a visible, staff-accessible and human-priority handoff space.
+
+**Concrete first ask (proposed):** Could you direct me to public findings or an appropriate R&D colleague on route exceptions and staff intervention from that work? I would send a small operation diagram for a feasibility critique alongside an architecture PhD.
 
 ## Supervision and open questions
 

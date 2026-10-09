@@ -1,6 +1,6 @@
 # Instituto de Arquitetos do Brasil — research for first contact
 
-**Lead:** `world_brazil`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_brazil`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Instituto de Arquitetos do Brasil. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** IAB's current public agenda addresses dignified housing, territorial planning and climate challenges. Those concerns suggest a useful critique of whether automated convenience benefits people equitably.
+**Selected source anchor:** [Instituto de Arquitetos do Brasil](https://iab.org.br/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend an architect or researcher studying public-building access or spatial autonomy who might review a small delegated-threshold experiment?
+**Draft connection (assessment):** [Instituto de Arquitetos do Brasil](https://iab.org.br/) is a route to a practitioner who can assess the public value of a reception intervention, beyond its technical novelty.
+
+**Specific spatial case (proposal):** For Proxy Society, two library approaches would handle the same AI-mediated collection, but differ in access to staff and optional shared activities. Ordinary arrival and human assistance would remain comparisons.
+
+**Concrete first ask (proposed):** Could you suggest a Brazilian member with public-library or community-space experience? I would request a critique of the route and activity diagrams as practice input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

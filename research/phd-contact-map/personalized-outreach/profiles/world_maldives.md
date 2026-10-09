@@ -1,6 +1,6 @@
 # Maco Designs — research for first contact
 
-**Lead:** `world_maldives`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_maldives`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Maco Designs, Malé. **Recorded role:** Architecture studio.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss access, arrival and social use in an island civic-building setting.
 
-**Draft connection (assessment):** Maco Designs' published portfolio spans educational, healthcare and cultural projects as well as commercial work. Those shared settings are relevant to reception, assistance and handoff design.
+**Selected source anchor:** [Maco Designs’ educational and cultural projects](https://www.macodesigns.mv/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a suitable designer discuss a modest civic-threshold comparison, or suggest a Maldivian researcher or building operator for an initial conversation?
+**Draft connection (assessment):** [Maco Designs’ educational and cultural projects](https://www.macodesigns.mv/) gives a specific practice connection for assessing a public threshold. I am looking for spatial advice rather than infer an AI specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare a visible handoff beside ordinary reception with a separate collection bay, testing waiting, accessible passage and a person’s ability to reach staff.
+
+**Concrete first ask (proposed):** Could a Maco architect critique the plan or identify a relevant Maldives colleague? The first request is design input to an architecture PhD proposal, before any building or live service trial is considered.
 
 ## Supervision and open questions
 

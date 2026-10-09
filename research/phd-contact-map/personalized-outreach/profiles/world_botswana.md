@@ -1,6 +1,6 @@
 # Department of Architecture and Planning — research for first contact
 
-**Lead:** `world_botswana`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_botswana`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Botswana. **Recorded role:** Architecture and planning department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a researcher for spatial design, planning and a locally grounded pilot. Excludes the directory-linked gambling redirect and older 2009 email pages.
 
-**Draft connection (assessment):** Your department brings architecture and planning together within the University of Botswana. I would like to identify a colleague who can evaluate both a building threshold and its public setting.
+**Selected source anchor:** [University of Botswana’s Architecture and Planning department](https://www.ub.bw/faculties-and-departments/engineering-and-technology/architecture-and-planning) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who studies civic-building use, accessibility or environment-behaviour questions, and might critique the pilot or advise on an appropriate research route?
+**Draft connection (assessment):** I am approaching [University of Botswana’s Architecture and Planning department](https://www.ub.bw/faculties-and-departments/engineering-and-technology/architecture-and-planning) for a researcher or design lecturer who works with public-building use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed campus-library pilot would first observe the ordinary counter, queues and requests for help, then compare a small AI-mediated handoff arrangement with that baseline.
+
+**Concrete first ask (proposed):** Could you forward the enquiry to a colleague in architectural design or post-occupancy evaluation? I would send the observation schedule and plan for critique, and separately ask whether a suitable doctoral or external-advisory context exists.
 
 ## Supervision and open questions
 

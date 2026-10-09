@@ -1,6 +1,6 @@
 # Yasuaki Kakehi — research for first contact
 
-**Lead:** `kakehi`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kakehi`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Tokyo, Interfaculty Initiative in Information Studies. **Recorded role:** Professor; Material Experience Design / Kakehi Lab.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help design tangible, multisensory prototypes that make delegated authority and human handoff perceptible; complements an architecture supervisor.
 
-**Draft connection (assessment):** Your material-driven experience design and physical interaction prototypes suggest that a proxy's limits might be communicated through an embodied encounter, rather than a screen alone.
+**Selected source anchor:** [Kakehi Lab’s material experience design](https://xlab.iii.u-tokyo.ac.jp/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What small material or spatial prototype could test whether people understand a limited mandate and the moment responsibility returns to a human?
+**Draft connection (assessment):** [Kakehi Lab’s material experience design](https://xlab.iii.u-tokyo.ac.jp/) makes physical interaction and material experience a plausible way to communicate something that is otherwise hidden in software: a delegated mandate ending.
+
+**Specific spatial case (proposal):** For Proxy Society, a reception prototype could change a physical marker when an AI agent’s collection is authorised, paused or handed back to a person. I would test whether visitors and staff understand the change without an explanation, alongside an ordinary screen or staff announcement.
+
+**Concrete first ask (proposed):** Would you discuss a prototype-advisory or interdisciplinary PhD role at UTokyo? I would send one interaction storyboard and ask which material cue is worth testing, with an architecture supervisor responsible for the threshold design.
 
 ## Supervision and open questions
 

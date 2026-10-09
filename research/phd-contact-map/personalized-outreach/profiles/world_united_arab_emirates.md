@@ -1,6 +1,6 @@
 # Department of Architecture — research for first contact
 
-**Lead:** `world_united_arab_emirates`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_united_arab_emirates`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** American University of Sharjah, College of Architecture, Art and Design. **Recorded role:** Architecture department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architectural prototyping or civic-space researcher. Departmental advising is not evidence of an architecture PhD or a formal supervisory appointment.
 
-**Draft connection (assessment):** Your department describes hands-on learning within a faculty of architects, designers and scholars. That is relevant to evaluating a threshold proposal through a small spatial prototype.
+**Selected source anchor:** [AUS architecture faculty’s design-build research and advising route](https://www.aus.edu/caad/department-of-architecture/faculty) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague studying civic access, reception or human-technology interaction, and advise on an appropriate doctoral or external research connection?
+**Draft connection (assessment):** [AUS architecture faculty’s design-build research and advising route](https://www.aus.edu/caad/department-of-architecture/faculty) is a concrete route to a researcher who can connect physical making with architectural evaluation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would vary only counter geometry and handoff visibility for the same AI-mediated collection, comparing passing, staff intervention and user control with ordinary assistance.
+
+**Concrete first ask (proposed):** Could you identify a design-build or environment–behaviour colleague to critique the section and test protocol? I would discuss a suitable doctoral/advisory context separately from the departmental advising route.
 
 ## Supervision and open questions
 

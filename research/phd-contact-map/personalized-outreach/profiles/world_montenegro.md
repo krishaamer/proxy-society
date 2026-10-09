@@ -1,6 +1,6 @@
 # Faculty of Architecture — research for first contact
 
-**Lead:** `world_montenegro`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_montenegro`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Montenegro. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an academic for civic-space design critique; reconfirm the directory contact before sending.
 
-**Draft connection (assessment):** Your Faculty of Architecture's published programme connects design with urban-planning and building questions. I am looking for a colleague who studies shared space in use.
+**Selected source anchor:** [University of Montenegro’s architecture contact listing](https://ucg.ac.me/objava/blog/10/objava/93536-studentski-adresar-univerziteta-crne-gore) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Who could assess a civic-threshold comparison focused on access, waiting and perceived control, and advise on a suitable research or doctoral enquiry process?
+**Draft connection (assessment):** I found the faculty route in [University of Montenegro’s architecture contact listing](https://ucg.ac.me/objava/blog/10/objava/93536-studentski-adresar-univerziteta-crne-gore). I would first confirm the current office and research contact rather than rely on an older student directory.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library pilot compares two counter layouts for the same AI-mediated collection, documenting staff intervention and visitors’ ability to attend or recover the task personally.
+
+**Concrete first ask (proposed):** Could you refer me to an architectural-design or environment–behaviour researcher to critique the plan pair? I would separately confirm current programme operation and any doctoral-fit enquiry channel.
 
 ## Supervision and open questions
 

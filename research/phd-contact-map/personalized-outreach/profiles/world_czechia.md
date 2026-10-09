@@ -1,6 +1,6 @@
 # Faculty of Architecture — international office — research for first contact
 
-**Lead:** `world_czechia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_czechia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Czech Technical University in Prague. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an appropriate architectural research colleague; this administrative route is not a named supervisor.
 
-**Draft connection (assessment):** Your faculty's international office provides a clear route for finding an appropriate architecture researcher. I am exploring a bounded comparison of an existing civic threshold with an alternative spatial arrangement.
+**Selected source anchor:** [CTU Prague architecture faculty’s international-office route](https://www.fa.cvut.cz/en/contacts) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you identify a colleague studying public-building use, spatial behaviour or human-technology interaction, and the correct doctoral enquiry process?
+**Draft connection (assessment):** I am contacting [CTU Prague architecture faculty’s international-office route](https://www.fa.cvut.cz/en/contacts) to reach an appropriate researcher in public-building use or architectural computation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison varies counter geometry while holding an AI-delegated collection task constant, using plans, observations and a reversible mock-up to test human access and intervention.
+
+**Concrete first ask (proposed):** Could you identify a faculty colleague and the correct doctoral-fit enquiry channel? I would send a short study diagram, asking for a research conversation before treating the office route as evidence of supervisory availability.
 
 ## Supervision and open questions
 

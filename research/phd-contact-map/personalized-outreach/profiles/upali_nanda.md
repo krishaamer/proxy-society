@@ -1,6 +1,6 @@
 # Upali Nanda — research for first contact
 
-**Lead:** `upali_nanda`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `upali_nanda`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** HKS, Innovation / Research / CADRE. **Recorded role:** Partner and Executive Vice President; Global Sector Director, Innovation.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help operationalize dignity, perceived control and staff/user experience, and connect the pilot with post-occupancy research. Strong practice-methods conversation.
 
-**Draft connection (assessment):** Your work on design's effects on health and perception at HKS is relevant to measuring a threshold change through the experience of staff and building users.
+**Selected source anchor:** [HKS research on health and perception](https://www.hksinc.com/people/upali-nanda/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What evaluation plan would make comprehension, dignity, perceived control and staff workload credible outcomes for a small delegated-service pilot?
+**Draft connection (assessment):** Your published [HKS research on health and perception](https://www.hksinc.com/people/upali-nanda/) is relevant to deciding which human outcomes should judge a reception prototype. A shorter transaction does not show that people feel able to understand or intervene.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would hold the task constant across two counter layouts, recording perceived control, uncertainty, help-seeking and staff interruption during AI-mediated collection and personal arrival.
+
+**Concrete first ask (proposed):** Could you critique that outcome matrix or introduce an appropriate HKS researcher? I would send the plans and task script, seeking a focused evaluation conversation alongside an architecture PhD rather than assume a project partnership.
 
 ## Supervision and open questions
 

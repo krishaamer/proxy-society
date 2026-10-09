@@ -1,6 +1,6 @@
 # Indy Johar — research for first contact
 
-**Lead:** `johar`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `johar`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Dark Matter Labs. **Recorded role:** Co-founder of Dark Matter Labs.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help turn governance of autonomous action into institutional and spatial design questions, and challenge how mandates persist over time.
 
-**Draft connection (assessment):** Dark Matter Labs' work on institutional infrastructure suggests that a doorway is also a boundary of rights, responsibility and collective intent, rather than only a device that grants access.
+**Selected source anchor:** [Dark Matter Labs’ institutional-infrastructure research](https://provocations.darkmatterlabs.org/about) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** What would make this pilot a useful institutional and spatial experiment, and which contested mandates or maintenance burdens should it expose first?
+**Draft connection (assessment):** [Dark Matter Labs’ institutional-infrastructure research](https://provocations.darkmatterlabs.org/about) is relevant to the part of this proposal that architecture cannot resolve alone: who maintains, interprets and changes an absent person’s authority.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would pair a physical handoff point with an AI agent’s small mandate: one task, a time limit, a named author and a way to stop it. I want to map the staff responsibility and institutional rule needed for each spatial feature.
+
+**Concrete first ask (proposed):** Could you critique that mandate-and-responsibility diagram, or identify a colleague at Dark Matter Labs? The immediate request is institutional design advice alongside an architecture PhD, particularly on revocation and the labour of maintaining authority.
 
 ## Supervision and open questions
 

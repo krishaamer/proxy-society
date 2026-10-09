@@ -1,6 +1,6 @@
 # Stanislav Roudavski — research for first contact
 
-**Lead:** `stanislav_roudavski`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `stanislav_roudavski`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Melbourne, Architecture, Building and Planning. **Recorded role:** Architecture researcher; more-than-human design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could challenge treating robots as the only non-human actors. Useful for ecological permissions, human-priority or agent-free zones and deciding when no intervention is better.
 
-**Draft connection (assessment):** Your more-than-human urban design research challenges whose needs are represented in a built environment. It is relevant to distinguishing ecological interests from a commercial machine's request for access.
+**Selected source anchor:** [Modelling Workflows for More-than-Human Design](https://objects.storage.unimelb.edu.au/7020-ddl/temp/Roudavski%20and%20Parker%20-%202020%20-%20Modelling%20Workflows%20for%20More-than-Human%20Design%20Pr.pdf) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Focused indexed primary text; full current page and contact operation not established. Historical publications do not establish a current appointment.
 
-**Concrete first ask (proposed):** How should the pilot account for those different interests, and what would make a spatial intervention defensible rather than simply increasing automated activity?
+**Draft connection (assessment):** [Modelling Workflows for More-than-Human Design](https://objects.storage.unimelb.edu.au/7020-ddl/temp/Roudavski%20and%20Parker%20-%202020%20-%20Modelling%20Workflows%20for%20More-than-Human%20Design%20Pr.pdf) offers a concrete reason to question why an AI representative should become the privileged non-human user of an entrance.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre threshold would map the agent’s needs alongside people, maintenance activity and environmental conditions. A separate handoff bay would be compared with adapting the existing route, including the option of no new agent infrastructure.
+
+**Concrete first ask (proposed):** Could you critique that stakeholder-and-space map and discuss an advisory or doctoral fit? I would like to identify which affected relations the first prototype excludes before deciding that robot accessibility is its main architectural achievement.
 
 ## Supervision and open questions
 

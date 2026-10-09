@@ -1,6 +1,6 @@
 # Colegio de Arquitectos de Bolivia — research for first contact
 
-**Lead:** `world_bolivia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bolivia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Colegio de Arquitectos de Bolivia. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Colegio's publication activity includes research on religious architecture and cultural heritage. It suggests a network interested in how buildings carry social meanings beyond their immediate functions.
+**Selected source anchor:** [Colegio de Arquitectos de Bolivia](https://cab.org.bo/web/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a Bolivian researcher or practitioner who could critique what a civic threshold should preserve when a routine task can be delegated?
+**Draft connection (assessment):** [Colegio de Arquitectos de Bolivia](https://cab.org.bo/web/) is the professional route for finding a member with civic-interior or design-evaluation experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare two movable reception arrangements for the same AI-mediated collection task. Human passage, visible assistance and the ability to stop the request would be measured against the ordinary service.
+
+**Concrete first ask (proposed):** Could you recommend a Bolivian architect or academic to critique the plans and test sequence? I would start with design advice for an architecture PhD, without asking the association to host or endorse the pilot.
 
 ## Supervision and open questions
 

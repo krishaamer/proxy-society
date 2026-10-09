@@ -1,14 +1,14 @@
 # Email draft — Graham Turner
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_niue`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_niue`.
 
 **Recipient:** Graham Turner — Alexander & Lloyd Group, Australia.
 
 **Published email:** graham@algroup.net.au. **Route:** [Published contact page](https://algroup.net.au/people/graham-turner).
 
-**Subject:** A Niue school-project connection for threshold research
+**Subject:** Niue school consultation: lessons for a community handoff study
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_niue.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_niue.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear Graham Turner,
 
-Alexander & Lloyd's published account connects your work with school design and community consultation in Niue. It is a useful project-based connection from your Australian practice.
+[Alexander & Lloyd’s Niue school-project account](https://www.algroup.net.au/~alexande/projects/niue/59) establishes a school-design and community-consultation connection from your Australian practice. I am seeking that specific experience or a Niue professional introduction.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed civic-library workshop would ask users and staff to define one AI-mediated errand and rearrange its reception, retaining ordinary arrival and human assistance.
 
-Would you advise what that consultation suggests about arrival and shared space, or introduce an appropriate locally based Niue professional for a civic-threshold discussion?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you share a consultation lesson about arrival/shared space or identify a locally based colleague? I would send the workshop-and-plan sequence for architecture PhD advice, without presenting your practice as a local Niue contact.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_niue.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 146 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 95 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

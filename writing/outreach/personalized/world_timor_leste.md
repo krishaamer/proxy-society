@@ -1,14 +1,14 @@
 # Email draft — CN — Christophe Nortier Lda
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_timor_leste`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_timor_leste`.
 
 **Recipient:** CN — Christophe Nortier Lda — CN — Christophe Nortier Lda, Dili.
 
 **Published email:** christophe@cntimor.com. **Route:** [Published contact page](https://www.cntimor.com/pt/contact).
 
-**Subject:** A Dili practice enquiry on civic reception
+**Subject:** Dili design-service referral for a bounded civic handoff layout
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_timor_leste.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_timor_leste.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear CN — Christophe Nortier Lda, Dili team,
 
-Your Dili practice asks prospective enquiries to specify the location and nature of a proposal. This is an early research conversation; a field site has not yet been selected.
+[CN’s architectural-design service and Dili contact](https://www.cntimor.com/pt/contact) provides a design-service route. I would like to reach the responsible architect or architectural partner rather than infer an individual qualification from the company contact.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library mock-up compares a shared counter and a side AI-mediated collection bay, testing staff access and clear human passage during a paused task.
 
-Could the appropriate designer discuss reception, accessibility and service handoffs in a Timor-Leste civic building, or suggest a local practitioner or researcher?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you direct me to the appropriate designer in Timor-Leste? I would request a plan-and-section critique as practice input to an architecture PhD proposal before considering any field site.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_timor_leste.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 152 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 100 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

@@ -1,6 +1,6 @@
 # Instituto de Desarrollo Experimental de la Construcción (IDEC) — research for first contact
 
-**Lead:** `world_venezuela`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_venezuela`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Central de Venezuela, Faculty of Architecture and Urbanism. **Recorded role:** Architecture/building research institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architectural research colleague and discuss spatial design and evaluation; an individual doctoral supervisor has not been verified.
 
-**Draft connection (assessment):** IDEC's published contact page identifies its experimental-building research setting at UCV, although the leadership period shown is historical. I am seeking the appropriate current research contact.
+**Selected source anchor:** [IDEC’s published architecture-faculty route](https://idecdigitalenlinea.wordpress.com/especializacion/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you confirm that route and suggest a colleague who might assess civic access, spatial prototyping and everyday building use in the proposed pilot?
+**Draft connection (assessment):** I found the research connection through [IDEC’s published architecture-faculty route](https://idecdigitalenlinea.wordpress.com/especializacion/). I would first confirm current staff and the enquiry channel, rather than rely on the contact page’s older director term.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library demonstrator would compare ordinary reception with a reversible AI-mediated handoff, measuring visibility, staff intervention and the ability to resume the task personally.
+
+**Concrete first ask (proposed):** Could you identify an architectural-design or building-use researcher to critique the section and trial protocol? I would establish a doctoral or external-advisory context separately from the historical office listing.
 
 ## Supervision and open questions
 

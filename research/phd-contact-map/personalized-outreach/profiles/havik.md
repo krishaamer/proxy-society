@@ -1,6 +1,6 @@
 # Klaske Havik — research for first contact
 
-**Lead:** `havik`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `havik`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** TU Delft, Architecture and the Built Environment. **Recorded role:** Professor of Methods of Analysis and Imagination.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help fieldwork, film and spatial narratives explain the value of physical presence, and support a qualitative architectural method.
 
-**Draft connection (assessment):** Urban Literacy's approach to description, transcription and prescription offers a possible bridge between lived spatial experience and a design experiment.
+**Selected source anchor:** [Urban Literacy: Reading and Writing Architecture](https://research.tudelft.nl/en/persons/km-havik/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could field observation, short films and spatial narratives establish what is gained or lost through delegated arrival, and would that fit your research context?
+**Draft connection (assessment):** Your TU Delft account of [Urban Literacy: Reading and Writing Architecture](https://research.tudelft.nl/en/persons/km-havik/) distinguishes description, transcription and prescription. Those three movements could give the project a richer account of experience than a transaction-time measure.
+
+**Specific spatial case (proposal):** For Proxy Society, I would document the same library threshold from the positions of an arriving visitor, a staff member and a person whose AI agent arrives for them. Short spatial narratives would accompany plans and observations of waiting, recognition and opportunities to intervene.
+
+**Concrete first ask (proposed):** Could we discuss whether this could fit a doctoral project with you? I would send one proposed scene and ask how to move from the three narratives to a defensible change in the threshold design.
 
 ## Supervision and open questions
 

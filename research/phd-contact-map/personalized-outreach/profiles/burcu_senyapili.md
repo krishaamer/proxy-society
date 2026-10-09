@@ -1,6 +1,6 @@
 # Burcu Şenyapılı Özcan — research for first contact
 
-**Lead:** `burcu_senyapili`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `burcu_senyapili`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Bilkent University, Department of Architecture. **Recorded role:** Architecture researcher; current page heading says Adjunct Researcher, while biography retains associate-professor/chair wording.
 
@@ -18,9 +18,13 @@ The Bilkent profile has an adjunct-researcher heading alongside an older biograp
 
 A regional methods conversation on how computational representations alter architectural judgment and collective memory. Could connect the project to an appropriate currently authorized doctoral supervisor.
 
-**Draft connection (assessment):** Your published work on architectural computing and design methods suggests a relevant perspective on the relationship between a design rule and a person's spatial experience.
+**Selected source anchor:** [Bilkent research in architectural computing and design education](https://arch.bilkent.edu.tr/burcu-senyapili/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you be willing to advise on the research framing or suggest the appropriate Bilkent colleague for doctoral work on spatial experience and delegated authority?
+**Draft connection (assessment):** The research described in [Bilkent research in architectural computing and design education](https://arch.bilkent.edu.tr/burcu-senyapili/) is relevant to connecting a computational prototype with architectural reasoning. I am approaching you about that method, without presuming a current chair or supervisory appointment.
+
+**Specific spatial case (proposal):** For Proxy Society, an interface showing an AI agent’s mandate at a library would be held constant while two reception layouts are tested. Plans and enacted tasks would distinguish permission comprehension from visibility, passage and the ability to obtain human help.
+
+**Concrete first ask (proposed):** Could you critique the comparison or suggest an appropriate Bilkent researcher? I would send the interface-and-plan pair and ask which evidence would show a spatial contribution rather than a successful digital demonstration.
 
 ## Supervision and open questions
 

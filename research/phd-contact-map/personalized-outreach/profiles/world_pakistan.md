@@ -1,6 +1,6 @@
 # Waqas Ahmed Mahar — research for first contact
 
-**Lead:** `world_pakistan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_pakistan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Balochistan University of Information Technology, Engineering and Management Sciences (BUITEMS). **Recorded role:** Assistant professor; architecture department chairman listed in prospectus.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could help define experiential and building-performance evaluation. Reconfirm the prospectus role/date; the directory-linked IAP site showed unrelated content and was excluded.
 
-**Draft connection (assessment):** Your BUITEMS prospectus profile connects architecture with indoor environmental quality and building performance. It suggests that a service change should be evaluated through comfort and occupied-building conditions as well as movement.
+**Selected source anchor:** [BUITEMS prospectus on building performance and indoor environmental quality](https://www.buitms.edu.pk/faculty/prospectus/foe.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you critique a modest threshold comparison, and identify measures or colleagues that would support its architectural research contribution?
+**Draft connection (assessment):** The research areas recorded in [BUITEMS prospectus on building performance and indoor environmental quality](https://www.buitms.edu.pk/faculty/prospectus/foe.pdf) give a specific reason to consider the sensory conditions of waiting, not only the agent’s route. I would first reconfirm your current appointment.
+
+**Specific spatial case (proposal):** For Proxy Society, two library handoff layouts for an AI agent acting for a visitor would be compared for enclosure, staff reach and perceived control, with lighting/acoustic conditions documented so they do not confound the spatial test.
+
+**Concrete first ask (proposed):** Could you critique the measurement plan or suggest a relevant BUITEMS colleague? I am seeking evaluation advice alongside an architecture PhD proposal, before assuming supervision or field access.
 
 ## Supervision and open questions
 

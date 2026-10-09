@@ -1,6 +1,6 @@
 # Conseil national de l’ordre des architectes — research for first contact
 
-**Lead:** `world_algeria`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_algeria`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Conseil national de l’ordre des architectes. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Order's published remit connects architectural quality, professional practice and the built environment. I would like to ground the pilot in a practitioner's experience of civic-building use.
+**Selected source anchor:** [CNOA’s published professional route](https://www.cnoa.dz/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you refer me to an architect in Algeria working on libraries, community facilities or inclusive reception spaces for a short research conversation?
+**Draft connection (assessment):** I am approaching [CNOA’s published professional route](https://www.cnoa.dz/) to find a named practitioner, rather than assume that the order itself is a research partner.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares a shared reception counter with a separate point for AI-delegated collections. The task stays constant; visibility of staff, passing routes and the ability to refuse a request would be tested.
+
+**Concrete first ask (proposed):** Could you suggest an Algerian member who has evaluated reception or public-library use? The first request would be a critique of two plans and the proposed observation method, alongside my search for an architecture PhD context.
 
 ## Supervision and open questions
 

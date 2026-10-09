@@ -1,6 +1,6 @@
 # George William Kofi Intsiful — research for first contact
 
-**Lead:** `world_ghana`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_ghana`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KNUST, Department of Architecture. **Recorded role:** Professor listed on architecture faculty profile.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique how chosen presence relates to place and cultural meaning. Confirm current appointment/capacity before outreach.
 
-**Draft connection (assessment):** Your KNUST research profile connects architecture with identity, place and architectural education, including cultural-centre work. Those concerns are relevant to what a shared threshold communicates and preserves.
+**Selected source anchor:** [KNUST research on architecture, identity and place](https://architecture.knust.edu.gh/staff/academicstaff/prof-gwkintsiful) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise how the pilot should study belonging and meaningful presence, or suggest a colleague for an appropriate architecture doctoral conversation?
+**Draft connection (assessment):** Your [KNUST research on architecture, identity and place](https://architecture.knust.edu.gh/staff/academicstaff/prof-gwkintsiful) is relevant to what a library visit means beyond the collected item. I want the study to preserve that question rather than treat absence as an unqualified improvement.
+
+**Specific spatial case (proposal):** For Proxy Society, plans and short participant accounts would compare arriving personally, receiving human help and sending an AI-mediated request. Two threshold arrangements would test recognition and access to shared activity.
+
+**Concrete first ask (proposed):** Could you critique the scene-and-plan method or suggest a current KNUST colleague? I am exploring an architecture PhD and would value advice on connecting the accounts to a spatial design claim.
 
 ## Supervision and open questions
 

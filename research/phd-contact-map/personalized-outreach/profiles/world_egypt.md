@@ -1,6 +1,6 @@
 # Office of the University Architect — research for first contact
 
-**Lead:** `world_egypt`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_egypt`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** American University in Cairo. **Recorded role:** Campus architecture and facilities-development office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could offer an operational campus-building perspective on reception, handoff and staff interference; a doctoral academic would need a separate referral.
 
-**Draft connection (assessment):** AUC's University Architect office describes responsibility for campus planning, development and stewardship in New Cairo and Tahrir. That provides an operational perspective on a proposed university-building pilot.
+**Selected source anchor:** [AUC Office of the University Architect](https://www.aucegypt.edu/about/offices/university-architect) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the appropriate colleague advise how to scope a small threshold observation and design comparison, or suggest a campus research contact before any site proposal?
+**Draft connection (assessment):** [AUC Office of the University Architect](https://www.aucegypt.edu/about/offices/university-architect) describes campus planning with faculty, staff and students. I am seeking an operator-informed architectural critique, rather than assuming a campus research trial is available.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed campus-library study would compare two positions for an optional AI-delegated collection point, retaining ordinary reception and documenting staff movement, waiting and accessible passage.
+
+**Concrete first ask (proposed):** Could an architect in your office review the route diagram or identify a faculty researcher in building-use evaluation? The first request is design advice for an architecture PhD proposal, with permissions and a site still unresolved.
 
 ## Supervision and open questions
 

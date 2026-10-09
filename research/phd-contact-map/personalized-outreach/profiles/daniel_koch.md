@@ -1,6 +1,6 @@
 # Daniel Koch López — research for first contact
 
-**Lead:** `daniel_koch`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `daniel_koch`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KTH Royal Institute of Technology, Architecture. **Recorded role:** Associate Professor of Urban Design, specialization in Spatial Analysis; docent in Architecture.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Especially close fit for how delegation alters access to public institutions and social encounters. Could connect architectural analysis with critical evaluation of digital participation.
 
-**Draft connection (assessment):** Your KTH research connects spatial analysis with digitalisation, AI, the public sphere and equal living environments. Those connections are central to the project's concern for equitable presence and absence.
+**Selected source anchor:** [KTH research on AI, the public sphere and equal living environments](https://www.kth.se/profile/dkoch?l=en) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a library-threshold comparison fit your research, and which spatial observations would reveal whether delegated service expands public access or redistributes exclusion?
+**Draft connection (assessment):** Your [KTH research on AI, the public sphere and equal living environments](https://www.kth.se/profile/dkoch?l=en) puts digitalisation beside the public sphere and equality. I want to examine whether a delegated service changes who can use a public interior, not merely its throughput.
+
+**Specific spatial case (proposal):** For Proxy Society, I would compare a side collection route with a shared reception route, mapping access to staff, seating and other library functions. Staged tasks would include a person choosing to attend and a delegated request that must be refused or corrected.
+
+**Concrete first ask (proposed):** Could we discuss possible architecture PhD supervision at KTH? I would bring a plan and access matrix, asking which spatial comparison can reveal unequal effects without presuming that delegation is either liberating or exclusionary.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Toomas Tammis — research for first contact
 
-**Lead:** `tammis`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `tammis`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Estonian Academy of Arts (EKA). **Recorded role:** Professor of Architectural Design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique whether the project produces an architectural contribution in plans, sections, rooms and thresholds.
 
-**Draft connection (assessment):** Your architectural-design teaching at EKA makes you a relevant person to ask whether the project has a convincing spatial design question before it becomes a technology demonstration.
+**Selected source anchor:** [EKA architectural-design teaching and thesis supervision](https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What comparison of reception, circulation or waiting arrangements would establish that architecture changes the outcome, and who should assess its doctoral fit?
+**Draft connection (assessment):** EKA’s [EKA architectural-design teaching and thesis supervision](https://www.artun.ee/en/curricula/architecture-and-urban-design/people/practical-subjects/) is why I am approaching you for a design critique, rather than a technical assessment of the AI system.
+
+**Specific spatial case (proposal):** My Proxy Society proposal would compare two plans for the same library collection task: a shared counter with a visible handoff zone, and a separate agent route beside the human entrance. Sections would show what visitors and staff can see and where a mandate can be challenged.
+
+**Concrete first ask (proposed):** Could you review those drawings and identify the architectural question they actually test? I am exploring a PhD context and would welcome your view on whether the work needs a different typology, method or supervisor before proceeding.
 
 ## Supervision and open questions
 

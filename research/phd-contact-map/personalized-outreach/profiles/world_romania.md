@@ -1,6 +1,6 @@
 # Ordinul Arhitectilor din Romania (OAR) — research for first contact
 
-**Lead:** `world_romania`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_romania`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordinul Arhitectilor din Romania (OAR). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** OAR's professional and cultural activity provides a route to architects concerned with how spaces are used and valued. I would like a local critique before proposing a delegated service.
+**Selected source anchor:** [Ordinul Arhitecților din România](https://oar.archi/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or researcher studying civic reception, inclusive access or everyday building experience who might review the pilot?
+**Draft connection (assessment):** I am using [Ordinul Arhitecților din România](https://oar.archi/) to find a practitioner who has evaluated public interiors after occupation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare the ordinary counter with an AI-mediated collection bay, holding the task constant and observing staff reach, passing conflicts and permission-refusal recovery.
+
+**Concrete first ask (proposed):** Could you recommend a Romanian architect or researcher to critique the two plans and coding sheet? The first contribution is practice-methods advice for an architecture PhD proposal, before any field site or operator is agreed.
 
 ## Supervision and open questions
 

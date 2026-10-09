@@ -1,6 +1,6 @@
 # Zuzana Čerešňová — research for first contact
 
-**Lead:** `world_slovakia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_slovakia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Slovak University of Technology in Bratislava, Faculty of Architecture and Design. **Recorded role:** Associate professor; vice-dean for science and research.
 
@@ -18,9 +18,13 @@ The STU sources add universal design of cultural facilities and the UNIALL highe
 
 Could discuss architectural research fit and identify an appropriate researcher or doctoral team; individual supervision and capacity need confirmation.
 
-**Draft connection (assessment):** Your STU research listings connect accessibility and universal design with cultural and educational facilities. They offer a relevant perspective on protecting the choice to attend and receive assistance in person.
+**Selected source anchor:** [Universal design of cultural facilities](https://www.stuba.sk/spektrum-doi/10.61544/kebh7570.html?page_id=17682) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** How should a threshold comparison involve users with varied access needs, and could this fit an architectural research or doctoral conversation at STU?
+**Draft connection (assessment):** The STU source [Universal design of cultural facilities](https://www.stuba.sk/spektrum-doi/10.61544/kebh7570.html?page_id=17682), alongside the UNIALL higher-education accessibility work, gives a concrete design frame for the proposed civic-library test.
+
+**Specific spatial case (proposal):** For Proxy Society, users with varied access needs would compare two handoff layouts during personal, assisted and AI-mediated collection. The protocol would document reachability, orientation and access to a staff member, including refusal of the automated route.
+
+**Concrete first ask (proposed):** Could you critique the section and participant-task matrix and discuss doctoral or advisory fit? I would ask which universal-design criteria must shape the first prototype before reporting it as an access improvement.
 
 ## Supervision and open questions
 

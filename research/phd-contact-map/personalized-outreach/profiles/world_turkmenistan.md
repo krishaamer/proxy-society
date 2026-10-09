@@ -1,6 +1,6 @@
 # Turkmen State Architecture and Construction Institute — research for first contact
 
-**Lead:** `world_turkmenistan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_turkmenistan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Turkmen State Architecture and Construction Institute. **Recorded role:** Architecture/construction institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architectural researcher or practitioner for civic-building observation and design critique; doctoral eligibility and a named contact require confirmation.
 
-**Draft connection (assessment):** Your institute's architecture and construction setting is a relevant starting point for a research question that must connect spatial design with building operation.
+**Selected source anchor:** [Turkmen architecture/construction institute’s research and design route](https://www.tdbgi.edu.tm/en) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague studying civic facilities, reception or inclusive access who might assess the pilot and identify an appropriate postgraduate research route?
+**Draft connection (assessment):** [Turkmen architecture/construction institute’s research and design route](https://www.tdbgi.edu.tm/en) identifies an architecture teaching and research context. I am looking for a colleague who could assess a small occupied-space experiment.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare enclosure, visibility and staff reach at an AI-mediated handoff bay, testing it against the unchanged counter and human assistance.
+
+**Concrete first ask (proposed):** Could you identify a design researcher to critique the plan, section and task sequence? I would establish current programme operation and any doctoral/advisory route separately, rather than infer them from a general institute page.
 
 ## Supervision and open questions
 

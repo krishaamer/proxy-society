@@ -1,6 +1,6 @@
 # Tinai, Gordon & Associates — research for first contact
 
-**Lead:** `world_samoa`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_samoa`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Tinai, Gordon & Associates, Apia. **Recorded role:** Architecture and engineering practice; dated public project contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architect for local building-use and reception design critique; no academic or doctoral supervisory role is verified.
 
-**Draft connection (assessment):** The World Bank's 2023 construction-market analysis identifies Tinai, Gordon & Associates. I am seeking the appropriate current practice contact for a small architectural research conversation.
+**Selected source anchor:** [2023 contractor-market study listing Tinai, Gordon & Associates](https://thedocs.worldbank.org/en/doc/dff5c1893df9e402541be797dcd7ed1a-0070012024/original/Samoa-Domestic-Construction-Contractor-Market-Analysis-Final-08312023-BW-v2.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you confirm that route and suggest an architect who could discuss civic-building reception, accessibility and everyday service handoffs in Samoa?
+**Draft connection (assessment):** I found the Apia practice connection through [2023 contractor-market study listing Tinai, Gordon & Associates](https://thedocs.worldbank.org/en/doc/dff5c1893df9e402541be797dcd7ed1a-0070012024/original/Samoa-Domestic-Construction-Contractor-Market-Analysis-Final-08312023-BW-v2.pdf). I would first confirm the current office and architect appropriate to a reception-layout critique.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library retrofit would compare the existing counter with an optional AI-mediated collection bay, testing clear passage, visible help and staff takeover.
+
+**Concrete first ask (proposed):** Could you identify the right designer or a Samoa civic-building colleague? I would send one plan and section as practice input to an architecture PhD proposal, without treating the historical listing as evidence of availability.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Faculty of Architecture — research for first contact
 
-**Lead:** `world_kosovo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_kosovo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Prishtina. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a researcher in civic-building design and spatial experience.
 
-**Draft connection (assessment):** Your faculty's published teaching and international activity offers a starting point for an architectural research conversation grounded in a civic building's everyday use.
+**Selected source anchor:** [University of Prishtina’s architecture faculty](https://fa.uni-pr.edu/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which colleague studies public-building access, reception or spatial behaviour and might assess a threshold comparison and its possible doctoral relevance?
+**Draft connection (assessment):** I am using [University of Prishtina’s architecture faculty](https://fa.uni-pr.edu/) to find a researcher who can connect an interface decision with a spatial design contribution.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study holds an AI-delegated collection interface constant across two counter layouts, comparing sightlines, queueing and opportunities for human intervention through drawings and staged use.
+
+**Concrete first ask (proposed):** Could you suggest an architecture/design-research colleague to review that comparison and a possible doctoral context? I would send the plan pair and proposed measures rather than a broad request about AI in buildings.
 
 ## Supervision and open questions
 

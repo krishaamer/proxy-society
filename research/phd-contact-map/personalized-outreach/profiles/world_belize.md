@@ -1,6 +1,6 @@
 # Andrea Bacher — research for first contact
 
-**Lead:** `world_belize`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_belize`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Latitude 20 Architecture. **Recorded role:** Registered architect.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique the spatial pilot from local practice and refer a community-building project; project-specific expertise is unconfirmed.
 
-**Draft connection (assessment):** The Association of Professional Architects of Belize's 2026 register identifies your practice and professional route. I am seeking a local architectural critique of a service change at building scale.
+**Selected source anchor:** [Belize’s 2026 professional register](https://www.architectsofbelize.com/registered-corporate-architects) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you discuss what an inclusive civic threshold should preserve, or suggest a Belize colleague with public-building or spatial-behaviour experience?
+**Draft connection (assessment):** [Belize’s 2026 professional register](https://www.architectsofbelize.com/registered-corporate-architects) lists your Latitude 20 practice. I am seeking a reception-design critique or referral, without assuming a research or doctoral-supervision role.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library intervention would put an AI-mediated collection point beside an unchanged human counter. The first test would examine passage, recognition of staff and whether a refusal can be resolved without entering the public queue.
+
+**Concrete first ask (proposed):** Could you review that small plan or suggest a Belizean civic-building colleague? I would send an annotated arrival sequence before discussing any fieldwork or partnership.
 
 ## Supervision and open questions
 

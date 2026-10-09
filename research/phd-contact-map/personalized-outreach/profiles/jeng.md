@@ -1,6 +1,6 @@
 # Taysheng Jeng — research for first contact
 
-**Lead:** `jeng`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `jeng`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Cheng Kung University (NCKU), Department of Architecture. **Recorded role:** Professor; Interactive Architecture Lab.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Close architectural bridge between building interfaces and human experience; could help define and evaluate the reception/permission pilot.
 
-**Draft connection (assessment):** Your Interactive Architecture Lab connects smart spaces, human-computer interaction and human-AI collaboration. Those areas meet directly in a threshold where a building must interpret a person's limited mandate.
+**Selected source anchor:** [NCKU research on smart spaces and human–AI collaboration](https://www.arch.ncku.edu.tw/cht/module/pageinfo/65-i3.html) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could the lab support a study comparing delegated arrival with ordinary booking and staff assistance, and which architecture doctoral route would be appropriate?
+**Draft connection (assessment):** Your [NCKU research on smart spaces and human–AI collaboration](https://www.arch.ncku.edu.tw/cht/module/pageinfo/65-i3.html) connects sensing, interaction and architectural design. I would like to make the spatial variable explicit so that a better AI interface is not mistaken for a better threshold.
+
+**Specific spatial case (proposal):** In a proposed Proxy Society library test, the same delegated task and visible permission display would be used in two counter layouts. We would record comprehension, intervention and movement, alongside a conventional booking-and-staff baseline.
+
+**Concrete first ask (proposed):** Would you consider a doctoral supervision conversation at NCKU? I would send a layout pair and measurement plan, asking which sensing or observation approach could distinguish effects of space from effects of automation.
 
 ## Supervision and open questions
 

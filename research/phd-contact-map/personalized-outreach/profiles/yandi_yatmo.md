@@ -1,6 +1,6 @@
 # Yandi Andri Yatmo — research for first contact
 
-**Lead:** `yandi_yatmo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `yandi_yatmo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universitas Indonesia, Department of Architecture. **Recorded role:** Professor of Architecture; architectural design research-cluster lead in institutional profile.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Challenge the pilot's assumptions about stable infrastructure and institutional access. Co-design a human-assistance comparison that works for local routines and community needs, not only for technologically equipped campuses.
 
-**Draft connection (assessment):** Your research-based and participatory design work begins from everyday life. It suggests that a threshold proposal should be evaluated through the routines and negotiations already taking place there.
+**Selected source anchor:** [Sekolah Indonesia Cepat Tanggap](https://eng.ui.ac.id/en/profcast-ftui-episode-10-sekolah-indonesia-cepat-tanggap-2/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What locally grounded comparison would reveal whether delegation expands access or shifts work onto staff and communities, and could this fit UI architectural research?
+**Draft connection (assessment):** The university account of [Sekolah Indonesia Cepat Tanggap](https://eng.ui.ac.id/en/profcast-ftui-episode-10-sekolah-indonesia-cepat-tanggap-2/) provides a concrete research-and-practice precedent for responding to everyday educational needs. I want the proposed service to begin from observed practices, not a preferred technology.
+
+**Specific spatial case (proposal):** Proxy Society’s community-centre pilot would document help-seeking and informal handoffs, then let users and staff rearrange a reception mock-up for one AI-mediated errand. Ordinary assistance would remain the baseline.
+
+**Concrete first ask (proposed):** Would you discuss a doctoral or participatory-methods fit at Universitas Indonesia? I would send the fieldwork and workshop plan, asking how the prototype should respond when the existing practice already supports people better.
 
 ## Supervision and open questions
 

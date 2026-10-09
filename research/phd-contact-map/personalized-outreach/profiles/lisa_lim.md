@@ -1,6 +1,6 @@
 # Lisa Lim — research for first contact
 
-**Lead:** `lisa_lim`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `lisa_lim`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KAIST, Department of Civil and Environmental Engineering. **Recorded role:** Associate Professor; Health Design Lab director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help make access, staff intervention, dignity and control meaningful evaluation outcomes, including differences across people’s mobility and access needs.
 
-**Draft connection (assessment):** Health Design Lab's work links spatial layouts with user experience and organisational outcomes. That suggests a broader evaluation than throughput or successful task completion.
+**Selected source anchor:** [KAIST Health Design Lab](https://www.healthdesign.kaist.ac.kr/members) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How should a threshold study measure dignity, perceived control, equitable access and staff workload, and could it fit your built-environment research at KAIST?
+**Draft connection (assessment):** Your [KAIST Health Design Lab](https://www.healthdesign.kaist.ac.kr/members) connects spatial layouts with user experience and organisational outcomes. I need to define success for staff and visitors who do not experience the same arrangement equally.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library threshold test would include personal arrival, AI-mediated collection and human assistance. I would compare two counter arrangements for reachability, perceived control, help-seeking and staff workload, recording whose access improves or deteriorates rather than average transaction speed alone.
+
+**Concrete first ask (proposed):** Would you advise on that outcome set and discuss a possible supervisory or methods role? I would send the plan and participant-task matrix, asking how to include different mobility and access needs without making unsupported health claims.
 
 ## Supervision and open questions
 

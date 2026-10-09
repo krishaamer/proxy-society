@@ -1,6 +1,6 @@
 # Gabriel Viora — research for first contact
 
-**Lead:** `world_monaco`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_monaco`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Conseil de l’Ordre des Architectes de Monaco / Viora architecture practice. **Recorded role:** Architect; order president listed in member register.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss dense urban civic thresholds and refer a case-study architect; research interest is unconfirmed.
 
-**Draft connection (assessment):** The Monaco Order's member page identifies your architectural practice and professional route. I am seeking an initial practice critique before proposing a site or technical system.
+**Selected source anchor:** [Monaco architecture order’s member page](https://www.architectes-monaco.com/fr/membres) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you discuss reception, privacy and human assistance in a shared building, or suggest a colleague with civic-facility or spatial-experience expertise?
+**Draft connection (assessment):** I found your professional route through [Monaco architecture order’s member page](https://www.architectes-monaco.com/fr/membres). I am seeking a civic-interior critique or referral, without assuming a research or automation specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library retrofit would compare an AI-mediated collection bay with ordinary reception, keeping a direct human route and visible access to assistance in each plan.
+
+**Concrete first ask (proposed):** Could you review the arrival diagram or suggest a relevant Monaco architect? The initial request is practice advice for an architecture PhD proposal before any study site or partnership is identified.
 
 ## Supervision and open questions
 

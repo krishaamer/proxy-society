@@ -1,6 +1,6 @@
 # Royal Institute of the Architects of Ireland (RIAI) — research for first contact
 
-**Lead:** `world_ireland`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_ireland`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Royal Institute of the Architects of Ireland (RIAI). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** RIAI's published architecture awards include both special-educational-needs buildings and public-realm work. Those settings are relevant to evaluating access through varied users' experiences.
+**Selected source anchor:** [Royal Institute of the Architects of Ireland](https://www.riai.ie/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or researcher studying inclusive civic reception, spatial orientation or public-building use for a short research conversation?
+**Draft connection (assessment):** [Royal Institute of the Architects of Ireland](https://www.riai.ie/) is my route to a practitioner who can assess the proposed layout through accessibility and actual use.
+
+**Specific spatial case (proposal):** Proxy Society’s library study would compare ordinary reception with an optional AI-mediated handoff, measuring turning, queue overlap, help-seeking and user control rather than automated completion alone.
+
+**Concrete first ask (proposed):** Could you recommend an Irish architect or researcher with public-library or post-occupancy experience? I would request a critique of the plans and outcome matrix as practice input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

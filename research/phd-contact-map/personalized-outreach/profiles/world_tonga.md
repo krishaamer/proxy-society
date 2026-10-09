@@ -1,6 +1,6 @@
 # Building Services & Control Division — research for first contact
 
-**Lead:** `world_tonga`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_tonga`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ministry of Infrastructure, Tonga. **Recorded role:** Public building-services referral office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architect or public-building design officer for local access and threshold critique; current recipient responsibility needs confirmation.
 
-**Draft connection (assessment):** Your Building Services and Control Division's published remit provides a relevant route for asking how a small spatial proposal should be reviewed before any building trial.
+**Selected source anchor:** [Tonga ministry’s Building Services & Control Division](https://moi.gov.to/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you direct me to a designer or public-building colleague who can discuss accessible reception and handoff arrangements, and the appropriate research enquiry process?
+**Draft connection (assessment):** [Tonga ministry’s Building Services & Control Division](https://moi.gov.to/) identifies the building-services unit. I am seeking the architect or design consultant responsible for public interiors, rather than a regulatory endorsement of the research.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library comparison would retain the ordinary human counter while testing an optional AI-mediated handoff, focusing on clearance, accessible passage and staff takeover.
+
+**Concrete first ask (proposed):** Could you identify the appropriate professional enquiry route? I would initially send one plan and section for architectural advice to a PhD proposal, without requesting a ministry building or live trial.
 
 ## Supervision and open questions
 

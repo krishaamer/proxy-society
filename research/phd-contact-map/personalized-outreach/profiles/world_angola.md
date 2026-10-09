@@ -1,6 +1,6 @@
 # Ordem de Arquitectos de Angola — research for first contact
 
-**Lead:** `world_angola`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_angola`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordem de Arquitectos de Angola. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your professional-development material includes technical regulation, public procurement and architectural responsibility. Those concerns are relevant to deciding who owns the consequences of a civic service change.
+**Selected source anchor:** [Ordem de Arquitectos de Angola](https://oarquitectos.ao/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an Angolan architect or researcher who could critique reception, accessibility and operational responsibility in a modest public-building pilot?
+**Draft connection (assessment):** [Ordem de Arquitectos de Angola](https://oarquitectos.ao/) is the professional route I am using to identify an architect with experience of buildings in use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre pilot compares ordinary assistance with an AI-delegated errand, observing where people wait, ask questions and regain control of a request. Two reversible counter arrangements would be tested.
+
+**Concrete first ask (proposed):** Could you suggest an Angolan practitioner or academic who has studied civic reception or accessible public interiors? I would initially request a critique of a layout and task script, with doctoral or fieldwork connections considered separately.
 
 ## Supervision and open questions
 

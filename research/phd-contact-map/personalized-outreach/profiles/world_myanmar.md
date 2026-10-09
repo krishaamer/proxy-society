@@ -1,6 +1,6 @@
 # Thet Oo — research for first contact
 
-**Lead:** `world_myanmar`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_myanmar`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** West Yangon Technological University, Architecture Department. **Recorded role:** Professor and department head.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique the architectural pilot or refer an appropriate colleague; the contact is administrative, not a personal email.
 
-**Draft connection (assessment):** WYTU's architecture page identifies your department leadership and its research-and-development setting. I am seeking advice on a modest spatial comparison rather than assuming an agreed programme or site.
+**Selected source anchor:** [West Yangon Technological University’s architecture page](https://wytu.edu.mm/departments/bi_thu_kar) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a researcher studying civic access, reception or everyday building use, and the correct route for an initial research enquiry?
+**Draft connection (assessment):** [West Yangon Technological University’s architecture page](https://wytu.edu.mm/departments/bi_thu_kar) identifies your departmental connection. I am approaching through the administrative route to confirm the appropriate research recipient.
+
+**Specific spatial case (proposal):** For Proxy Society, two library reception layouts would handle the same AI-delegated collection task, testing clear passage, visible staff assistance and recovery when authorisation is withdrawn.
+
+**Concrete first ask (proposed):** Could you critique the design question or suggest a faculty colleague in public-building use? I would send the plan pair and separately establish the appropriate doctoral/advisory context and current programme operation.
 
 ## Supervision and open questions
 

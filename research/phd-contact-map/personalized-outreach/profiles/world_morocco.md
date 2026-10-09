@@ -1,6 +1,6 @@
 # Conseil régional de l’Ordre des architectes Centre (CROAC) — research for first contact
 
-**Lead:** `world_morocco`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_morocco`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Conseil régional de l’Ordre des architectes Centre (CROAC). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** CROAC describes supporting and framing architectural practice in its region. I am seeking a member or researcher who can connect access rules with everyday reception and spatial design.
+**Selected source anchor:** [CROAC’s professional architecture route](https://ordrearchicentre.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend someone experienced in civic facilities, inclusive thresholds or public-building use for a short discussion of the pilot?
+**Draft connection (assessment):** I am approaching [CROAC’s professional architecture route](https://ordrearchicentre.org/) to find a member with public-building reception or retrofit experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare a shared counter and a side AI-mediated-collection bay, observing visibility of help, waiting and recovery from an unclear mandate.
+
+**Concrete first ask (proposed):** Could you suggest a Moroccan architect or researcher to review the plans and interruption scenario? I would begin with practice input to an architecture PhD proposal, without asking the order or member to commit to a pilot.
 
 ## Supervision and open questions
 

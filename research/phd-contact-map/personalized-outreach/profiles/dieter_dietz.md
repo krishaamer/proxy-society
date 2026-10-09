@@ -1,6 +1,6 @@
 # Dieter Dietz — research for first contact
 
-**Lead:** `dieter_dietz`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `dieter_dietz`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** EPFL, ALICE laboratory. **Recorded role:** Associate Professor of Architectural Design; ALICE director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 A strong setting for staging shared thresholds and testing when physical participation remains desirable. Could support film and embodied experiments alongside conventional spatial documentation.
 
-**Draft connection (assessment):** ALICE's approach to collective and active imagination with space offers a relevant way to develop a threshold experiment through physical making and participation.
+**Selected source anchor:** [ALICE’s experimental spatial practice](https://www.epfl.ch/labs/alice/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the pilot become a research-by-design sequence at ALICE, and how would you document differences in social experience across its alternative arrangements?
+**Draft connection (assessment):** [ALICE’s experimental spatial practice](https://www.epfl.ch/labs/alice/) combines physical making with events and performance. That suggests a way to investigate authority through an encounter, rather than only through a plan or screen.
+
+**Specific spatial case (proposal):** A Proxy Society workshop would stage the same library collection with an author, their AI representative, a receptionist and another visitor. Participants would rearrange the counter when permission is questioned, testing where a human can interrupt, wait or take over.
+
+**Concrete first ask (proposed):** Would you consider a doctoral/advisory discussion at EPFL? I would send a short performance score and plan, asking how an ALICE-style spatial exercise can become repeatable research evidence while retaining participants’ ability to change the rules.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Schneider Electric EcoStruxure integration team — research for first contact
 
-**Lead:** `schneider_building_data`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `schneider_building_data`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Schneider Electric. **Recorded role:** Building-data and integration connection; named research contact unverified.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Measure the operational and energy consequences of a threshold experiment alongside access and staff effort. Distinguish read-only monitoring from authority to change building systems.
 
-**Draft connection (assessment):** EcoStruxure's published data-access services suggest a way to observe building operation alongside a spatial experiment, rather than making assumptions about what the service changes.
+**Selected source anchor:** [EcoStruxure BuildingDataPlatform developer materials](https://github.com/SchneiderElectricBuildings/BuildingDataPlatform) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Focused indexed primary text; full current page and contact operation not established. Historical publications do not establish a current appointment.
 
-**Concrete first ask (proposed):** Which local integration or research partner could discuss permissioned, read-only data for a modest civic-access study, with the operator retaining responsibility for its systems?
+**Draft connection (assessment):** [EcoStruxure BuildingDataPlatform developer materials](https://github.com/SchneiderElectricBuildings/BuildingDataPlatform) provides a concrete documentation route for building-data integration. I want to keep recorded building state distinct from proof that a person authorised a particular action.
+
+**Specific spatial case (proposal):** For Proxy Society, a library threshold prototype would expose an AI agent’s permitted destination, staff intervention and task cancellation. We would compare two layouts with a manual observation baseline, using building data only where it adds evidence about the spatial sequence.
+
+**Concrete first ask (proposed):** Could you point me to public documentation or an integration colleague for the relevant event/state data? I would send the proposed data boundary and ask which claims the platform can support without inferring human intention from an access event.
 
 ## Supervision and open questions
 

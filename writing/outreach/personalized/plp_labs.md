@@ -1,14 +1,14 @@
 # Email draft — Ron Bakker / PLP Labs team
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `plp_labs`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `plp_labs`.
 
 **Recipient:** Ron Bakker / PLP Labs team — PLP Architecture / PLP Labs.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.plparchitecture.com/labs).
 
-**Subject:** A focused academic-practice threshold experiment
+**Subject:** PLP Labs: evaluate behaviour before specifying an agent-ready entrance
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/plp_labs.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/plp_labs.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear PLP Architecture / PLP Labs team,
 
-PLP Labs connects academia, industry and architectural practice through applied research and experimentation. I am exploring a pilot small enough to develop a clear shared research question.
+[PLP Labs research expertise and Knowledge Transfer Partnership](https://www.plparchitecture.com/labs/research) connects university research and architectural practice. I am looking for an appropriate scale of evidence for one reversible reception intervention.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library trial would compare a shared counter approach with a separate handoff bay, using the same authorised task for an AI agent acting for a visitor. Observed human passage, visibility of staff and recovery from refused requests would test the assumed benefit of separation.
 
-Could your team discuss what spatial and public-value outcomes would make a delegated-threshold study a useful academic-practice collaboration?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique the study brief or identify a PLP Labs colleague? I would ask which behavioural evidence would justify changing the plan, and what a useful university–practice advisory arrangement could contribute to an architecture PhD.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/plp_labs.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 145 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 124 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

@@ -1,6 +1,6 @@
 # Uganda Society of Architects — research for first contact
 
-**Lead:** `world_uganda`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_uganda`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Uganda Society of Architects. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Society describes strengthening educational and scientific ties within Uganda's architecture community. That is a useful route to a locally grounded critique of a proposed service change.
+**Selected source anchor:** [Uganda Society of Architects](https://ugandasocietyofarchitects.org/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or researcher studying civic reception, inclusive access or everyday spatial use who might discuss the pilot?
+**Draft connection (assessment):** [Uganda Society of Architects](https://ugandasocietyofarchitects.org/) is my professional route to a member experienced in civic reception or post-occupancy evaluation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare shared reception and a separate AI-mediated collection point, measuring staff reach, passing conflicts and recovery from an uncertain mandate.
+
+**Concrete first ask (proposed):** Could you suggest a Ugandan architect or researcher to critique the plans and observation method? I would begin with a bounded design conversation for an architecture PhD proposal, before any operator or site is proposed.
 
 ## Supervision and open questions
 

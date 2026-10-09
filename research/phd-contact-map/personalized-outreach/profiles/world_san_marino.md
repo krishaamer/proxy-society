@@ -1,6 +1,6 @@
 # Pamela Paolucci — research for first contact
 
-**Lead:** `world_san_marino`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_san_marino`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordine degli Ingegneri e Architetti della Repubblica di San Marino. **Recorded role:** Architect; order secretary.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an appropriate civic-building architect and discuss public-space practice; contact is through the order.
 
-**Draft connection (assessment):** Your Order's published council identifies your architectural and secretariat role. I am seeking a practitioner with local experience of the social and operational use of shared buildings.
+**Selected source anchor:** [San Marino order’s architect/secretary listing](https://www.archingsm.org/consiglio-dell-ordine) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or researcher who might discuss civic reception, inclusive access and what a modest threshold experiment should preserve?
+**Draft connection (assessment):** [San Marino order’s architect/secretary listing](https://www.archingsm.org/consiglio-dell-ordine) identifies your professional role. I am approaching the general office route for a member referral, without assuming your research specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library test would compare an unchanged reception with a reversible AI-mediated collection point, observing staff reach, waiting and the option to attend or take over personally.
+
+**Concrete first ask (proposed):** Could you suggest a San Marino architect to critique the plan and interruption scene? The first request is practice advice for an architecture PhD proposal before discussing a trial operator or site.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Kamra Tal-Periti — research for first contact
 
-**Lead:** `world_malta`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_malta`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Kamra Tal-Periti. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Kamra tal-Periti connects architecture and engineering practice with professional and international networks. I am seeking a local perspective on how a shared building communicates permission and welcome.
+**Selected source anchor:** [Kamra tal-Periti](https://kamratalperiti.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or academic in civic reception, inclusive access or spatial behaviour who might critique a modest threshold experiment?
+**Draft connection (assessment):** [Kamra tal-Periti](https://kamratalperiti.org/) is the professional route for finding a member who can assess a small existing-building intervention.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare two movable handoff arrangements for an AI-authorised collection. Turning, sightlines to staff and queue spillover would be tested against the original counter.
+
+**Concrete first ask (proposed):** Could you recommend a Maltese architect or researcher in public interiors or building-use evaluation? I would request a plan-and-section critique for an architecture PhD proposal, with no assumption of a pilot site or operator.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Arch.Atelier — research for first contact
 
-**Lead:** `world_syria`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_syria`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Arch.Atelier, Damascus. **Recorded role:** Architecture and planning practice office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an architect for locally grounded public-building thresholds and case-study design; no individual academic or doctoral role is verified.
 
-**Draft connection (assessment):** Arch.Atelier's published services include historic preservation, rehabilitation and architectural design. That suggests a useful perspective on adapting existing thresholds without assuming new infrastructure is necessary.
+**Selected source anchor:** [Arch.Atelier’s Damascus practice route](https://archatelier.net/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team discuss what a reception-and-handoff comparison should preserve, or suggest a Syrian civic-building practitioner or researcher for an initial conversation?
+**Draft connection (assessment):** [Arch.Atelier’s Damascus practice route](https://archatelier.net/) provides the architecture office channel for a small existing-interior review. I am not assuming a research or automation specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library retrofit would retain ordinary reception while comparing two positions for an optional AI-mediated handoff, documenting staff reach, waiting and recovery when permission changes.
+
+**Concrete first ask (proposed):** Could the appropriate architect review a plan and section or suggest a Syria civic-building colleague? I am seeking practice input to an architecture PhD proposal, without requesting site access or a live service trial.
 
 ## Supervision and open questions
 

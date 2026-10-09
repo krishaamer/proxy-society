@@ -1,6 +1,6 @@
 # Architectural Association of Kenya (AAK) — research for first contact
 
-**Lead:** `world_kenya`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_kenya`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Architectural Association of Kenya (AAK). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** AAK brings architects together with planning, engineering, environmental-design and construction professions. Those perspectives meet in the responsibility for a shared building's threshold.
+**Selected source anchor:** [Architectural Association of Kenya](https://aak.or.ke/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your architecture chapter recommend someone who studies civic-building use, inclusive reception or staff-user interaction and might critique the proposed pilot?
+**Draft connection (assessment):** [Architectural Association of Kenya](https://aak.or.ke/) is my route to a member with civic-interior and user-evaluation experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison includes personal arrival, human assistance and AI-delegated collection across two counter layouts. The evidence would show whose access to staff, control or passage improves or worsens.
+
+**Concrete first ask (proposed):** Could you recommend a Kenyan architect or researcher to critique the plans and outcome matrix? I would start with a focused design conversation for an architecture PhD, before proposing any pilot site or collaboration.
 
 ## Supervision and open questions
 

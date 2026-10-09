@@ -1,6 +1,6 @@
 # WAISS Associates AUD — research for first contact
 
-**Lead:** `world_djibouti`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_djibouti`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** WAISS Associates AUD. **Recorded role:** Architecture, urbanism and spatial-analysis practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss spatial mapping and local civic-building contexts, and identify a named practice collaborator.
 
-**Draft connection (assessment):** WAISS Associates AUD describes architecture, urbanism, spatial analysis and GIS services. That combination is relevant to understanding a building threshold through both layout and its surrounding routes.
+**Selected source anchor:** [WAISS Associates’ architecture, GIS and BIM practice](https://waisassociates.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team critique a reception-and-handoff comparison, or suggest an appropriate local civic-building practitioner or research colleague?
+**Draft connection (assessment):** [WAISS Associates’ architecture, GIS and BIM practice](https://waisassociates.com/) provides a specific building-information connection. I want to compare a modelled route with the spatial conditions people encounter when a request stops.
+
+**Specific spatial case (proposal):** For Proxy Society, an AI-delegated library collection would pause at a staff-accessible handoff point. Two layouts would test visibility, clearance and recovery, with the ordinary counter as the baseline.
+
+**Concrete first ask (proposed):** Could a WAISS architect critique the plan and operation-state diagram, or suggest a relevant Djibouti colleague? The request is practice input to an architecture PhD, before any technical integration or site arrangement is proposed.
 
 ## Supervision and open questions
 

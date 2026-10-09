@@ -1,6 +1,6 @@
 # Sun Kishoen Misier — research for first contact
 
-**Lead:** `world_suriname`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_suriname`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Anton de Kom University of Suriname, Bouwkunde. **Recorded role:** Programme coordinator; building technology and urban design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a design or spatial-planning researcher and discuss local public-building conditions; an architecture doctorate or supervision role has not been verified.
 
-**Draft connection (assessment):** Your 2026-2027 Bouwkunde study guide identifies your programme-coordination role in a setting covering building technology and urban design. I am seeking a clear architectural research connection.
+**Selected source anchor:** [Anton de Kom University’s 2026–27 Bouwkunde study guide](https://www.uvs.edu/wp-content/uploads/2026/01/Studiegids-van-de-opleiding-Bouwkunde-2026-2027-jan26.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague who might critique reception, waiting and access, and advise whether a suitable doctoral or external advisory route exists?
+**Draft connection (assessment):** [Anton de Kom University’s 2026–27 Bouwkunde study guide](https://www.uvs.edu/wp-content/uploads/2026/01/Studiegids-van-de-opleiding-Bouwkunde-2026-2027-jan26.pdf) identifies your programme role and its building-technology/urban-design context. I am approaching you for a fit check or colleague referral.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would change only the geometry and visibility of an AI-mediated handoff bay, testing staff reach and human passage against an ordinary counter before adding an autonomous system.
+
+**Concrete first ask (proposed):** Could you critique that design-study brief or identify an appropriate researcher? I would send the section and comparison protocol, then separately establish a doctoral or external-advisory arrangement.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Sophia Psarra — research for first contact
 
-**Lead:** `psarra`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `psarra`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** UCL, Bartlett School of Architecture. **Recorded role:** Professor of Architecture and Spatial Design.
 
@@ -12,13 +12,19 @@ UCL describes spatial modelling combined with empirical user activity to study s
 
 The underlying contact record was checked on **2026-10-08**. Source review this pass: **Public source text available for focused review**. Availability is not confirmation that all role, programme or project claims remain current.
 
+UCL’s 2024 book-launch account names Sophia Psarra among the editors of Parliament Buildings: The Architecture of Politics in Europe and relates architectural space to cognition and political power.
+
 ## Proposed fit and contribution
 
 Could connect assembly, spatial visibility and patterns of participation to architectural layout; particularly relevant to civic and deliberative rooms.
 
-**Draft connection (assessment):** Your research combines spatial modelling with evidence of users' activity to examine social, cultural and organisational performance. That combination is central to making this pilot architecturally testable.
+**Selected source anchor:** [Parliament Buildings: The Architecture of Politics in Europe](https://www.ucl.ac.uk/bartlett/events/2024/mar/book-launch-parliament-buildings-architecture-politics-europe) — reviewed 2026-10-10; Primary institutional publication/event text reviewed. Published event/book description reviewed; not the full edited volume.
 
-**Concrete first ask (proposed):** How should visibility, circulation and waiting be compared when a task may arrive through a representative, while preserving the experience of people who attend in person?
+**Draft connection (assessment):** Your work represented in [Parliament Buildings: The Architecture of Politics in Europe](https://www.ucl.ac.uk/bartlett/events/2024/mar/book-launch-parliament-buildings-architecture-politics-europe) connects spatial form, embodied cognition and power. I want to bring that question down to the scale of an ordinary civic reception.
+
+**Specific spatial case (proposal):** In Proxy Society, I propose drawing the sequence through which an AI-mediated request is seen, accepted, questioned and returned to its author. A counter, waiting area and staff-access point could distribute authority differently even when the same digital mandate is presented.
+
+**Concrete first ask (proposed):** Would you consider a doctoral conversation about that architectural sequence? I would send an annotated plan and ask how to relate its spatial configuration to observed participation and refusal, rather than infer power from the diagram alone.
 
 ## Supervision and open questions
 
@@ -40,6 +46,7 @@ No current capacity, funding offer, admission, site permission or advisory agree
 1. [Sophia Psarra research — UCL](https://www.ucl.ac.uk/brain-sciences/pals/research/ecological-brain-dtp/people) — reviewed 2026-10-09; public text retrieved. Underlying evidence date: 2026-10-08. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 2. [Bartlett teaching staff and doctoral supervisors](https://www.ucl.ac.uk/bartlett/architecture/study/teaching-staff) — reviewed 2026-10-09; public text retrieved. Underlying evidence date: 2026-10-08. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 3. [Published professional contact route](https://profiles.ucl.ac.uk/31395-sophia-psarra/about) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Underlying evidence date: 2026-10-08. Public contact-page text; availability does not establish response or delivery.
+4. [Parliament Buildings: The Architecture of Politics in Europe](https://www.ucl.ac.uk/bartlett/events/2024/mar/book-launch-parliament-buildings-architecture-politics-europe) — reviewed 2026-10-10; Primary institutional publication/event text reviewed. Underlying evidence date: 2026-10-10. Published event/book description reviewed; not the full edited volume.
 
 ## Prepared correspondence
 

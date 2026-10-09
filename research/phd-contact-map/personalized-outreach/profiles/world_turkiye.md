@@ -1,6 +1,6 @@
 # Alper Ünlü — research for first contact
 
-**Lead:** `world_turkiye`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_turkiye`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Özyeğin University, Spatial Systems Lab. **Recorded role:** Professor of architecture; lab coordinator.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A close methods candidate for evaluating threshold layouts, encounters and visibility. Formal supervisory eligibility and current capacity need separate verification.
 
-**Draft connection (assessment):** Spatial Systems Lab's environment-behaviour and space-syntax work is directly relevant to separating the effect of a threshold layout from that of a changed service.
+**Selected source anchor:** [Özyeğin Spatial Systems Lab](https://www.ozyegin.edu.tr/en/faculty/alperunlu) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you compare visibility, movement and perception of authority across ordinary and delegated arrival, and could that question fit an architectural doctoral discussion?
+**Draft connection (assessment):** [Özyeğin Spatial Systems Lab](https://www.ozyegin.edu.tr/en/faculty/alperunlu) and your environment–behaviour/space-syntax research offer a precise methodological connection. I want to compare spatial predictions with enacted encounters.
+
+**Specific spatial case (proposal):** For Proxy Society, two library counter layouts would present the same AI-mediated mandate but differ in visibility of the staff and stopping point. Route errors, help-seeking and takeover would be recorded alongside the spatial model.
+
+**Concrete first ask (proposed):** Would you consider a doctoral or methods-advisory conversation? I would send the plans and coding scheme, asking which spatial-perception claim the small comparison can defend and which needs participant accounts.
 
 ## Supervision and open questions
 

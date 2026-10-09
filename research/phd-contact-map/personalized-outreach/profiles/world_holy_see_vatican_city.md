@@ -1,6 +1,6 @@
 # Fabbrica di San Pietro — historical archive — research for first contact
 
-**Lead:** `world_holy_see_vatican_city`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_holy_see_vatican_city`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Fabbrica di San Pietro. **Recorded role:** Architectural heritage research-access office.
 
@@ -18,9 +18,13 @@ The Fabbrica archive page directs researcher enquiries to archiviofsp@fsp.va by 
 
 Could route a research question about architectural access, thresholds and historical building use. This is an archive/heritage contact, not a verified contemporary architect or doctoral supervisor.
 
-**Draft connection (assessment):** The Fabbrica di San Pietro's historical archive offers a research route into how a major public and sacred building has organised arrival, boundaries and institutional authority over time.
+**Selected source anchor:** [Fabbrica di San Pietro’s researcher-access page](https://www.basilicasanpietro.va/it/contatti) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the archive advise on relevant architectural records or a researcher to consult about those spatial conditions, as context for a contemporary civic-threshold study?
+**Draft connection (assessment):** [Fabbrica di San Pietro’s researcher-access page](https://www.basilicasanpietro.va/it/contatti) identifies the historical archive’s research route. I am seeking guidance on architectural records, rather than a contemporary service trial or doctoral admission.
+
+**Specific spatial case (proposal):** My Proxy Society architecture proposal asks how a threshold makes an AI agent’s authority to act for another person recognisable and limited. Historical plans or records of reception, controlled passage and requests handled through representatives could provide a comparison for a small civic-library study.
+
+**Concrete first ask (proposed):** Could the archive indicate a relevant catalogue area or researcher to consult, and the procedure for making a focused document request? I can send the bounded research question and desired record types for assessment.
 
 ## Supervision and open questions
 

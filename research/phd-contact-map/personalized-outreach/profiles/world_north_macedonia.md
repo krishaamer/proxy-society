@@ -1,6 +1,6 @@
 # Aneta Hristova Popovska — research for first contact
 
-**Lead:** `world_north_macedonia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_north_macedonia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ss. Cyril and Methodius University in Skopje, Faculty of Architecture. **Recorded role:** Professor; dean on current university directory.
 
@@ -18,9 +18,13 @@ The current UKIM mentor list explicitly includes Aneta Hristova-Popovska in Arch
 
 Could discuss the architectural contribution and identify appropriate doctoral/design-research colleagues.
 
-**Draft connection (assessment):** UKIM's published doctoral mentor list includes you in architecture and urban planning. I am seeking advice on whether this small spatial comparison has a suitable architectural research home.
+**Selected source anchor:** [UKIM’s Architecture and Urban Planning doctoral-mentor list](https://ukim.edu.mk/en/doktorska-shkola/informacii/mentori/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you assess its relevance or suggest a colleague studying public-building access and experience, and indicate the correct doctoral enquiry route?
+**Draft connection (assessment):** [UKIM’s Architecture and Urban Planning doctoral-mentor list](https://ukim.edu.mk/en/doktorska-shkola/informacii/mentori/) names you as a mentor. I would like to test topic fit and current capacity directly, rather than treat the roster as an available doctoral place.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares two counter layouts for personal and AI-delegated collection, using plans and staged refusal/takeover tasks to test visibility, access and control.
+
+**Concrete first ask (proposed):** Would you consider an initial supervisory conversation? I would send the plan pair and study design, asking which architectural contribution it must establish and which programme or co-advisory arrangement would be appropriate.
 
 ## Supervision and open questions
 

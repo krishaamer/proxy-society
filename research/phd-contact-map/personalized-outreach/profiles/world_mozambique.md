@@ -1,6 +1,6 @@
 # Faculty of Architecture and Physical Planning — research for first contact
 
-**Lead:** `world_mozambique`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_mozambique`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidade Lúrio. **Recorded role:** Architecture and planning faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an academic for community-space fieldwork and a locally grounded pilot.
 
-**Draft connection (assessment):** Your faculty combines architecture with physical planning at Universidade Lúrio. That connection is relevant to studying both a building threshold and the public routes around it.
+**Selected source anchor:** [Universidade Lúrio’s Architecture and Physical Planning faculty](https://fapf.unilurio.ac.mz/contacte-nos/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague in civic-building use, accessibility or spatial behaviour who might critique the pilot and advise on an appropriate research route?
+**Draft connection (assessment):** [Universidade Lúrio’s Architecture and Physical Planning faculty](https://fapf.unilurio.ac.mz/contacte-nos/) provides a research/design route for connecting a small building intervention to the place’s ordinary use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-library study would first document arrival, informal help and waiting, then compare a reversible AI-mediated handoff point with the existing reception.
+
+**Concrete first ask (proposed):** Could you suggest a colleague to critique the observation plan and spatial comparison? I would explore doctoral or external-advisory fit separately, with the aim of learning whether any intervention is warranted before selecting a field site.
 
 ## Supervision and open questions
 

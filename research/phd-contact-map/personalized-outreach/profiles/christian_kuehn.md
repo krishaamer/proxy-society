@@ -1,6 +1,6 @@
 # Christian Kühn — research for first contact
 
-**Lead:** `christian_kuehn`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `christian_kuehn`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** TU Wien, Building Theory and Design. **Recorded role:** Associate University Professor; building theory and design faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique whether proxy entrances and transfer zones are distinct building typologies or rework existing reception and service arrangements. Topic-specific interest remains to be established.
 
-**Draft connection (assessment):** Your Building Theory and Design research context is relevant to a question the project should settle early: whether delegated arrival requires a new spatial type at all.
+**Selected source anchor:** [TU Wien Building Theory and Design](https://www.gbl.tuwien.ac.at/personen/christian-kuehn/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you critique the proposed threshold and transfer-zone typologies, particularly where existing reception or service arrangements may already explain the problem?
+**Draft connection (assessment):** Your [TU Wien Building Theory and Design](https://www.gbl.tuwien.ac.at/personen/christian-kuehn/) is the right perspective for questioning whether the proposed threshold deserves a new typological name.
+
+**Specific spatial case (proposal):** Proxy Society’s library pilot would compare an ordinary service counter, a shared counter with visible delegated permission and a separate AI agent handoff zone. Plans and sections would document access and recognition; staged use would show which distinctions survive in practice.
+
+**Concrete first ask (proposed):** Would you consider a doctoral-fit or design-critique conversation? I would send the three diagrams and ask what changes in the building’s spatial organisation, and what should instead be treated as a change in institutional procedure.
 
 ## Supervision and open questions
 

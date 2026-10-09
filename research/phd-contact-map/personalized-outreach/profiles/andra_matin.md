@@ -1,6 +1,6 @@
 # Andra Matin / andramatin — research for first contact
 
-**Lead:** `andra_matin`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `andra_matin`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** andramatin. **Recorded role:** Architect and practice lead; initial enquiry through studio administration.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A regional design critic for whether a proposed threshold responds to climate, everyday habits and local forms of welcome. Useful as a case-study or critique partner, not as an assumed technology integrator.
 
-**Draft connection (assessment):** Your studio's context-sensitive work grounded in Indonesian environments suggests that the relationship between arrival, assistance and delegation should begin with local spatial practices.
+**Selected source anchor:** [andramatin’s account of context-sensitive practice](https://www.andramatin.com/about/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would a small civic-threshold study be useful to discuss, and which everyday conditions should its prototype respect before introducing a new service arrangement?
+**Draft connection (assessment):** [andramatin’s account of context-sensitive practice](https://www.andramatin.com/about/) is relevant to keeping the entrance grounded in its place rather than importing a standard agent-ready typology.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre study would observe shade, waiting, passage and staff assistance before adding a bounded delegated collection point. Two reversible layouts would be tested against the unchanged entrance; the AI agent route would remain optional.
+
+**Concrete first ask (proposed):** Could you critique a threshold sketch or suggest a built precedent for informal waiting and human contact? I am seeking architectural practice advice alongside a PhD proposal, without assuming a site or studio partnership.
 
 ## Supervision and open questions
 

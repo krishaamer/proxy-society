@@ -1,14 +1,14 @@
 # Email draft — Yosuke Mano
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `mano`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `mano`.
 
 **Recipient:** Yosuke Mano — Institute of Science Tokyo, School of Environment and Society.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://educ.titech.ac.jp/cv/eng/contact_and_access/).
 
-**Subject:** Participatory design of delegated services
+**Subject:** Community-salon workshops as a method for delegated presence
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/mano.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/mano.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Yosuke Mano,
 
-Mano Lab's documented participation in community-salon workshops is relevant to deciding with residents and staff which civic tasks they would actually want to delegate.
+The published account of [Mano Lab’s community-salon workshop project](https://www.kisuisekkei.co.jp/wp-content/uploads/2025/09/250411_KISUI-SEKKEI-%E3%83%91%E3%83%B3%E3%83%95_%E5%9C%A7%E7%B8%AE3.pdf) offers a specific participatory precedent. I want staff and users to shape the terms of delegation as well as the form of the threshold.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed community-centre study would use a workshop in which participants map who may authorise, receive or refuse an AI-mediated errand, then arrange a physical reception model. The design would be tested against the existing entrance, with in-person participation always available.
 
-How would you structure participation in a threshold pilot so that the right to attend in person and the activities people value together remain explicit design requirements?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique that workshop sequence and identify the appropriate Science Tokyo research/admissions route? I would send the role cards and layout exercise, asking how the resulting community decisions become architectural evidence.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/mano.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 116 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

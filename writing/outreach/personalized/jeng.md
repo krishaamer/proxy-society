@@ -1,14 +1,14 @@
 # Email draft — Taysheng Jeng
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `jeng`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `jeng`.
 
 **Recipient:** Taysheng Jeng — National Cheng Kung University (NCKU), Department of Architecture.
 
 **Published email:** tsjeng@mail.ncku.edu.tw. **Route:** [Published contact page](https://www.arch.ncku.edu.tw/cht/module/pageinfo/65-i3.html).
 
-**Subject:** Interactive architecture and delegated civic access
+**Subject:** A smart-space experiment separating layout from AI performance
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/jeng.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/jeng.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Taysheng Jeng,
 
-Your Interactive Architecture Lab connects smart spaces, human-computer interaction and human-AI collaboration. Those areas meet directly in a threshold where a building must interpret a person's limited mandate.
+Your [NCKU research on smart spaces and human–AI collaboration](https://www.arch.ncku.edu.tw/cht/module/pageinfo/65-i3.html) connects sensing, interaction and architectural design. I would like to make the spatial variable explicit so that a better AI interface is not mistaken for a better threshold.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+In a proposed Proxy Society library test, the same delegated task and visible permission display would be used in two counter layouts. We would record comprehension, intervention and movement, alongside a conventional booking-and-staff baseline.
 
-Could the lab support a study comparing delegated arrival with ordinary booking and staff assistance, and which architecture doctoral route would be appropriate?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you consider a doctoral supervision conversation at NCKU? I would send a layout pair and measurement plan, asking which sensing or observation approach could distinguish effects of space from effects of automation.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/jeng.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 113 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

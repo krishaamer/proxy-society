@@ -1,14 +1,14 @@
 # Email draft — Hector Cea
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_el_salvador`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_el_salvador`.
 
 **Recipient:** Hector Cea — Colegio de Arquitectos de El Salvador (CADES).
 
 **Published email:** cades.org@gmail.com. **Route:** [Published contact page](https://fpaa-arquitectos.org/region-centro/centro-quienes-somos/).
 
-**Subject:** A CADES referral for civic-building research
+**Subject:** CADES referral: reception design beyond automated throughput
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_el_salvador.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_el_salvador.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Hector Cea,
 
-FPAA's published member record identifies your connection with CADES for the 2024-2026 term. I am seeking the appropriate current Salvadoran architecture contact for a small research discussion.
+I found your professional connection in [FPAA’s CADES leadership record for 2024–2026](https://fpaa-arquitectos.org/region-centro/centro-quienes-somos/). I would first confirm the correct current recipient and seek a member referral.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a proposed library study would compare ordinary assistance with AI-mediated collection across two reception layouts, recording staff interruption and visitors’ ability to challenge a request.
 
-Could you suggest a colleague working on civic facilities, reception or inclusive access, and confirm which professional route should handle the enquiry?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you suggest a Salvadoran architect or researcher with public-counter or post-occupancy experience? I would send a plan and coding sheet for critique as practice input to an architecture PhD proposal.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_el_salvador.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 145 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 93 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

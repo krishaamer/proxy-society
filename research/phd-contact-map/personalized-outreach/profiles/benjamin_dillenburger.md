@@ -1,6 +1,6 @@
 # Benjamin Dillenburger — research for first contact
 
-**Lead:** `benjamin_dillenburger`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `benjamin_dillenburger`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ETH Zurich, Digital Building Technologies. **Recorded role:** Professor of Digital Building Technologies.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Potential architecture and fabrication partner for full-scale threshold prototypes. Construction expertise must be connected to use, authority and access rather than treated as proof of operational-agent expertise.
 
-**Draft connection (assessment):** Your Digital Building Technologies teaching emphasises using computation thoughtfully within the design process. I am interested in applying that approach to a small, testable building-use problem.
+**Selected source anchor:** [Digital Building Technologies](https://dbt.arch.ethz.ch/team-member/professor-benjamin-dillenburger/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could an alternative transfer-zone prototype fit your research context, and what would establish a contribution about use and authority beyond fabrication performance?
+**Draft connection (assessment):** [Digital Building Technologies](https://dbt.arch.ethz.ch/team-member/professor-benjamin-dillenburger/) provides a rigorous architectural fabrication setting. I would like to test whether the critical intervention needs a fabricated component at all.
+
+**Specific spatial case (proposal):** For Proxy Society, two full-scale library reception arrangements would differ only in boundary geometry and visibility of an AI agent handoff. Conventional movable elements would be the baseline; a fabricated component would be justified only if it permits a spatial condition that they cannot test.
+
+**Concrete first ask (proposed):** Could you critique that demonstrator brief and discuss an appropriate ETH doctoral or collaboration route? I would bring one section and an evaluation plan, asking which geometric variable merits fabrication and which can be resolved more simply.
 
 ## Supervision and open questions
 

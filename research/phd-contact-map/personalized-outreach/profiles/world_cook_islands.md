@@ -1,6 +1,6 @@
 # Rebecca Cutler — research for first contact
 
-**Lead:** `world_cook_islands`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cook_islands`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Cutler Design Studio. **Recorded role:** Architect listed in Rarotonga.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss island civic-building access and introduce a possible case-study setting; no doctoral role is established.
 
-**Draft connection (assessment):** Infrastructure Cook Islands' professional directory identifies you as an architect in Rarotonga. I am seeking a local practice view on what reception and assistance arrangements work in shared buildings.
+**Selected source anchor:** [Cook Islands infrastructure ministry’s architect listing](https://ici.gov.ck/drafters-and-architects/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you critique a small delegated-service threshold scenario, or suggest a colleague or civic-building operator with relevant experience?
+**Draft connection (assessment):** [Cook Islands infrastructure ministry’s architect listing](https://ici.gov.ck/drafters-and-architects/) identifies your Rarotonga practice. I am seeking a civic-threshold critique or referral, without inferring a technology specialism from the listing.
+
+**Specific spatial case (proposal):** For Proxy Society, a community-library plan would retain its ordinary human reception while testing an optional handoff point for an AI-mediated collection. The comparison would concern waiting, staff visibility and easy recovery when the mandate is unclear.
+
+**Concrete first ask (proposed):** Could you review that small arrival diagram or suggest an appropriate Cook Islands colleague? This is architectural advice for a PhD proposal, with no assumption of local site access.
 
 ## Supervision and open questions
 

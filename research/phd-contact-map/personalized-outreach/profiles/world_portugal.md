@@ -1,6 +1,6 @@
 # Ordem dos Arquitectos (OA) — research for first contact
 
-**Lead:** `world_portugal`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_portugal`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordem dos Arquitectos (OA). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Order's published architecture programme addresses the need for dignified and accessible built environments. That is a relevant perspective on who benefits from a proposed service change.
+**Selected source anchor:** [Ordem dos Arquitectos](https://ordemdosarquitectos.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or researcher working on civic reception, inclusive access or everyday spatial use for a short threshold-research discussion?
+**Draft connection (assessment):** [Ordem dos Arquitectos](https://ordemdosarquitectos.org/) is the professional route for finding a member who has designed or evaluated civic reception interiors.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would include an unchanged counter, a visible AI-mediated handoff and ordinary human assistance, recording access to staff and recovery when the mandate is withdrawn.
+
+**Concrete first ask (proposed):** Could you recommend a Portuguese architect or researcher to critique the plans and comparison method? The initial request is architectural advice for a PhD proposal, rather than a general enquiry about smart buildings.
 
 ## Supervision and open questions
 

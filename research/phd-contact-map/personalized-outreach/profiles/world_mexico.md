@@ -1,6 +1,6 @@
 # Federacion de Colegios de Arquitectos de la R. Mexicana – FCARM — research for first contact
 
-**Lead:** `world_mexico`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_mexico`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Federacion de Colegios de Arquitectos de la R. Mexicana – FCARM. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** FCARM's federation of architecture colleges provides a route to practitioners across Mexico. I am looking for experience with the social and operational use of a public threshold.
+**Selected source anchor:** [FCARM’s professional network](https://fcarm.org.mx/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend an architect or academic studying civic reception, accessibility or architectural interaction with technology who might discuss the proposed pilot?
+**Draft connection (assessment):** I am using [FCARM’s professional network](https://fcarm.org.mx/) to identify an architect with civic-interior or post-occupancy experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare an ordinary counter with an AI-mediated handoff bay, recording whose route to staff, waiting or ability to refuse the request changes. Human assistance would remain a comparison.
+
+**Concrete first ask (proposed):** Could you recommend a Mexican member or researcher for a plan-and-outcome critique? The initial contribution would be practice advice alongside an architecture PhD proposal, rather than a request to provide a live site.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Winy Maas — research for first contact
 
-**Lead:** `winy_maas`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `winy_maas`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** MVRDV / The Why Factory connection. **Recorded role:** MVRDV Founding Partner; architect, urban planner and landscape architect.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique speculative spatial typologies and help visualize alternative distributions of public and proxy access. A practice/university connection is a lead to investigate, not a confirmed doctorate.
 
-**Draft connection (assessment):** MVRDV's collaborative research-based design and your connection to The Why Factory suggest a setting for questioning, rather than assuming, a new spatial typology.
+**Selected source anchor:** [MVRDV and The Why Factory](https://www.mvrdv.com/media/uploads/220504_Wego_SL_Pages%20selection.pdf) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would proxy thresholds or human-priority spaces make a useful design-research question, and which architectural comparison could show when an existing building type is sufficient?
+**Draft connection (assessment):** The published connection between [MVRDV and The Why Factory](https://www.mvrdv.com/media/uploads/220504_Wego_SL_Pages%20selection.pdf) offers a setting for speculative alternatives that can also be questioned. I want the most compelling drawing to remain accountable to everyday use.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose three library entrance scenarios: unchanged reception, a shared counter with explicit delegated permission, and a separate AI agent bay. Staged tasks would compare access to people, conflicts and optional staying.
+
+**Concrete first ask (proposed):** Would you critique that scenario set or identify a practice/research colleague? I am exploring an architecture PhD and would ask which architectural variable makes the speculative comparison more than three illustrations of the same service idea.
 
 ## Supervision and open questions
 

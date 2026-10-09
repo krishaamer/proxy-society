@@ -1,6 +1,6 @@
 # Ana Paula Baltazar dos Santos — research for first contact
 
-**Lead:** `ana_paula_baltazar`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `ana_paula_baltazar`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Federal University of Minas Gerais, School of Architecture / MOM and LAGEAR. **Recorded role:** Associate Professor; architecture and virtual environments researcher.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 An especially useful critical connection between interaction design and architecture. Could study whether delegation expands people's autonomy or shifts control to institutions and interface owners.
 
-**Draft connection (assessment):** Your research on architectural interfaces and autonomy, including MOM and LAGEAR, is closely connected to whether delegation increases a building user's ability to act or transfers control elsewhere.
+**Selected source anchor:** [UFMG research on autonomy and architectural interfaces](https://somos.ufmg.br/professor/Ana-Paula-Baltazar-dos-Santos) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a spatial experiment compare autonomy across direct participation, human assistance and AI delegation, and what would make the comparison architecturally meaningful?
+**Draft connection (assessment):** [UFMG research on autonomy and architectural interfaces](https://somos.ufmg.br/professor/Ana-Paula-Baltazar-dos-Santos) is closely connected to the proposal’s hardest question: whether delegating a task increases autonomy or moves control to the interface owner.
+
+**Specific spatial case (proposal):** For Proxy Society, users and staff would rearrange a reception mock-up and change the AI agent’s mandate during staged library collections. The study would record who can understand, modify and abandon the arrangement, alongside the conventional counter.
+
+**Concrete first ask (proposed):** Would you consider a supervision conversation through UFMG’s architecture research context? I would send the workshop and interface script, asking how to evaluate participants’ autonomy without defining success as their compliance with the prototype.
 
 ## Supervision and open questions
 

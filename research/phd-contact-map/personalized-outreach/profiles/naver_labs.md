@@ -1,6 +1,6 @@
 # Jong-yoon Baek / NAVER LABS robotics team — research for first contact
 
-**Lead:** `naver_labs`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `naver_labs`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** NAVER LABS / NAVER 1784. **Recorded role:** Group Leader of Robotics & Autonomous Driving, as identified in a 2026 company account.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 A close operational precedent for circulation and dedicated entrances. Useful for testing your separation/mixing hypotheses, while recognizing that a corporate headquarters differs from a public institution.
 
-**Draft connection (assessment):** NAVER's account of 1784 describes robot delivery, robot-exclusive elevators and a digital-twin/cloud system in an occupied headquarters. That is a relevant precedent for comparing mixed and separate circulation.
+**Selected source anchor:** [NAVER 1784: 1,000 Days of Innovation](https://naverlabs.com/en/blogDetail?seq=34068) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the appropriate robotics or building-research team discuss the evidence behind those spatial choices, including staff interventions and unexpected access burdens?
+**Draft connection (assessment):** [NAVER 1784: 1,000 Days of Innovation](https://naverlabs.com/en/blogDetail?seq=34068) is a rare occupied-building precedent. I am particularly interested in the spatial consequences of dedicated robot circulation, beyond the delivery system’s successful operation.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose comparing a shared library reception route with a separate agent handoff bay. Staff intervention, visitor passage and recognition of limited authority would be measured alongside the ordinary service.
+
+**Concrete first ask (proposed):** Could the 1784 team share a public account of a circulation or handoff decision that changed after use, or identify a researcher for a short conversation? I would bring two plans; I am seeking operational lessons for an architecture PhD, without assuming site access.
 
 ## Supervision and open questions
 

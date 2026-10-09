@@ -1,6 +1,6 @@
 # Caribbean School of Architecture / Faculty of the Built Environment — research for first contact
 
-**Lead:** `world_jamaica`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_jamaica`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Technology, Jamaica. **Recorded role:** Architecture school, via faculty contact route.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architecture researcher for social-space evaluation and a Caribbean civic-building case study; a named recipient and doctoral route need confirmation.
 
-**Draft connection (assessment):** Your faculty brings architecture together with planning, construction and land disciplines, and describes research serving sustainable development. That offers a broad setting for assessing a civic-service change.
+**Selected source anchor:** [UTech’s built-environment faculty and Caribbean School of Architecture](https://www.utech.edu.jm/academics/faculty-of-the-built-environment/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which colleague could critique a threshold comparison through access, everyday building use and operational responsibility, and advise on an appropriate research route?
+**Draft connection (assessment):** [UTech’s built-environment faculty and Caribbean School of Architecture](https://www.utech.edu.jm/academics/faculty-of-the-built-environment/) provides an architectural research route for questioning the intervention as a public interior.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare two arrangements for an optional AI-mediated collection, observing visibility of staff, waiting and passage while retaining ordinary assistance.
+
+**Concrete first ask (proposed):** Could you suggest a researcher or design lecturer to critique the plan and comparison method? I would send the mock-up brief and ask separately whether an appropriate doctoral or external-advisory context exists.
 
 ## Supervision and open questions
 

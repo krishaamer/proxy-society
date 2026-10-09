@@ -1,6 +1,6 @@
 # Faculty of Architecture, Design and Construction — research for first contact
 
-**Lead:** `world_kyrgyzstan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_kyrgyzstan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Kyrgyz-Russian Slavic University, Bishkek. **Recorded role:** Architecture/design faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an architecture academic for spatial-design critique and local fieldwork.
 
-**Draft connection (assessment):** Your faculty combines architecture, design and construction education. I am seeking a researcher who can connect a proposed service change with a clear spatial-design contribution.
+**Selected source anchor:** [KRSU’s Architecture, Design and Construction faculty](https://www.krsu.kg/en/obrazovanie/fakultety/fakultet-arxitektury-dizajna-i-stroitelstva/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest a colleague in public-building use, accessibility or environment-behaviour research, and identify the correct postgraduate enquiry process?
+**Draft connection (assessment):** [KRSU’s Architecture, Design and Construction faculty](https://www.krsu.kg/en/obrazovanie/fakultety/fakultet-arxitektury-dizajna-i-stroitelstva/) supplies the faculty route for finding a design-research or public-interior specialist.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare enclosure, staff visibility and passing width at two points for AI-mediated collections. The existing counter and human assistance would be the baseline.
+
+**Concrete first ask (proposed):** Could you suggest a colleague to critique the section and trial sequence, and identify an appropriate doctoral or external-advisory channel? I would begin with a bounded architectural experiment before seeking a site or technical collaborator.
 
 ## Supervision and open questions
 

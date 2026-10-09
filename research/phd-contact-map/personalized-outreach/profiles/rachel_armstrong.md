@@ -1,6 +1,6 @@
 # Rachel Armstrong — research for first contact
 
-**Lead:** `rachel_armstrong`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `rachel_armstrong`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KU Leuven, Faculty and Department of Architecture. **Recorded role:** Professor of regenerative architecture / design-driven construction.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could expand shared intent to ecological systems and challenge the maintenance and environmental costs of adding AI infrastructure. Fit is strongest if these become dissertation questions.
 
-**Draft connection (assessment):** Your regenerative architecture research raises a useful question about whether a proposed technical intervention contributes to a place's living systems or adds avoidable material and energy demands.
+**Selected source anchor:** [KU Leuven Epistemic Practices](https://architectuur.kuleuven.be/epistemic-practices/people-contact) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which ecological and maintenance criteria should a civic-threshold experiment compare against ordinary staff assistance and fixed automation before adding new infrastructure?
+**Draft connection (assessment):** Your connection with [KU Leuven Epistemic Practices](https://architectuur.kuleuven.be/epistemic-practices/people-contact) offers a reason to question what a new architectural intervention requires of its environment and maintainers.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare an ordinary counter with an AI-mediated handoff point, including a low-technology option. Alongside access and comprehension, I would document materials, energy-dependent elements, upkeep and what happens when the system is unavailable.
+
+**Concrete first ask (proposed):** Would you critique the demonstrator’s maintenance assumptions and discuss an appropriate doctoral/advisory role? I would send its component list and failure-state sketch, asking when preserving the existing threshold would be the stronger architectural decision.
 
 ## Supervision and open questions
 

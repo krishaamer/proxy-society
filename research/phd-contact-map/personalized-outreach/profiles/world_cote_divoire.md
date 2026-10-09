@@ -1,6 +1,6 @@
 # National Council of the Order of Architects of Côte d’Ivoire — research for first contact
 
-**Lead:** `world_cote_divoire`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cote_divoire`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Council of the Order of Architects of Côte d’Ivoire. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Order's public material explicitly includes architects working on public facilities. I am seeking a practitioner who can connect access rules with reception, circulation and staff work.
+**Selected source anchor:** [Côte d’Ivoire’s National Council of the Order of Architects](https://oarchitectes.ci/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend an architect or academic in Côte d'Ivoire who might critique a small library or community-building threshold experiment?
+**Draft connection (assessment):** I am using [Côte d’Ivoire’s National Council of the Order of Architects](https://oarchitectes.ci/) to find a practitioner experienced in reception design or public-building evaluation.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library study would compare shared waiting and separate delegated collection, observing access to staff and what happens when an AI-mediated request is refused.
+
+**Concrete first ask (proposed):** Could you recommend a Côte d’Ivoire member or academic who could critique the two plans and refusal sequence? The initial contribution would be practice advice for an architecture PhD proposal, before any local pilot is discussed.
 
 ## Supervision and open questions
 

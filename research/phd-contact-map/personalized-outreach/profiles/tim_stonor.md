@@ -1,6 +1,6 @@
 # Tim Stonor — research for first contact
 
-**Lead:** `tim_stonor`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `tim_stonor`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Space Syntax Limited. **Recorded role:** Managing Director; architect and urban planner.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could advise on configuration and movement measures for threshold alternatives and identify the limits of using movement counts as proxies for social value.
 
-**Draft connection (assessment):** Space Syntax's data-driven approach to building and urban performance offers a practical perspective on whether a reception redesign changes access, movement and encounters.
+**Selected source anchor:** [Space Syntax architectural-planning practice](https://spacesyntax.com/staff/tim-stonor/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team advise which spatial analyses and field observations would distinguish layout effects from the effects of AI delegation itself?
+**Draft connection (assessment):** Your [Space Syntax architectural-planning practice](https://spacesyntax.com/staff/tim-stonor/) is relevant to a practical choice in the proposed study: separate the agent’s approach or keep it within the ordinary reception sequence.
+
+**Specific spatial case (proposal):** For Proxy Society, I would compare two library plans for staff visibility, route overlap and access to help, then test them with identical scenarios of AI-agent collection and refusal. The unchanged counter would establish whether either intervention is necessary.
+
+**Concrete first ask (proposed):** Could you review the two route diagrams or identify a Space Syntax colleague? I would like advice on which spatial measure can guide the design and which prediction requires observation before the architectural argument is credible.
 
 ## Supervision and open questions
 

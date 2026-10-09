@@ -1,6 +1,6 @@
 # Chair of Housing — research for first contact
 
-**Lead:** `world_ethiopia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_ethiopia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ethiopian Institute of Architecture, Building Construction and City Development (EiABC). **Recorded role:** Architecture academic unit.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could connect social encounters and civic thresholds with neighbourhood-level observation and locally grounded design research.
 
-**Draft connection (assessment):** EiABC's Chair of Housing describes research across physical, social, economic and environmental dimensions. That broader approach is relevant to who benefits or bears extra work when a service is delegated.
+**Selected source anchor:** [EiABC housing research on integrated neighbourhood design](https://eiabc.edu.et/index.php/academics/academic-unit?id=106&layout=edit) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you recommend a researcher studying everyday access or spatial autonomy, or an appropriate civic-building colleague for a threshold comparison?
+**Draft connection (assessment):** [EiABC housing research on integrated neighbourhood design](https://eiabc.edu.et/index.php/academics/academic-unit?id=106&layout=edit) offers a useful connection between a building’s threshold and the neighbourhood it serves.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre pilot would compare a quick AI-mediated handoff with the ordinary arrival route, recording waiting, informal help and access to shared activities. The unchanged reception would remain a valid outcome.
+
+**Concrete first ask (proposed):** Could the Chair of Housing suggest a researcher to critique that building-to-neighbourhood diagram? I would ask what the bounded observations can establish, as input to an architecture PhD rather than claim wider neighbourhood effects from one trial.
 
 ## Supervision and open questions
 

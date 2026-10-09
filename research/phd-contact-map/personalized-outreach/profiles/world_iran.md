@@ -1,6 +1,6 @@
 # Ehsan Ahmadi — research for first contact
 
-**Lead:** `world_iran`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_iran`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Tehran, School of Architecture; SMUS network partner. **Recorded role:** Assistant professor of urban design listed by research network.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could help evaluate inclusive spatial experience and field methods; reconfirm appointment and supervision eligibility with Tehran.
 
-**Draft connection (assessment):** Your research-network biography connects urban design with safety and child-friendly environments. It offers a useful perspective on people whose needs may be overlooked by a service designed around an adult user's convenience.
+**Selected source anchor:** [SMUS profile on environmental psychology and child-friendly design](https://gcsmus.org/people/dr-ehsan-ahmadi/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you evaluate safety, comprehension and inclusive access in this threshold pilot, and could it fit an architectural research conversation?
+**Draft connection (assessment):** Your [SMUS profile on environmental psychology and child-friendly design](https://gcsmus.org/people/dr-ehsan-ahmadi/) offers a concrete participatory perspective. I want to test whether the threshold is understandable to different users rather than assume an adult, confident technology user as the norm.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-library prototype would compare staff visibility, predictable waiting and routes to help during personal and AI-mediated collection. An initial role-play would precede any live system.
+
+**Concrete first ask (proposed):** Could you critique the participant-task exercise and discuss an advisory or doctoral fit? I would ask which environmental cues and participation methods the first prototype must include before making access claims.
 
 ## Supervision and open questions
 

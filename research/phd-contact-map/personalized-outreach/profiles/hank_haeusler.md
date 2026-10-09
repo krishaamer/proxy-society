@@ -1,6 +1,6 @@
 # M. Hank Haeusler — research for first contact
 
-**Lead:** `hank_haeusler`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `hank_haeusler`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** UNSW Sydney, School of Built Environment / Computational Design. **Recorded role:** Professor; computational design and media architecture researcher.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could strengthen the bridge between architectural computation, public interfaces and the environmental costs of automation. The dissertation must still test spatial outcomes rather than AI performance alone.
 
-**Draft connection (assessment):** Your research spans computational design, AI and media architecture. I am interested in a pilot that measures the work required to keep a computational building interface functioning in everyday use.
+**Selected source anchor:** [UNSW research in media architecture and computational design](https://research.unsw.edu.au/people/professor-m-hank-matthias-haeusler) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How could design alternatives account for maintenance, staff intervention and environmental cost alongside access benefits, and which doctoral context would support that comparison?
+**Draft connection (assessment):** Your [UNSW research in media architecture and computational design](https://research.unsw.edu.au/people/professor-m-hank-matthias-haeusler) offers a bridge between a building interface and its spatial setting. I want the prototype’s claim to concern the threshold’s use, not the AI model’s performance.
+
+**Specific spatial case (proposal):** For Proxy Society, a permission display would show the author, permitted action and handoff state at library reception. Alternative placements would be tested for comprehension and staff intervention, with the system’s energy and maintenance requirements also recorded.
+
+**Concrete first ask (proposed):** Would you consider a supervisory or advisory conversation at UNSW? I would send the display-and-plan pair and ask which spatial outcome could justify the computation and which would be better served by ordinary signage or staff communication.
 
 ## Supervision and open questions
 

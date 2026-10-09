@@ -1,6 +1,6 @@
 # Minsuk Cho — research for first contact
 
-**Lead:** `minsuk_cho`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `minsuk_cho`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** MASS Studies. **Recorded role:** Architect, founder and lead architect.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique spatial arrangements that make gathering desirable and help distinguish public-space experience from automated service efficiency.
 
-**Draft connection (assessment):** Archipelagic Void's distinct spaces for reading, gathering, performance and play offer a concrete way to think about why people choose to be physically present together.
+**Selected source anchor:** [Archipelagic Void](https://www.serpentinegalleries.org/whats-on/serpentine-pavilion-2024-by-minsuk-cho-mass-studies/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What did their coexistence reveal about informal encounter and access, and how might those lessons inform a civic threshold where routine tasks can be delegated?
+**Draft connection (assessment):** The differentiated gathering and reading spaces in [Archipelagic Void](https://www.serpentinegalleries.org/whats-on/serpentine-pavilion-2024-by-minsuk-cho-mass-studies/) offer a concrete counterpoint to organising a public building around efficient transactions.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library collection point would sit beside spaces for waiting, conversation and staying without a transaction. I would compare a compressed service-only threshold with an arrangement that leaves those optional activities visible and accessible, even when errands are AI-mediated.
+
+**Concrete first ask (proposed):** Could you critique the spatial hierarchy in two sketches? I am seeking practice advice for an architecture PhD proposal, particularly on what an entrance should invite after the service itself becomes unnecessary to attend.
 
 ## Supervision and open questions
 

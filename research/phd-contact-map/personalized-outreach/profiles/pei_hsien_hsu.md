@@ -1,6 +1,6 @@
 # Pei-Hsien Hsu — research for first contact
 
-**Lead:** `pei_hsien_hsu`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `pei_hsien_hsu`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Yang Ming Chiao Tung University (NYCU), Graduate Institute of Architecture. **Recorded role:** Associate Professor and Institute Director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could connect full-scale interactive thresholds to community use, provide a Taiwan institutional starting point and keep a prototype grounded in a real place.
 
-**Draft connection (assessment):** Your NYCU work in physical interaction, mixed reality and community-oriented design-build research suggests a way to involve people in testing a spatial proposal rather than only presenting it to them.
+**Selected source anchor:** [NYCU work on physical interaction and community design-build](https://arch.nycu.edu.tw/en/about/faculty/phsu/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could a community-centre threshold experiment fit that work, and would Civil Engineering Group G be the appropriate doctoral home for its architectural contribution?
+**Draft connection (assessment):** Your [NYCU work on physical interaction and community design-build](https://arch.nycu.edu.tw/en/about/faculty/phsu/) connects interaction design with making in a community setting. I want participants to shape the threshold before treating the prototype as a finished system to evaluate.
+
+**Specific spatial case (proposal):** For Proxy Society, staff and users would build or rearrange a small reception mock-up and decide where an AI agent may stop, where the author’s permission is shown and how a person can take over. We would compare their choices with the existing counter arrangement.
+
+**Concrete first ask (proposed):** Could you discuss a possible doctoral/advisory fit through NYCU’s architecture-related Civil Engineering Group G route? I would send the workshop plan and ask how to make the design-build process produce defensible architectural evidence.
 
 ## Supervision and open questions
 

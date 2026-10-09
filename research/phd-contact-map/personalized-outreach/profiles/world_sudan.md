@@ -1,6 +1,6 @@
 # Faculty of Architecture — research for first contact
 
-**Lead:** `world_sudan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_sudan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Khartoum. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architectural researcher for civic-space experience and design methods; an appropriate named recipient and current availability are unconfirmed.
 
-**Draft connection (assessment):** The university publishes a faculty-specific architecture enquiry route. I am seeking an appropriate current researcher before making assumptions about programme operation or fieldwork feasibility.
+**Selected source anchor:** [University of Khartoum architecture faculty’s contact page](https://staffpages.uofk.edu/contact-us/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you direct the proposal to someone studying civic-building use, reception or inclusive access, and indicate whether an external research conversation is currently appropriate?
+**Draft connection (assessment):** I am using [University of Khartoum architecture faculty’s contact page](https://staffpages.uofk.edu/contact-us/) to confirm the current research-enquiry recipient and find a colleague working on occupied public interiors.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would test two counter positions for AI-mediated collection, observing access to staff and recovery from uncertain authorisation, with ordinary human assistance as the baseline.
+
+**Concrete first ask (proposed):** Could you identify a design researcher or environment–behaviour colleague to critique the plan and task script? I would discuss current programme operation and any doctoral context separately, without assuming an available trial site.
 
 ## Supervision and open questions
 

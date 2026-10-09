@@ -1,6 +1,6 @@
 # Angela Munteanu — research for first contact
 
-**Lead:** `world_moldova`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_moldova`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Technical University of Moldova, Department of Architecture. **Recorded role:** Associate professor; head of architecture department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss architectural experience and refer a relevant researcher or doctoral context; topic fit and supervisory eligibility need confirmation.
 
-**Draft connection (assessment):** Your UTM department profile connects architecture teaching with art and cultural studies. That context is relevant to how a service boundary communicates meaning as well as permission.
+**Selected source anchor:** [UTM Department of Architecture’s staff page](https://fua.utm.md/departamente/arhitectura/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest a colleague who might critique a civic-threshold design comparison, and advise on an appropriate architectural doctoral or advisory route?
+**Draft connection (assessment):** [UTM Department of Architecture’s staff page](https://fua.utm.md/departamente/arhitectura/) identifies your architectural teaching connection. I want to establish topic fit or a colleague referral, rather than infer a current doctoral opening.
+
+**Specific spatial case (proposal):** For Proxy Society, the proposed library comparison would hold the AI-mediated collection interface constant while changing counter position and enclosure, observing recognition of staff, passing and human takeover.
+
+**Concrete first ask (proposed):** Could you critique the plan and section or suggest a researcher in public-building use? I would send a short design-study protocol and establish the appropriate doctoral route separately.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Chrisna du Plessis — research for first contact
 
-**Lead:** `chrisna_du_plessis`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `chrisna_du_plessis`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Pretoria, Department of Architecture. **Recorded role:** Professor of Architecture.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could test the public value and maintenance obligations of delegated services in a different institutional context. Ecological and access criteria would complement a technically oriented pilot.
 
-**Draft connection (assessment):** Your work on a regenerative paradigm for the built environment prompts a broader question than individual efficiency: whether a delegated service helps sustain the social and ecological life of a place.
+**Selected source anchor:** [Pretoria’s built-environment research profile](https://www.up.ac.za/architecture/staff-profiles/chrisna-du-plessis) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** How should the pilot assess collective benefit, upkeep and regeneration alongside access, and which simpler alternatives should it compare before adding infrastructure?
+**Draft connection (assessment):** Your [Pretoria’s built-environment research profile](https://www.up.ac.za/architecture/staff-profiles/chrisna-du-plessis) provides a setting for questioning the obligations attached to an architectural intervention. I want the proposed service to be evaluated with its maintenance and public value in view.
+
+**Specific spatial case (proposal):** Proxy Society’s community-centre pilot would compare an AI-mediated collection point with ordinary staff assistance, recording not only access and control but materials, upkeep and failure recovery. The unchanged reception would remain a valid outcome if added infrastructure creates more burden than benefit.
+
+**Concrete first ask (proposed):** Could you critique that evaluation boundary and discuss doctoral or advisory fit at Pretoria? I would send a small intervention brief, asking which ecological and civic relations belong in the first comparison.
 
 ## Supervision and open questions
 

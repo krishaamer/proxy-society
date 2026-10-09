@@ -1,6 +1,6 @@
 # Alejandro Aravena / ELEMENTAL team — research for first contact
 
-**Lead:** `alejandro_aravena`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `alejandro_aravena`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ELEMENTAL. **Recorded role:** Architect and practice leader.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Useful precedent for shared intent and rooms of deliberation grounded in contested collective life. Could challenge the premise that representation problems should be solved by AI infrastructure.
 
-**Draft connection (assessment):** ELEMENTAL's 2021 Biennale work on places for Chilean and Mapuche communities to meet and deliberate raises a relevant question about what representation can and cannot substitute for.
+**Selected source anchor:** [ELEMENTAL’s 2021 Chilean–Mapuche meeting-space project](https://www.labiennale.org/en/architecture/2021/emerging-communities/elemental) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team advise which spatial conditions make such participation meaningful, and when delegating a civic task would weaken rather than support them?
+**Draft connection (assessment):** [ELEMENTAL’s 2021 Chilean–Mapuche meeting-space project](https://www.labiennale.org/en/architecture/2021/emerging-communities/elemental) gives me a concrete architectural precedent for asking what representation still requires from a place where people meet.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose comparing a community-centre entrance that handles AI-mediated errands with one that also preserves visible space for discussion and staff help. The question is when a proxy supports attendance choice and when it removes the encounter that matters.
+
+**Concrete first ask (proposed):** Could you critique the two spatial sequences or point me to a relevant design lesson from that project? I am seeking practice advice for an architecture PhD proposal, without assuming access to the project or a collaboration.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Achim Menges — research for first contact
 
-**Lead:** `achim_menges`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `achim_menges`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Stuttgart, ICD / IntCDC. **Recorded role:** Full Professor; ICD founding director; IntCDC director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could support technically credible spatial prototypes and an architecture research network. Relevance is conditional because robotic construction differs from delegated participation in occupied buildings.
 
-**Draft connection (assessment):** ICD's integrated computational design and IntCDC's work on material and building systems suggest a rigorous approach to producing comparable architectural alternatives.
+**Selected source anchor:** [IntCDC’s integrated design and construction research](https://www.intcdc.uni-stuttgart.de/team/person/Menges-00004/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Is there a suitable colleague or research line for an occupied-building threshold study, where the outcome concerns access and human handoff rather than construction automation?
+**Draft connection (assessment):** [IntCDC’s integrated design and construction research](https://www.intcdc.uni-stuttgart.de/team/person/Menges-00004/) is a relevant model of an integrated research process. My proposed use is a small occupied-space demonstrator, rather than an autonomous construction project.
+
+**Specific spatial case (proposal):** Proxy Society’s library pilot would hold an AI-mediated collection task constant while varying the enclosure and openness of a handoff zone. The research would concern human passage, visibility and intervention; a computationally designed element would serve those comparisons.
+
+**Concrete first ask (proposed):** Could you critique the demonstrator specification or identify an appropriate colleague? I am exploring an architecture PhD and want to establish whether the spatial evidence justifies the computational and fabrication work before proposing a more elaborate system.
 
 ## Supervision and open questions
 

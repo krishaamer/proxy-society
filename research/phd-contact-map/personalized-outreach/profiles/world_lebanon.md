@@ -1,6 +1,6 @@
 # Howayda Al-Harithy — research for first contact
 
-**Lead:** `world_lebanon`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_lebanon`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** American University of Beirut, School of Architecture and Design. **Recorded role:** School director.
 
@@ -12,13 +12,19 @@ The school contact page identifies Al-Harithy as director and publishes her emai
 
 The underlying contact record was checked on **2026-10-09**. Source review this pass: **Public source text available for focused review**. Availability is not confirmation that all role, programme or project claims remain current.
 
+AUB’s repository records the 2024 co-authored study by Howayda Al-Harithy and Batoul Yassine on a people-centered urban recovery strategy for Karantina after the Beirut port blast. The draft proposes a limited methods discussion; it does not equate the proposed library test with disaster recovery.
+
 ## Proposed fit and contribution
 
 Could discuss the architectural contribution and refer an urban/social-space methods colleague; individual supervision capacity is unconfirmed.
 
-**Draft connection (assessment):** Your School of Architecture and Design leadership provides a route to discuss the institutional and spatial context of a proposed civic-building study.
+**Selected source anchor:** [A people-centered urban recovery strategy for Karantina](https://scholarworks.aub.edu.lb/items/8e4db26c-43dc-45be-940c-bd2b7778df34) — reviewed 2026-10-10; Indexed primary repository record reviewed. Repository title, authorship and study description reviewed; not the full publication.
 
-**Concrete first ask (proposed):** Would you suggest a colleague or research group to critique reception, public access and everyday spatial experience, and identify an appropriate doctoral or advisory route?
+**Draft connection (assessment):** Your co-authored [A people-centered urban recovery strategy for Karantina](https://scholarworks.aub.edu.lb/items/8e4db26c-43dc-45be-940c-bd2b7778df34) provides a specific people-centred methods reference. I want to learn from that attention to lived knowledge without equating a small service experiment with urban recovery.
+
+**Specific spatial case (proposal):** For Proxy Society, staff and users would document an existing civic-library reception before deciding whether an AI-mediated handoff is warranted. Their accounts and ordinary help practices would shape the layout comparison and its refusal scenarios.
+
+**Concrete first ask (proposed):** Could you critique the participation-and-observation plan or identify an appropriate AUB colleague? I am exploring an architecture PhD and would value guidance on who must shape the study before an intervention is proposed.
 
 ## Supervision and open questions
 
@@ -37,6 +43,7 @@ No additional route constraint recorded; recheck the published channel before us
 ## Public sources
 
 1. [American University of Beirut, School of Architecture and Design — published record 1](https://www.aub.edu.lb/msfea/ard/Pages/office.aspx) — reviewed 2026-10-09; public text retrieved. Underlying evidence date: 2026-10-09. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
+2. [A people-centered urban recovery strategy for Karantina](https://scholarworks.aub.edu.lb/items/8e4db26c-43dc-45be-940c-bd2b7778df34) — reviewed 2026-10-10; Indexed primary repository record reviewed. Underlying evidence date: 2026-10-10. Repository title, authorship and study description reviewed; not the full publication.
 
 ## Prepared correspondence
 

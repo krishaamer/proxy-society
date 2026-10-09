@@ -1,6 +1,6 @@
 # Patrick Janssen — research for first contact
 
-**Lead:** `patrick_janssen`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `patrick_janssen`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National University of Singapore, Department of Architecture / Design Automation Lab. **Recorded role:** Associate Professor; Design Automation Laboratory director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could model bounded mandates and alternative building configurations, then connect them to observed human outcomes. Algorithmic generation alone would not answer the civic access question.
 
-**Draft connection (assessment):** Design Automation Laboratory's work on spatial computational thinking offers a way to make a threshold's assumptions explicit before generating design alternatives.
+**Selected source anchor:** [NUS work on spatial computational thinking](https://cde.nus.edu.sg/arch/news_and_events/news_ay2021_patrick_janssen_teach_learn_moocs_260121/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Focused indexed primary text; full current page and contact operation not established. Historical publications do not establish a current appointment.
 
-**Concrete first ask (proposed):** Can a task-and-permission model generate layouts whose access, waiting and social effects are testable in a civic building, and who could advise on that research direction?
+**Draft connection (assessment):** [NUS work on spatial computational thinking](https://cde.nus.edu.sg/arch/news_and_events/news_ay2021_patrick_janssen_teach_learn_moocs_260121/) is relevant to expressing a mandate as an inspectable spatial rule rather than an opaque access decision.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose generating library reception layouts with a permitted AI agent destination, human-priority passage and reachable staff point. Users would test refusal and takeover scenarios; those results would modify the rules, with an ordinary counter as the baseline.
+
+**Concrete first ask (proposed):** Would you consider a doctoral or computational-advisory discussion at NUS? I would send the rule set and first alternatives, asking which failures should be represented in the model instead of left to its operators.
 
 ## Supervision and open questions
 

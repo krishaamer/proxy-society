@@ -1,6 +1,6 @@
 # Ordre National des Architectes et des Urbanistes du Bénin — research for first contact
 
-**Lead:** `world_benin`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_benin`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ONAUB. **Recorded role:** Architecture and urbanism professional body.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architect interested in civic-building access and community participation.
 
-**Draft connection (assessment):** ONAUB represents architects and urbanists and publishes a professional enquiry route. I am interested in the boundary between a civic building's spatial design and the rules that govern access.
+**Selected source anchor:** [ONAUB’s Cotonou contact](https://www.onaub.com/contact/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest a member or academic working on civic facilities, inclusive reception or everyday building use who might advise on the pilot?
+**Draft connection (assessment):** I am using [ONAUB’s Cotonou contact](https://www.onaub.com/contact/) to find an architect or urbanist with public-building circulation experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare one shared reception queue with separate stopping and handoff positions for an AI-mediated errand. It would observe conflicts with passing visitors and how staff resolve an uncertain mandate.
+
+**Concrete first ask (proposed):** Could you suggest a Benin-based member or academic who could critique the route diagram and observation sheet? The immediate contribution is architectural advice for a PhD proposal, with a site and supervisory route still to be established.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Instituto de Arquitectura y Urbanismo — direction office — research for first contact
 
-**Lead:** `world_argentina`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_argentina`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Nacional de San Martín. **Recorded role:** Architecture and urbanism institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an academic studying civic architecture, spatial interaction or participatory design.
 
-**Draft connection (assessment):** UNSAM's Instituto de Arquitectura y Urbanismo brings the building and urban questions together. I am seeking a research context that can evaluate a service change through spatial observation and design.
+**Selected source anchor:** [UNSAM’s architecture and urbanism institute](https://www.unsam.edu.ar/institutos/ia/contacto.php) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your direction office identify a colleague working on civic space, everyday building use or architectural interaction who might assess this pilot's doctoral relevance?
+**Draft connection (assessment):** I am using [UNSAM’s architecture and urbanism institute](https://www.unsam.edu.ar/institutos/ia/contacto.php) to identify the right research colleague, rather than send a general AI proposal to the direction office.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot holds a collection task constant across two reception plans. It would compare visibility of staff, waiting/passing overlap and opportunities to challenge an absent author’s mandate.
+
+**Concrete first ask (proposed):** Could you forward the enquiry to someone working on public-building use, spatial analysis or architectural interfaces? I would send the plans and measurement proposal for critique and ask separately about an appropriate doctoral route at UNSAM.
 
 ## Supervision and open questions
 

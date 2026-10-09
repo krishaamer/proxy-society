@@ -1,6 +1,6 @@
 # Ling Tan — research for first contact
 
-**Lead:** `tan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `tan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** HAQUE TAN. **Recorded role:** Architect-trained designer, artist and creative technologist; studio co-founder.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could strengthen participatory evaluation: how people negotiate representation and control, and what an installation actually lets them do.
 
-**Draft connection (assessment):** HAQUE TAN's assembly work and your practice in citizen participation make the question of who designs a proxy's mandate particularly relevant to this pilot.
+**Selected source anchor:** [More-than-Human Assembly](https://haquetan.com/more-than-human-assembly/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you involve staff and participants in deciding what may be delegated at a shared threshold, and in evaluating whether they retain meaningful control?
+**Draft connection (assessment):** In [More-than-Human Assembly](https://haquetan.com/more-than-human-assembly/), your studio brings AI-mediated representation into a participatory setting. I am particularly interested in who can change the terms of representation during the encounter.
+
+**Specific spatial case (proposal):** A Proxy Society reception prototype would let participants role-play an author, an agent, a receptionist and another visitor. They would alter the permitted task and handoff conditions, then rearrange the counter and waiting area to make those changes understandable.
+
+**Concrete first ask (proposed):** Would you discuss how to structure that participatory test and record whose influence the prototype permits? I would send a role-and-space exercise for critique. I am seeking practice advice alongside an architecture PhD proposal.
 
 ## Supervision and open questions
 

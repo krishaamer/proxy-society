@@ -1,6 +1,6 @@
 # Sociedad de Arquitectos del Uruguay — research for first contact
 
-**Lead:** `world_uruguay`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_uruguay`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Sociedad de Arquitectos del Uruguay. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** SAU's published cultural activity includes architecture's relationship with cinema and the question of what becomes a built legacy. Those concerns connect spatial evidence with the social value of presence.
+**Selected source anchor:** [Sociedad de Arquitectos del Uruguay](https://www.sau.org.uy/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a Uruguayan architect or researcher who might critique a film-supported threshold study of access, encounter and delegated civic tasks?
+**Draft connection (assessment):** I am approaching [Sociedad de Arquitectos del Uruguay](https://www.sau.org.uy/) for a member with civic-building or post-occupancy experience, rather than a general AI partnership enquiry.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare ordinary collection, human assistance and a delegated request across two counter layouts, observing staff reach and the ability to contest or resume the task.
+
+**Concrete first ask (proposed):** Could you suggest an Uruguayan architect or researcher for a plan-and-outcome critique? The initial contribution is practice advice alongside an architecture PhD proposal, with no live site assumed.
 
 ## Supervision and open questions
 

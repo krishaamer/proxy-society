@@ -1,6 +1,6 @@
 # Cabinet 2G — research for first contact
 
-**Lead:** `world_gabon`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_gabon`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Cabinet 2G, Libreville. **Recorded role:** Architecture practice listed in local professional directory.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an architect for civic-building access critique. The contact is provisional until confirmed directly; no academic role is established.
 
-**Draft connection (assessment):** A published architecture directory identifies Cabinet 2G in Libreville. I am looking for the appropriate current practice contact before proposing a research conversation.
+**Selected source anchor:** [published project connection to Cabinet 2G](https://passivearchitecture.com/portfolio/744-2/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you confirm the relevant enquiry route and suggest an architect experienced in civic-building reception, accessibility or everyday spatial use?
+**Draft connection (assessment):** I found [published project connection to Cabinet 2G](https://passivearchitecture.com/portfolio/744-2/) while looking for a Libreville architectural perspective. I would first confirm the correct current office and recipient.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library intervention would compare a shared counter with a separate AI-mediated collection bay, observing staff reach, waiting and obstruction of ordinary visitors.
+
+**Concrete first ask (proposed):** Could you identify the architect who could review a plan and section, or suggest a relevant Gabon colleague? This is practice advice for an architecture PhD proposal, without assuming your office has a suitable site or automation project.
 
 ## Supervision and open questions
 

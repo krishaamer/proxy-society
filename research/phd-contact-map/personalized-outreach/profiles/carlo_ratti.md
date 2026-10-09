@@ -1,6 +1,6 @@
 # Carlo Ratti — research for first contact
 
-**Lead:** `carlo_ratti`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `carlo_ratti`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** MIT, Senseable City Lab / Carlo Ratti Associati. **Recorded role:** Professor of Urban Technologies and Planning; Senseable City Lab director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could offer field methods and urban-scale comparison for delegated mobility and institutional interfaces. Keep the pilot's building scale and public authority question explicit.
 
-**Draft connection (assessment):** Senseable City Lab's research on how digital technologies change urban life is relevant to a small question at building scale: what changes when a civic task no longer requires the person's presence?
+**Selected source anchor:** [MIT account of Senseable City Lab](https://news.mit.edu/2022/designing-cities-tomorrow-carlo-ratti-1025) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a threshold comparison complement that research, and which observations would show effects on public participation rather than only changes in service efficiency?
+**Draft connection (assessment):** [MIT account of Senseable City Lab](https://news.mit.edu/2022/designing-cities-tomorrow-carlo-ratti-1025) relates sensing and digital systems to urban behaviour. I want to apply measurement at a deliberately small scale before making claims about a city of proxy services.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library pilot would compare personal and AI-mediated collection paths, staff movement and optional stopping around two reception layouts. Any sensing would be proportionate and consented; a manual observation baseline would establish what the data actually adds.
+
+**Concrete first ask (proposed):** Could you review the measurement sketch or suggest a lab colleague? I am seeking research advice alongside an architecture PhD, particularly on separating the spatial change from novelty in the service technology.
 
 ## Supervision and open questions
 

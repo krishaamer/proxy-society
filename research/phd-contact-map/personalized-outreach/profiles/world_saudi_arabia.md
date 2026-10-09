@@ -1,6 +1,6 @@
 # Ali Salem Bahammam — research for first contact
 
-**Lead:** `world_saudi_arabia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_saudi_arabia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** King Saud University, College of Architecture and Planning. **Recorded role:** Professor; environmental housing and human behaviour.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A strong architectural-behaviour candidate for observing encounters, control and experience around delegated service thresholds.
 
-**Draft connection (assessment):** King Saud University's research-team roster identifies your environmental-housing and human-behaviour expertise. That offers a relevant perspective on users' interpretation of a changed service arrangement.
+**Selected source anchor:** [King Saud University’s human-behaviour research listing](https://cap.ksu.edu.sa/en/architecture-and-construction/professors) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which observations would reveal differences in comprehension, waiting and perceived control, and could you advise on an appropriate architectural doctoral context?
+**Draft connection (assessment):** Your [King Saud University’s human-behaviour research listing](https://cap.ksu.edu.sa/en/architecture-and-construction/professors) gives a precise methods connection for studying the encounter, rather than only the autonomous task.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would hold an AI-mediated collection interface constant across two counter arrangements, recording approach, hesitation, help-seeking and intervention during personal and represented arrival.
+
+**Concrete first ask (proposed):** Could you critique the behavioural coding sheet and discuss doctoral or advisory fit? I would send the plans and task script, asking which behaviours support a spatial inference and which require interviewing users about their interpretation.
 
 ## Supervision and open questions
 

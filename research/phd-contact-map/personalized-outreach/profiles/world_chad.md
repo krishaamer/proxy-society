@@ -1,6 +1,6 @@
 # Cabinet ARCHITECTURAL — research for first contact
 
-**Lead:** `world_chad`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_chad`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Cabinet ARCHITECTURAL, N’Djamena. **Recorded role:** Architecture and urbanism practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss circulation, waiting and human handoff in a public building; the old professional-directory URL redirected to unrelated content and was excluded.
 
-**Draft connection (assessment):** Cabinet ARCHITECTURAL describes a multidisciplinary architecture, engineering and urbanism practice. I am seeking an operationally grounded critique of a small change at a shared building's edge.
+**Selected source anchor:** [Cabinet ARCHITECTURAL’s public-space and waiting-room projects](https://tchad-architectural.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate designer discuss access, waiting and staff assistance in civic facilities, or refer me to a researcher who studies those spatial conditions?
+**Draft connection (assessment):** [Cabinet ARCHITECTURAL’s public-space and waiting-room projects](https://tchad-architectural.com/) provides a specific practice connection to waiting and arrival. I want to understand which qualities should remain when a service transaction is delegated.
+
+**Specific spatial case (proposal):** For Proxy Society, a library handoff point for an AI agent acting for a visitor would be compared with an ordinary waiting route, recording seating choice, sightlines to staff and overlap with passing visitors.
+
+**Concrete first ask (proposed):** Could you critique that arrival diagram or share a public waiting-room design lesson? I am seeking practice advice for an architecture PhD proposal, without assuming that an airport precedent directly establishes a suitable library layout.
 
 ## Supervision and open questions
 

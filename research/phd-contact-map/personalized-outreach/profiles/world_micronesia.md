@@ -1,6 +1,6 @@
 # Peter Hagileisa — research for first contact
 
-**Lead:** `world_micronesia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_micronesia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Federated States of Micronesia, Department of Transportation, Communications & Infrastructure. **Recorded role:** Architect listed in the Infrastructure Division.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could advise on public-building thresholds and introduce an appropriate local design collaborator. Contact is through the department, and no doctoral role is established.
 
-**Draft connection (assessment):** Your department's published personnel directory identifies an infrastructure-division architecture role in Palikir. I am seeking a practical local perspective on public-building access.
+**Selected source anchor:** [FSM government’s infrastructure-architect directory](https://tci.gov.fm/personnel.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you or the appropriate current colleague discuss reception and handoff arrangements, or suggest a Federated States of Micronesia architect for a modest research conversation?
+**Draft connection (assessment):** [FSM government’s infrastructure-architect directory](https://tci.gov.fm/personnel.html) identifies your published architectural connection. I would first confirm your current role through the department route before asking for advice.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare an ordinary reception with an optional AI-mediated collection point, testing human passage and where staff can resolve a refused request.
+
+**Concrete first ask (proposed):** Could you critique that small plan or direct me to the appropriate Micronesia public-building designer? I am seeking architectural input to a PhD proposal, without assuming an available government site or trial.
 
 ## Supervision and open questions
 

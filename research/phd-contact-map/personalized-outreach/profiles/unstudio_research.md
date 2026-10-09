@@ -1,6 +1,6 @@
 # UNStudio research / human-centred technology team — research for first contact
 
-**Lead:** `unstudio_research`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `unstudio_research`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** UNStudio. **Recorded role:** Architecture and urban technology practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could inform a critique of smart-building services measured only by efficiency. Relevance depends on whether a current team still works on these questions.
 
-**Draft connection (assessment):** UNStudio's 2018 Sensing Cities account argues for urban technology that responds to people's needs. I would like to revisit that historical precedent through a small study of delegated civic access.
+**Selected source anchor:** [Sensing Cities](https://www.unstudio.com/news/articles/sensing-cities/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which current research team could discuss how a public-service interface preserves human agency, and what spatial evidence would distinguish that aim from an efficiency claim?
+**Draft connection (assessment):** The historical [Sensing Cities](https://www.unstudio.com/news/articles/sensing-cities/) account offers a human-focused technology precedent. I want to examine what an adaptive entrance actually lets people understand and change.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library threshold would make an AI-mediated task visible and revocable, with a human route and handoff point present in every state. A fixed reception arrangement would be the comparison, including a system-unavailable scenario.
+
+**Concrete first ask (proposed):** Could you identify a researcher to critique the state-and-space diagram or share a relevant public design lesson? I am seeking practice advice for an architecture PhD, without assuming that the earlier UNSense projects remain active.
 
 ## Supervision and open questions
 

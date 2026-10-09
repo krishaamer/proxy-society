@@ -1,6 +1,6 @@
 # Luke Hespanhol — research for first contact
 
-**Lead:** `luke_hespanhol`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `luke_hespanhol`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Sydney, Design Lab / Urban Interfaces Lab. **Recorded role:** Design researcher; Urban Interfaces Lab member.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 A close bridge from interaction design to situated public-space experiments. Could help evaluate how physical and digital boundaries affect comprehension and meaningful participation.
 
-**Draft connection (assessment):** Urban Interfaces Lab's work on civic interaction and human-centred autonomous mobility offers a relevant way to treat a threshold as a situated public interface.
+**Selected source anchor:** [Sydney’s Footbridge Gallery digital-placemaking project](https://www.sydney.edu.au/news-opinion/news/2019/02/26/university-launches-new-digital-placemaking-footbridge-gallery.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you compare alternative spatial arrangements and their effects on trust and participation, and could this fit a doctoral project in your research context?
+**Draft connection (assessment):** [Sydney’s Footbridge Gallery digital-placemaking project](https://www.sydney.edu.au/news-opinion/news/2019/02/26/university-launches-new-digital-placemaking-footbridge-gallery.html) offers a specific precedent for digital media becoming part of an everyday public route. I am interested in the relation between where a display sits and who can participate.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would place the same permission display in two reception configurations. We would test who notices the AI agent’s mandate, who understands how to challenge it and whether the display obstructs or invites access to a person.
+
+**Concrete first ask (proposed):** Could you critique that situated-interface experiment and discuss doctoral or methods-advisory fit? I would send a sightline plan and interaction script, asking what observation method can distinguish placement from content effects.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Colegio de Arquitectos de Guatemala — research for first contact
 
-**Lead:** `world_guatemala`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_guatemala`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Colegio de Arquitectos de Guatemala. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Colegio's professional network and published educational activity provide a route to find a local architectural perspective on a proposed service change.
+**Selected source anchor:** [Colegio de Arquitectos de Guatemala](https://www.colegiodearquitectos.org.gt/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or researcher studying public-building reception, accessibility or participatory design who might discuss this bounded pilot?
+**Draft connection (assessment):** [Colegio de Arquitectos de Guatemala](https://www.colegiodearquitectos.org.gt/) is the professional route I am using to identify a member with civic-interior experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would test personal and AI-delegated collection across two layouts, paying attention to turning space, help-seeking and an immediately reachable human takeover point.
+
+**Concrete first ask (proposed):** Could you recommend a Guatemalan architect or researcher to critique the plan and participant-task matrix? I would begin with a small design question for an architecture PhD proposal, with supervisory and site arrangements considered separately.
 
 ## Supervision and open questions
 

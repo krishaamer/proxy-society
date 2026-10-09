@@ -1,6 +1,6 @@
 # Elena Tudela Rivadeneyra — research for first contact
 
-**Lead:** `elena_tudela`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `elena_tudela`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** UNAM, Faculty of Architecture / Sustainability Sciences graduate programme. **Recorded role:** Architecture-affiliated researcher and accredited master's-level sustainability tutor.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A regional collaborator on access as a spatial and environmental condition. Comparative cases and layered mapping could reveal who is excluded before any digital delegation occurs.
 
-**Draft connection (assessment):** Your work on public space, urban resilience and collaborative planning is relevant to the wider institutional setting of a delegated service, beyond the doorway itself.
+**Selected source anchor:** [UNAM profile on public space and collaborative planning](https://sostenibilidad.posgrado.unam.mx/tutores/90/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise on a suitable case or refer me to an appropriate doctoral supervisor for its access and public-space questions? I would welcome a short framing discussion.
+**Draft connection (assessment):** Your [UNAM profile on public space and collaborative planning](https://sostenibilidad.posgrado.unam.mx/tutores/90/) is relevant to deciding who should define the pilot’s terms. I am approaching you for methods advice or a referral, rather than assuming a doctoral principal-tutor role.
+
+**Specific spatial case (proposal):** In Proxy Society, community-centre users and staff would map the authority for one AI-mediated errand, then compare a shared counter with a separate handoff point. The workshop would include people who want to attend or decline the automated route.
+
+**Concrete first ask (proposed):** Could you critique that stakeholder exercise and identify an appropriate doctoral colleague at UNAM? I would send the participation map, asking which decisions must be settled collectively before a spatial experiment is appropriate.
 
 ## Supervision and open questions
 

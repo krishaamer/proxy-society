@@ -1,6 +1,6 @@
 # Snøhetta architecture and landscape team — research for first contact
 
-**Lead:** `snohetta_practice`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `snohetta_practice`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Snøhetta. **Recorded role:** Architecture, landscape and interdisciplinary design practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Potential critique or public-building case-study route for what makes direct presence worth choosing. Start with human experience and a specific building rather than a generic AI collaboration.
 
-**Draft connection (assessment):** Snøhetta's account of its practice places human interaction at the centre of spatial design. That is relevant to what a civic-building threshold should protect when routine transactions no longer require attendance.
+**Selected source anchor:** [Snøhetta’s account of its practice](https://old.snohetta.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which colleague or public-building project would be appropriate for a short conversation about preserving gathering, welcome and informal encounter alongside delegated services?
+**Draft connection (assessment):** [Snøhetta’s account of its practice](https://old.snohetta.com/) identifies human interaction as a driver across architecture, landscape and interiors. I want to treat that as a design test before adding an automated service route.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre pilot would compare a service-only handoff with a threshold retaining places to wait, meet and ask a person for help. The same AI-mediated task would be handled in both arrangements.
+
+**Concrete first ask (proposed):** Could you suggest a designer or public-building precedent for critiquing that plan? I would send the two spatial sequences, asking which relationships the service route should preserve in an architecture PhD study.
 
 ## Supervision and open questions
 

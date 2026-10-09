@@ -1,6 +1,6 @@
 # Usman Haque — research for first contact
 
-**Lead:** `haque`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `haque`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** HAQUE TAN. **Recorded role:** Architect-trained designer and studio co-founder.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Very close practice connection to rooms of deliberation and represented agency; could share lessons from real participatory prototypes.
 
-**Draft connection (assessment):** HAQUE TAN's work on AI-mediated assembly directly raises the relationship between representation, collective agency and the physical space in which people meet.
+**Selected source anchor:** [More-than-Human Assembly](https://haquetan.com/more-than-human-assembly/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could we discuss what your assembly experiments suggest about making a proxy's authority understandable, and which aspects of participation should remain directly human?
+**Draft connection (assessment):** Your [More-than-Human Assembly](https://haquetan.com/more-than-human-assembly/) is a much closer precedent than a generic smart-building project: it places AI-mediated representation within an assembly whose participants must make sense of different interests.
+
+**Specific spatial case (proposal):** For Proxy Society, I want to prototype a civic reception in which an absent person’s agent can request one action, while present users and staff can question that authority. The spatial design would make the author, scope and human-handoff point legible.
+
+**Concrete first ask (proposed):** Could we discuss what your assembly work suggests about contesting a proxy’s mandate in person? I would bring one authority-and-layout diagram for critique. I am approaching you jointly about practice advice alongside an architecture PhD.
 
 ## Supervision and open questions
 

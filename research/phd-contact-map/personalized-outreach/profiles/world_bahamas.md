@@ -1,6 +1,6 @@
 # Institute of Bahamian Architects — research for first contact
 
-**Lead:** `world_bahamas`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bahamas`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Institute of Bahamian Architects. **Recorded role:** Professional architecture institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an architect working on public access, community facilities and island civic space.
 
-**Draft connection (assessment):** Your Institute's public contact route offers a way to identify an architect with local experience rather than impose assumptions about civic-building operation.
+**Selected source anchor:** [Institute of Bahamian Architects’ Nassau contact](https://www.ibabahamas.org/contact.php) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a Bahamian practitioner or researcher in libraries, community facilities or inclusive access who might discuss a small spatial experiment?
+**Draft connection (assessment):** I am using [Institute of Bahamian Architects’ Nassau contact](https://www.ibabahamas.org/contact.php) to seek a specific member referral: someone with experience of public reception or waiting-area design.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare a shared queue with a side point for AI-mediated collections, observing passage conflicts and whether a person can still reach staff directly.
+
+**Concrete first ask (proposed):** Could the secretariat suggest a Bahamian architect or architecture researcher for a brief plan critique? I would send the two queue arrangements and a task script, as practice input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

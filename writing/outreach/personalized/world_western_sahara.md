@@ -1,14 +1,14 @@
 # Email draft — Manuel Herz
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_western_sahara`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_western_sahara`.
 
 **Recipient:** Manuel Herz — Manuel Herz Architects, Basel, Switzerland.
 
 **Published email:** info@manuelherz.com. **Route:** [Published contact page](https://www.manuelherz.com/info).
 
-**Subject:** Representation and space in Sahrawi research
+**Subject:** Sahrawi-camp research: critique the relation between place and representation
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_western_sahara.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_western_sahara.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Manuel Herz,
 
-Your research on Sahrawi refugee camps and the 2016 Western Sahara pavilion offers a specific connection to representation and institutional space. I understand the camps are in Algeria and your practice is based in Basel.
+[your Sahrawi-camp research and 2016 Western Sahara pavilion](https://www.manuelherz.com/info) provides a specific architectural perspective on place and political representation. I am approaching your Basel practice; the documented camp research is in Algeria, not an in-territory professional base.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed civic-library study asks how an AI agent’s limited authority to act for an absent author is made visible and contestable at reception. I want to question the assumption that technical representation substitutes for embodied participation.
 
-Could you advise which assumptions about presence and delegated authority this civic-threshold project should question, or suggest an appropriate research conversation?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique that framing or suggest a Sahrawi professional/research connection? I would send an authority-and-space diagram, seeking conceptual advice for an architecture PhD rather than treating the camps as a proposed pilot site.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_western_sahara.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 152 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 117 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

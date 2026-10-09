@@ -1,14 +1,14 @@
 # Email draft — Pei-Hsien Hsu
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `pei_hsien_hsu`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `pei_hsien_hsu`.
 
 **Recipient:** Pei-Hsien Hsu — National Yang Ming Chiao Tung University (NYCU), Graduate Institute of Architecture.
 
 **Published email:** phsu@arch.nycu.edu.tw. **Route:** [Published contact page](https://arch.nycu.edu.tw/en/about/faculty/phsu/).
 
-**Subject:** Design-build research on shared thresholds
+**Subject:** A community-built prototype of revocable delegated access
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/pei_hsien_hsu.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/pei_hsien_hsu.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Pei-Hsien Hsu,
 
-Your NYCU work in physical interaction, mixed reality and community-oriented design-build research suggests a way to involve people in testing a spatial proposal rather than only presenting it to them.
+Your [NYCU work on physical interaction and community design-build](https://arch.nycu.edu.tw/en/about/faculty/phsu/) connects interaction design with making in a community setting. I want participants to shape the threshold before treating the prototype as a finished system to evaluate.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, staff and users would build or rearrange a small reception mock-up and decide where an AI agent may stop, where the author’s permission is shown and how a person can take over. We would compare their choices with the existing counter arrangement.
 
-Could a community-centre threshold experiment fit that work, and would Civil Engineering Group G be the appropriate doctoral home for its architectural contribution?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you discuss a possible doctoral/advisory fit through NYCU’s architecture-related Civil Engineering Group G route? I would send the workshop plan and ask how to make the design-build process produce defensible architectural evidence.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/pei_hsien_hsu.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 149 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 122 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

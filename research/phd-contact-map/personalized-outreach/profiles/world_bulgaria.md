@@ -1,6 +1,6 @@
 # Union of Architects of Bulgaria (UAB) — research for first contact
 
-**Lead:** `world_bulgaria`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bulgaria`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Union of Architects of Bulgaria (UAB). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Union describes supporting architectural education alongside sustainable development of settlements. I would like to connect the pilot with someone who studies the social use of buildings.
+**Selected source anchor:** [Union of Architects of Bulgaria](https://bularch.eu/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a Bulgarian architect or academic working on public-space access, reception or spatial experience who might advise on the research design?
+**Draft connection (assessment):** I am approaching [Union of Architects of Bulgaria](https://bularch.eu/) for a named person who can assess spatial evidence, rather than the general merits of AI in buildings.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would change reception sightlines and queue overlap while keeping a delegated collection task constant. Observed recognition and staff intervention would be compared with the spatial predictions.
+
+**Concrete first ask (proposed):** Could you suggest a Bulgarian architect or researcher in spatial analysis or public-building behaviour? I would send the two plans and candidate measures for critique before exploring doctoral or site arrangements.
 
 ## Supervision and open questions
 

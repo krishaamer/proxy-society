@@ -1,6 +1,6 @@
 # Sam Conrad Joyce — research for first contact
 
-**Lead:** `joyce`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `joyce`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Singapore University of Technology and Design (SUTD). **Recorded role:** Associate Professor; Architecture and Sustainable Design PhD coordinator; Spatial AI Studio leader.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Strong Asia-Pacific route for designing and evaluating spaces, interfaces and permissions for human and autonomous-agent cooperation.
 
-**Draft connection (assessment):** Meta Design Lab's focus on interfaces and collaborative models for humans and machines is closely connected to the pilot's question about how authority becomes visible in space.
+**Selected source anchor:** [Meta Design Lab](https://www.sutd.edu.sg/profile/sam-conrad-joyce/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a threshold comparison fit your Spatial AI research at SUTD, and which doctoral route would support both spatial prototyping and evaluation with building users?
+**Draft connection (assessment):** Your description of [Meta Design Lab](https://www.sutd.edu.sg/profile/sam-conrad-joyce/) emphasises interfaces and collaborative models through which computation augments human design decisions. I need that distinction between generating alternatives and deciding what counts as desirable.
+
+**Specific spatial case (proposal):** For a Proxy Society library pilot, I propose generating reception layouts against three explicit constraints: an unobstructed human route, a visible staff-handoff point and an AI agent’s limited authorised area. Users and staff would evaluate the alternatives; circulation speed would be only one outcome.
+
+**Concrete first ask (proposed):** Would you discuss a possible PhD supervision route at SUTD? I would send a constraint diagram and ask which design variables and comparison would make this a substantive computational-architecture study.
 
 ## Supervision and open questions
 

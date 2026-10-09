@@ -1,6 +1,6 @@
 # Order of Architects of Senegal – ODAS — research for first contact
 
-**Lead:** `world_senegal`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_senegal`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Order of Architects of Senegal – ODAS. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** ODAS describes placing citizens' quality of life and the public interest at the centre of architectural practice. Those aims are relevant to evaluating delegated convenience beyond an individual transaction.
+**Selected source anchor:** [Order of Architects of Senegal](https://ordrearchitectes.sn/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a Senegalese architect or researcher in civic facilities, inclusive reception or spatial behaviour who might critique the proposed pilot?
+**Draft connection (assessment):** I am approaching [Order of Architects of Senegal](https://ordrearchitectes.sn/) to find a member with civic-reception or post-occupancy experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare a shared queue with an optional AI-mediated handoff point, observing human passage, staff visibility and recovery when permission is questioned.
+
+**Concrete first ask (proposed):** Could you recommend a Senegal architect or researcher to critique the route diagram and task sequence? The initial contribution would be practice advice for an architecture PhD proposal, with an operator and permissions still unresolved.
 
 ## Supervision and open questions
 

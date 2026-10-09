@@ -1,6 +1,6 @@
 # National Union of Ukranian Architects — research for first contact
 
-**Lead:** `world_ukraine`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_ukraine`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Union of Ukranian Architects. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Union's published professional route is a starting point for identifying an appropriate researcher or architect without assuming current institutional capacity or a willing field site.
+**Selected source anchor:** [National Union of Architects of Ukraine](https://www.nsau.org/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest someone working on public-building access, reception or spatial behaviour who might consider a short research-framing discussion?
+**Draft connection (assessment):** I am using [National Union of Architects of Ukraine](https://www.nsau.org/) to find a practitioner who can evaluate an existing civic reception rather than presume a technology or doctoral role at the union.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would test the ordinary counter against a movable AI-mediated handoff, recording visibility of assistance, waiting and personal takeover when permission changes.
+
+**Concrete first ask (proposed):** Could you recommend a Ukrainian architect or researcher with public-interior or building-use experience? I would request a plan-and-section critique for an architecture PhD proposal, without assuming an available pilot site.
 
 ## Supervision and open questions
 

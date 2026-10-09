@@ -1,6 +1,6 @@
 # Sotir Dhamo — research for first contact
 
-**Lead:** `world_albania`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_albania`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** POLIS University, FABLAB Research Center in Architecture, Engineering and Design. **Recorded role:** Associate professor; head of research unit.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss architectural prototypes and identify a doctoral research context; topic and supervisory eligibility require confirmation.
 
-**Draft connection (assessment):** The POLIS faculty roster places you in its architecture, engineering and design research unit. That interdisciplinary setting is relevant to testing a service change through architectural evidence.
+**Selected source anchor:** [POLIS architecture/engineering/design research unit](https://universitetipolis.edu.al/en/faculties-staff/faculty-of-architecture-and-design/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise which researcher or doctoral context might assess a civic-threshold comparison focused on access, authority and everyday spatial experience?
+**Draft connection (assessment):** The faculty listing names you as head of [POLIS architecture/engineering/design research unit](https://universitetipolis.edu.al/en/faculties-staff/faculty-of-architecture-and-design/). I am approaching you about a small design-research prototype or a referral within that unit.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed experiment would let library users and staff rearrange a counter model, changing where an AI-mediated request stops and where a person takes over. The existing arrangement would be the baseline.
+
+**Concrete first ask (proposed):** Could you review the model brief or identify a FABLAB colleague? I would ask which spatial variable the first mock-up should isolate and whether a suitable doctoral or external-advisory route can support the work.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Anab Jain — research for first contact
 
-**Lead:** `anab_jain`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `anab_jain`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Superflux. **Recorded role:** Co-founder and Director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could stage proxy-authority scenarios that participants can experience and critique before deployment. A useful way to surface conflict and hidden maintenance work.
 
-**Draft connection (assessment):** Superflux's experiential futures practice suggests a way to make the social rules and failure cases of delegated access tangible before building a functional system.
+**Selected source anchor:** [Superflux’s experiential futures practice](https://superflux.in/index.php/about/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you critique a staged civic-threshold encounter, particularly what it should reveal about ambiguity, exclusion and the moment a person must regain control?
+**Draft connection (assessment):** [Superflux’s experiential futures practice](https://superflux.in/index.php/about/) offers a way to make a proposed system’s consequences tangible before building it. I want the scenario to expose conflicts, rather than sell a frictionless future.
+
+**Specific spatial case (proposal):** For Proxy Society, a staged library encounter would place an absent author’s AI agent beside a visitor needing personal help. Participants would change the mandate and reception arrangement, including choosing to abandon the automated service.
+
+**Concrete first ask (proposed):** Would you critique that scenario or suggest a suitable Superflux collaborator? I would send a short script and plan, asking what the enactment should make discussable about authority, refusal and staff labour in an architecture PhD study.
 
 ## Supervision and open questions
 

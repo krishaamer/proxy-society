@@ -1,14 +1,14 @@
 # Email draft — Shu-Chang Kung
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `shu_chang_kung`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `shu_chang_kung`.
 
 **Recipient:** Shu-Chang Kung — NYCU, Graduate Institute of Architecture.
 
 **Published email:** shuchangkung@arch.nycu.edu.tw. **Route:** [Published contact page](https://arch.nycu.edu.tw/en/about/faculty/shuchangkung/).
 
-**Subject:** Public-service design and delegated authority
+**Subject:** Who can change the rules of a delegated public-service threshold?
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/shu_chang_kung.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/shu_chang_kung.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Shu-Chang Kung,
 
-Your work in architectural theory, urban-design governance and public-service design raises the question of how a civic building preserves its public mission when a representative arrives for someone else.
+Your [NYCU profile on urban governance and public-service design](https://arch.nycu.edu.tw/en/about/faculty/shuchangkung/) combines architectural theory, governance and public-service design. I need a way to examine the rule represented by a counter as well as its physical arrangement.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed civic-building study would make a mandate visible at reception, including who can grant, refuse and revoke it. Staff and users would compare layouts and annotate whose decisions each permits, especially when an AI agent’s request conflicts with a present visitor’s needs.
 
-What spatial and institutional checks would keep delegated access understandable and equitable, and who should assess an appropriate doctoral supervisory arrangement at NYCU?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique that spatial-governance diagram and advise on an appropriate doctoral or practice connection? I would like to test the public-service premise before deciding whether separate access infrastructure is justified.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/shu_chang_kung.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 148 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 118 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

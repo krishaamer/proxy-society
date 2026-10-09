@@ -1,6 +1,6 @@
 # Adish V. Naidu — research for first contact
 
-**Lead:** `world_fiji`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_fiji`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Fiji Association of Architects. **Recorded role:** Architect; association president listed on current team page.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an architect working on community facilities and discuss island civic-space practice; the mailbox is institutional.
 
-**Draft connection (assessment):** The Fiji Association of Architects describes raising design standards through collaboration. I am seeking a local practice perspective on welcome and service circulation in shared buildings.
+**Selected source anchor:** [Fiji Association of Architects’ team listing](https://www.fijiarchitects.com/about-us) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or researcher who might critique a civic-threshold pilot, particularly accessibility, human assistance and informal encounter?
+**Draft connection (assessment):** [Fiji Association of Architects’ team listing](https://www.fijiarchitects.com/about-us) identifies your association role. I am approaching you through the published general mailbox for a member referral, without assuming a personal research specialism.
+
+**Specific spatial case (proposal):** For Proxy Society, two library counter layouts would handle the same AI-delegated collection task. We would compare clear passage, access to a person and recovery from an unclear request.
+
+**Concrete first ask (proposed):** Could you recommend a Fiji architect with civic-interior or building-use evaluation experience? I would send the plans and task sequence for a focused critique alongside my architecture PhD planning.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Kerstin Sailer — research for first contact
 
-**Lead:** `sailer`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `sailer`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** UCL, Bartlett School of Architecture. **Recorded role:** Professor in the Sociology of Architecture.
 
@@ -18,9 +18,13 @@ The UCL repository paper on measuring workplace interaction is the basis for the
 
 Could make the social permeability map defensible by connecting spatial configuration, interactions and organisational routines.
 
-**Draft connection (assessment):** Your research on workplace interaction connects spatial configuration with where unplanned encounters occur. It suggests that transaction speed alone would be a poor measure of a delegated reception area.
+**Selected source anchor:** [Measuring Interaction in Workplaces](https://discovery.ucl.ac.uk/id/eprint/1478287/) — reviewed 2026-10-09; primary-source indexed text reviewed. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Which observations would let us compare encounter opportunities, staff interruptions and access across two threshold layouts while separating layout effects from the service technology?
+**Draft connection (assessment):** [Measuring Interaction in Workplaces](https://discovery.ucl.ac.uk/id/eprint/1478287/) makes interaction in a building a question that can be measured in relation to its spatial configuration. That is the methodological problem I need to solve.
+
+**Specific spatial case (proposal):** In Proxy Society’s proposed library pilot, an AI-mediated collection point could shorten a transaction yet remove encounters or increase staff interruptions. I want to compare a counter visible from the entrance with a recessed handoff point, holding the task and technology constant.
+
+**Concrete first ask (proposed):** Could you advise on a small observation protocol combining visibility, paths, co-presence and staff interruptions? I would send the two plans and proposed coding sheet for critique, with a view to a methods-advisory or supervisory conversation.
 
 ## Supervision and open questions
 

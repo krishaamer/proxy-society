@@ -1,6 +1,6 @@
 # Faculty of Architecture — research for first contact
 
-**Lead:** `world_slovenia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_slovenia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Ljubljana. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architectural experience or civic-space researcher and clarify a possible doctoral route.
 
-**Draft connection (assessment):** Your Faculty of Architecture's published enquiry route is a starting point for identifying a researcher before assuming a supervisory match.
+**Selected source anchor:** [University of Ljubljana architecture faculty’s office route](https://www.fa.uni-lj.si/en/faculty/faculty-contact/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague studying civic-building use, reception or environment-behaviour questions who might critique the pilot and advise on an appropriate doctoral route?
+**Draft connection (assessment):** I am using [University of Ljubljana architecture faculty’s office route](https://www.fa.uni-lj.si/en/faculty/faculty-contact/) to reach a design researcher or environment–behaviour specialist, rather than ask the dean’s office to assess a broad AI idea.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment varies counter enclosure and staff visibility while holding a delegated collection task constant, with ordinary assistance as the baseline.
+
+**Concrete first ask (proposed):** Could you suggest a colleague to critique the plans, section and observation protocol? I would seek an architectural research-fit conversation before separately establishing a doctoral route or supervisory arrangement.
 
 ## Supervision and open questions
 

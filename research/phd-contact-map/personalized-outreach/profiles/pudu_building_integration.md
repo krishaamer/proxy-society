@@ -1,6 +1,6 @@
 # Pudu Robotics building-integration team — research for first contact
 
-**Lead:** `pudu_building_integration`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `pudu_building_integration`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Pudu Robotics. **Recorded role:** Multi-floor service-robot integration connection; individual research contact unverified.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A technical comparator for delivery through an institutional threshold. Examine whether successful robot passage actually satisfies the person's task, and where authority should return to staff or the visitor.
 
-**Draft connection (assessment):** Pudu's FlashBot building-integration work connects robots with lifts and turnstiles. Those handoffs are useful points for comparing technical access with users' understanding of an authorised task.
+**Selected source anchor:** [FlashBot Max building integration](https://www.pudurobotics.com/en/products/flashbot-new) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who could discuss an approved study of limited tasks, failure logging and human override, with spatial observation led by a building operator and research team?
+**Draft connection (assessment):** [FlashBot Max building integration](https://www.pudurobotics.com/en/products/flashbot-new) documents connections to lifts and turnstiles. I am interested in the exception where a technically possible route should stop because the author’s task has changed or a person needs priority.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare a shared approach and a side handoff bay during collection, refusal and takeover. The spatial study would begin with a staged mock-up.
+
+**Concrete first ask (proposed):** Could your building-integration team point me to public guidance or a colleague on those stop/recovery states? I would send the operation diagram and dimensions, seeking feasibility advice before proposing a robot trial.
 
 ## Supervision and open questions
 

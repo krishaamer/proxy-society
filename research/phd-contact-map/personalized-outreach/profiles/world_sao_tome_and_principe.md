@@ -1,6 +1,6 @@
 # ATI Consultores STP — research for first contact
 
-**Lead:** `world_sao_tome_and_principe`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_sao_tome_and_principe`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ATI Consultores STP. **Recorded role:** Architecture and engineering practice with São Tomé and Príncipe office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a local architectural collaborator or public-building project for threshold design critique; a named architect and civic-space expertise need confirmation.
 
-**Draft connection (assessment):** ATI Consultores STP describes integrated architecture and engineering services adapted to local cultural and environmental conditions. Those conditions are relevant to a modest service change at a civic threshold.
+**Selected source anchor:** [ATI Consultores STP’s architecture and urbanism practice](https://aticonsultstp.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a locally responsible designer critique reception, waiting and assistance arrangements, or suggest a São Tomé and Príncipe architect or operator for a research discussion?
+**Draft connection (assessment):** [ATI Consultores STP’s architecture and urbanism practice](https://aticonsultstp.com/) gives a São Tomé and Príncipe architectural route for testing the intervention’s practical assumptions.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-library study would observe arrival and staff assistance before comparing an ordinary counter with an optional AI-mediated collection point. The unchanged threshold would remain a possible outcome.
+
+**Concrete first ask (proposed):** Could an ATI architect critique the route sketch or refer me to a civic-building colleague? I would begin with advice for an architecture PhD proposal before identifying an operator, site or technical partner.
 
 ## Supervision and open questions
 

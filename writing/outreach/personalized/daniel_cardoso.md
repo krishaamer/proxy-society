@@ -1,14 +1,14 @@
 # Email draft — Daniel Cardoso Llach
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `daniel_cardoso`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `daniel_cardoso`.
 
 **Recipient:** Daniel Cardoso Llach — Carnegie Mellon University, School of Architecture / CodeLab.
 
 **Published email:** dcardoso@cmu.edu. **Route:** [Published contact page](https://www.architecture.cmu.edu/profiles/daniel-cardoso-llach).
 
-**Subject:** Computational design, authority and ethnography
+**Subject:** Computational Design: ethnography of a revocable mandate
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/daniel_cardoso.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/daniel_cardoso.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear Daniel Cardoso Llach,
 
-Your work on the cultural history of design automation and CodeLab's critical approach to computation is closely connected to the assumptions encoded in a delegated task.
+[CMU Computational Design PhD](https://www.architecture.cmu.edu/computational-design) explicitly accommodates ethnography, tangible interaction and responsive environments. That combination could connect the project’s authority question with architectural evidence.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, I propose observing an existing library reception, then co-designing a limited delegated collection task with staff. Two spatial prototypes would test who understands, questions and revokes the mandate; records of staff work would accompany the computational model.
 
-Could a study combining spatial prototypes and ethnographic observation fit CMU's Computational Design PhD, and what would distinguish its contribution from an HCI usability study?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you consider a PhD supervision conversation? I would send the two-page study design and ask how to make the ethnographic account and prototype challenge each other, rather than use fieldwork only to validate an AI service.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/daniel_cardoso.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 148 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 110 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

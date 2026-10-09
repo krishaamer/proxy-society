@@ -1,14 +1,14 @@
 # Email draft — Medhanie Teklemariam
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_eritrea`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_eritrea`.
 
 **Recipient:** Medhanie Teklemariam — Asmara Heritage Project.
 
 **Published email:** medhanetm@gmail.com. **Route:** [Published contact page](https://www.dastu.polimi.it/en/public-events/asmara-world-heritage-site).
 
-**Subject:** Heritage management and the experience of arrival
+**Subject:** Asmara heritage advice on a reversible digital-service threshold
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_eritrea.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_eritrea.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Medhanie Teklemariam,
 
-The April 2026 Politecnico di Milano event connects your Asmara Heritage Project work with the management and conservation of a modern African city. It raises the importance of studying an intervention within an existing spatial culture.
+[2026 account of the Asmara Heritage Project](https://www.dastu.polimi.it/en/public-events/asmara-world-heritage-site) identifies your project/site-management connection. I am interested in how a reversible service intervention can respect an existing civic building and its ordinary use.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library retrofit would add an optional AI-mediated collection point without making automated arrival the entrance’s organising principle. Plans and staged encounters would test visibility, staff assistance and recognition of the place.
 
-Would you advise what a civic-threshold study should preserve in a heritage setting, or refer me to an appropriate local architect or researcher?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique that heritage-sensitive brief or suggest the appropriate current colleague? I would send one intervention section for architecture PhD advice, while reconfirming the older published contact route separately.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_eritrea.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 155 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 103 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

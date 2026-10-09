@@ -1,6 +1,6 @@
 # Ordre des architectes et des ingénieurs-conseils (OAI) — research for first contact
 
-**Lead:** `world_luxembourg`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_luxembourg`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** OAI. **Recorded role:** Professional architecture and engineering order.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a civic-space architect; the government-listed route replaces a timed-out directory link.
 
-**Draft connection (assessment):** OAI's published professional role provides a route into architecture and engineering practice in Luxembourg. I would like to find a practitioner who understands both layout and day-to-day service operation.
+**Selected source anchor:** [Luxembourg government’s OAI contact record](https://guichet.public.lu/fr/entreprises/creation-developpement/autorisation-etablissement/profession-liberale/urbaniste.html) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you recommend someone working on civic facilities, reception or inclusive access who might critique a small delegated-threshold experiment?
+**Draft connection (assessment):** I found the professional route through [Luxembourg government’s OAI contact record](https://guichet.public.lu/fr/entreprises/creation-developpement/autorisation-etablissement/profession-liberale/urbaniste.html). I would first confirm the current enquiry channel and seek a named member, rather than presume topic expertise at the secretariat.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library study compares shared reception and an AI-mediated handoff bay, measuring queue overlap, visible assistance and recovery when permission ends.
+
+**Concrete first ask (proposed):** Could you suggest a Luxembourg architect or researcher with public-interior or post-occupancy experience? I would request a plan-and-protocol critique for an architecture PhD proposal before approaching any operator.
 
 ## Supervision and open questions
 

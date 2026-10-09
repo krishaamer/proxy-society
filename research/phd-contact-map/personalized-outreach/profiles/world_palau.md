@@ -1,6 +1,6 @@
 # Capital Improvement Program Division — Bureau of Public Works — research for first contact
 
-**Lead:** `world_palau`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_palau`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Government of Palau. **Recorded role:** Public-building procurement and design referral office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify the architect or design consultant for public-service buildings. This is a project-office referral, not a verified architect or academic supervisor.
 
-**Draft connection (assessment):** Your government's published public-works and capital-improvement routes identify a relevant starting point for a building-design enquiry. I am seeking guidance before proposing any field site.
+**Selected source anchor:** [Palau’s 2025 One Stop Shop Building notice](https://www.palaugov.pw/executive-branch/ministries/public-infrastructure/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you direct me to a designer or institutional-building colleague who could discuss reception, accessibility and everyday service handoffs in Palau?
+**Draft connection (assessment):** [Palau’s 2025 One Stop Shop Building notice](https://www.palaugov.pw/executive-branch/ministries/public-infrastructure/) identifies your division’s public-building connection. I am seeking the responsible architect or design consultant, not assuming the procurement contact is a research collaborator.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic reception comparison would examine an ordinary help counter and an optional AI-mediated handoff, focusing on queues, staff access and recovery from an unclear mandate.
+
+**Concrete first ask (proposed):** Could you direct me to an appropriate designer or public professional enquiry route? I would initially request a plan critique for an architecture PhD proposal, without seeking access to the named building.
 
 ## Supervision and open questions
 

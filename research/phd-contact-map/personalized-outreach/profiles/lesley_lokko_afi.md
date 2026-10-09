@@ -1,6 +1,6 @@
 # Lesley Lokko / African Futures Institute — research for first contact
 
-**Lead:** `lesley_lokko_afi`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `lesley_lokko_afi`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** African Futures Institute (AFI). **Recorded role:** Founder; architectural education and research institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could challenge a geographically narrow account of whose absence and presence matter, and connect the work to African architectural debate. Appropriate for critique or a research-network conversation.
 
-**Draft connection (assessment):** AFI's model of architectural education combines research, teaching and public events. It offers a relevant perspective on the assumptions behind a project initially framed around technologically equipped institutions.
+**Selected source anchor:** [African Futures Institute’s research and public programme](https://www.africanfuturesinstitute.com/about) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which assumptions about representation and access should this pilot revisit, and could you suggest an architect or researcher who would bring a locally grounded critique?
+**Draft connection (assessment):** [African Futures Institute’s research and public programme](https://www.africanfuturesinstitute.com/about) offers a critical architectural forum for examining the people and situations a proposal imagines as normal. I want to question the social assumptions behind the convenient absent user.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic reception would compare delegation to AI agents with arriving personally or receiving human help. The scenarios would make access to devices, staff labour and the right to decline automation explicit before a threshold is designed.
+
+**Concrete first ask (proposed):** Could you suggest an AFI researcher or forum to critique that scenario set? I am exploring an architecture PhD and would welcome a focused conversation about the proposal’s exclusions before claiming international applicability.
 
 ## Supervision and open questions
 

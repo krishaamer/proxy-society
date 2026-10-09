@@ -1,6 +1,6 @@
 # Ordre des Architectes de Tunisie (OAT) — research for first contact
 
-**Lead:** `world_tunisia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_tunisia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** OAT, Tunis. **Recorded role:** Professional architecture order.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a civic-building or architectural-experience specialist. A current direct mailbox, named recipient and any doctoral connection require verification.
 
-**Draft connection (assessment):** OAT's published professional register offers a route to find an architect with relevant experience before assuming expertise from an institutional title.
+**Selected source anchor:** [OAT’s architect-register and professional-notice route](https://www.oat.tn/oat24/index.html) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or researcher studying civic reception, accessibility or spatial behaviour who might critique a small delegated-service threshold experiment?
+**Draft connection (assessment):** I am using [OAT’s architect-register and professional-notice route](https://www.oat.tn/oat24/index.html) to find an appropriate member for a concrete public-interior question, rather than infer topic expertise from the order’s office.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare the existing reception with a reversible AI-mediated collection point, observing access to staff, refusal and recovery during an otherwise identical task.
+
+**Concrete first ask (proposed):** Could you suggest a Tunisian architect or academic with public-building or post-occupancy experience? I would send the plan pair and observation questions for a focused critique alongside my architecture PhD planning.
 
 ## Supervision and open questions
 

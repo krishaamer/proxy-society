@@ -1,6 +1,6 @@
 # Martha Tsigkari — research for first contact
 
-**Lead:** `martha_tsigkari`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `martha_tsigkari`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Foster + Partners, Applied R+D. **Recorded role:** Head of Applied R+D.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help simulate and compare thresholds, visibility and circulation before field testing. A focused research-methods inquiry is more plausible than asking a large practice to host the entire doctorate.
 
-**Draft connection (assessment):** Foster + Partners' Applied R+D work on spatial and visual connectivity offers a practical way to compare what users can see and understand in alternative reception arrangements.
+**Selected source anchor:** [Deep learning surrogate models for spatial and visual connectivity](https://journals.sagepub.com/doi/10.1177/1478077119894483) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could your team critique a small layout comparison, particularly which visibility and circulation measures would reveal confusion, conflict or extra staff intervention?
+**Draft connection (assessment):** Your co-authored [Deep learning surrogate models for spatial and visual connectivity](https://journals.sagepub.com/doi/10.1177/1478077119894483) provides a specific method connection. I need to predict who can see the handoff point, then test that prediction against an encounter.
+
+**Specific spatial case (proposal):** For Proxy Society, two library-counter layouts would have identical service software but different visibility among visitors, staff and an AI agent’s stopping area. Simulated visibility would be compared with recognition, intervention and passage observed in staged tasks.
+
+**Concrete first ask (proposed):** Could you review the two plans or suggest an Applied R+D colleague? I am seeking a focused methods conversation alongside an architecture PhD: which assumptions must be checked before using connectivity as evidence of understandable authority?
 
 ## Supervision and open questions
 

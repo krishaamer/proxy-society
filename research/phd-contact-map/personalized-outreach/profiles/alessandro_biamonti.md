@@ -1,6 +1,6 @@
 # Alessandro Biamonti — research for first contact
 
-**Lead:** `alessandro_biamonti`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `alessandro_biamonti`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Politecnico di Milano, Department of Design / LABIRINT. **Recorded role:** Associate Professor; LABIRINT coordinator.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help design reception interiors and material cues for limited authority and handoff. Useful for converting interface concepts into spatial arrangements that people can read.
 
-**Draft connection (assessment):** LABIRINT and your focus on design's anthropological dimensions offer a useful perspective on the everyday meaning of reception, permission and assistance.
+**Selected source anchor:** [LABIRINT and interior/environmental design](https://dipartimentodesign.polimi.it/en/staff/alessandro.biamonti) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What interior-design experiment could test whether a delegated task remains socially understandable without adding surveillance or pushing interpretation work onto staff?
+**Draft connection (assessment):** Your Polimi profile connects [LABIRINT and interior/environmental design](https://dipartimentodesign.polimi.it/en/staff/alessandro.biamonti). I want to test how an interior communicates the boundary of a delegated task without relying entirely on written instructions.
+
+**Specific spatial case (proposal):** For Proxy Society, a library counter could combine a marked stopping point, a permission display and an immediately reachable staff position. Two mock-ups would vary colour, enclosure and orientation, testing whether people can recognise where an AI agent’s authority ends.
+
+**Concrete first ask (proposed):** Could you review a material-and-layout board and advise on a research or doctoral connection? I would particularly value a critique of which cue belongs to the interior and which merely compensates for an unclear service procedure.
 
 ## Supervision and open questions
 

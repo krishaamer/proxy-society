@@ -1,6 +1,6 @@
 # Narein Perera — research for first contact
 
-**Lead:** `world_sri_lanka`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_sri_lanka`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Moratuwa, Department of Architecture. **Recorded role:** Professor; head of architecture department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique the project's architecture contribution and introduce an appropriate research or doctoral team; individual capacity is unconfirmed.
 
-**Draft connection (assessment):** Your Moratuwa architecture-department role provides a route to assess whether a bounded service change has a convincing spatial research question.
+**Selected source anchor:** [Moratuwa architecture faculty’s professor/head listing](https://uom.lk/architecture-faculty-staff) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise on a threshold comparison through access, comfort and everyday use, or suggest a colleague and appropriate architectural doctoral context?
+**Draft connection (assessment):** [Moratuwa architecture faculty’s professor/head listing](https://uom.lk/architecture-faculty-staff) identifies your departmental connection. I am seeking a design critique or appropriate research referral, without treating the listing as an available doctoral place.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up compares an ordinary counter and optional AI-mediated handoff, using sections and enacted tasks to test staff visibility, waiting and personal takeover.
+
+**Concrete first ask (proposed):** Could you assess the architectural question or identify a colleague in environment–behaviour or public-building use? I would send the plan pair and establish an appropriate doctoral/advisory route separately.
 
 ## Supervision and open questions
 

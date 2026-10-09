@@ -1,6 +1,6 @@
 # Faculty of Architecture — dean’s office — research for first contact
 
-**Lead:** `world_croatia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_croatia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Zagreb. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could route a request to a researcher in public space, building use or architecture and urbanism.
 
-**Draft connection (assessment):** Your faculty's dean's office is a published route into architecture and design at Zagreb. I am seeking a colleague whose research can connect spatial configuration with everyday building use.
+**Selected source anchor:** [University of Zagreb architecture faculty’s dean’s office](https://www.arhitekt.unizg.hr/hr/o-fakultetu/kontakt/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you refer me to someone studying civic access, reception or environment-behaviour questions, and identify the appropriate postgraduate research process?
+**Draft connection (assessment):** I am using [University of Zagreb architecture faculty’s dean’s office](https://www.arhitekt.unizg.hr/hr/o-fakultetu/kontakt/) to find a faculty researcher in public-building use, architectural interfaces or spatial evaluation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would translate a narrow delegated task into a visible destination and human takeover point. Two counter layouts would be compared with ordinary assistance through staged refusal and recovery.
+
+**Concrete first ask (proposed):** Could you forward this to an appropriate colleague who could assess the plans and possible doctoral contribution? I would start with a two-page study design, rather than ask the office to assess a general AI proposal.
 
 ## Supervision and open questions
 

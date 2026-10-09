@@ -1,6 +1,6 @@
 # Henriette Bier — research for first contact
 
-**Lead:** `henriette_bier`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `henriette_bier`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** TU Delft, Architecture and the Built Environment / Robotic Building. **Recorded role:** Associate Professor; Robotic Building lab leader.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Direct bridge from computational architecture to buildings in use. Could test whether threshold geometry, shared circulation and handoff locations change human/robot outcomes.
 
-**Draft connection (assessment):** Your Design-to-Robotic-Production-Assembly and -Operation research explicitly includes embedding robotics in buildings. The operation component is particularly relevant to a threshold used by both people and artificial representatives.
+**Selected source anchor:** [Robotic Building research on assembly and operation](https://research.tudelft.nl/en/persons/hh-bier/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a comparison of reception and transfer-zone layouts extend that work, and which spatial variables would distinguish the study from robot-navigation research?
+**Draft connection (assessment):** Your institutional account of [Robotic Building research on assembly and operation](https://research.tudelft.nl/en/persons/hh-bier/) includes embedding robotics in buildings and their operation. That makes it relevant beyond robotic fabrication.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare a robot handoff bay with a shared counter approach, using the same task and mandate. I would test how geometry changes stopping, staff access and human passage before interpreting the robot’s successful collection as a spatial success.
+
+**Concrete first ask (proposed):** Would you consider a TU Delft doctoral-fit conversation? I would send a plan and operation-state diagram and ask how your design-to-operation approach could structure the prototype and its evaluation.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Ordem dos Arquitectos de Cabo Verde — research for first contact
 
-**Lead:** `world_cabo_verde`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cabo_verde`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordem dos Arquitectos de Cabo Verde. **Recorded role:** Professional architecture order.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a practitioner for an island civic-building and access case study.
 
-**Draft connection (assessment):** Your Order's professional route connects architects and urbanists in Cabo Verde. I would like to find someone who can challenge the pilot's assumptions through local building practice.
+**Selected source anchor:** [Ordem dos Arquitectos de Cabo Verde’s Praia secretariat](https://www.arquitectos.org.cv/contacto/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you identify a member or researcher experienced in civic or educational buildings, reception design and inclusive access for a short research discussion?
+**Draft connection (assessment):** I am using [Ordem dos Arquitectos de Cabo Verde’s Praia secretariat](https://www.arquitectos.org.cv/contacto/) to find an architect who has worked on civic reception or evaluated an occupied public interior.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare a direct AI-mediated collection route with an ordinary entrance retaining visible access to staff and shared space.
+
+**Concrete first ask (proposed):** Could you suggest a Cabo Verde member or researcher for a short route-diagram critique? I would ask which design decision protects the choice to attend, as practice input to an architecture PhD proposal rather than presume a local pilot partner.
 
 ## Supervision and open questions
 

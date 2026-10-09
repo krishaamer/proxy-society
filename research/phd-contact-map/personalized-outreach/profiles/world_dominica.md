@@ -1,6 +1,6 @@
 # SORELL Consulting Ltd — research for first contact
 
-**Lead:** `world_dominica`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_dominica`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** SORELL Consulting Ltd. **Recorded role:** Architecture and engineering practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss public-building access and introduce a local case-study opportunity.
 
-**Draft connection (assessment):** SORELL describes architecture and engineering work with governments and stakeholders. That experience is relevant to the layered responsibility behind even a small public-building service change.
+**Selected source anchor:** [SORELL’s Roseau public/private-sector design practice](https://www.sorell.dm/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate colleague discuss reception, staff intervention and handoff design, or refer me to a local civic-building operator interested in a research conversation?
+**Draft connection (assessment):** [SORELL’s Roseau public/private-sector design practice](https://www.sorell.dm/) offers a Dominica-based architectural route for reviewing a small existing-building intervention.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would retain the human reception while adding an optional AI-mediated collection point. Two positions would be compared for queue spillover, visible help and staff reach.
+
+**Concrete first ask (proposed):** Could the appropriate SORELL designer critique a plan and section, or refer me to a civic-building colleague? I am seeking practice advice for an architecture PhD proposal before identifying a willing operator or study site.
 
 ## Supervision and open questions
 

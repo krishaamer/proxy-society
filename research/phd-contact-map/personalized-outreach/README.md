@@ -1,12 +1,14 @@
 # Personalized architecture research and outreach
 
-Prepared **9 October 2026 (Asia/Manila)**. All **303 lead records** have a source-linked first-contact research note and an individually tailored English draft: 153 named people and 150 institutional, practice, team and government referral routes. **No messages were sent.**
+Current **version 2**, revised **10 October 2026 (Asia/Manila)**; first prepared 9 October. All **303 lead records** have a source-linked research note and an individual English draft: 153 named people and 150 institutional, practice, team and government referral routes. **No messages were sent.**
 
-The drafts share a concise description of the proposed library/community-centre threshold comparison. Each has its own subject, published-work or office-role connection, and concrete ask. Referral offices are asked for an appropriate person; they are not presented as proven research collaborators or supervisors.
+Each message connects a published work, method, project or office role to a distinct proposed spatial case and a defined first contribution. The repeated broad project paragraph from version 1 has been replaced. These are proposed alternatives for refining one bounded civic-building study, not 303 agreed experiments or sites. Named supervisors are asked about a doctoral conversation; methods contacts about a protocol; practices about a design lesson; technical teams about an operating constraint. Where the published evidence is thin, the office receives a precise referral request.
+
+For example: [Ava Fatah](../../../writing/outreach/personalized/ava_fatah.md) — Screens in the Wild and two display positions; [Ruth Conroy Dalton](../../../writing/outreach/personalized/dalton.md) — social wayfinding and ambiguous arrival; [Kerstin Sailer](../../../writing/outreach/personalized/sailer.md) — layout, co-presence and staff interruptions; [Seung Hyun Cha](../../../writing/outreach/personalized/seung_hyun_cha.md) — FACT and a shared versus separate robot handoff; [Mariam Issoufou](../../../writing/outreach/personalized/world_niger.md) — Hikma and retaining access to shared learning.
 
 ## Research scope and remaining checks
 
-The refresh attempted 469 distinct existing public source/contact URLs. Source availability for the records is reported below. HTTP success establishes retrieved text, not the currency of every earlier fact. The notes preserve earlier check dates, distinguish indexed text and failed refreshes, and flag known redirects and role discrepancies. PDFs were sampled up to their first 30 pages. This is focused first-contact preparation, not a complete review of every publication or a full current-role audit.
+The 9 October source pass attempted 469 distinct existing public source/contact URLs. Its availability classification is retained below. Version 2 adds 10 dated primary-source anchors, with focused project descriptions, abstracts or bibliographic records checked on 10 October; it also re-reads the Puusepp and Picon profiles. It does not re-date the entire contact or source audit. The notes distinguish indexed text and failed refreshes and flag known redirects and role discrepancies. PDFs in the earlier pass were sampled up to their first 30 pages. This is focused first-contact preparation, not a complete review of every publication or a full current-role audit.
 
 | Source review | Records |
 | --- | ---: |
@@ -24,9 +26,13 @@ HAQUE TAN has two individually tailored alternatives for one joint message to Us
 
 Every message remains an unsent draft for human review. Recording a draft does not authorize sending. No response, delivery, admission, funding offer or advisory agreement is recorded.
 
+## Writing versions
+
+**Version 2 is current.** [Version 1, prepared 9 October](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized), is superseded wording retained in Git history. Source-check dates and the initial contact snapshot remain separate from the writing revision date.
+
 ## Provenance and maintenance
 
-Independent correspondence based on the [current research brief](../../../writing/proposals/architecture-of-delegated-presence.md), whose website source revision is `8b621c9effe179a9f91463c32e10b6183004d13b`, and contact-map snapshot `75e2615013a63f3170667278cc4cd06371959d18`, plus the dated public-source review. The shared contact map contains the limited source-backed email/mentor corrections from this pass. Website route/content modules were not changed.
+Independent correspondence based on the [current research brief](../../../writing/proposals/architecture-of-delegated-presence.md), whose website source revision is `8b621c9effe179a9f91463c32e10b6183004d13b`, and contact-map snapshot `75e2615013a63f3170667278cc4cd06371959d18`, plus dated public-source review. The shared contact map includes the limited source-backed email/mentor corrections from 9 October; version 2 adds work anchors within these correspondence records. Website route/content modules were not changed.
 
 [Canonical records](records.json) · [CSV](records.csv) · [Email index](../../../writing/outreach/personalized/README.md) · [Contact map](../README.md) · [World coverage](../world-map.md)
 

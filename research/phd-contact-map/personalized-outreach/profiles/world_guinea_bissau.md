@@ -1,6 +1,6 @@
 # ITALGB — Arquitetura e Engenharia — research for first contact
 
-**Lead:** `world_guinea_bissau`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_guinea_bissau`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Studio ITALGB. **Recorded role:** Architecture and engineering studio.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss locally grounded access and participation, and identify an architectural collaborator; a direct professional mailbox needs verification.
 
-**Draft connection (assessment):** ITALGB's architecture-and-engineering practice connects building design with infrastructure concerns. The pilot needs to understand the operational and environmental consequences of changing a shared-building service.
+**Selected source anchor:** [ITALGB’s community-centred architecture and territory practice](https://www.italgb.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team advise on a modest threshold comparison, or refer me to a Guinea-Bissau architect experienced in civic access and everyday building use?
+**Draft connection (assessment):** [ITALGB’s community-centred architecture and territory practice](https://www.italgb.com/) is relevant to defining a service with its users rather than arriving with a fixed agent-ready design.
+
+**Specific spatial case (proposal):** For Proxy Society, a community-centre workshop would negotiate one AI-mediated errand and its exceptions, then rearrange the reception to preserve human help and the right to attend personally.
+
+**Concrete first ask (proposed):** Could you critique that workshop-and-plan sequence or suggest a Guinea-Bissau collaborator? I am seeking practice-methods advice for an architecture PhD, with no assumption that a community or operator has agreed to participate.
 
 ## Supervision and open questions
 

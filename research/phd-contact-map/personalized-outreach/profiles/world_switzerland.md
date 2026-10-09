@@ -1,6 +1,6 @@
 # Conférence Suisse des Architectes (CSA) — research for first contact
 
-**Lead:** `world_switzerland`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_switzerland`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Conférence Suisse des Architectes (CSA). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** CSA's international professional-representation role offers a way to find a Swiss practitioner or research connection with relevant civic-building experience.
+**Selected source anchor:** [Conférence Suisse des Architectes](https://csa-architects.swiss/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or academic studying public reception, accessibility or architectural interaction with technology who might discuss the pilot?
+**Draft connection (assessment):** I am using [Conférence Suisse des Architectes](https://csa-architects.swiss/) to identify a member experienced in public reception design or evaluation of existing interiors.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare a shared counter and separate AI agent bay for the same delegated collection, testing sightlines, turning and staff intervention against ordinary assistance.
+
+**Concrete first ask (proposed):** Could you recommend a Swiss architect or researcher to critique the plan and section? The first contribution is practice advice for an architecture PhD proposal before deciding whether any specialised component is warranted.
 
 ## Supervision and open questions
 

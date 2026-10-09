@@ -1,6 +1,6 @@
 # Collège National des Ingénieurs et Architectes Haïtiens — research for first contact
 
-**Lead:** `world_haiti`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_haiti`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** CNIAH. **Recorded role:** Professional architecture and engineering body.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an architect working on community facilities and public access.
 
-**Draft connection (assessment):** CNIAH describes professional standards and service to the public interest across architecture and engineering. I would like a local practitioner to challenge the public-value assumptions of the pilot.
+**Selected source anchor:** [CNIAH’s Port-au-Prince architecture route](https://www.cniah.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend an architect or researcher with experience in civic facilities, inclusive access or everyday spatial behaviour for a short discussion?
+**Draft connection (assessment):** I am approaching [CNIAH’s Port-au-Prince architecture route](https://www.cniah.org/) to find a named architect experienced in public interiors or building-use evaluation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-library test would compare ordinary human assistance with an AI-delegated errand across two reception positions. The observations would record who can obtain help, wait and regain control of the request.
+
+**Concrete first ask (proposed):** Could you suggest a Haitian practitioner or researcher to critique a plan and interruption scene? I would begin with architectural advice for a PhD proposal, without inferring that the college or a member can host a pilot.
 
 ## Supervision and open questions
 

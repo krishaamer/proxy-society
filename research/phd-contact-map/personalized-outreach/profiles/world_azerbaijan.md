@@ -1,6 +1,6 @@
 # Farida Rauf Gasimova — research for first contact
 
-**Lead:** `world_azerbaijan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_azerbaijan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Azerbaijan University of Architecture and Construction. **Recorded role:** Senior lecturer.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss how spatial design communicates intent and supports comprehensible handoffs; doctoral eligibility is unverified.
 
-**Draft connection (assessment):** Your university-hosted CV connects architectural-environment design, interiors and anthropology teaching. That combination is relevant to how people interpret permission and assistance in a reception space.
+**Selected source anchor:** [AzMIU staff CV on architectural environment, interiors and anthropology](https://azmiu.edu.az/upload/ckeditor/724597834.pdf) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you critique a small comparison of delegated and ordinary arrival, or suggest an appropriate colleague for the architectural research and doctoral context?
+**Draft connection (assessment):** The teaching areas listed in [AzMIU staff CV on architectural environment, interiors and anthropology](https://azmiu.edu.az/upload/ckeditor/724597834.pdf) offer a possible methods connection between the interior arrangement and the meaning of an encounter. I would first confirm your current role.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare personal arrival and an AI-mediated collection through two reception arrangements, recording recognition, hesitation and access to a person rather than transaction success alone.
+
+**Concrete first ask (proposed):** Could you critique the scene-and-section method or identify a suitable colleague? I am exploring an architecture PhD and would value advice on relating observed behaviour to users’ interpretation of the place.
 
 ## Supervision and open questions
 

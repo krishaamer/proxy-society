@@ -1,6 +1,6 @@
 # Korean Architects Union — via UIA secretariat — research for first contact
 
-**Lead:** `world_north_korea`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_north_korea`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Korean Architects Union; International Union of Architects, Paris. **Recorded role:** Architecture organisation listed by UIA; external referral only.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could ask UIA whether a public professional introduction to KAU is available. This is only an indirect referral, and the local-contact gap remains open.
 
-**Draft connection (assessment):** UIA's membership material identifies the Korean Architects Union in North Korea. I have not established a direct local professional route and am approaching the secretariat only for guidance.
+**Selected source anchor:** [UIA’s Korean Architects Union membership entry](https://www.uia-architectes.org/en/member/north-korea-korean-architects-union-kau/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you advise whether an appropriate public research-enquiry route exists for an architectural discussion of civic-building use, or suggest an alternative professional referral?
+**Draft connection (assessment):** [UIA’s Korean Architects Union membership entry](https://www.uia-architectes.org/en/member/north-korea-korean-architects-union-kau/) identifies the member body for North Korea. I have not established a local named professional or direct mailbox and am contacting the UIA secretariat in Paris only for a referral.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed architecture study compares ordinary civic-library reception with a bounded AI-mediated request, examining passage, staff assistance and understandable authority.
+
+**Concrete first ask (proposed):** Could you advise whether an appropriate public research-enquiry route exists to the union or a local architect? The initial request would be a plan critique; no local connection, institution or doctoral arrangement is being assumed.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Philip Beesley — research for first contact
 
-**Lead:** `philip_beesley`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `philip_beesley`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Waterloo / Living Architecture Systems Group. **Recorded role:** University Professor Emeritus; Living Architecture Systems Group research leader.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Useful for experiential testbeds and the material expression of artificial agency. Approach for critique or collaboration rather than assuming an active primary-supervisor route.
 
-**Draft connection (assessment):** Living Architecture Systems connects responsive building controls with research-creation. It suggests a way to stage an environment whose behaviour makes a limited mandate perceptible.
+**Selected source anchor:** [Living Architecture Systems research](https://uwaterloo.ca/waterloo-institute-sustainable-energy/profile/pbeesley) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise on a small threshold demonstrator and how to evaluate its legibility, or suggest a colleague working on occupied-building interaction?
+**Draft connection (assessment):** Your published [Living Architecture Systems research](https://uwaterloo.ca/waterloo-institute-sustainable-energy/profile/pbeesley) offers a precedent for responsive architectural environments. My proposal asks whether responsiveness can make authority understandable rather than simply make a space feel alive.
+
+**Specific spatial case (proposal):** Proxy Society’s reception prototype would change a material or light cue when an AI agent’s permitted task is paused and a person must take over. It would be compared with a fixed threshold and ordinary staff communication, including a deliberately failed cue.
+
+**Concrete first ask (proposed):** Would you critique that interaction storyboard or suggest a collaborator? I am seeking prototype advice alongside an architecture PhD and would bring the failure-state sketch as well as the intended behaviour.
 
 ## Supervision and open questions
 

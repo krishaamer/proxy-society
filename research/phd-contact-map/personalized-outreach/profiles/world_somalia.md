@@ -1,6 +1,6 @@
 # Ta’meer Group — architectural proposals office — research for first contact
 
-**Lead:** `world_somalia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_somalia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ta’meer Group, Mogadishu. **Recorded role:** Architectural/engineering practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a local architect and discuss civic-building access; a named academic or supervisor has not been verified.
 
-**Draft connection (assessment):** Ta'meer's architectural-design account emphasises thoughtful, human-centred design alongside construction and urban planning. I am seeking a practice critique of a service change at a building's edge.
+**Selected source anchor:** [Ta’meer’s Mogadishu architectural-proposals route](https://tameergroup.so/contacts/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could the relevant design colleague discuss reception, waiting and human assistance, or recommend a Somali researcher or civic-building operator for an initial conversation?
+**Draft connection (assessment):** I am using [Ta’meer’s Mogadishu architectural-proposals route](https://tameergroup.so/contacts/) to reach a designer for a focused layout critique, rather than a commercial request for a full project proposal.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare a side handoff bay with an ordinary help counter, testing clearance, staff reach and human passage when an AI-mediated collection is paused.
+
+**Concrete first ask (proposed):** Could the relevant architect review one plan and section or suggest a civic-building colleague? The request is practice input to an architecture PhD proposal before any site, budget or live trial is defined.
 
 ## Supervision and open questions
 

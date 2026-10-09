@@ -1,6 +1,6 @@
 # KONE Service Robot API team — research for first contact
 
-**Lead:** `kone_robot_api`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kone_robot_api`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KONE. **Recorded role:** Elevator and building-integration technology team.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Concrete infrastructure for studying where a bounded mandate must narrow as a robot moves between floors. Could support a prototype or technical feasibility review.
 
-**Draft connection (assessment):** Your Service Robot API exposes elevator calls and operation to autonomous service robots. It provides a concrete technical boundary that the pilot would need to interpret spatially and socially.
+**Selected source anchor:** [KONE Service Robot API](https://dev.kone.com/api-portal/service-robot-api) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Who could discuss a permissioned research scenario with task, floor and expiry limits, accessible human priority and clear handoff when a robot cannot proceed?
+**Draft connection (assessment):** [KONE Service Robot API](https://dev.kone.com/api-portal/service-robot-api) enables autonomous elevator interaction. I am studying the distinction between allowing a machine to call a lift and permitting one particular task on a person’s behalf.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-building trial would give an agent one destination and require it to pause when a mandate is revoked or a person needs priority. The threshold study would compare where that pause and handoff occur.
+
+**Concrete first ask (proposed):** Could your team point me to public documentation or an integration colleague for destination restrictions, cancelled requests and human override? I would send a state diagram; the request is for feasibility advice alongside an architecture PhD, not a deployment commitment.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Abelardo M. Tolentino Jr. / Aidea research and digital team — research for first contact
 
-**Lead:** `abelardo_tolentino`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `abelardo_tolentino`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Aidea. **Recorded role:** Principal and CEO; initial research enquiry through corporate route.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A local architectural implementation partner for connecting a threshold mock-up, digital model and occupant experience. Keep operational acceptance and accessible design central rather than equating a smart building with humane delegation.
 
-**Draft connection (assessment):** Aidea's integrated design and digital practice is relevant to a pilot that must connect a spatial proposal with the practical responsibilities of operating the building.
+**Selected source anchor:** [Aidea Digital](https://aidea.co/subsidiaries) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could your design or digital team critique a library or community-building threshold prototype, and suggest a suitable operator for an initial research conversation?
+**Draft connection (assessment):** The published [Aidea Digital](https://aidea.co/subsidiaries) connection offers an integration perspective on the building model and its operation. I want the research plan to expose where that integration cannot resolve a human decision.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library counter would give an AI agent one destination and a visible staff-handoff state. Two layouts would test access and intervention while the authorisation model remains identical.
+
+**Concrete first ask (proposed):** Could you identify an Aidea design/technology colleague to critique the plan and state diagram? I am seeking practice advice for an architecture PhD, especially on which operating constraints must enter the spatial model and which require a staff procedure.
 
 ## Supervision and open questions
 

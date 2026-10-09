@@ -1,6 +1,6 @@
 # Davids Construction — architectural design office — research for first contact
 
-**Lead:** `world_vanuatu`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_vanuatu`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Davids Construction, Port Vila. **Recorded role:** Construction company providing architectural design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a local architect and discuss service-building thresholds. The company is a referral route, with academic expertise and an individual architect unconfirmed.
 
-**Draft connection (assessment):** Your published projects include the Luganville Northern District Hospital and office-building upgrades. Those settings are relevant to the responsibility for reception, assistance and service circulation.
+**Selected source anchor:** [Davids Construction’s Port Vila library-renovation connection](https://davidsconstruction.net/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your architectural-design team critique a modest threshold comparison, or suggest a locally based civic-building designer or operator for a research conversation?
+**Draft connection (assessment):** [Davids Construction’s Port Vila library-renovation connection](https://davidsconstruction.net/) offers a concrete library-practice precedent for questioning a small threshold retrofit. I am seeking the responsible architectural designer rather than a construction commitment.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would retain ordinary reception while testing a movable AI-mediated handoff bay, documenting staff reach, waiting and visitor passage before any permanent change.
+
+**Concrete first ask (proposed):** Could you identify the designer who could critique the plan or share a renovation lesson about arrival and assistance? I am seeking practice advice for an architecture PhD proposal, without requesting access to the named project.
 
 ## Supervision and open questions
 

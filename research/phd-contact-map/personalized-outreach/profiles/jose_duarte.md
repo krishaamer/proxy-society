@@ -1,6 +1,6 @@
 # José Pinto Duarte — research for first contact
 
-**Lead:** `jose_duarte`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `jose_duarte`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Penn State University, Stuckeman School / Stuckeman Center for Design Computing. **Recorded role:** Stuckeman Chair in Design Innovation; centre directorship differs between public pages.
 
@@ -18,9 +18,13 @@ The individual Penn State profile publishes jxp400@psu.edu and describes Duarte 
 
 Could help turn scope-limited proxy permissions into explicit spatial design rules and compare generated alternatives. Needs a human-use evaluation partner so the dissertation does not stop at formal computation.
 
-**Draft connection (assessment):** Your design-computing work suggests a way to make the rules behind a threshold explicit and generate alternative spatial arrangements from them.
+**Selected source anchor:** [Penn State design-computing research](https://arts.psu.edu/directory/jose-pinto-duarte/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a model of task, permission and handoff produce architectural alternatives that can be tested against ordinary reception, and who should assess its doctoral fit?
+**Draft connection (assessment):** Your [Penn State design-computing research](https://arts.psu.edu/directory/jose-pinto-duarte/) offers a way to translate a permission rule into explicit spatial alternatives. The challenge is to evaluate the rules through use rather than stop at generation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would encode three constraints: an AI agent’s limited collection destination, a human-priority passage and a staff-accessible handoff. Generated layouts would be compared with an ordinary counter through staged interruption and correction scenarios.
+
+**Concrete first ask (proposed):** Would you discuss a possible supervisory or design-computing role at Penn State? I would bring the rule diagram and two outputs, asking which observed failures should cause the model’s rules to change.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Antti Ahlava — research for first contact
 
-**Lead:** `ahlava`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `ahlava`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Aalto University, Department of Architecture. **Recorded role:** Professor of Emergent Design Methodologies.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could anchor a design-led dissertation in architectural methods and test how chosen presence reorganises public rooms and urban environments.
 
-**Draft connection (assessment):** Your work on emergent design methodologies, campus environments and adaptive reuse suggests a way to start with an existing building's social life before adding delegated services.
+**Selected source anchor:** [Group X and emergent design methodologies](https://research.aalto.fi/en/persons/antti-ahlava/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What design comparison would show whether a threshold supports both voluntary absence and meaningful arrival, and could it fit your architecture research field at Aalto?
+**Draft connection (assessment):** Your Aalto profile links [Group X and emergent design methodologies](https://research.aalto.fi/en/persons/antti-ahlava/) with campus design and adaptive reuse. An existing campus building offers a useful setting for a reversible experiment rather than a new building type.
+
+**Specific spatial case (proposal):** In Proxy Society’s proposed study, a library collection task could be AI-mediated, but the entrance would retain a generous route to staff, informal seating and the main public space. I want to compare a small retrofit with the existing reception arrangement.
+
+**Concrete first ask (proposed):** Would you consider discussing supervision at Aalto? I would bring a retrofit plan and ask how to turn that limited intervention into design research about the freedom to stay, leave or delegate.
 
 ## Supervision and open questions
 

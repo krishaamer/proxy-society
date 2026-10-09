@@ -1,6 +1,6 @@
 # Saidpiece Architects — research for first contact
 
-**Lead:** `world_bhutan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bhutan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Saidpiece Architects. **Recorded role:** Architecture and engineering studio working in Bhutan.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a local architect to discuss access, cultural expectations and the value of gathering in civic space.
 
-**Draft connection (assessment):** Your published architecture-practice route is a starting point for asking how a delegated-service proposal should respond to local spatial practices in Bhutan.
+**Selected source anchor:** [Saidpiece Architects’ published practice route](https://www.saidpiece.com/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could the appropriate designer discuss welcome, assistance and access in a civic building, or recommend a local architect or researcher with relevant experience?
+**Draft connection (assessment):** I found [Saidpiece Architects’ published practice route](https://www.saidpiece.com/) while looking for a Bhutan-based architectural perspective. I would first confirm that this is the appropriate current enquiry channel.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose comparing an existing community-centre reception with one optional point for AI-delegated errands, asking whether visitors retain clear access to staff and informal waiting.
+
+**Concrete first ask (proposed):** Could you suggest the right person in your practice, or a civic-building colleague, to critique a small layout and arrival scenario? This would inform an architecture PhD proposal; it does not assume your office has studied delegated systems.
 
 ## Supervision and open questions
 

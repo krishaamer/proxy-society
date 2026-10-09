@@ -1,6 +1,6 @@
 # Sociedad Colombiana de arquitectos – SCA — research for first contact
 
-**Lead:** `world_colombia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_colombia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Sociedad Colombiana de arquitectos – SCA. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** SCA's published activities include competitions for learning and cultural spaces. Those building types are relevant to evaluating welcome, waiting and informal encounter alongside a service task.
+**Selected source anchor:** [Sociedad Colombiana de Arquitectos](https://sociedadcolombianadearquitectos.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a Colombian practitioner or researcher in educational or civic-building use who might critique a delegated-threshold pilot?
+**Draft connection (assessment):** I am using [Sociedad Colombiana de Arquitectos](https://sociedadcolombianadearquitectos.org/) to find an architect who can evaluate a public interior through use, rather than only review the proposed technology.
+
+**Specific spatial case (proposal):** For Proxy Society, two library reception sequences would handle the same AI-mediated errand. The observations would cover approach, recognition of help, waiting and recovery when the request is refused.
+
+**Concrete first ask (proposed):** Could you recommend a Colombian member or architecture researcher for a plan-and-sequence critique? That initial advice would inform an architecture PhD proposal; fieldwork and institutional commitments would be discussed separately.
 
 ## Supervision and open questions
 

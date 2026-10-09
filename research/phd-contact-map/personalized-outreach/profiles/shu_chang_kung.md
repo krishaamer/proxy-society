@@ -1,6 +1,6 @@
 # Shu-Chang Kung — research for first contact
 
-**Lead:** `shu_chang_kung`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `shu_chang_kung`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** NYCU, Graduate Institute of Architecture. **Recorded role:** Professor; architect; public-service design and urban-governance advisor.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique how a public building represents collective intent and connect the project to civic design discussions and relevant practice networks.
 
-**Draft connection (assessment):** Your work in architectural theory, urban-design governance and public-service design raises the question of how a civic building preserves its public mission when a representative arrives for someone else.
+**Selected source anchor:** [NYCU profile on urban governance and public-service design](https://arch.nycu.edu.tw/en/about/faculty/shuchangkung/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** What spatial and institutional checks would keep delegated access understandable and equitable, and who should assess an appropriate doctoral supervisory arrangement at NYCU?
+**Draft connection (assessment):** Your [NYCU profile on urban governance and public-service design](https://arch.nycu.edu.tw/en/about/faculty/shuchangkung/) combines architectural theory, governance and public-service design. I need a way to examine the rule represented by a counter as well as its physical arrangement.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-building study would make a mandate visible at reception, including who can grant, refuse and revoke it. Staff and users would compare layouts and annotate whose decisions each permits, especially when an AI agent’s request conflicts with a present visitor’s needs.
+
+**Concrete first ask (proposed):** Could you critique that spatial-governance diagram and advise on an appropriate doctoral or practice connection? I would like to test the public-service premise before deciding whether separate access infrastructure is justified.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Ada Esther Portero Ricol — research for first contact
 
-**Lead:** `world_cuba`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cuba`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Tecnológica de La Habana José Antonio Echeverría (CUJAE). **Recorded role:** Architecture researcher; affiliation in a 2023 publication.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could advise on university-building experience, cultural meaning and field observation; this is a dated research connection rather than verified current supervision.
 
-**Draft connection (assessment):** Your 2023 paper on university cultural heritage and architectural education at CUJAE makes the institution's social and cultural setting relevant to this proposed threshold study.
+**Selected source anchor:** [your 2023 paper on university cultural heritage and architectural education](https://revistadearquitectura.ucatolica.edu.co/article/view/4670) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise how to preserve those meanings when a routine task can be delegated, or suggest a current architecture-research colleague at CUJAE?
+**Draft connection (assessment):** [your 2023 paper on university cultural heritage and architectural education](https://revistadearquitectura.ucatolica.edu.co/article/view/4670) provides a specific connection to treating an institutional building as more than a service container. I would first reconfirm your current affiliation and contact.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed campus-library pilot would retain the existing threshold and compare a reversible handoff point for AI-mediated collections, documenting access, recognition and the meaning of arriving personally.
+
+**Concrete first ask (proposed):** Could you critique the retrofit framing or suggest a current CUJAE colleague? I would send one plan and scene, seeking heritage/education advice for an architecture PhD without assuming supervisory capacity.
 
 ## Supervision and open questions
 

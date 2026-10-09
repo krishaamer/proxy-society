@@ -1,6 +1,6 @@
 # Ordre des architectes de Malagasy — research for first contact
 
-**Lead:** `world_madagascar`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_madagascar`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordre des architectes de Malagasy. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Order's published Antananarivo route provides a starting point for finding an architect with local public-building experience.
+**Selected source anchor:** [Ordre des architectes de Malagasy](https://oam.mg/contact/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a practitioner or researcher studying reception, inclusive access or spatial behaviour who might review the pilot's architectural assumptions?
+**Draft connection (assessment):** [Ordre des architectes de Malagasy](https://oam.mg/contact/) is my route to a practitioner who can evaluate a proposed public-interior change through ordinary use.
+
+**Specific spatial case (proposal):** Proxy Society’s library test would compare an AI-mediated collection point with an unchanged counter and human assistance, recording access to staff, waiting and the ability to refuse the automated route.
+
+**Concrete first ask (proposed):** Could you recommend a Madagascar-based architect or researcher with library/community-building experience? I would send the plan and refusal scenario for a focused critique as input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

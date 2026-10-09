@@ -1,14 +1,14 @@
 # Email draft — Anab Jain
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `anab_jain`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `anab_jain`.
 
 **Recipient:** Anab Jain — Superflux.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://superflux.in/index.php/team/anab/).
 
-**Subject:** An experiential scenario of limited authority
+**Subject:** A Superflux-style scenario about the right to refuse a proxy
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/anab_jain.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/anab_jain.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear Anab Jain,
 
-Superflux's experiential futures practice suggests a way to make the social rules and failure cases of delegated access tangible before building a functional system.
+[Superflux’s experiential futures practice](https://superflux.in/index.php/about/) offers a way to make a proposed system’s consequences tangible before building it. I want the scenario to expose conflicts, rather than sell a frictionless future.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a staged library encounter would place an absent author’s AI agent beside a visitor needing personal help. Participants would change the mandate and reception arrangement, including choosing to abandon the automated service.
 
-Would you critique a staged civic-threshold encounter, particularly what it should reveal about ambiguity, exclusion and the moment a person must regain control?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you critique that scenario or suggest a suitable Superflux collaborator? I would send a short script and plan, asking what the enactment should make discussable about authority, refusal and staff labour in an architecture PhD study.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/anab_jain.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 143 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 111 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

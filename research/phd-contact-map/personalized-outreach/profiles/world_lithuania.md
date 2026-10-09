@@ -1,6 +1,6 @@
 # Aušra Siaurusaitytė Nekrošienė — research for first contact
 
-**Lead:** `world_lithuania`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_lithuania`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Vilnius Academy of Arts, Department of Architecture. **Recorded role:** Associate professor; department head.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an architectural design-research colleague and critique the bounded pilot.
 
-**Draft connection (assessment):** Your VDA architecture-department role offers a route to assess the pilot's design contribution before choosing an academic context.
+**Selected source anchor:** [Vilnius Academy of Arts’ architecture teaching roster](https://www.vda.lt/en/study_programs/undergraduate-ba/architecture-integrated-studies/architecture-integrated-studies-vilnius/staff) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a researcher studying public-building experience, inclusive reception or spatial behaviour, and advise whether a suitable doctoral or external advisory route exists?
+**Draft connection (assessment):** [Vilnius Academy of Arts’ architecture teaching roster](https://www.vda.lt/en/study_programs/undergraduate-ba/architecture-integrated-studies/architecture-integrated-studies-vilnius/staff) identifies your departmental role. I am seeking the appropriate design-research colleague rather than infer supervision availability from the head-of-department listing.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare two arrangements for AI-mediated collection, testing counter visibility, human passage and a staff-accessible takeover point against the ordinary service.
+
+**Concrete first ask (proposed):** Could you critique the architectural study or refer me to a colleague at VDA? I would send a section and staged-task script and separately explore an appropriate doctoral context.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Kristof Crolla — research for first contact
 
-**Lead:** `kristof_crolla`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kristof_crolla`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Hong Kong, Faculty of Architecture / Building Simplexity Lab. **Recorded role:** Associate Professor; Building Simplexity Lab director; Associate Dean (Special Projects).
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could connect digital design, fabrication and pragmatic full-scale experimentation in an Asian architecture school. Relevance is strongest when prototypes remain tied to human access and real use.
 
-**Draft connection (assessment):** Building Simplexity's post-digital approach suggests that a modest physical arrangement may be more useful than a technically elaborate demonstration for communicating a complex rule.
+**Selected source anchor:** [HKU Building Simplexity Lab](https://www.arch.hku.hk/staff/arch/crolla-kristof/?dept=faculty-office-staff) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a threshold prototype fit your research, and how would you test public access and comprehension of a limited mandate across alternative arrangements?
+**Draft connection (assessment):** Your [HKU Building Simplexity Lab](https://www.arch.hku.hk/staff/arch/crolla-kristof/?dept=faculty-office-staff) offers a pragmatic connection between digital design and full-scale making. I want a small prototype that tests use before investing in a specialised entrance.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would vary only the opening, enclosure and staff visibility of an AI agent handoff bay. Common materials would permit rapid rearrangement; staged collections and interruptions would determine whether a more elaborate component is needed.
+
+**Concrete first ask (proposed):** Could you review the section and discuss a possible HKU doctoral or prototyping role? I would ask which design constraint makes the digital method useful and which can be resolved through a simpler physical comparison.
 
 ## Supervision and open questions
 

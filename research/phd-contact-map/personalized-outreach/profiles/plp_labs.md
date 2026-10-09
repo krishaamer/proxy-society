@@ -1,6 +1,6 @@
 # Ron Bakker / PLP Labs team — research for first contact
 
-**Lead:** `plp_labs`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `plp_labs`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** PLP Architecture / PLP Labs. **Recorded role:** Founding Partner; built-environment research and strategy team.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help translate a research question into a brief a building owner can assess and test assumptions before design. Useful practice connection for a university-hosted partnership.
 
-**Draft connection (assessment):** PLP Labs connects academia, industry and architectural practice through applied research and experimentation. I am exploring a pilot small enough to develop a clear shared research question.
+**Selected source anchor:** [PLP Labs research expertise and Knowledge Transfer Partnership](https://www.plparchitecture.com/labs/research) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team discuss what spatial and public-value outcomes would make a delegated-threshold study a useful academic-practice collaboration?
+**Draft connection (assessment):** [PLP Labs research expertise and Knowledge Transfer Partnership](https://www.plparchitecture.com/labs/research) connects university research and architectural practice. I am looking for an appropriate scale of evidence for one reversible reception intervention.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library trial would compare a shared counter approach with a separate handoff bay, using the same authorised task for an AI agent acting for a visitor. Observed human passage, visibility of staff and recovery from refused requests would test the assumed benefit of separation.
+
+**Concrete first ask (proposed):** Could you critique the study brief or identify a PLP Labs colleague? I would ask which behavioural evidence would justify changing the plan, and what a useful university–practice advisory arrangement could contribute to an architecture PhD.
 
 ## Supervision and open questions
 

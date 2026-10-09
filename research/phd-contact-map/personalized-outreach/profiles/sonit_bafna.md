@@ -1,6 +1,6 @@
 # Sonit Bafna — research for first contact
 
-**Lead:** `sonit_bafna`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `sonit_bafna`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Georgia Institute of Technology, School of Architecture. **Recorded role:** Associate Professor; architecture PhD programme director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Strong architecture and methods conversation for whether people understand authority, encounter opportunities and alternatives in a building. Could help make the comparison academically defensible.
 
-**Draft connection (assessment):** Your teaching and research in architecture's social and psychological dimensions and research methods provide a relevant context for evaluating what a threshold layout changes.
+**Selected source anchor:** [Georgia Tech research on the social and psychological dimensions of architecture](https://arch.gatech.edu/people/sonit-bafna) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could this comparison fit Georgia Tech's architecture PhD, and what evidence would establish a spatial contribution about access, encounter and perceived control?
+**Draft connection (assessment):** Your [Georgia Tech research on the social and psychological dimensions of architecture](https://arch.gatech.edu/people/sonit-bafna) is relevant to the proposed study’s central inference: that altering the arrangement changes an encounter, not merely the service outcome.
+
+**Specific spatial case (proposal):** In Proxy Society, two library counters would carry the same AI-mediated collection task. I would observe the spatial sequence of approach, recognition, waiting and staff intervention, comparing it with personal arrival and human assistance.
+
+**Concrete first ask (proposed):** Would you consider a Georgia Tech architecture PhD conversation? I would send an annotated plan and coding scheme and ask which architectural proposition the observations can test, and which claims about experience would need a different method.
 
 ## Supervision and open questions
 

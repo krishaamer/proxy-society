@@ -1,6 +1,6 @@
 # Ordre National des Architectes du Togo (ONAT) — research for first contact
 
-**Lead:** `world_togo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_togo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ONAT, Lomé. **Recorded role:** Professional architecture order.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a local architect studying civic access, social encounters or community buildings; a named recipient remains to be established.
 
-**Draft connection (assessment):** ONAT's published professional route offers a starting point for finding an architect who understands local civic-building operation and access.
+**Selected source anchor:** [ONAT’s Lomé contact page](https://onat.tg/contactez-nous/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or researcher in reception design, inclusive access or everyday spatial behaviour who might critique a modest threshold pilot?
+**Draft connection (assessment):** I am using [ONAT’s Lomé contact page](https://onat.tg/contactez-nous/) to find a member with civic-interior or post-occupancy experience and to confirm the current professional channel.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library test would compare ordinary assistance with AI-mediated collection in two layouts, recording waiting, human passage and access to staff when authorisation is unclear.
+
+**Concrete first ask (proposed):** Could you suggest a Togo architect or researcher to critique the plans and task script? The initial contribution would be architectural advice for a PhD proposal before approaching an operator or study site.
 
 ## Supervision and open questions
 

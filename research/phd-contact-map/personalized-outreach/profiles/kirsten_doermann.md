@@ -1,6 +1,6 @@
 # Kirsten Dörmann (Doermann) — research for first contact
 
-**Lead:** `kirsten_doermann`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kirsten_doermann`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of the Witwatersrand, School of Architecture and Planning. **Recorded role:** Senior Lecturer; architect and housing researcher.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could ground the project in adapted buildings, informal practices and access conditions that resist tidy automation assumptions. A valuable comparative fieldwork or critique partner.
 
-**Draft connection (assessment):** Your situated work with Yeoville Studio is relevant to what a threshold model may overlook when it recognises only formal credentials and building-management rules.
+**Selected source anchor:** [Yeoville Studio](https://www.wits.ac.za/yeovillestudio/people/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What field observations would reveal informal assistance, negotiation and belonging, and how could those shape a fair comparison of delegated and ordinary arrival?
+**Draft connection (assessment):** The published [Yeoville Studio](https://www.wits.ac.za/yeovillestudio/people/) connection offers a situated starting point. I want to understand informal adaptations in an existing place before replacing them with a standard delegated-service procedure.
+
+**Specific spatial case (proposal):** For Proxy Society, the first community-centre study would map where people wait, obtain help, pass objects and negotiate exceptions. A reversible handoff point would be tested against those existing practices, including cases where staff assistance is more appropriate than an AI agent.
+
+**Concrete first ask (proposed):** Could you critique the field-note plan or suggest a Wits colleague? I am exploring an architecture PhD and would value advice on documenting negotiated access without treating it as an inefficiency to eliminate.
 
 ## Supervision and open questions
 

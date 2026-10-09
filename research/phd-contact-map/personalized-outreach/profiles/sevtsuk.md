@@ -1,6 +1,6 @@
 # Andres Sevtsuk — research for first contact
 
-**Lead:** `sevtsuk`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `sevtsuk`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** MIT, DUSP and Department of Architecture. **Recorded role:** Charles and Ann Spaulding Associate Professor of Urban Science and Planning; City Form Lab lead.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could make encounter-route mapping spatially rigorous and help separate opportunities to meet from actual meaningful encounters.
 
-**Draft connection (assessment):** Your Urban Network Analysis work connects the built environment with pedestrian activity and equitable access. The pilot asks whether delegating a transaction changes the reasons and routes for arriving in person.
+**Selected source anchor:** [Urban Network Analysis](https://architecture.mit.edu/people/andres-sevtsuk) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What would distinguish an encounter-and-access model for this pilot from a conventional pedestrian-flow model, and could the City Form Lab advise on that distinction?
+**Draft connection (assessment):** Your MIT profile identifies [Urban Network Analysis](https://architecture.mit.edu/people/andres-sevtsuk) and research on walkability, ground floors and amenities. That is relevant to the route that disappears when a routine visit is delegated.
+
+**Specific spatial case (proposal):** For Proxy Society, I would map a library’s pedestrian approach and alternative collection points for AI agents acting for visitors, then distinguish a shorter transaction route from access to the building’s other activities. The proposed fieldwork would record routes and optional stops, not assume that proximity produces meaningful encounters.
+
+**Concrete first ask (proposed):** Could you critique that route model and advise on an appropriate research or doctoral connection? I would send a small network diagram and ask which assumptions need direct observation before comparing alternatives.
 
 ## Supervision and open questions
 

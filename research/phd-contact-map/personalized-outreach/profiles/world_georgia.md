@@ -1,6 +1,6 @@
 # Ia Kupatadze — research for first contact
 
-**Lead:** `world_georgia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_georgia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ilia State University. **Recorded role:** Associate professor; head of MA Architecture programme.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could help connect civic-space use, urban context and architectural field methods; no individual PhD recruitment offer is verified.
 
-**Draft connection (assessment):** Your Ilia State University profile connects architectural teaching with sustainable urban research. The pilot asks whether a service change improves access without eroding the value of attending in person.
+**Selected source anchor:** [Ilia profile on urban form, social transformation and public space](https://faculty.iliauni.edu.ge/en/bte_faculty/kupatadze-ia/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could that question fit your research interests, and what spatial observations would connect a building-scale experiment with its urban setting?
+**Draft connection (assessment):** Your [Ilia profile on urban form, social transformation and public space](https://faculty.iliauni.edu.ge/en/bte_faculty/kupatadze-ia/) provides a more precise connection than the programme role alone. I want a small intervention to be judged through changes in use and access.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library retrofit would compare the existing arrival route with an optional AI-mediated collection point, documenting who can reach staff, remain in shared space or contest the request.
+
+**Concrete first ask (proposed):** Could you critique the route-and-activity map and advise on an appropriate doctoral or external-advisory arrangement? I would ask which social/spatial claim the limited observation can substantiate before extending the argument to urban transformation.
 
 ## Supervision and open questions
 

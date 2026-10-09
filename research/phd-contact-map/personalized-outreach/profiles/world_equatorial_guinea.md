@@ -1,6 +1,6 @@
 # NDONG AYANG PROYECTOS Y CONTROL (NAP-C) — research for first contact
 
-**Lead:** `world_equatorial_guinea`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_equatorial_guinea`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** NAP-C S.L., Bata. **Recorded role:** Engineering and architectural-project practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A preliminary local practice referral for building access and public-space design; a named architect and academic fit remain to be established.
 
-**Draft connection (assessment):** NAP-C describes building construction, renovation and public-works services. I am seeking a practical view on whether a delegated-service proposal would improve or complicate everyday building use.
+**Selected source anchor:** [NAP-C’s Bata architecture and urbanisation practice](https://napcsl.com/es) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate design colleague discuss reception and handoff arrangements, or suggest an Equatorial Guinean architect or researcher experienced in civic facilities?
+**Draft connection (assessment):** [NAP-C’s Bata architecture and urbanisation practice](https://napcsl.com/es) provides a local design route for questioning the proposed intervention’s practical assumptions.
+
+**Specific spatial case (proposal):** Proxy Society’s library mock-up would compare the clearance, visibility and staff accessibility of two points for an AI-authorised collection. Personal arrival and human assistance would remain the baseline.
+
+**Concrete first ask (proposed):** Could an architect in your team review one plan and section, or refer me to a civic-building colleague in Equatorial Guinea? I am seeking architectural advice for a PhD proposal before considering a study site or autonomous trial.
 
 ## Supervision and open questions
 

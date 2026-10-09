@@ -1,6 +1,6 @@
 # Manuel Herz — research for first contact
 
-**Lead:** `world_western_sahara`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_western_sahara`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Manuel Herz Architects, Basel, Switzerland. **Recorded role:** Architect and migration/urbanism researcher with Sahrawi research connection.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could advise on collective space, participation and architectural representation, or suggest Sahrawi collaborators. Local residence and doctoral supervision are not established.
 
-**Draft connection (assessment):** Your research on Sahrawi refugee camps and the 2016 Western Sahara pavilion offers a specific connection to representation and institutional space. I understand the camps are in Algeria and your practice is based in Basel.
+**Selected source anchor:** [your Sahrawi-camp research and 2016 Western Sahara pavilion](https://www.manuelherz.com/info) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise which assumptions about presence and delegated authority this civic-threshold project should question, or suggest an appropriate research conversation?
+**Draft connection (assessment):** [your Sahrawi-camp research and 2016 Western Sahara pavilion](https://www.manuelherz.com/info) provides a specific architectural perspective on place and political representation. I am approaching your Basel practice; the documented camp research is in Algeria, not an in-territory professional base.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library study asks how an AI agent’s limited authority to act for an absent author is made visible and contestable at reception. I want to question the assumption that technical representation substitutes for embodied participation.
+
+**Concrete first ask (proposed):** Could you critique that framing or suggest a Sahrawi professional/research connection? I would send an authority-and-space diagram, seeking conceptual advice for an architecture PhD rather than treating the camps as a proposed pilot site.
 
 ## Supervision and open questions
 

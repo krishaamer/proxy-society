@@ -1,6 +1,6 @@
 # ADD.LOCUS Architects (PTY) Limited — research for first contact
 
-**Lead:** `world_seychelles`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_seychelles`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ADD.LOCUS Architects, Providence Industrial Estate. **Recorded role:** Architecture practice listed by Seychelles Investment Board.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an architect for island civic-space and threshold critique. Treat this as a directory-sourced lead requiring direct verification before outreach.
 
-**Draft connection (assessment):** The Seychelles Investment Board's business directory identifies ADD.LOCUS Architects. I am seeking the appropriate current design contact before proposing a research conversation.
+**Selected source anchor:** [Seychelles investment board’s architectural-practice directory](https://investinseychelles.com/business-directory/listings/153-architects) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you confirm the relevant professional route and suggest someone experienced in civic-building reception, accessibility or everyday spatial use?
+**Draft connection (assessment):** I found your practice through [Seychelles investment board’s architectural-practice directory](https://investinseychelles.com/business-directory/listings/153-architects). I would first confirm the current architectural contact; the directory is a discovery route rather than an endorsement or evidence of topic expertise.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare ordinary reception with an AI-mediated handoff bay, testing staff reach and unobstructed human passage.
+
+**Concrete first ask (proposed):** Could you identify an architect to critique one plan and section or suggest a Seychelles civic-building colleague? I am seeking practice input to an architecture PhD proposal before considering a field site.
 
 ## Supervision and open questions
 

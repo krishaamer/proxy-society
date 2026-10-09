@@ -1,6 +1,6 @@
 # Péter Fankhauser / ANYbotics partnerships — research for first contact
 
-**Lead:** `anybotics_pilot`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `anybotics_pilot`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ANYbotics. **Recorded role:** Co-founder and CEO; autonomous inspection robotics.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help distinguish robot navigation and identity capabilities from spatial and institutional design effects. The same precedent is recorded separately for the door and robot partners.
 
-**Draft connection (assessment):** The documented dormakaba-ANYbotics-LEGIC pilot gives ANYmal a digital credential for requesting door access in an industrial environment. I am interested in the exceptions as well as the successful passage.
+**Selected source anchor:** [dormakaba–ANYbotics–LEGIC access pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which failure conditions require human intervention, and could your partnerships team discuss how those conditions should shape a small civic-building handoff experiment?
+**Draft connection (assessment):** [dormakaba–ANYbotics–LEGIC access pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) supplies a documented example of ANYmal using a digital credential to cross an access-controlled door. The difficult case for my study is a valid credential with an interrupted or withdrawn task.
+
+**Specific spatial case (proposal):** For Proxy Society, I would stage a bounded collection by an AI agent acting for a visitor with a stop, refusal and human takeover, comparing two handoff locations for clearance and staff reach.
+
+**Concrete first ask (proposed):** Could your partnerships team identify a technical colleague or public account of pause and recovery behaviour relevant to that scenario? I would send the plan and state sequence, seeking feasibility advice alongside an architecture PhD rather than assume access to a platform.
 
 ## Supervision and open questions
 

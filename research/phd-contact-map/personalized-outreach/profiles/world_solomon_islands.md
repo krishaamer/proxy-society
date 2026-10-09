@@ -1,6 +1,6 @@
 # ProDesigners Architects — Honiara office — research for first contact
 
-**Lead:** `world_solomon_islands`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_solomon_islands`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ProDesigners Architects. **Recorded role:** Architecture practice with Solomon Islands office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could connect the pilot to a local civic-building architect; the mailbox serves the multi-country practice.
 
-**Draft connection (assessment):** Your published office account identifies a Honiara connection alongside work in healthcare and educational facilities. Those shared settings are relevant to reception, assistance and service handoffs.
+**Selected source anchor:** [ProDesigners’ Honiara office and educational-building practice](https://www.prodesigners.co.nz/offices) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could the appropriate Honiara architect discuss a small threshold scenario, or suggest a locally based Solomon Islands researcher or institutional operator?
+**Draft connection (assessment):** [ProDesigners’ Honiara office and educational-building practice](https://www.prodesigners.co.nz/offices) gives a specific local office connection for reviewing a civic-library arrival arrangement. I would first reconfirm the current contact page.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed test compares shared reception and a separate AI-mediated handoff, recording accessible passage, staff visibility and recovery during the same collection task.
+
+**Concrete first ask (proposed):** Could an architect in the Honiara team critique the plan or suggest a Solomon Islands colleague? I am seeking practice advice for an architecture PhD proposal, with no available building or partnership assumed.
 
 ## Supervision and open questions
 

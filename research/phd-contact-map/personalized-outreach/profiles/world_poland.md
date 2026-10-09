@@ -1,6 +1,6 @@
 # Stowarzyszenie Architektow Polskich (SARP) — research for first contact
 
-**Lead:** `world_poland`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_poland`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Stowarzyszenie Architektow Polskich (SARP). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** SARP's branches, competitions and professional activities provide a network through which to find an appropriate architectural conversation about shared-building use.
+**Selected source anchor:** [Stowarzyszenie Architektów Polskich](https://www.sarp.pl/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or academic studying reception, inclusive access or spatial behaviour who might critique a small delegated-service pilot?
+**Draft connection (assessment):** I am approaching [Stowarzyszenie Architektów Polskich](https://www.sarp.pl/) for a practitioner who can assess reception design through occupied-space use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would hold an AI-delegated collection task constant across a shared counter and side handoff bay, observing staff reach, queue overlap and human takeover.
+
+**Concrete first ask (proposed):** Could you suggest a Polish architect or researcher with public-library or post-occupancy experience? I would request a plan-and-script critique as practice advice for an architecture PhD proposal before finding a trial operator.
 
 ## Supervision and open questions
 

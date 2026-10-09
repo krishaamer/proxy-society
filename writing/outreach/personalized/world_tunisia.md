@@ -1,14 +1,14 @@
 # Email draft — Ordre des Architectes de Tunisie (OAT)
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_tunisia`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_tunisia`.
 
 **Recipient:** Ordre des Architectes de Tunisie (OAT) — OAT, Tunis.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://oat.tn/oat24/fr/contact.html).
 
-**Subject:** A Tunisian architect referral for shared thresholds
+**Subject:** OAT register referral for a civic-interior evaluation colleague
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_tunisia.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_tunisia.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear OAT, Tunis team,
 
-OAT's published professional register offers a route to find an architect with relevant experience before assuming expertise from an institutional title.
+I am using [OAT’s architect-register and professional-notice route](https://www.oat.tn/oat24/index.html) to find an appropriate member for a concrete public-interior question, rather than infer topic expertise from the order’s office.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library pilot would compare the existing reception with a reversible AI-mediated collection point, observing access to staff, refusal and recovery during an otherwise identical task.
 
-Could you recommend a practitioner or researcher studying civic reception, accessibility or spatial behaviour who might critique a small delegated-service threshold experiment?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you suggest a Tunisian architect or academic with public-building or post-occupancy experience? I would send the plan pair and observation questions for a focused critique alongside my architecture PhD planning.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_tunisia.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 140 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 96 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

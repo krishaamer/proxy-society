@@ -1,6 +1,6 @@
 # Ikatan Arsitek Indonesia – IAI — research for first contact
 
-**Lead:** `world_indonesia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_indonesia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ikatan Arsitek Indonesia – IAI. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** IAI's professional network offers a route to identify an architect with local civic-building experience. I would like the pilot's assumptions about access and assistance to be tested through everyday practice.
+**Selected source anchor:** [Ikatan Arsitek Indonesia](https://iai.or.id/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a practitioner or academic in reception design, spatial behaviour or participatory civic architecture who might discuss a bounded threshold experiment?
+**Draft connection (assessment):** I am using [Ikatan Arsitek Indonesia](https://iai.or.id/) to find a practitioner who can assess a proposed reception intervention against everyday building use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares a shared counter and an AI-mediated handoff bay, observing waiting, visibility of help and recovery from a refused request. The unchanged entrance would be the baseline.
+
+**Concrete first ask (proposed):** Could you suggest an Indonesian member with library/community-building or post-occupancy experience? I would send the plans and observation questions for a focused critique alongside separate doctoral research conversations.
 
 ## Supervision and open questions
 

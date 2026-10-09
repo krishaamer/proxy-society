@@ -1,6 +1,6 @@
 # Architecture and Building — postgraduate referral — research for first contact
 
-**Lead:** `world_papua_new_guinea`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_papua_new_guinea`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Papua New Guinea University of Technology. **Recorded role:** Architecture/built-environment academic unit, via postgraduate office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a supervisor or external advisor for civic-building research. Programme and contact details need current confirmation; the 2024 brochure does not prove an open intake.
 
-**Draft connection (assessment):** Your Faculty of Built Environment provides an architecture-and-building postgraduate route. I am looking for a researcher who can assess a modest service change through its spatial and operational consequences.
+**Selected source anchor:** [Unitech’s architecture research-study brochure](https://www.pnguot.ac.pg/wp-content/uploads/2024/12/PG_2024_BROCHURE-3.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who studies civic facilities, reception or inclusive access, and could advise on the pilot's research fit and the correct postgraduate enquiry process?
+**Draft connection (assessment):** [Unitech’s architecture research-study brochure](https://www.pnguot.ac.pg/wp-content/uploads/2024/12/PG_2024_BROCHURE-3.pdf) identifies a postgraduate architecture route. I would first confirm current programme operation and the researcher appropriate to the topic.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare personal, human-assisted and AI-mediated collection across two reception layouts, using drawings and observed handoffs to evaluate access to staff and user control.
+
+**Concrete first ask (proposed):** Could you identify a built-environment colleague to assess the plan and potential doctoral contribution? I would send a bounded study design, without interpreting a brochure or office mailbox as evidence of supervisory capacity.
 
 ## Supervision and open questions
 

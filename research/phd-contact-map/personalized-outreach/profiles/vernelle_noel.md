@@ -1,6 +1,6 @@
 # Vernelle A. A. Noel — research for first contact
 
-**Lead:** `vernelle_noel`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `vernelle_noel`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Carnegie Mellon University, School of Architecture / Situated Computation + Design Lab. **Recorded role:** Architecture faculty; director of Situated Computation + Design Lab.
 
@@ -18,9 +18,13 @@ The Sit.Co.De public recruitment notice invites PhD applications for Fall 2027. 
 
 A strong critical-computational anchor: study delegation as an embodied social practice rather than a neutral software capability. Ethnographic making could connect the threshold prototype with whose knowledge and authority it preserves.
 
-**Draft connection (assessment):** Sit.Co.De's published Fall 2027 PhD call and your work on embodied, cultural and political computation offer a particularly relevant context for the project's questions of authority and everyday practice.
+**Selected source anchor:** [Sit.Co.De’s Fall 2027 PhD call](https://sit-code.com/open-positions/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would a civic-threshold study fit the call, and what ethnographic or making-based contribution would distinguish it from a usability study of an AI service?
+**Draft connection (assessment):** [Sit.Co.De’s Fall 2027 PhD call](https://sit-code.com/open-positions/) and your embodied, cultural and political approach to computation provide the doctoral context I want to discuss, rather than a generic AI-and-architecture connection.
+
+**Specific spatial case (proposal):** My Proxy Society study would combine reception fieldwork with participatory making: users and staff enact a delegated library task, alter its mandate, and rearrange the handoff space. The evidence would include who gets to change the rules and whose work sustains them.
+
+**Concrete first ask (proposed):** Would you consider this direction for the Fall 2027 call? I would send a focused proposal showing the ethnographic question, the making exercise and its architectural outputs, and would welcome your critique of fit before an application.
 
 ## Supervision and open questions
 

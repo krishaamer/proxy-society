@@ -1,6 +1,6 @@
 # Luis Javier Machuca Casares — research for first contact
 
-**Lead:** `world_spain`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_spain`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Málaga, Art and Architecture. **Recorded role:** University architecture professor (Profesor Titular).
 
@@ -18,9 +18,13 @@ The UMA programme page lists Machuca Casares on the academic committee for City,
 
 Could discuss spatial prototypes and evaluation of a university-building pilot; specific research interest and doctoral supervisory eligibility need confirmation.
 
-**Draft connection (assessment):** Your Málaga profile connects environmental design and new technologies, and the university lists you on its City, Territory and Sustainable Planning doctoral committee. I am exploring a small spatial comparison within that wider context.
+**Selected source anchor:** [UMA’s City, Territory and Sustainable Planning doctoral committee](https://www.uma.es/doctorado-interuniversitario-en-ciudad-territorio-y-planificacion-sostenible/info/113456/comision-academica/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you suggest a suitable research line or colleague for civic access, waiting and delegated authority, and the correct route to assess doctoral fit?
+**Draft connection (assessment):** [UMA’s City, Territory and Sustainable Planning doctoral committee](https://www.uma.es/doctorado-interuniversitario-en-ciudad-territorio-y-planificacion-sostenible/info/113456/comision-academica/) lists your programme connection, while your profile includes environmental design and new technologies. I want to establish an appropriate architectural research line, not infer supervision capacity from the committee.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison uses the same AI-mediated collection interface in two counter layouts, measuring visibility, waiting and human takeover against conventional assistance.
+
+**Concrete first ask (proposed):** Could you critique the plan-and-measurement matrix or suggest the appropriate doctoral colleague? I would ask which spatial contribution must be established before the study belongs in that programme.
 
 ## Supervision and open questions
 

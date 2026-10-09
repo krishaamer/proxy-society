@@ -1,6 +1,6 @@
 # Francesco Musco — research for first contact
 
-**Lead:** `francesco_musco`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `francesco_musco`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Università Iuav di Venezia, Planning Climate Change Lab. **Recorded role:** Full Professor of Urban and Environmental Planning.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could connect delegated public services with collective environmental obligations and Venice-scale civic pressures. A bounded building pilot remains a different scale and needs an architectural partner.
 
-**Draft connection (assessment):** Your Iuav research connects planning with heritage, urban regeneration and posthuman perspectives on inclusive governance. It offers a context for asking whose shared intentions a building should uphold.
+**Selected source anchor:** [Iuav UNESCO chair material on heritage and urban regeneration](https://www.iuav.it/sites/default/files/2026-06/UNESCO_Chair_Heritage_Urban_Regeneration.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which governance question would make a bounded delegated-service pilot useful to your urban research, and who should assess its architectural doctoral fit?
+**Draft connection (assessment):** [Iuav UNESCO chair material on heritage and urban regeneration](https://www.iuav.it/sites/default/files/2026-06/UNESCO_Chair_Heritage_Urban_Regeneration.pdf) offers a wider civic context for a small reception intervention. I want to avoid designing an efficient service point that weakens the public use of an existing building.
+
+**Specific spatial case (proposal):** For Proxy Society, a community-centre collection route for an AI agent acting for a visitor would be compared with the ordinary approach through shared activity space. The study would map access, optional staying and maintenance obligations, with the unchanged building as a serious alternative.
+
+**Concrete first ask (proposed):** Could you review that public-value framing and suggest an Iuav architectural or doctoral partner? I would send the route comparison and ask how to connect a bounded building pilot to regeneration without claiming urban-scale effects from a small trial.
 
 ## Supervision and open questions
 

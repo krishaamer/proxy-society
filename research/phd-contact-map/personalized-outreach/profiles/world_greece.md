@@ -1,6 +1,6 @@
 # Technical Chamber of Greece (TEE – TCG) — research for first contact
 
-**Lead:** `world_greece`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_greece`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Technical Chamber of Greece (TEE – TCG). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** TEE's public remit spans engineering professions and regional networks. I am seeking an architect whose expertise connects building layout with civic access and everyday use.
+**Selected source anchor:** [Technical Chamber of Greece](https://www.tee.gr/en/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the appropriate architecture section suggest a practitioner or academic working on libraries, community facilities or inclusive reception spaces?
+**Draft connection (assessment):** I am using [Technical Chamber of Greece](https://www.tee.gr/en/) to find a professional who can evaluate one occupied-space design decision.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare a visible shared counter with a recessed point for AI-mediated collection, recording orientation, access to staff and interruptions during the same task.
+
+**Concrete first ask (proposed):** Could you suggest a Greek architect or researcher in public-building use or environment–behaviour? I would send the layout pair and outcome sheet for critique, as advice for an architecture PhD rather than request a general technology partnership.
 
 ## Supervision and open questions
 

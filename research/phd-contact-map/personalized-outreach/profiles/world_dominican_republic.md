@@ -1,6 +1,6 @@
 # Architecture programme / Instituto de Diseño para los Trópicos — research for first contact
 
-**Lead:** `world_dominican_republic`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_dominican_republic`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Iberoamericana (Unibe). **Recorded role:** Architecture programme with design/fabrication research institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a researcher for tangible prototypes and context-sensitive civic architecture.
 
-**Draft connection (assessment):** Unibe's architecture programme links design research with the Instituto de Diseño para los Trópicos. I would like the pilot to reflect climate and local spatial practices alongside its service question.
+**Selected source anchor:** [Unibe architecture and its Instituto de Diseño para los Trópicos](https://www.unibe.edu.do/oferta-academica/arquitectura/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which researcher could critique a civic threshold's access, waiting and comfort conditions, and advise whether an appropriate doctoral or collaborative route exists?
+**Draft connection (assessment):** [Unibe architecture and its Instituto de Diseño para los Trópicos](https://www.unibe.edu.do/oferta-academica/arquitectura/) connects architectural research and applied information technologies. I want to test the contribution of the spatial arrangement separately from the service interface.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would use the same AI-delegated collection task across two counter layouts, comparing staff visibility, route errors and opportunities for human takeover.
+
+**Concrete first ask (proposed):** Could you suggest an institute researcher to critique the comparison and advise on an appropriate doctoral or external-advisory context? I would send the plans and measurement matrix before proposing a prototype partnership.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Belarusian Union of Architects — research for first contact
 
-**Lead:** `world_belarus`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_belarus`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Belarusian Union of Architects. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** The Union's published activities connect architectural events, education and professional networks. I am looking for a relevant named researcher or practitioner for a modest civic-building study.
+**Selected source anchor:** [Belarusian Union of Architects](https://bsa.by/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the appropriate office suggest someone working on public-building use, inclusive access or spatial behaviour, and confirm the best professional enquiry route?
+**Draft connection (assessment):** I am using the published route for [Belarusian Union of Architects](https://bsa.by/) to find a named architect or researcher; the route itself needs current confirmation.
+
+**Specific spatial case (proposal):** For Proxy Society, a library reception test would compare direct access to staff with a separate AI-mediated-collection point, recording where confusion or refusal must be resolved.
+
+**Concrete first ask (proposed):** Could you identify someone in public-building use or architectural behaviour who could critique two plans and a human-handoff scenario? The advice would support an architecture PhD proposal, with any programme or site arrangement established separately.
 
 ## Supervision and open questions
 

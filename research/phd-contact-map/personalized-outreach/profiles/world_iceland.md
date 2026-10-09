@@ -1,6 +1,6 @@
 # Iceland Design and Architecture — research for first contact
 
-**Lead:** `world_iceland`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_iceland`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Iceland Design and Architecture. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your published SOAK conversation on bathing together explicitly asks about designing for belonging. It is a relevant challenge to a project that makes some physical attendance optional.
+**Selected source anchor:** [Iceland Design and Architecture](https://www.honnunarmidstod.is/en) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an Icelandic architect or researcher who could critique what makes shared presence valuable and how a civic threshold should preserve it?
+**Draft connection (assessment):** I am approaching [Iceland Design and Architecture](https://www.honnunarmidstod.is/en) to find an architect or interaction designer with experience of public interiors and physical prototyping.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would make an AI-delegated task visible at a counter and compare two positions for staff handoff, testing comprehension and access to a person.
+
+**Concrete first ask (proposed):** Could you recommend an Iceland-based practitioner or research contact for a plan-and-prototype critique? The first contribution would be design advice alongside an architecture PhD proposal, before seeking a building operator or equipment partner.
 
 ## Supervision and open questions
 

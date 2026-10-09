@@ -1,14 +1,14 @@
 # Email draft — Roland Snooks
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `snooks`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `snooks`.
 
 **Recipient:** Roland Snooks — RMIT University.
 
 **Published email:** roland.snooks@rmit.edu.au. **Route:** [Published contact page](https://www.rmit.edu.au/profiles/s/roland-snooks).
 
-**Subject:** Multi-agent design and inhabited thresholds
+**Subject:** Agent algorithms versus delegated authority at a threshold
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/snooks.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/snooks.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear Roland Snooks,
 
-Your research on swarm intelligence and multi-agent formation offers a useful contrast between agents that generate architectural form and agents that operate within an occupied building.
+Your [RMIT work on multi-agent formation](https://www.rmit.edu.au/profiles/s/roland-snooks) uses behavioural processes and swarm intelligence in architectural formation. I want to distinguish that design use of agents from agents moving with a person’s revocable authority.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+In Proxy Society, a proposed threshold model would give each AI agent a bounded destination and a stopping rule, while preserving a clear human passage. I would compare generated arrangements with a conventional counter and test where the simulation fails to predict actual handoffs.
 
-Could a practice-research project investigate that second condition, using alternative threshold arrangements to test authority, movement conflicts and human control?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you consider a PhD discussion about that model-to-prototype comparison? I would bring the rules and one layout, and ask whether the difference between simulated behaviour and occupied-space behaviour could carry the research contribution.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/snooks.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 142 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 119 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

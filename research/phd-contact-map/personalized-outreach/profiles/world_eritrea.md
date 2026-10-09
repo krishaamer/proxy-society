@@ -1,6 +1,6 @@
 # Medhanie Teklemariam — research for first contact
 
-**Lead:** `world_eritrea`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_eritrea`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Asmara Heritage Project. **Recorded role:** Director and World Heritage site manager.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could advise on architectural observation, cultural meaning and civic-space use in Asmara, or refer an architect; no doctoral role is established.
 
-**Draft connection (assessment):** The April 2026 Politecnico di Milano event connects your Asmara Heritage Project work with the management and conservation of a modern African city. It raises the importance of studying an intervention within an existing spatial culture.
+**Selected source anchor:** [2026 account of the Asmara Heritage Project](https://www.dastu.polimi.it/en/public-events/asmara-world-heritage-site) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise what a civic-threshold study should preserve in a heritage setting, or refer me to an appropriate local architect or researcher?
+**Draft connection (assessment):** [2026 account of the Asmara Heritage Project](https://www.dastu.polimi.it/en/public-events/asmara-world-heritage-site) identifies your project/site-management connection. I am interested in how a reversible service intervention can respect an existing civic building and its ordinary use.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library retrofit would add an optional AI-mediated collection point without making automated arrival the entrance’s organising principle. Plans and staged encounters would test visibility, staff assistance and recognition of the place.
+
+**Concrete first ask (proposed):** Could you critique that heritage-sensitive brief or suggest the appropriate current colleague? I would send one intervention section for architecture PhD advice, while reconfirming the older published contact route separately.
 
 ## Supervision and open questions
 

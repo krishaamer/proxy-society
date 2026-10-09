@@ -1,14 +1,14 @@
 # Email draft — Original Design and Build Africa (ODABA)
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_gambia`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_gambia`.
 
 **Recipient:** Original Design and Build Africa (ODABA) — ODAB Africa.
 
 **Published email:** odabafrica@gmail.com. **Route:** [Published contact page](https://www.odabafrica.com/).
 
-**Subject:** Local craftsmanship and a civic-building threshold
+**Subject:** ODABA: interior cues for an optional delegated errand
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_gambia.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_gambia.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear ODAB Africa team,
 
-ODABA describes design rooted in African heritage and local craftsmanship. That is a useful perspective on making a service boundary understandable through ordinary spatial and material practices.
+[ODABA’s architectural and interior-design practice](https://www.odabafrica.com/) gives me a practice connection for the physical legibility of reception, rather than the AI system’s capabilities.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a community-centre mock-up would compare counter orientation, a clear stopping marker and visibility of staff during personal and delegated arrival. The question is whether people recognise where help and authority reside.
 
-Could your design team discuss a small civic-threshold scenario, or refer me to a Gambian practitioner or researcher who works with public-building users?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could an ODABA designer critique the layout and cue board or suggest a Gambia colleague? The initial contribution would be practice advice to an architecture PhD proposal before any live trial is planned.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_gambia.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 99 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

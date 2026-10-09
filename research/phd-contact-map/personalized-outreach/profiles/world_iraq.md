@@ -1,6 +1,6 @@
 # Department of Architecture — research for first contact
 
-**Lead:** `world_iraq`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_iraq`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ashur University, Baghdad. **Recorded role:** Architecture department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer an academic for spatial design and civic-building critique; no doctoral programme is established by this page.
 
-**Draft connection (assessment):** Your architecture department's published Baghdad route is a starting point for finding an appropriate researcher before making claims about topic fit or a doctoral programme.
+**Selected source anchor:** [Ashur University’s Baghdad architecture department](https://au.edu.iq/dept_e.php?id=27) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague studying civic facilities, reception or environment-behaviour questions who might critique the pilot's architectural contribution?
+**Draft connection (assessment):** I am using [Ashur University’s Baghdad architecture department](https://au.edu.iq/dept_e.php?id=27) to find a faculty colleague who studies public-building use or architectural design research.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library test would compare two handoff positions for an AI-delegated collection, recording approach, waiting, staff intervention and the ability to complete the task personally.
+
+**Concrete first ask (proposed):** Could you forward this to a suitable researcher or design lecturer? I would send a plan and observation protocol for critique and establish the appropriate doctoral or external-advisory route separately.
 
 ## Supervision and open questions
 

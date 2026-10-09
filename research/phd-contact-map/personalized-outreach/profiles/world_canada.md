@@ -1,6 +1,6 @@
 # Royal Architectural Institute of Canada – RAIC/IRAC — research for first contact
 
-**Lead:** `world_canada`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_canada`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Royal Architectural Institute of Canada – RAIC/IRAC. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** RAIC connects architectural advocacy, professional education and practice. I am looking for a Canadian architect or research group that can evaluate a service change through its spatial and public consequences.
+**Selected source anchor:** [RAIC’s professional network](https://raic.org/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest someone working on civic-building reception, accessibility or architectural interaction with technology who might critique this bounded pilot?
+**Draft connection (assessment):** I am approaching [RAIC’s professional network](https://raic.org/) for a practitioner with public-library and accessibility experience, complementing separate conversations about doctoral supervision.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare personal arrival, human assistance and AI-delegated collection across two layouts. It would document whose route, comprehension or access to a person improves or worsens.
+
+**Concrete first ask (proposed):** Could you recommend a Canadian member who could critique a plan and outcome matrix? The initial request is a focused design conversation, with no assumption that their practice will supply a research site.
 
 ## Supervision and open questions
 

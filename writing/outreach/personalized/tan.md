@@ -1,14 +1,14 @@
 # Email draft — Ling Tan
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `tan`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `tan`.
 
 **Recipient:** Ling Tan — HAQUE TAN.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://haquetan.com/contact/).
 
-**Subject:** Participation in AI-mediated shared space
+**Subject:** More-than-Human Assembly: letting participants change a mandate
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/tan.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/tan.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear Usman and Ling,
 
-HAQUE TAN's assembly work and your practice in citizen participation make the question of who designs a proxy's mandate particularly relevant to this pilot.
+In [More-than-Human Assembly](https://haquetan.com/more-than-human-assembly/), your studio brings AI-mediated representation into a participatory setting. I am particularly interested in who can change the terms of representation during the encounter.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+A Proxy Society reception prototype would let participants role-play an author, an agent, a receptionist and another visitor. They would alter the permitted task and handoff conditions, then rearrange the counter and waiting area to make those changes understandable.
 
-How would you involve staff and participants in deciding what may be delegated at a shared threshold, and in evaluating whether they retain meaningful control?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you discuss how to structure that participatory test and record whose influence the prototype permits? I would send a role-and-space exercise for critique. I am seeking practice advice alongside an architecture PhD proposal.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/tan.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 146 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 110 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

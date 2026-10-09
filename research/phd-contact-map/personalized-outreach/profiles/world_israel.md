@@ -1,6 +1,6 @@
 # Yasha Grobman — research for first contact
 
-**Lead:** `world_israel`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_israel`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Technion, Architecture and Town Planning / T-com Lab. **Recorded role:** Professor; architectural fabrication-lab founder.
 
@@ -12,13 +12,19 @@ The faculty laboratory page identifies Grobman as T-com founder and publishes hi
 
 The underlying contact record was checked on **2026-10-09**. Source review this pass: **Public source text available for focused review**. Availability is not confirmation that all role, programme or project claims remain current.
 
+The Technion research page uses the lab name T_CODE and connects computational design with human perception. The older contact record retains T-com terminology; this draft uses the name on the newly checked research page and avoids an administrative title.
+
 ## Proposed fit and contribution
 
 Could critique tangible architectural prototypes; a social-space evaluation colleague would complement the fabrication expertise.
 
-**Draft connection (assessment):** Technion's laboratory page identifies you as T-com's founder. I am exploring a small architectural prototype that makes task-limited authority visible and testable through its layout.
+**Selected source anchor:** [T_CODE research on computational design and human perception](https://tcode.net.technion.ac.il/research/) — reviewed 2026-10-10; Indexed primary research-page text reviewed. Public lab research description reviewed; not a full current-role audit.
 
-**Concrete first ask (proposed):** Could you assess the proposal's fit with your interests, or suggest a colleague who combines computational design with observation of occupied-building use?
+**Draft connection (assessment):** [T_CODE research on computational design and human perception](https://tcode.net.technion.ac.il/research/) connects computational methods with human perception. I want to make the occupied-space test determine whether a generated alternative is useful.
+
+**Specific spatial case (proposal):** For Proxy Society, library layouts would be generated from an AI agent’s limited destination, visible staff-handoff and human-passage rules. Staged refusal and correction tasks would be compared with the ordinary counter, then used to revise those rules.
+
+**Concrete first ask (proposed):** Would you consider a doctoral or computational-advisory conversation? I would send the constraints and plan pair, asking which observed failure can productively feed back into the model rather than be treated as an operator’s problem.
 
 ## Supervision and open questions
 
@@ -37,6 +43,7 @@ No additional route constraint recorded; recheck the published channel before us
 ## Public sources
 
 1. [Technion, Architecture and Town Planning / T-com Lab — published record 1](https://arc.technion.ac.il/contact-us/) — reviewed 2026-10-09; public text retrieved. Underlying evidence date: 2026-10-09. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
+2. [T_CODE research on computational design and human perception](https://tcode.net.technion.ac.il/research/) — reviewed 2026-10-10; Indexed primary research-page text reviewed. Underlying evidence date: 2026-10-10. Public lab research description reviewed; not a full current-role audit.
 
 ## Prepared correspondence
 

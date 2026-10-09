@@ -1,14 +1,14 @@
 # Email draft — Mario Carpo
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `carpo`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `carpo`.
 
 **Recipient:** Mario Carpo — UCL, Bartlett School of Architecture.
 
 **Published email:** m.carpo@ucl.ac.uk. **Route:** [Published contact page](https://www.ucl.ac.uk/study/doctoral-school/key-contacts/faculty-and-department-contacts).
 
-**Subject:** Delegated presence as an architectural question
+**Subject:** AI Tectonics and AI acting inside an occupied building
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/carpo.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/carpo.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear Mario Carpo,
 
-Your 2025 article AI Tectonics, or the culture wars of building technology is a useful starting point for questioning where a computational change becomes an architectural one.
+[AI Tectonics](https://link.springer.com/article/10.1007/s44223-024-00081-0) offers a specific starting point for placing the proposal within architectural computation. My concern is AI acting in an occupied building, beyond AI used to produce its design.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library pilot would examine a mandate becoming a spatial condition: an agent can reach one collection point, staff can halt it, and the author can attend instead. Plans and observed encounters would test whether that changes a threshold typology or merely its operating rules.
 
-Does delegated arrival identify a distinct architectural problem, and which theoretical comparison would help test that claim before developing a doctoral proposal?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you critique that distinction in a short doctoral-framing conversation? I would send a two-page argument and ask which architectural precedent would best challenge the claim of a new condition.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/carpo.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 145 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 116 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

@@ -1,6 +1,6 @@
 # Seung Hyun Cha — research for first contact
 
-**Lead:** `seung_hyun_cha`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `seung_hyun_cha`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KAIST, Graduate School of Culture Technology. **Recorded role:** Associate Professor; Future Space Lab director; FACT Research Center director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Especially direct fit for the delegated civic-building threshold and comparisons of alternative circulation, permission and handoff arrangements.
 
-**Draft connection (assessment):** Future Space Lab and FACT explicitly connect spatial computing with responsive spaces and human-robot coexistence. That makes your research relevant to the layout, rather than only the software, of delegated arrival.
+**Selected source anchor:** [KAIST FACT](https://fact.kaist.ac.kr/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could this bounded pilot fit your lab, and which comparisons would reveal when mixed circulation is preferable to separating human and machine routes?
+**Draft connection (assessment):** [KAIST FACT](https://fact.kaist.ac.kr/) explicitly studies robot-friendly architecture and human–robot coexistence. That is the closest match to the first spatial decision in my proposed study.
+
+**Specific spatial case (proposal):** For Proxy Society, I want to compare a shared library reception approach with a separate agent handoff bay. Each would handle the same authorised collection task. The comparison would measure passing conflicts, staff intervention and whether visitors can understand and override the agent’s limited authority.
+
+**Concrete first ask (proposed):** Would you consider a supervision conversation through KAIST Culture Technology? I would send the two plans and ask how FACT would structure the first experiment, including a no-robot baseline and a human-priority stopping rule.
 
 ## Supervision and open questions
 

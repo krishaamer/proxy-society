@@ -1,6 +1,6 @@
 # Yosuke Mano — research for first contact
 
-**Lead:** `mano`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `mano`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Institute of Science Tokyo, School of Environment and Society. **Recorded role:** Professor; urban design and community planning research.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could bring participatory fieldwork and community governance to the pilot, including how public intent is negotiated and represented in a place.
 
-**Draft connection (assessment):** Mano Lab's documented participation in community-salon workshops is relevant to deciding with residents and staff which civic tasks they would actually want to delegate.
+**Selected source anchor:** [Mano Lab’s community-salon workshop project](https://www.kisuisekkei.co.jp/wp-content/uploads/2025/09/250411_KISUI-SEKKEI-%E3%83%91%E3%83%B3%E3%83%95_%E5%9C%A7%E7%B8%AE3.pdf) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** How would you structure participation in a threshold pilot so that the right to attend in person and the activities people value together remain explicit design requirements?
+**Draft connection (assessment):** The published account of [Mano Lab’s community-salon workshop project](https://www.kisuisekkei.co.jp/wp-content/uploads/2025/09/250411_KISUI-SEKKEI-%E3%83%91%E3%83%B3%E3%83%95_%E5%9C%A7%E7%B8%AE3.pdf) offers a specific participatory precedent. I want staff and users to shape the terms of delegation as well as the form of the threshold.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre study would use a workshop in which participants map who may authorise, receive or refuse an AI-mediated errand, then arrange a physical reception model. The design would be tested against the existing entrance, with in-person participation always available.
+
+**Concrete first ask (proposed):** Could you critique that workshop sequence and identify the appropriate Science Tokyo research/admissions route? I would send the role cards and layout exercise, asking how the resulting community decisions become architectural evidence.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Faculty of Architecture and Design — research for first contact
 
-**Lead:** `world_cambodia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cambodia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Paññāsāstra University of Cambodia. **Recorded role:** Architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an academic for architectural design critique and local fieldwork methods.
 
-**Draft connection (assessment):** PUC's Architecture and Design faculty describes teaching and research across diverse professional backgrounds. That is a relevant setting for a small spatial comparison involving both design and everyday service use.
+**Selected source anchor:** [Paññāsāstra University’s Architecture and Design faculty](https://www.puc.edu.kh/faculties-schools-and-programs/faculty-of-architecture-design/faculty-members/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a faculty member interested in civic-building access, interaction or participatory design, and advise on the appropriate research enquiry route?
+**Draft connection (assessment):** [Paññāsāstra University’s Architecture and Design faculty](https://www.puc.edu.kh/faculties-schools-and-programs/faculty-of-architecture-design/faculty-members/) identifies the faculty route I am using to find an appropriate design-research colleague.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library test would use movable counter elements to compare visibility, queueing and a human takeover point for one AI-mediated request. Plans and staged encounters would be evaluated against the existing reception.
+
+**Concrete first ask (proposed):** Could you refer me to a colleague in architectural design, physical prototyping or environment–behaviour? I would send the mock-up brief and ask about an appropriate research/advisory context before considering a doctorate or field access.
 
 ## Supervision and open questions
 

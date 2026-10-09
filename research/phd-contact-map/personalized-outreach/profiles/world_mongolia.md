@@ -1,6 +1,6 @@
 # Gantumur Tsovoodavaa — research for first contact
 
-**Lead:** `world_mongolia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_mongolia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Mongolian University of Science and Technology, Department of Architecture. **Recorded role:** Department head; PhD.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a researcher for spatial prototypes and civic-building evaluation; doctoral supervisory approval is unverified.
 
-**Draft connection (assessment):** MUST's published architecture staff page identifies your department role. I am seeking a researcher who can assess a proposed change in civic service through its spatial and everyday consequences.
+**Selected source anchor:** [MUST architecture department’s staff page](https://scea.edu.mn/en/stafflist) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you advise which colleague might critique reception, waiting and access in the pilot, and identify an appropriate doctoral or external research route?
+**Draft connection (assessment):** [MUST architecture department’s staff page](https://scea.edu.mn/en/stafflist) identifies your departmental role. I would like to find the faculty colleague best placed to assess a small spatial experiment.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare opening width, staff visibility and waiting/passing overlap for personal and AI-mediated collection, with the unchanged counter as the baseline.
+
+**Concrete first ask (proposed):** Could you critique that design-study brief or suggest a researcher in architectural behaviour or physical prototyping? I would send a plan and section and ask separately about an appropriate doctoral or advisory context.
 
 ## Supervision and open questions
 

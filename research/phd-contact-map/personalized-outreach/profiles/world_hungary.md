@@ -1,6 +1,6 @@
 # György Alföldi — research for first contact
 
-**Lead:** `world_hungary`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_hungary`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Budapest University of Technology and Economics, Urban Planning and Design. **Recorded role:** University professor; architect and city planner.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss the relation between civic-building thresholds, urban encounters and design research.
 
-**Draft connection (assessment):** Your BME urban-planning and design profile is relevant to connecting a small building threshold with the public routes and social setting around it.
+**Selected source anchor:** [BME Urban Planning and Design profile](https://urb.bme.hu/en/tanszek/munkatarsak/alfoldi-gyorgy-dla/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise how to compare access and encounter at a delegated threshold, or suggest the appropriate research group and doctoral context at BME?
+**Draft connection (assessment):** [BME Urban Planning and Design profile](https://urb.bme.hu/en/tanszek/munkatarsak/alfoldi-gyorgy-dla/) identifies your architecture/urban-planning connection. I would like a design-fit check or referral, without inferring topic interest or doctoral capacity from the title.
+
+**Specific spatial case (proposal):** For Proxy Society, a library retrofit would compare the unchanged entrance with an AI-mediated handoff point, mapping access to staff, public-space continuity and waiting/passing overlap.
+
+**Concrete first ask (proposed):** Could you critique that route comparison or suggest a suitable BME researcher? I would send the plan pair and ask what architectural claim the small intervention should test before exploring a supervisory arrangement.
 
 ## Supervision and open questions
 

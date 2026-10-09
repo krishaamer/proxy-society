@@ -1,6 +1,6 @@
 # Josephine Malonza — research for first contact
 
-**Lead:** `world_rwanda`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_rwanda`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Rwanda, School of Architecture and Built Environment. **Recorded role:** Architecture academic.
 
@@ -18,9 +18,13 @@ The original Malonza URL now returns a general college page rather than the indi
 
 Could discuss civic-space design and locally grounded observation; current supervision eligibility and availability need confirmation.
 
-**Draft connection (assessment):** Your published research biography connects architecture, urban design and society. That is relevant to examining whether delegated convenience supports access or shifts burdens onto other building users.
+**Selected source anchor:** [published university biography on architecture, urban design and society](https://cst.ur.ac.rw/?Dr-Josephine-Malonza=) — reviewed 2026-10-09; primary-source indexed biography reviewed; current direct page is generic. The indexed personal biography was reviewed; the fetched URL returned a general college page. Current appointment and professional contact remain unresolved.
 
-**Concrete first ask (proposed):** Would you advise on a locally grounded threshold comparison, or suggest a colleague who could assess its architectural contribution and an appropriate doctoral context?
+**Draft connection (assessment):** Your [published university biography on architecture, urban design and society](https://cst.ur.ac.rw/?Dr-Josephine-Malonza=) offers a reason to study the people sustaining a service, alongside its users. I would first reconfirm your current role because the original profile route has changed.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would map staff movement, correction and assistance when a person delegate to an AI agents collection, comparing two reception layouts with the ordinary service.
+
+**Concrete first ask (proposed):** Could you critique the labour-and-route diagram or suggest a current Rwanda colleague? I am exploring an architecture PhD and would ask which observations can reveal shifted burdens rather than simply a completed transaction.
 
 ## Supervision and open questions
 

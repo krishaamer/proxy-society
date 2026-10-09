@@ -1,6 +1,6 @@
 # School of Architecture — director’s office — research for first contact
 
-**Lead:** `world_panama`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_panama`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad de Panamá, Faculty of Architecture and Design. **Recorded role:** Architecture school.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architecture researcher and a prototype collaborator; the school-direction mailbox is more appropriate than enrolment-only contacts.
 
-**Draft connection (assessment):** Your faculty directory includes the architecture school's route and a FabLab serving the community. That offers a possible connection between a spatial prototype and a concrete building-use question.
+**Selected source anchor:** [Universidad de Panamá’s architecture and FabLab contact directory](https://facarquitectura.up.ac.pa/Directorio) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you identify a colleague who might critique reception, access and handoff design, and advise whether an appropriate research or doctoral connection exists?
+**Draft connection (assessment):** [Universidad de Panamá’s architecture and FabLab contact directory](https://facarquitectura.up.ac.pa/Directorio) gives separate academic and making routes. I want to reach the person best placed to assess a small physical experiment before selecting its fabrication method.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would vary counter orientation and handoff enclosure while holding the AI-mediated collection task constant, observing staff visibility and human passage.
+
+**Concrete first ask (proposed):** Could the school suggest a design researcher and, if relevant, a FabLab colleague? I would send the section and comparison protocol for critique before asking about doctoral fit or prototype access.
 
 ## Supervision and open questions
 

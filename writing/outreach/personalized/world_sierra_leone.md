@@ -1,14 +1,14 @@
 # Email draft — Sierra Leone Institute of Architects
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_sierra_leone`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_sierra_leone`.
 
 **Recipient:** Sierra Leone Institute of Architects — Sierra Leone Institute of Architects, Freetown.
 
 **Published email:** info@slia.org. **Route:** [Published contact page](https://commonwealtharchitects.org/our-members/).
 
-**Subject:** A Sierra Leone architect referral for civic access
+**Subject:** Confirming an SLIA referral for civic reception evaluation
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_sierra_leone.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_sierra_leone.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Sierra Leone Institute of Architects, Freetown team,
 
-The Commonwealth Association of Architects lists your Institute as its Sierra Leone member. I am seeking a current local architecture contact with relevant building-use experience.
+I found your published professional route through [Commonwealth Association’s Freetown institute listing](https://commonwealtharchitects.org/our-members/). I would first confirm the current institute channel before seeking a named member.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a proposed library comparison would test a shared counter and side AI-mediated-collection point, observing waiting, visible assistance and takeover when the request cannot proceed.
 
-Could you confirm the best enquiry route and recommend a practitioner or researcher studying civic reception, inclusive access or spatial behaviour?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you suggest a Sierra Leone architect or researcher with public-interior or post-occupancy experience? I would request a critique of the plans and coding sheet as initial advice to an architecture PhD proposal.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_sierra_leone.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 99 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

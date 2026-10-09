@@ -1,6 +1,6 @@
 # Daniel Cardoso Llach — research for first contact
 
-**Lead:** `daniel_cardoso`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `daniel_cardoso`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Carnegie Mellon University, School of Architecture / CodeLab. **Recorded role:** Associate Professor; Computational Design track chair; CodeLab director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 An unusually strong bridge for your interaction-design MA and a critical architecture dissertation. Could keep building agency, human authority and situated evidence together.
 
-**Draft connection (assessment):** Your work on the cultural history of design automation and CodeLab's critical approach to computation is closely connected to the assumptions encoded in a delegated task.
+**Selected source anchor:** [CMU Computational Design PhD](https://www.architecture.cmu.edu/computational-design) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a study combining spatial prototypes and ethnographic observation fit CMU's Computational Design PhD, and what would distinguish its contribution from an HCI usability study?
+**Draft connection (assessment):** [CMU Computational Design PhD](https://www.architecture.cmu.edu/computational-design) explicitly accommodates ethnography, tangible interaction and responsive environments. That combination could connect the project’s authority question with architectural evidence.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose observing an existing library reception, then co-designing a limited delegated collection task with staff. Two spatial prototypes would test who understands, questions and revokes the mandate; records of staff work would accompany the computational model.
+
+**Concrete first ask (proposed):** Would you consider a PhD supervision conversation? I would send the two-page study design and ask how to make the ethnographic account and prototype challenge each other, rather than use fieldwork only to validate an AI service.
 
 ## Supervision and open questions
 

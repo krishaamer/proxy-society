@@ -1,6 +1,6 @@
 # Jamal Francis — research for first contact
 
-**Lead:** `world_saint_lucia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_saint_lucia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Francis Architecture. **Recorded role:** Practising architect in Saint Lucia.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique civic-building thresholds and refer a local field site; a public website route is recorded pending a verified direct mailbox.
 
-**Draft connection (assessment):** Your biography documents work on Gros Islet and Marigot schools alongside broader Saint Lucia practice. Educational buildings provide a relevant perspective on assistance, supervision and shared arrival.
+**Selected source anchor:** [Francis Architecture’s Saint Lucia/Caribbean biography](https://www.francisarchitecture.com/about) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you discuss which threshold and waiting arrangements support those conditions, or suggest a suitable civic-building colleague for a research conversation?
+**Draft connection (assessment):** [Francis Architecture’s Saint Lucia/Caribbean biography](https://www.francisarchitecture.com/about) supplies a practice connection for discussing a threshold as a place of arrival, without assuming a research specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library comparison would retain the ordinary human counter while testing an AI-mediated handoff point, observing waiting, visible assistance and the opportunity to remain in shared space.
+
+**Concrete first ask (proposed):** Could you critique that arrival sketch or suggest a Saint Lucia public-building colleague? I would seek a focused practice conversation for an architecture PhD proposal before identifying a willing study operator.
 
 ## Supervision and open questions
 

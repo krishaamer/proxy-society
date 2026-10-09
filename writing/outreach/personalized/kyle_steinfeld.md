@@ -1,14 +1,14 @@
 # Email draft — Kyle Steinfeld
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `kyle_steinfeld`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `kyle_steinfeld`.
 
 **Recipient:** Kyle Steinfeld — University of California, Berkeley, Architecture.
 
 **Published email:** ksteinfe@berkeley.edu. **Route:** [Published contact page](https://vcresearch.berkeley.edu/faculty/kyle-steinfeld).
 
-**Subject:** The cultural assumptions of delegated authority
+**Subject:** An architectural tool for contesting a delegated request
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/kyle_steinfeld.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/kyle_steinfeld.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@ Recheck the published channel, research fit and preferred language before use.
 
 Dear Kyle Steinfeld,
 
-Your account of computational design as a cultural practice questions the authority given to semi-autonomous processes. That is directly relevant to a building interpreting someone's task through an agent.
+Your account of [Berkeley computational design as cultural practice](https://vcresearch.berkeley.edu/faculty/kyle-steinfeld) suggests treating a digital tool as an architectural and cultural proposition, not merely an optimisation instrument.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, I would build a small tool that shows an AI agent’s permitted task on a reception plan and lets staff or the author narrow it. The prototype would test whether changing a mandate changes the usable space and whether people can recognise that relationship.
 
-Could spatial prototypes expose competing interpretations of that authority, and what research evidence would keep the project from simply reinforcing a single computational voice?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you consider a doctoral-fit conversation at Berkeley? I would send a tool storyboard and ask how its design and use could expose assumptions about authority, rather than present a successful interface as the dissertation’s result.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/kyle_steinfeld.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 149 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 117 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

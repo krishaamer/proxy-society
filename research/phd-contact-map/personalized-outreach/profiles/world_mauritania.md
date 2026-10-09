@@ -1,6 +1,6 @@
 # Atelier d’Architecture et de Design (AAD) — research for first contact
 
-**Lead:** `world_mauritania`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_mauritania`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** AAD. **Recorded role:** Architecture and design practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a local architect and critique civic-building thresholds; exact project fit remains open.
 
-**Draft connection (assessment):** AAD's published architecture-and-design route provides a starting point for a local critique of reception and everyday service arrangements.
+**Selected source anchor:** [AAD’s Mauritania practice contact](https://aad.mr/contact/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could an appropriate designer discuss a small civic-threshold comparison, or suggest a Mauritanian architect or researcher with public-building experience?
+**Draft connection (assessment):** [AAD’s Mauritania practice contact](https://aad.mr/contact/) provides the local architectural route I am using to request a small feasibility critique.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library reception would retain the human counter while testing two positions for AI-mediated collection. The dimensions and sightlines would be evaluated for staff intervention and passing visitors.
+
+**Concrete first ask (proposed):** Could an architect in your office review the plan and section, or refer me to a Mauritania civic-building colleague? This is practice advice for an architecture PhD proposal before proposing a site, equipment or collaboration.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Masdar City innovation / R&D ecosystem team — research for first contact
 
-**Lead:** `masdar_city`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `masdar_city`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Masdar City. **Recorded role:** Urban development and sustainability testbed.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Potential setting for examining whether delegated convenience justifies energy, hardware and maintenance costs. A commercial innovation district is not evidence of equivalent civic access.
 
-**Draft connection (assessment):** Masdar City's published innovation ecosystem and living-laboratory framing suggest a possible connection to research that tests a spatial proposal in use.
+**Selected source anchor:** [Masdar City’s living-laboratory account](https://masdarcity.ae/docs/default-source/pdf-to-download/masdar-city-brochure---2024.pdf?sfvrsn=5876c190_3) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who could assess a small civic-access study comparing delegation with simpler service arrangements, including access benefits, staff work and whole-life costs?
+**Draft connection (assessment):** [Masdar City’s living-laboratory account](https://masdarcity.ae/docs/default-source/pdf-to-download/masdar-city-brochure---2024.pdf?sfvrsn=5876c190_3) provides a testing context, but my proposed research deliberately starts with one task and one threshold rather than a city-wide autonomy claim.
+
+**Specific spatial case (proposal):** In Proxy Society, ordinary collection and human assistance would be compared with an AI-mediated request across two reception layouts. The study would record intervention and access, including when the digital system is unavailable.
+
+**Concrete first ask (proposed):** Could you identify a built-environment researcher to review the trial boundary and suggest a comparable public-space precedent? I would send a short protocol for an architecture PhD conversation; this does not assume an operator or site has agreed to participate.
 
 ## Supervision and open questions
 

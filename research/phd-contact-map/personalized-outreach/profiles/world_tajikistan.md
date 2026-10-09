@@ -1,6 +1,6 @@
 # Rajabali Makhmadalievich Shokirov — research for first contact
 
-**Lead:** `world_tajikistan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_tajikistan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Tajik Technical University, Architecture of Buildings and Structures. **Recorded role:** PhD; associate professor and acting department head in 2024 publication.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could connect the pilot to architectural teaching and spatial research in Tajikistan; current supervisory eligibility, topic fit and availability are unverified.
 
-**Draft connection (assessment):** Your 2024 journal contributor record identifies your architecture-of-buildings-and-structures affiliation. I am seeking the appropriate current research contact before assuming a supervisory or programme match.
+**Selected source anchor:** [2024 university-journal contributor record](https://geo.vestnik-tnu.com/vestnik-mts/2024/Vestnik-2024-3.pdf) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you or a relevant colleague discuss a civic-threshold comparison, and advise which architectural research or doctoral enquiry route should assess it?
+**Draft connection (assessment):** [2024 university-journal contributor record](https://geo.vestnik-tnu.com/vestnik-mts/2024/Vestnik-2024-3.pdf) identifies your architecture-department connection. I would first reconfirm the current role and contact before treating it as an active research route.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares the same AI-mediated collection in two counter layouts, documenting staff visibility, queue overlap and human takeover through plans and staged tasks.
+
+**Concrete first ask (proposed):** Could you critique the spatial comparison or suggest a current department colleague? I would send the study diagram and establish an appropriate doctoral/advisory context separately from the contributor listing.
 
 ## Supervision and open questions
 

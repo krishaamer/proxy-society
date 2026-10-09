@@ -1,6 +1,6 @@
 # Comores Houla — architecture service — research for first contact
 
-**Lead:** `world_comoros`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_comoros`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Comores Houla. **Recorded role:** Architecture and renovation service.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A preliminary referral for local spatial practice; a named architect and research-level fit are still needed.
 
-**Draft connection (assessment):** Comores Houla publishes an architecture-service route. I would like to identify the appropriate design professional before making assumptions about projects or research expertise.
+**Selected source anchor:** [Comores Houla’s architecture and space-planning service](https://comoreshoula.com/services/architecture) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you refer me to an architect in the Comoros with experience of civic facilities or public access who could discuss a modest threshold study?
+**Draft connection (assessment):** [Comores Houla’s architecture and space-planning service](https://comoreshoula.com/services/architecture) identifies a local route for a small architectural layout review. I am not assuming that your service specialises in AI or doctoral research.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre test would compare an ordinary help counter with a clearly bounded place for delegated errands, retaining an unobstructed route to a person.
+
+**Concrete first ask (proposed):** Could you suggest the appropriate designer to critique one plan and a refusal/handoff scene, or refer me to another Comoros professional? The advice would support an architecture PhD proposal before any field trial is planned.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Arup research team — research for first contact
 
-**Lead:** `arup_research`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `arup_research`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Arup. **Recorded role:** Applied research and experimental development.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help evaluate whole-life costs, facilities operations and technical feasibility of a threshold pilot. Appropriate for making the public-value case credible to a building owner.
 
-**Draft connection (assessment):** Arup's research practice combines university collaboration with applied research and experimental development. That is relevant to comparing a proposed technical service against ordinary assistance and fixed automation.
+**Selected source anchor:** [Arup’s university-linked research practice](https://www.arup.com/services/research/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a relevant team advise how a small threshold pilot should compare whole-life costs, staff work and access benefits, and which evidence would justify a spatial intervention?
+**Draft connection (assessment):** [Arup’s university-linked research practice](https://www.arup.com/services/research/) combines design exploration with scientific methods and whole-life concerns. I want the research comparison to include the burdens created by its own infrastructure.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare an ordinary counter with two AI-mediated handoff layouts, measuring access and intervention while documenting hardware, energy-dependent functions and upkeep.
+
+**Concrete first ask (proposed):** Could you identify an Arup researcher who could critique the comparison and maintenance boundary? I would send a two-page protocol, asking what evidence would justify the spatial intervention before proposing a partner or live autonomous installation.
 
 ## Supervision and open questions
 

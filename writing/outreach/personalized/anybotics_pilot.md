@@ -1,14 +1,14 @@
 # Email draft — Péter Fankhauser / ANYbotics partnerships
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `anybotics_pilot`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `anybotics_pilot`.
 
 **Recipient:** Péter Fankhauser / ANYbotics partnerships — ANYbotics.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors).
 
-**Subject:** Human handoff when autonomous door access fails
+**Subject:** ANYmal door access: recovery when the authorised task changes
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/anybotics_pilot.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/anybotics_pilot.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear ANYbotics team,
 
-The documented dormakaba-ANYbotics-LEGIC pilot gives ANYmal a digital credential for requesting door access in an industrial environment. I am interested in the exceptions as well as the successful passage.
+[dormakaba–ANYbotics–LEGIC access pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) supplies a documented example of ANYmal using a digital credential to cross an access-controlled door. The difficult case for my study is a valid credential with an interrupted or withdrawn task.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, I would stage a bounded collection by an AI agent acting for a visitor with a stop, refusal and human takeover, comparing two handoff locations for clearance and staff reach.
 
-Which failure conditions require human intervention, and could your partnerships team discuss how those conditions should shape a small civic-building handoff experiment?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could your partnerships team identify a technical colleague or public account of pause and recovery behaviour relevant to that scenario? I would send the plan and state sequence, seeking feasibility advice alongside an architecture PhD rather than assume access to a platform.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/anybotics_pilot.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 118 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

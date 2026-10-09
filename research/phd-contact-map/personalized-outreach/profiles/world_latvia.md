@@ -1,6 +1,6 @@
 # Māra Liepa-Zemeša — research for first contact
 
-**Lead:** `world_latvia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_latvia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Riga Technical University, Institute of Architecture and Design. **Recorded role:** Institute director; doctor of architecture.
 
@@ -18,9 +18,13 @@ The English RTU profile publishes mara.liepa-zemesa@rtu.lv. The research listing
 
 Could identify a colleague for architectural experience, civic-space design and doctoral research questions.
 
-**Draft connection (assessment):** Your RTU research listing includes work on public perception and inclusive planning. Those questions are relevant to how users interpret a civic service whose task may arrive without its author.
+**Selected source anchor:** [RTU research on public perception and inclusive planning](https://www.rtu.lv/lv/adi/zinatne-2/petnieki/atvert/mara-liepa-zemesa) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you advise how a threshold comparison should involve users and staff, and who at RTU might assess an appropriate architectural doctoral context?
+**Draft connection (assessment):** Your [RTU research on public perception and inclusive planning](https://www.rtu.lv/lv/adi/zinatne-2/petnieki/atvert/mara-liepa-zemesa) offers a precise reason to involve users in defining what the threshold communicates, rather than test comprehension only after its rules are fixed.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library workshop would let users and staff place an AI agent’s mandate display and human-handoff point in two layouts, then enact a task whose permission changes. The analysis would record whose interpretation shaped the design.
+
+**Concrete first ask (proposed):** Would you discuss a doctoral or advisory fit at RTU? I would send the workshop and plan pair, asking how to turn differing perceptions into an architectural design comparison without reducing them to an average preference.
 
 ## Supervision and open questions
 

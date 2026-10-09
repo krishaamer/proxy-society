@@ -1,14 +1,14 @@
 # Email draft — Chaipat Ngambusabongsophin
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_thailand`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_thailand`.
 
 **Recipient:** Chaipat Ngambusabongsophin — Chulalongkorn University, Department of Architecture.
 
 **Published email:** Chaipat.n@chula.ac.th. **Route:** [Published contact page](https://www.arch.arch.chula.ac.th/people/chaipat-ngambusabongsophin-ph-d/).
 
-**Subject:** Civic meaning and represented arrival
+**Subject:** Civic symbols: what makes an agent appear authorised?
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_thailand.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_thailand.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Chaipat Ngambusabongsophin,
 
-Your architectural-history research on monuments, civic symbols and their changing perception is relevant to how a building communicates institutional authority to those arriving there.
+Your [Chulalongkorn research on civic symbols and changing perception](https://www.imarch.arch.chula.ac.th/faculty/chaipat-ngambutsabongsophin-ph-d/) offers a specific interpretive question for this proposal: which spatial signs make a representative appear to possess institutional authority?
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s library prototype would vary a mandate marker’s placement and the AI agent’s position relative to the staff counter. Participants would interpret who authorised the task, what is permitted and whom they can question, including a withdrawn mandate.
 
-How might a threshold study capture changes in that meaning when a task arrives through a representative, and could you advise on an appropriate architectural research context?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique that scene-and-symbol comparison and discuss an advisory or doctoral fit? I would send the sightline plan and interpretation prompts, asking how to separate recognition of a civic cue from acceptance of the agent’s claim.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_thailand.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 113 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

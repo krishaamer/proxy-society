@@ -1,6 +1,6 @@
 # Colegio de Arquitectos del Perú (CAP) — research for first contact
 
-**Lead:** `world_peru`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_peru`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Colegio de Arquitectos del Perú (CAP). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** CAP's public architect-search and professional network provide a route to identify practitioners with relevant experience. I am seeking advice grounded in a civic building's everyday operation.
+**Selected source anchor:** [Colegio de Arquitectos del Perú](https://cap.org.pe/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend an architect or researcher in inclusive reception, public-building use or spatial interaction who might review the proposed threshold comparison?
+**Draft connection (assessment):** [Colegio de Arquitectos del Perú](https://cap.org.pe/) is my route to an architect with civic-interior and user-evaluation experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare ordinary reception with an optional AI-mediated handoff, recording whose access to staff, passage and control changes during collection or refusal.
+
+**Concrete first ask (proposed):** Could you recommend a Peruvian member or researcher to critique the plans and outcome questions? I would start with practice input to an architecture PhD proposal, before asking about a live site or collaboration.
 
 ## Supervision and open questions
 

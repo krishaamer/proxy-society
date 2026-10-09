@@ -1,6 +1,6 @@
 # Mark Cooney — research for first contact
 
-**Lead:** `world_antigua_and_barbuda`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_antigua_and_barbuda`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Mark Cooney Architects. **Recorded role:** Architect; Antigua-based practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Adjacent practice lead for arrival, hospitality and spatial experience; a public-building or doctoral connection would need referral.
 
-**Draft connection (assessment):** Your Antigua and Barbuda practice's residential and boutique-hotel focus offers a practical perspective on the relationship between welcome, privacy and service circulation.
+**Selected source anchor:** [Mark Cooney Architects’ Antigua and Barbuda practice](https://markcooneyarchitect.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise which lessons from hospitality reception might transfer to a civic-building threshold, or refer me to a local public-building colleague?
+**Draft connection (assessment):** [Mark Cooney Architects’ Antigua and Barbuda practice](https://markcooneyarchitect.com/) describes residential and boutique-hotel work. I am seeking an arrival-and-reception perspective, without presuming a library or doctoral specialism.
+
+**Specific spatial case (proposal):** For Proxy Society, I would compare the ordinary welcome sequence with a side point for an AI-mediated library collection. The concern is whether users can still recognise a person to approach and a place to wait when the transaction is automated.
+
+**Concrete first ask (proposed):** Could you critique one arrival diagram or suggest a civic-building colleague in Antigua and Barbuda? That practice advice would inform my architecture PhD proposal; no site or collaboration is assumed.
 
 ## Supervision and open questions
 

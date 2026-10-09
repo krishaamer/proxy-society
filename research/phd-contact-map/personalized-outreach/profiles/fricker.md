@@ -1,6 +1,6 @@
 # Pia Fricker — research for first contact
 
-**Lead:** `fricker`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `fricker`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Aalto University, Department of Architecture. **Recorded role:** Professor; Vice Head of Department; Augmented Computational Design.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help prototype participation across physical and digital environments while keeping the work grounded in architecture and urbanism.
 
-**Draft connection (assessment):** Your work linking computational methodologies with collaborative and immersive environments suggests a way to test proposed spatial boundaries before building them.
+**Selected source anchor:** [Computational Methodologies in Landscape Architecture and Urbanism](https://research.aalto.fi/en/persons/prof-dr-pia-fricker/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a mixed-reality threshold study make permissions and human handoffs understandable, and how would you evaluate the spatial contribution beyond interface usability?
+**Draft connection (assessment):** Your Aalto profile describes [Computational Methodologies in Landscape Architecture and Urbanism](https://research.aalto.fi/en/persons/prof-dr-pia-fricker/) and the connection between digital design culture and urban or landscape questions. I would like to use immersive review to expose access conflicts before building a prototype.
+
+**Specific spatial case (proposal):** For Proxy Society, participants could experience two versions of a library approach: one with a separate AI agent handoff zone, another with a shared threshold and explicit human priority. The arrival task would be identical; we would compare visibility, orientation and the ability to reach help.
+
+**Concrete first ask (proposed):** Could you critique the mixed-reality comparison and discuss an appropriate doctoral or advisory arrangement? I would send the approach diagram and a short participant-task script, with particular attention to what the simulation cannot establish.
 
 ## Supervision and open questions
 

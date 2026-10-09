@@ -1,6 +1,6 @@
 # Kyle Steinfeld — research for first contact
 
-**Lead:** `kyle_steinfeld`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kyle_steinfeld`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of California, Berkeley, Architecture. **Recorded role:** Associate Professor of Architecture.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help formulate an architectural contribution in which AI is a social and design condition rather than simply an optimization method. Useful for critique of proxy permission interfaces.
 
-**Draft connection (assessment):** Your account of computational design as a cultural practice questions the authority given to semi-autonomous processes. That is directly relevant to a building interpreting someone's task through an agent.
+**Selected source anchor:** [Berkeley computational design as cultural practice](https://vcresearch.berkeley.edu/faculty/kyle-steinfeld) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could spatial prototypes expose competing interpretations of that authority, and what research evidence would keep the project from simply reinforcing a single computational voice?
+**Draft connection (assessment):** Your account of [Berkeley computational design as cultural practice](https://vcresearch.berkeley.edu/faculty/kyle-steinfeld) suggests treating a digital tool as an architectural and cultural proposition, not merely an optimisation instrument.
+
+**Specific spatial case (proposal):** For Proxy Society, I would build a small tool that shows an AI agent’s permitted task on a reception plan and lets staff or the author narrow it. The prototype would test whether changing a mandate changes the usable space and whether people can recognise that relationship.
+
+**Concrete first ask (proposed):** Would you consider a doctoral-fit conversation at Berkeley? I would send a tool storyboard and ask how its design and use could expose assumptions about authority, rather than present a successful interface as the dissertation’s result.
 
 ## Supervision and open questions
 

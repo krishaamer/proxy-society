@@ -1,14 +1,14 @@
 # Email draft — Farida Rauf Gasimova
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_azerbaijan`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_azerbaijan`.
 
 **Recipient:** Farida Rauf Gasimova — Azerbaijan University of Architecture and Construction.
 
 **Published email:** faridagasimova@hotmail.com. **Route:** [Published contact page](https://azmiu.edu.az/upload/ckeditor/724597834.pdf).
 
-**Subject:** Architectural environment and authority at reception
+**Subject:** Interior design and anthropology of a delegated encounter
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_azerbaijan.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_azerbaijan.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Farida Rauf Gasimova,
 
-Your university-hosted CV connects architectural-environment design, interiors and anthropology teaching. That combination is relevant to how people interpret permission and assistance in a reception space.
+The teaching areas listed in [AzMIU staff CV on architectural environment, interiors and anthropology](https://azmiu.edu.az/upload/ckeditor/724597834.pdf) offer a possible methods connection between the interior arrangement and the meaning of an encounter. I would first confirm your current role.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library study would compare personal arrival and an AI-mediated collection through two reception arrangements, recording recognition, hesitation and access to a person rather than transaction success alone.
 
-Would you critique a small comparison of delegated and ordinary arrival, or suggest an appropriate colleague for the architectural research and doctoral context?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you critique the scene-and-section method or identify a suitable colleague? I am exploring an architecture PhD and would value advice on relating observed behaviour to users’ interpretation of the place.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_azerbaijan.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 145 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 107 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

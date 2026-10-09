@@ -1,6 +1,6 @@
 # Sharon Araya — research for first contact
 
-**Lead:** `world_costa_rica`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_costa_rica`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Central. **Recorded role:** Architecture programme director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a colleague for a civic-space research conversation; research specialty and doctoral supervision remain unverified.
 
-**Draft connection (assessment):** Universidad Central's architecture programme identifies your direction role. I am looking for an architectural research conversation about the experience and operation of civic-building access.
+**Selected source anchor:** [Universidad Central’s architecture programme contact](https://uc.ac.cr/contacto/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you advise which faculty member could critique a threshold comparison, and where any doctoral or external research enquiry should be directed?
+**Draft connection (assessment):** [Universidad Central’s architecture programme contact](https://uc.ac.cr/contacto/) names your programme role. I am approaching you to identify a research colleague or test design fit, rather than assume a doctoral-supervision appointment.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares two threshold plans with the same AI-mediated collection interface. Observed routes, staff interruption and user control would accompany drawings and a reversible mock-up.
+
+**Concrete first ask (proposed):** Could you critique the architectural contribution or refer me to someone in environment–behaviour or design research? I would send the plan pair and separately establish an appropriate doctoral context.
 
 ## Supervision and open questions
 

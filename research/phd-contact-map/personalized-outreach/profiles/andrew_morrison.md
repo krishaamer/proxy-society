@@ -1,6 +1,6 @@
 # Andrew Morrison — research for first contact
 
-**Lead:** `andrew_morrison`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `andrew_morrison`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Oslo School of Architecture and Design (AHO), Centre for Design Research. **Recorded role:** Professor of Interdisciplinary Design; Centre for Design Research director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 A useful bridge from interaction design into architectural design research, particularly for making film, staged scenarios and qualitative evidence defensible.
 
-**Draft connection (assessment):** Your practice-based design research brings together dynamic interfaces, narrative media and design writing. It suggests a way to turn a staged threshold encounter into evidence rather than a speculative illustration.
+**Selected source anchor:** [AHO practice-based research in dynamic interfaces and narrative media](https://designresearch.no/people/andrew-morrison) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How could film and situated spatial prototypes support a rigorous doctoral study while keeping its architectural contribution explicit?
+**Draft connection (assessment):** Your [AHO practice-based research in dynamic interfaces and narrative media](https://designresearch.no/people/andrew-morrison) joins interfaces, service design and narrative methods. I need a way to make a staged encounter carry research evidence rather than function as a demonstration video.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed study would film three versions of one library request: personal arrival, human assistance and AI-mediated delegation. Participants would identify moments of uncertainty or lost control, then alter the threshold arrangement for a second enactment.
+
+**Concrete first ask (proposed):** Would you consider a PhD-methods conversation at AHO? I would send the storyboard and proposed analysis sheet, asking how to connect participants’ revisions, the filmed evidence and a defensible architectural design claim.
 
 ## Supervision and open questions
 

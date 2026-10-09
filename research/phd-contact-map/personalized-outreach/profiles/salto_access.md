@@ -1,6 +1,6 @@
 # Salto developer / integration team — research for first contact
 
-**Lead:** `salto_access`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `salto_access`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Salto Systems. **Recorded role:** Access-control integration connection; individual research contact not verified.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Prototype narrowly scoped, time-bounded permissions and revocation at a real door. Compare the system's access decision with what the human actually authorized, without treating API access as consent.
 
-**Draft connection (assessment):** Salto's Nebula and KS integration documentation provides a concrete access-control context for asking how a task's permission is issued, limited and withdrawn.
+**Selected source anchor:** [Salto Nebula and KS API documentation](https://developer.saltosystems.com/nebula/api/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which integration team could discuss an approved sandbox or research installation for testing revocation and human override with a building operator?
+**Draft connection (assessment):** [Salto Nebula and KS API documentation](https://developer.saltosystems.com/nebula/api/) provides an access-control interface. My architecture study needs to distinguish a recognised credential from continuing permission to complete a specific delegated task.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library handoff to an AI agent acting for a visitor would show the author and limited destination and provide a staff takeover when permission is withdrawn. Spatial arrangements would be compared during that interrupted state, not only successful entry.
+
+**Concrete first ask (proposed):** Could your integration team point me to public documentation or a colleague on restricting destinations, revoking a task and representing denial to staff? I would send a state diagram for feasibility advice before any research integration is proposed.
 
 ## Supervision and open questions
 

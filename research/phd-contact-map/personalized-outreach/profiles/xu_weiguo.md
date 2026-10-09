@@ -1,6 +1,6 @@
 # Xu Weiguo — research for first contact
 
-**Lead:** `xu_weiguo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `xu_weiguo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Tsinghua University, School of Architecture. **Recorded role:** Professor of Architecture.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique a prototype programme and connect digital architectural experimentation to full-scale spatial testing. Research on robotic construction is adjacent to, rather than proof of expertise in, operational delegation.
 
-**Draft connection (assessment):** Your Tsinghua work in digital architectural design and computational experimentation offers a relevant perspective on translating a scenario into a physical architectural test.
+**Selected source anchor:** [Tsinghua profile on digital architectural design](https://arch.tsinghua.edu.cn/info/FArchitecture/1737) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What would you vary in a reception or transfer-zone prototype to demonstrate a spatial contribution, rather than simply an effective AI interface?
+**Draft connection (assessment):** Your [Tsinghua profile on digital architectural design](https://arch.tsinghua.edu.cn/info/FArchitecture/1737) connects computation with experimental architectural practice. I would like to use that experimental approach to test how a completed building accommodates delegated action.
+
+**Specific spatial case (proposal):** For Proxy Society, a movable library-counter mock-up would vary the enclosure and visibility of an agent handoff point. We would stage the same collection task with a person, a human assistant and an AI-mediated representative, then document spatial conflicts and recovery.
+
+**Concrete first ask (proposed):** Could you review the prototype plan and discuss whether a doctoral project at Tsinghua could support this building-in-use question? The first decision is what the full-scale comparison should prove before adding robotics or construction complexity.
 
 ## Supervision and open questions
 

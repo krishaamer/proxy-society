@@ -1,6 +1,6 @@
 # Institute of Architects of Bangladesh — research for first contact
 
-**Lead:** `world_bangladesh`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_bangladesh`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Institute of Architects of Bangladesh. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** IAB's account of its professional history provides a useful route into Bangladesh's architecture community. I would like the pilot's assumptions about welcome and assistance to be challenged through local practice.
+**Selected source anchor:** [Institute of Architects of Bangladesh](https://iab.org.bd/about-iab/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you identify an architect or researcher with experience of public-building reception, accessibility or participatory design who might review the proposal?
+**Draft connection (assessment):** [Institute of Architects of Bangladesh](https://iab.org.bd/about-iab/) is my route to a practitioner who can challenge the spatial assumptions of a small library study.
+
+**Specific spatial case (proposal):** For Proxy Society, an AI-delegated collection point would be compared with ordinary booking and staff help. Two counter layouts would test waiting, access to a person and whether visitors can still enter the library’s shared activities.
+
+**Concrete first ask (proposed):** Could you suggest a member with public-library, community-building or post-occupancy experience? I would ask for a critique of a plan and observation protocol, alongside my exploration of an architecture PhD.
 
 ## Supervision and open questions
 

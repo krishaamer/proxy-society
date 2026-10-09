@@ -1,6 +1,6 @@
 # Nicolas Tixier — research for first contact
 
-**Lead:** `nicolas_tixier`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `nicolas_tixier`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ENSA Grenoble / Université Grenoble Alpes, AAU-CRESSON. **Recorded role:** Professor of architectural and urban design theory and practice; HDR researcher.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Make physical presence, hospitality and exclusion observable through walking, sound, film and situated experience. Particularly useful for showing what a proxy cannot adequately replace at a civic threshold.
 
-**Draft connection (assessment):** Your architectural-ambiance research and film-based spatial inquiry offer a way to study the experience of welcome, interruption and waiting when arrival is represented by someone or something else.
+**Selected source anchor:** [AAU research on ambiances, hospitality and film-based inquiry](https://aau.archi.fr/equipe/tixier-nicolas/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could a comparison of human arrival, staff assistance and delegated arrival form a defensible ambiance thesis, and which Grenoble doctoral context might support it?
+**Draft connection (assessment):** Your [AAU research on ambiances, hospitality and film-based inquiry](https://aau.archi.fr/equipe/tixier-nicolas/) provides a way to examine reception as an experienced ambiance. I want to understand what welcomes a person when their task can arrive without them.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would film and describe three staged arrivals: the author, a human assistant and an AI-mediated representative. Two threshold arrangements would be compared through waiting, recognition, sound and access to a staff member.
+
+**Concrete first ask (proposed):** Would you consider a doctoral or ambiance-methods conversation through AAU/ENSAG? I would send a storyboard and observation route, asking how to connect the filmed encounters to a precise spatial intervention.
 
 ## Supervision and open questions
 

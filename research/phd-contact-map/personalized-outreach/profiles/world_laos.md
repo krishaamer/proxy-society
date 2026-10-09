@@ -1,6 +1,6 @@
 # Soukanh Chitpanya — research for first contact
 
-**Lead:** `world_laos`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_laos`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National University of Laos, Faculty of Architecture. **Recorded role:** Associate professor; dean appointed in July 2024.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss campus/community spatial design and refer an appropriate researcher; contact via the faculty site and reconfirm role.
 
-**Draft connection (assessment):** Your faculty's published Urban Thinkers Campus work concerns a green, sustainable Dongdok campus. A small threshold experiment could ask how a service change affects campus access and shared activity.
+**Selected source anchor:** [NUOL’s Dongdok campus urban-research account](https://sites.google.com/nuol.edu.la/farnuol/home) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague or research context for comparing arrival, waiting and assistance, and advise how to keep the study grounded in campus users' needs?
+**Draft connection (assessment):** [NUOL’s Dongdok campus urban-research account](https://sites.google.com/nuol.edu.la/farnuol/home) offers a concrete campus-planning connection. I want to examine the reception as part of an ordinary campus route, not only as a transaction interface.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would compare the existing approach with an optional AI-mediated collection point, observing waiting, access to staff and connections to shared campus space.
+
+**Concrete first ask (proposed):** Could you suggest a faculty colleague to critique that route-and-activity map and discuss an appropriate research context? I would ask separately about doctoral eligibility and supervision, without assuming the campus is an agreed study site.
 
 ## Supervision and open questions
 

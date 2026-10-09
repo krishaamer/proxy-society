@@ -1,6 +1,6 @@
 # Teresa Heitor — research for first contact
 
-**Lead:** `teresa_heitor`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `teresa_heitor`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Instituto Superior Técnico, University of Lisbon. **Recorded role:** Professor of Architecture; Space-Use Analysis and Post Occupancy Evaluation research lead.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help evaluate a library or campus pilot through observed behavior and user/staff outcomes. Strong method fit before any expensive robotic installation.
 
-**Draft connection (assessment):** Your research on space-use analysis and post-occupancy evaluation in educational facilities is directly relevant to comparing an existing threshold with a proposed alternative.
+**Selected source anchor:** [research on educational facilities and post-occupancy evaluation](https://scholar.tecnico.ulisboa.pt/authors/004d3f8ef17fec06081d9034d4778743efe53d0d8038e9abc75287ee09a0f47d/bio?lang=en) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which observations would establish changes in access, comprehension and staff workload, and could a university-building pilot fit your research team?
+**Draft connection (assessment):** Your published [research on educational facilities and post-occupancy evaluation](https://scholar.tecnico.ulisboa.pt/authors/004d3f8ef17fec06081d9034d4778743efe53d0d8038e9abc75287ee09a0f47d/bio?lang=en) offers a relevant baseline: understand how the existing place is used before installing a new service arrangement.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed campus-library pilot would first observe reception, queue spillover and staff assistance. A reversible AI-mediated handoff point would then be compared with the original layout using the same task, recording route changes, interruptions and perceived access to help.
+
+**Concrete first ask (proposed):** Would you discuss a possible doctoral or evaluation-advisory role at IST? I would send the observation schedule and plans, asking what a credible before/after comparison needs to control in a small occupied building.
 
 ## Supervision and open questions
 

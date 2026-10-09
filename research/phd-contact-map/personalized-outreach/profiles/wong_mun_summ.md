@@ -1,6 +1,6 @@
 # Wong Mun Summ — research for first contact
 
-**Lead:** `wong_mun_summ`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `wong_mun_summ`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** WOHA. **Recorded role:** Founding Director; NUS Professor in Practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could critique when architecture preserves public life and ecological value as routine services become delegable. An appropriate counterweight to infrastructure-first building experiments.
 
-**Draft connection (assessment):** WOHA describes interconnected human-scaled environments that foster community and stewardship of nature. That raises a useful question about what a service redesign should preserve at a building's edge.
+**Selected source anchor:** [WOHA’s design philosophy](https://woha.net/design-philosophy/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How could a civic threshold allow routine tasks to be delegated while retaining shared amenities, informal encounter and ecological value, and might your team advise on a small study?
+**Draft connection (assessment):** [WOHA’s design philosophy](https://woha.net/design-philosophy/) emphasises human scale, community and shared amenities. I want those qualities to remain explicit when a building’s service no longer requires its author to attend.
+
+**Specific spatial case (proposal):** For Proxy Society, I would compare a direct library collection route with an approach that retains visible access to seating, shared activity and staff assistance. The AI-mediated task would be optional; ordinary presence would remain a valid choice.
+
+**Concrete first ask (proposed):** Could you critique the shared-space diagram or suggest a relevant built precedent? I am seeking architectural practice advice for a PhD proposal, especially on preserving optional participation without forcing social contact on users.
 
 ## Supervision and open questions
 

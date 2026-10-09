@@ -1,6 +1,6 @@
 # Tashkent University of Architecture and Construction — research for first contact
 
-**Lead:** `world_uzbekistan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_uzbekistan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Tashkent University of Architecture and Construction. **Recorded role:** Architecture university, via general office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a relevant architecture researcher and clarify doctoral pathways; the mailbox is institutional and capacity is unverified.
 
-**Draft connection (assessment):** Your university's architecture-and-construction setting and published international collaborations provide a route to assess a small spatial experiment before a supervisory match is assumed.
+**Selected source anchor:** [Tashkent university’s architecture-faculty and collaboration route](https://taqu.uz/taqu) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who studies civic-building use, reception or environment-behaviour questions, and could advise on the appropriate research or doctoral enquiry process?
+**Draft connection (assessment):** [Tashkent university’s architecture-faculty and collaboration route](https://taqu.uz/taqu) provides the institutional channel for finding an architectural design-research colleague.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library prototype compares two handoff arrangements for an AI-authorised collection, using plans, sections and staged refusal/takeover tasks to test human access and staff visibility.
+
+**Concrete first ask (proposed):** Could you forward this to a colleague in public-building use, spatial analysis or physical prototyping? I would send the comparison brief and establish the appropriate doctoral/advisory route separately from the general collaboration page.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Josefa Adellach Coma — research for first contact
 
-**Lead:** `world_andorra`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_andorra`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Taller Arquitectonia / COAA register. **Recorded role:** Registered practising architect.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could provide a local practice critique of access and reception thresholds and suggest a civic-building contact; thematic fit is not established by registration.
 
-**Draft connection (assessment):** The COAA register identifies your architectural practice in Andorra. I am looking for a local practice perspective before assuming that a delegated service needs new architectural infrastructure.
+**Selected source anchor:** [COAA’s practising-architect register](https://coaa.ad/llistat-darquitectes-en-exercici/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you discuss how a small civic threshold could preserve welcome and human assistance, or suggest a colleague with relevant public-building experience?
+**Draft connection (assessment):** I found your professional route in [COAA’s practising-architect register](https://coaa.ad/llistat-darquitectes-en-exercici/). I am not assuming that delegated services are part of your practice; I am seeking a local architectural critique or referral.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library retrofit would add a reversible handoff point for an AI-authorised collection, while retaining the ordinary counter and access to staff. I want to test the unchanged plan as well as the retrofit.
+
+**Concrete first ask (proposed):** Could you advise on the feasibility of that small spatial comparison or suggest an Andorran colleague with civic-interior experience? I would send one plan and section before proposing any field access.
 
 ## Supervision and open questions
 

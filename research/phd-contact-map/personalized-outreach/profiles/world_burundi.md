@@ -1,6 +1,6 @@
 # SOCOD / GL — research for first contact
 
-**Lead:** `world_burundi`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_burundi`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** SOCOD / GL, Bujumbura. **Recorded role:** Architecture and construction office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a locally practising architect for threshold design critique; specialist civic-space experience remains unconfirmed.
 
-**Draft connection (assessment):** SOCOD / GL describes architecture and construction work in Burundi and the Great Lakes region. I am looking for practical advice on the everyday operation of a shared-building threshold.
+**Selected source anchor:** [SOCOD’s architecture and construction practice](https://www.socod.fr/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could an appropriate architect discuss reception, staff assistance and handoff locations, or suggest a local researcher or civic-building operator for an initial conversation?
+**Draft connection (assessment):** [SOCOD’s architecture and construction practice](https://www.socod.fr/) identifies a Bujumbura design-and-construction route. I am seeking a practical critique of a small reversible interior intervention.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare two handoff bays for an AI-authorised collection, testing clearance, staff reach and the ability of visitors to pass or seek help.
+
+**Concrete first ask (proposed):** Could an architect in your team review one plan and section, or refer me to a civic-building colleague? This is practice advice for an architecture PhD proposal, before any operator, budget or live robot trial is agreed.
 
 ## Supervision and open questions
 

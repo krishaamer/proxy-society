@@ -1,6 +1,6 @@
 # AnnaLisa Meyboom — research for first contact
 
-**Lead:** `annalisa_meyboom`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `annalisa_meyboom`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of British Columbia, School of Architecture and Landscape Architecture. **Recorded role:** Associate Professor.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Strong interdisciplinary doctoral setting for connecting an interaction-design background to spatial agency. Could pair public-space questions with a technically credible pilot.
 
-**Draft connection (assessment):** Your research links architecture, engineering and urban informatics with the human environment. That combination fits the pilot's need to test technical arrangements as spatial and social conditions.
+**Selected source anchor:** [UBC Design, Technology and Society PhD](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-design-technology-society) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the pilot fit UBC's Design, Technology and Society PhD, and what would make its design contribution clear alongside user research and authority modelling?
+**Draft connection (assessment):** [UBC Design, Technology and Society PhD](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-design-technology-society) provides the interdisciplinary home I am exploring for a spatial design question with technical and social consequences.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose a library counter prototype where an author’s AI-mediated task becomes a visible, limited destination, with a human takeover point. Two layouts would be compared for staff intervention and user control, alongside an ordinary booking-and-assistance baseline.
+
+**Concrete first ask (proposed):** Would you consider a supervision conversation? I would send the authority diagram and plans, asking how to make the engineering constraints and the observations of human use contribute to the same architectural argument.
 
 ## Supervision and open questions
 

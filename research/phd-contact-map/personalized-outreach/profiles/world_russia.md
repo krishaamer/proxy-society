@@ -1,6 +1,6 @@
 # Union of Architects of Russia — research for first contact
 
-**Lead:** `world_russia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_russia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Union of Architects of Russia. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Union's regional and professional activities provide a route to identify a relevant architectural practitioner or researcher, without assuming individual expertise from membership alone.
+**Selected source anchor:** [Union of Architects of Russia](https://www.uar.ru/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest someone studying public-building reception, accessibility or spatial behaviour who might discuss the bounded threshold question through a public professional route?
+**Draft connection (assessment):** [Union of Architects of Russia](https://www.uar.ru/) is the professional route for finding a member experienced in public-building circulation or environment–behaviour studies.
+
+**Specific spatial case (proposal):** For Proxy Society, two library reception arrangements would carry the same AI-mediated collection task. Visibility of human help, waiting and interventions would be measured against ordinary arrival and assistance.
+
+**Concrete first ask (proposed):** Could you suggest an architect or researcher to critique the plan pair and observation protocol? I would start with a specific spatial-methods question for an architecture PhD proposal, rather than seek a general technology endorsement.
 
 ## Supervision and open questions
 

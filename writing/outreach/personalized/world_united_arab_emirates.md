@@ -1,14 +1,14 @@
 # Email draft — Department of Architecture
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_united_arab_emirates`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_united_arab_emirates`.
 
 **Recipient:** Department of Architecture — American University of Sharjah, College of Architecture, Art and Design.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.aus.edu/caad/department-of-architecture/faculty).
 
-**Subject:** An AUS architecture research referral
+**Subject:** AUS design-build referral for a reception mock-up with a fixed task
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_united_arab_emirates.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_united_arab_emirates.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear American University of Sharjah, College of Architecture, Art and Design team,
 
-Your department describes hands-on learning within a faculty of architects, designers and scholars. That is relevant to evaluating a threshold proposal through a small spatial prototype.
+[AUS architecture faculty’s design-build research and advising route](https://www.aus.edu/caad/department-of-architecture/faculty) is a concrete route to a researcher who can connect physical making with architectural evaluation.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library mock-up would vary only counter geometry and handoff visibility for the same AI-mediated collection, comparing passing, staff intervention and user control with ordinary assistance.
 
-Could you suggest a colleague studying civic access, reception or human-technology interaction, and advise on an appropriate doctoral or external research connection?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you identify a design-build or environment–behaviour colleague to critique the section and test protocol? I would discuss a suitable doctoral/advisory context separately from the departmental advising route.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_united_arab_emirates.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 153 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 97 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

@@ -1,6 +1,6 @@
 # Hector Cea — research for first contact
 
-**Lead:** `world_el_salvador`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_el_salvador`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Colegio de Arquitectos de El Salvador (CADES). **Recorded role:** Architect; president in published 2024–2026 board.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could provide an architecture-network introduction and civic-space critique; use the organisation mailbox and reconfirm leadership.
 
-**Draft connection (assessment):** FPAA's published member record identifies your connection with CADES for the 2024-2026 term. I am seeking the appropriate current Salvadoran architecture contact for a small research discussion.
+**Selected source anchor:** [FPAA’s CADES leadership record for 2024–2026](https://fpaa-arquitectos.org/region-centro/centro-quienes-somos/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest a colleague working on civic facilities, reception or inclusive access, and confirm which professional route should handle the enquiry?
+**Draft connection (assessment):** I found your professional connection in [FPAA’s CADES leadership record for 2024–2026](https://fpaa-arquitectos.org/region-centro/centro-quienes-somos/). I would first confirm the correct current recipient and seek a member referral.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library study would compare ordinary assistance with AI-mediated collection across two reception layouts, recording staff interruption and visitors’ ability to challenge a request.
+
+**Concrete first ask (proposed):** Could you suggest a Salvadoran architect or researcher with public-counter or post-occupancy experience? I would send a plan and coding sheet for critique as practice input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

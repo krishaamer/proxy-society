@@ -1,6 +1,6 @@
 # Mario Carpo — research for first contact
 
-**Lead:** `carpo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `carpo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** UCL, Bartlett School of Architecture. **Recorded role:** Reyner Banham Professor of Architectural History and Theory; Architecture & Digital Theory programme director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could situate delegated action within architectural digital culture and sharpen the thesis's originality relative to AI-assisted design.
 
-**Draft connection (assessment):** Your 2025 article AI Tectonics, or the culture wars of building technology is a useful starting point for questioning where a computational change becomes an architectural one.
+**Selected source anchor:** [AI Tectonics](https://link.springer.com/article/10.1007/s44223-024-00081-0) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Does delegated arrival identify a distinct architectural problem, and which theoretical comparison would help test that claim before developing a doctoral proposal?
+**Draft connection (assessment):** [AI Tectonics](https://link.springer.com/article/10.1007/s44223-024-00081-0) offers a specific starting point for placing the proposal within architectural computation. My concern is AI acting in an occupied building, beyond AI used to produce its design.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library pilot would examine a mandate becoming a spatial condition: an agent can reach one collection point, staff can halt it, and the author can attend instead. Plans and observed encounters would test whether that changes a threshold typology or merely its operating rules.
+
+**Concrete first ask (proposed):** Would you critique that distinction in a short doctoral-framing conversation? I would send a two-page argument and ask which architectural precedent would best challenge the claim of a new condition.
 
 ## Supervision and open questions
 

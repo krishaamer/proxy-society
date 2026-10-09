@@ -1,6 +1,6 @@
 # Malawi Institute of Architects — research for first contact
 
-**Lead:** `world_malawi`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_malawi`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Malawi Institute of Architects. **Recorded role:** Professional architecture institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a practitioner for community facilities and civic-building access.
 
-**Draft connection (assessment):** Your Institute's stated objects include architectural study and assisting the public with architecture and building. Those aims are relevant to evaluating whether a service change creates public value.
+**Selected source anchor:** [Malawi Institute of Architects’ professional route](https://mia.mw/wp/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a Malawian architect or academic in civic-building use, reception or inclusive design who might discuss a small spatial comparison?
+**Draft connection (assessment):** I am approaching [Malawi Institute of Architects’ professional route](https://mia.mw/wp/) to identify a member with public-building and user-evaluation experience.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would observe the existing reception before adding an optional AI-mediated collection point. The comparison would measure staff reach, passing conflicts and users’ ability to regain control.
+
+**Concrete first ask (proposed):** Could you suggest a Malawi architect or academic to critique a before/after plan and coding sheet? I would start with architectural advice for a PhD proposal, with a site and any supervisory commitment still to be established.
 
 ## Supervision and open questions
 

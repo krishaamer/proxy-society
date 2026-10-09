@@ -1,6 +1,6 @@
 # David Moreno Sperling — research for first contact
 
-**Lead:** `david_sperling`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `david_sperling`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of São Paulo, Institute of Architecture and Urbanism / NEC. **Recorded role:** Full Professor; Contemporary Spatialities research-group coordinator.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could bring a situated Latin American critique of architectural technologies, representations and public space. Strong fit for avoiding a universal model derived only from affluent automated buildings.
 
-**Draft connection (assessment):** Your NEC research and work on the politics and appropriations of digital fabrication in Latin America suggest that architectural computation should be studied through its local cultures and consequences.
+**Selected source anchor:** [USP NEC research on digital fabrication and its appropriations](https://www.iau.usp.br/institucional/david-moreno-sperling/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How could a delegated-threshold study reveal those local assumptions about authority and access, and would it fit an architecture research conversation at IAU-USP?
+**Draft connection (assessment):** Your [USP NEC research on digital fabrication and its appropriations](https://www.iau.usp.br/institucional/david-moreno-sperling/) offers a situated critique of what a digital fabrication system promises and whom it serves. I want that critique applied to the proposed intervention itself.
+
+**Specific spatial case (proposal):** In Proxy Society, a reception boundary could materialise an AI agent’s limited mandate, but might also make public access dependent on a technical system. A low-technology counter arrangement would be compared with the fabricated alternative, observing who can alter or refuse each.
+
+**Concrete first ask (proposed):** Would you review that comparison and discuss a doctoral or critical-advisory connection at USP? I would send the component and responsibility diagrams, asking which appropriation or maintenance practices should be observed rather than assumed away.
 
 ## Supervision and open questions
 

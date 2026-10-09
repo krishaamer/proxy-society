@@ -1,6 +1,6 @@
 # Chris M. Cunningham — research for first contact
 
-**Lead:** `world_saint_vincent_and_the_grenadines`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_saint_vincent_and_the_grenadines`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Chris M. Cunningham Chartered Architect. **Recorded role:** Chartered architect; Kingstown practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could provide local practice critique and a civic-building introduction; no doctoral role is established.
 
-**Draft connection (assessment):** Your practice publishes residential and commercial work alongside a Saint Vincent and the Grenadines enquiry route. I am seeking a locally grounded critique of a modest shared-building change.
+**Selected source anchor:** [your published St Vincent and the Grenadines practice contact](https://svg-architect.weebly.com/contact.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you discuss reception, privacy and handoff design, or recommend a colleague experienced in civic facilities or inclusive access?
+**Draft connection (assessment):** I found [your published St Vincent and the Grenadines practice contact](https://svg-architect.weebly.com/contact.html) while seeking a local architectural review, rather than assuming an AI or doctoral-advisory role.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library plan compares shared reception and a side delegated-collection bay, preserving a clear human route and staff access during a paused or refused request.
+
+**Concrete first ask (proposed):** Could you review one dimensioned plan or recommend a civic-interior colleague? The initial request is practice advice for an architecture PhD proposal, with no site or equipment access assumed.
 
 ## Supervision and open questions
 

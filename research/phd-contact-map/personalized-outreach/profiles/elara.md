@@ -1,6 +1,6 @@
 # Mohan Rajesh Elara — research for first contact
 
-**Lead:** `elara`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `elara`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Singapore University of Technology and Design (SUTD). **Recorded role:** Professor, Engineering Product Development.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could test whether proposed proxy entrances, handoff zones and human-priority areas match real robot requirements and operational constraints.
 
-**Draft connection (assessment):** Your work on robot ergonomics, autonomous systems and reconfigurable platforms is relevant to the operational assumptions behind a shared threshold, particularly when a machine must yield or request assistance.
+**Selected source anchor:** [SUTD research on robot ergonomics and reconfigurable platforms](https://www.sutd.edu.sg/profile/mohan-rajesh-elara) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would your team be willing to critique a bounded handoff scenario and identify which failures or human-priority conditions a spatial prototype should test?
+**Draft connection (assessment):** Your [SUTD research on robot ergonomics and reconfigurable platforms](https://www.sutd.edu.sg/profile/mohan-rajesh-elara) is a direct operational complement to an architecture-led study. I need realistic passage and stopping requirements before drawing a robot-specific threshold.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library task is a bounded collection with a staff handoff. I would compare a shared approach and a small side bay, recording clearance, turning, waiting and the ability of a person to interrupt or pass. A mock-up would precede any autonomous trial.
+
+**Concrete first ask (proposed):** Would you review a dimensioned plan and identify a suitable platform or technical collaborator? I am looking for an operational advisor alongside an architecture PhD supervisor, starting with constraints rather than an equipment commitment.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Rami Daher — research for first contact
 
-**Lead:** `world_jordan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_jordan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** German Jordanian University, School of Architecture and Built Environment. **Recorded role:** Professor.
 
@@ -12,13 +12,19 @@ The architecture faculty directory lists Daher as professor and publishes his in
 
 The underlying contact record was checked on **2026-10-09**. Source review this pass: **Public source text available for focused review**. Availability is not confirmation that all role, programme or project claims remain current.
 
+GJU’s published profile describes Rami Daher’s work on public place-making, heritage, conservation and adaptive reuse.
+
 ## Proposed fit and contribution
 
 Could discuss architectural research framing and refer urban/social-space expertise; individual supervision eligibility remains unverified.
 
-**Draft connection (assessment):** Your German Jordanian University architecture profile is a relevant starting point for discussing how a civic-building threshold connects spatial design with institutional and cultural context.
+**Selected source anchor:** [GJU profile on public place-making and adaptive reuse](https://www.gju.edu.jo/content/prof-dr-rami-daher-2477) — reviewed 2026-10-10; Indexed primary profile text reviewed. Profile research description reviewed; not full project documentation or a supervision-capacity audit.
 
-**Concrete first ask (proposed):** Would you assess the pilot's architectural relevance, or suggest a researcher working on public-space use, reception and the experience of belonging?
+**Draft connection (assessment):** Your [GJU profile on public place-making and adaptive reuse](https://www.gju.edu.jo/content/prof-dr-rami-daher-2477) connects intervention in existing places with heritage and the politics of public space. I want the proposed service retrofit to be judged against that wider meaning.
+
+**Specific spatial case (proposal):** For Proxy Society, a library threshold would retain its ordinary route while adding an optional AI-mediated handoff. Plans and staged encounters would test what becomes visible, who can reach help and whether the retrofit narrows public use.
+
+**Concrete first ask (proposed):** Could you critique that intervention brief and discuss an appropriate doctoral/advisory route? I would ask which continuity of use the spatial comparison must document before claiming a beneficial transformation.
 
 ## Supervision and open questions
 
@@ -37,6 +43,7 @@ No additional route constraint recorded; recheck the published channel before us
 ## Public sources
 
 1. [German Jordanian University, School of Architecture and Built Environment — published record 1](https://www.gju.edu.jo/content/faculty-directory-3535) — reviewed 2026-10-09; public text retrieved. Underlying evidence date: 2026-10-09. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
+2. [GJU profile on public place-making and adaptive reuse](https://www.gju.edu.jo/content/prof-dr-rami-daher-2477) — reviewed 2026-10-10; Indexed primary profile text reviewed. Underlying evidence date: 2026-10-10. Profile research description reviewed; not full project documentation or a supervision-capacity audit.
 
 ## Prepared correspondence
 

@@ -1,6 +1,6 @@
 # Architecture, Planning and Construction — faculty office — research for first contact
 
-**Lead:** `world_namibia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_namibia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Namibia University of Science and Technology. **Recorded role:** Built-environment academic unit, via faculty officer.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architecture researcher; the recipient is an administrative contact rather than a supervisor.
 
-**Draft connection (assessment):** The registrar's published route supports academic and faculty administration. I would like to reach the appropriate architecture, planning and construction research colleague rather than send an unfocused enquiry.
+**Selected source anchor:** [NUST’s Architecture, Planning and Construction faculty contact](https://www.nust.na/registrar) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you direct this pilot to someone studying civic-building access, reception or spatial behaviour, and indicate the relevant postgraduate enquiry process?
+**Draft connection (assessment):** I am using [NUST’s Architecture, Planning and Construction faculty contact](https://www.nust.na/registrar) to reach a researcher or design lecturer, rather than ask the faculty office to assess a broad AI project.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed campus-library study would compare an ordinary counter and a reversible delegated collection point, observing queue overlap, staff reach and the right to attend personally.
+
+**Concrete first ask (proposed):** Could you identify a colleague in public-interior design or post-occupancy evaluation? I would send a plan and observation matrix for critique, then establish an appropriate doctoral or external-advisory arrangement separately.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Schindler CoLab team — research for first contact
 
-**Lead:** `schindler_colab`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `schindler_colab`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Schindler Group. **Recorded role:** Building integration and robot logistics platform.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 A second infrastructure route for comparing shared elevators, segregated machine access and scope-limited authority. Useful for avoiding a pilot dependent on only one supplier.
 
-**Draft connection (assessment):** Schindler CoLab's robot-building logistics package enables robots to use elevators across floors. The pilot asks how those operational permissions should be understood by the people sharing the route.
+**Selected source anchor:** [Schindler CoLab robot-building-logistics integration](https://group.schindler.com/en/company/innovations/schindler-colab.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who could discuss the control boundaries, failure states and human overrides needed for a permissioned research trial of mixed human-robot elevator use?
+**Draft connection (assessment):** [Schindler CoLab robot-building-logistics integration](https://group.schindler.com/en/company/innovations/schindler-colab.html) connects service robots with elevators and building operations. My architectural question starts when the normal multi-floor trip cannot be completed.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-building task would be cancelled, refused or returned to a person in staged trials. Two reception arrangements would test where the robot can pause without blocking passage and where staff can take over visibly.
+
+**Concrete first ask (proposed):** Could you point me to public integration guidance on cancellation, restricted destinations and human takeover, or identify the appropriate colleague? I would send an operation-state diagram for feasibility advice alongside an architecture PhD.
 
 ## Supervision and open questions
 

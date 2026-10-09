@@ -1,6 +1,6 @@
 # Ole B. Jensen — research for first contact
 
-**Lead:** `ole_jensen`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `ole_jensen`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Aalborg University, Architecture and Urban Design. **Recorded role:** Professor; mobilities and urban theory researcher.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could frame queues, permissions, machine circulation and human handoffs as designed mobility rather than simple throughput. Useful for who benefits from avoiding travel and who bears extra work.
 
-**Draft connection (assessment):** Mobilities Design connects movement with material arrangements and non-human agencies. That perspective is relevant to tracing whose movement becomes easier and whose work or waiting increases through delegation.
+**Selected source anchor:** [Mobilities Design: Cities, Movements and Materialities](https://vbn.aau.dk/en/publications/mobilities-design-cities-movements-and-materialities/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** What would a mobilities analysis of one civic threshold need to observe, and could it inform a doctoral comparison of alternative spatial arrangements?
+**Draft connection (assessment):** [Mobilities Design: Cities, Movements and Materialities](https://vbn.aau.dk/en/publications/mobilities-design-cities-movements-and-materialities/) brings movement and material arrangements into the same account. My proposed threshold study needs to include the movements that a delegated service transfers to other people.
+
+**Specific spatial case (proposal):** In Proxy Society, I would trace a library collection by an AI agent acting for a visitor from authorisation to handoff: the author’s avoided trip, staff movement, the representative’s route and other visitors’ detours. Two reception arrangements would test whether less travel for one person produces more waiting or work for another.
+
+**Concrete first ask (proposed):** Could you critique that mobility map and discuss doctoral or advisory fit at Aalborg? I would ask which movements belong in the first comparison and how to document a handoff without reducing mobility to speed.
 
 ## Supervision and open questions
 

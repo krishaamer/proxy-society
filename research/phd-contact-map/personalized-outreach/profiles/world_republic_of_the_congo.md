@@ -1,6 +1,6 @@
 # Architecte Ingénieur Construction 360° — research for first contact
 
-**Lead:** `world_republic_of_the_congo`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_republic_of_the_congo`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Architecte Ingénieur Construction 360°, Brazzaville. **Recorded role:** Architecture and engineering practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architect for threshold and civic-building critique and suggest a local case-study setting; academic supervision is not established.
 
-**Draft connection (assessment):** Your practice describes bringing architecture, engineering and construction together from conception to execution. I am seeking a practical view on what a reception redesign changes in everyday building operation.
+**Selected source anchor:** [Architecte Ingénieur Construction 360°’s Brazzaville practice](https://arch-ing-construction360.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate architect critique a shared-threshold scenario, or suggest a Congolese researcher or civic-building colleague for an initial discussion?
+**Draft connection (assessment):** [Architecte Ingénieur Construction 360°’s Brazzaville practice](https://arch-ing-construction360.com/) provides a Republic of the Congo architectural/engineering route for a small layout feasibility review.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare two points for AI-mediated collection, testing clearance, staff access and whether a paused request blocks the ordinary human route.
+
+**Concrete first ask (proposed):** Could an architect in your team review one plan and section, or refer me to a relevant civic-building colleague? I am seeking practice input to an architecture PhD proposal, before identifying a field site or equipment partner.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Architectural Engineering Department — Faculty of Engineering — research for first contact
 
-**Lead:** `world_yemen`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_yemen`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Sana'a University. **Recorded role:** Architecture department, via engineering faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify an architecture researcher and discuss doctoral fit, local building use and observation methods; current programme operation needs confirmation.
 
-**Draft connection (assessment):** Your engineering faculty's published route identifies architectural engineering as an appropriate starting point for a building-use question. I am seeking a current research connection before assuming programme operation or fieldwork feasibility.
+**Selected source anchor:** [Sana’a University’s architecture PhD specification](https://su.edu.ye/ce/wp-content/uploads/sites/11/2024/12/Doctor-of-Philosophy-in-Architecture.pdf) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest a colleague studying civic reception, accessibility or spatial behaviour, and advise whether an external research-framing conversation is currently appropriate?
+**Draft connection (assessment):** [Sana’a University’s architecture PhD specification](https://su.edu.ye/ce/wp-content/uploads/sites/11/2024/12/Doctor-of-Philosophy-in-Architecture.pdf) gives a published programme reference, but I would first confirm current operation and the appropriate research recipient.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study varies counter layout while holding an AI-delegated collection task constant, using drawings and staged refusal/takeover to test staff visibility and user control.
+
+**Concrete first ask (proposed):** Could you identify an architecture colleague to critique the study and potential doctoral contribution? I would send the plan pair and establish intake, eligibility and supervisory availability separately from the specification.
 
 ## Supervision and open questions
 

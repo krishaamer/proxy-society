@@ -1,6 +1,6 @@
 # Brisbane O’Garro Alvaranga — research for first contact
 
-**Lead:** `world_saint_kitts_and_nevis`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_saint_kitts_and_nevis`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Brisbane O’Garro Alvaranga. **Recorded role:** Architecture/engineering practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce an architect to critique arrival, reception and public-building access.
 
-**Draft connection (assessment):** BOA's practice account emphasises relationships in delivering projects. Reception is a useful architectural setting for examining how those relationships change when a task arrives through a representative.
+**Selected source anchor:** [BOA’s Basseterre office route](https://www.boaarchitects.com/contact) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could your team critique a small civic-threshold scenario, or suggest a Saint Kitts and Nevis practitioner or operator experienced in inclusive building access?
+**Draft connection (assessment):** [BOA’s Basseterre office route](https://www.boaarchitects.com/contact) provides the practice channel I am using to request a small civic-interior feasibility critique.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare a side collection bay and a shared counter, testing the dimensions for an AI agent acting for a visitor, sightlines and where staff can take over without blocking ordinary visitors.
+
+**Concrete first ask (proposed):** Could an architect in your team review one plan and section, or suggest an appropriate St Kitts and Nevis colleague? This is practice input to an architecture PhD proposal before any building access or technical trial is considered.
 
 ## Supervision and open questions
 

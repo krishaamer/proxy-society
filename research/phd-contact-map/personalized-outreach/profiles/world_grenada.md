@@ -1,6 +1,6 @@
 # Contemporary Caribbean Architecture — research for first contact
 
-**Lead:** `world_grenada`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_grenada`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Contemporary Caribbean Architecture. **Recorded role:** Grenada architecture practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss civic-building arrival, social use and a locally suitable case study; a named research collaborator remains to be identified.
 
-**Draft connection (assessment):** Contemporary Caribbean describes human-centred, climate-resilient design that respects local culture. That is relevant to the comfort and social meaning of waiting and arriving at a civic building.
+**Selected source anchor:** [Contemporary Caribbean Architecture’s Grenada office](https://www.contemporarycaribbean.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team critique a small threshold comparison, or suggest a Grenadian architect or operator who could discuss its practical and cultural context?
+**Draft connection (assessment):** [Contemporary Caribbean Architecture’s Grenada office](https://www.contemporarycaribbean.com/) offers a local architectural route for reviewing a small threshold intervention. I am not inferring an AI or research specialism from the office listing.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library plan would add an optional delegated handoff while retaining a direct human route to staff, testing waiting and passing conflicts.
+
+**Concrete first ask (proposed):** Could the appropriate architect critique the arrival sketch or suggest a civic-building colleague? That advice would inform an architecture PhD proposal before any operator or field site is approached.
 
 ## Supervision and open questions
 

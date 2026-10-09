@@ -1,6 +1,6 @@
 # Lantz Boggio / Architects — research for first contact
 
-**Lead:** `world_marshall_islands`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_marshall_islands`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Lantz Boggio / Architects & Interior Designers, United States. **Recorded role:** Architecture practice with documented Marshall Islands projects.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss institutional thresholds or refer a local architect. Military/government project experience does not establish suitability for a civilian pilot.
 
-**Draft connection (assessment):** Your published government-project portfolio documents work connected with Kwajalein. That is an external project connection, rather than a locally based architecture-research contact.
+**Selected source anchor:** [Lantz Boggio’s Kwajalein government-project connection](https://www.lantz-boggio.com/government/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the relevant project architect advise on civic or institutional reception and handoff design, or suggest an appropriate locally based Marshall Islands professional?
+**Draft connection (assessment):** [Lantz Boggio’s Kwajalein government-project connection](https://www.lantz-boggio.com/government/) establishes a project connection to the Marshall Islands from your US practice. I am seeking design lessons or a local introduction, rather than treat your office as locally based.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library study would compare ordinary reception with an optional AI-mediated collection point, testing staff reach and human passage during refusal or takeover.
+
+**Concrete first ask (proposed):** Could you suggest a relevant architectural lesson from the Kwajalein work, or a Marshall Islands professional to consult? I would send a small arrival diagram as practice input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

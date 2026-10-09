@@ -1,6 +1,6 @@
 # Kathrin Dörfler — research for first contact
 
-**Lead:** `kathrin_doerfler`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kathrin_doerfler`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Technical University of Munich, Digital Fabrication. **Recorded role:** Professor of Digital Fabrication.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could make shared-space experiments technically credible and help distinguish robot capability from architectural effects. Construction-site research requires adaptation to a civic service setting.
 
-**Draft connection (assessment):** Your work on collaborative fabrication, on-site robotics and augmented reality makes negotiated human-machine responsibility a useful connection to this pilot.
+**Selected source anchor:** [TUM Digital Fabrication research on collaborative robots](https://www.arc.ed.tum.de/en/df/professorship/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which methods from human-robot teamwork could test movement conflicts, yielding and handoff at a shared civic doorway, and which would need adaptation to building users?
+**Draft connection (assessment):** Your [TUM Digital Fabrication research on collaborative robots](https://www.arc.ed.tum.de/en/df/professorship/) studies collaboration between people and robots. I would like to adapt a team-based view to a public reception where roles and authority can be ambiguous.
+
+**Specific spatial case (proposal):** For Proxy Society, a robot’s library collection would be interrupted by a staff check or a person needing priority. Two layouts would differ in reachability and visibility of the handoff point. A staged trial would record who notices, yields and resumes the task.
+
+**Concrete first ask (proposed):** Could you review the plan and interruption script, and discuss a technical-advisory or doctoral fit? The immediate question is which team behaviours depend on spatial arrangement and which depend on the robot’s control policy.
 
 ## Supervision and open questions
 

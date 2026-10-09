@@ -1,6 +1,6 @@
 # Institute of Architects of Zimbabwe — research for first contact
 
-**Lead:** `world_zimbabwe`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_zimbabwe`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Institute of Architects of Zimbabwe, Harare. **Recorded role:** Professional architecture institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a civic-building or architectural-experience practitioner and help identify a local case study; no individual doctoral supervisor is verified.
 
-**Draft connection (assessment):** Your Institute's architect register and educational remit provide a route to practitioners and researchers with relevant local experience. I am seeking a critique before proposing a site or new infrastructure.
+**Selected source anchor:** [Institute of Architects of Zimbabwe’s Harare route](https://www.zimarchitects.com/contact) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you recommend someone studying civic reception, accessibility or everyday spatial behaviour who might discuss a modest delegated-threshold experiment?
+**Draft connection (assessment):** I am using [Institute of Architects of Zimbabwe’s Harare route](https://www.zimarchitects.com/contact) to find a member experienced in civic-interior design or post-occupancy evaluation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would retain ordinary reception while testing two positions for AI-mediated collection, observing waiting, staff reach and the right to regain control personally.
+
+**Concrete first ask (proposed):** Could you suggest a Zimbabwe architect or researcher to critique the plan pair and coding sheet? The first contribution would be practice-methods advice for an architecture PhD proposal before any operator or site arrangement is proposed.
 
 ## Supervision and open questions
 

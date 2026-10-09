@@ -1,6 +1,6 @@
 # Charles Foong Cheng Wang — research for first contact
 
-**Lead:** `world_brunei`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_brunei`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Arkitek Ting. **Recorded role:** Registered practising architect.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique threshold design and refer a Brunei civic-space project; thematic fit needs discussion.
 
-**Draft connection (assessment):** The government's 2026 practising-certificate list identifies you with Arkitek Ting. I am seeking a practice view on whether a proposed service change calls for a meaningful spatial intervention.
+**Selected source anchor:** [Brunei’s 2026 practising-certificate list](https://www.bapeqs.gov.bn/wp-content/uploads/2026/01/BAPEQS-List-PC-Architect-01-2026-as-of-31.12.2025-36.pdf) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you discuss reception and handoff arrangements in a shared building, or refer me to a colleague experienced in civic or educational facilities?
+**Draft connection (assessment):** [Brunei’s 2026 practising-certificate list](https://www.bapeqs.gov.bn/wp-content/uploads/2026/01/BAPEQS-List-PC-Architect-01-2026-as-of-31.12.2025-36.pdf) identifies your practice and professional contact. I am seeking a design critique or referral, not assuming a particular research specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library mock-up would compare a shared counter and a side collection bay, testing clear human passage and a staff-accessible stop point for an AI-mediated errand.
+
+**Concrete first ask (proposed):** Could you review the dimensioned layout or suggest a Brunei colleague with civic-interior experience? The first request is to identify impractical assumptions before pursuing an architecture PhD study or a field site.
 
 ## Supervision and open questions
 

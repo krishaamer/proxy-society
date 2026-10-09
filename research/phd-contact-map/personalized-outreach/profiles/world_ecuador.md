@@ -1,6 +1,6 @@
 # Pedro Jiménez Pacheco — research for first contact
 
-**Lead:** `world_ecuador`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_ecuador`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad de Cuenca, Architecture and Urbanism. **Recorded role:** Architecture and urbanism research coordinator.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could discuss the architectural contribution, local research methods and a possible doctoral or external-advisor route.
 
-**Draft connection (assessment):** The university's research council identifies your architecture-and-urbanism research role. I am seeking a context that can examine public access as a spatial and institutional question.
+**Selected source anchor:** [Cuenca architecture faculty’s research-council directory](https://www.ucuenca.edu.ec/investigacion-innovacion/vicerrectorado/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would you advise on a suitable research group for this threshold comparison, or suggest a colleague studying everyday civic-building use and its doctoral relevance?
+**Draft connection (assessment):** [Cuenca architecture faculty’s research-council directory](https://www.ucuenca.edu.ec/investigacion-innovacion/vicerrectorado/) identifies your research-coordination connection. I am approaching you to find the right expertise, without assuming that the directory establishes topic fit or capacity.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares a shared counter and a separate AI-mediated handoff, keeping the task constant and observing passage, recognition of staff and refusal recovery.
+
+**Concrete first ask (proposed):** Could you critique the architectural question or refer me to a colleague in spatial analysis or public-building use? I would send the plan pair and discuss an appropriate doctoral route separately.
 
 ## Supervision and open questions
 

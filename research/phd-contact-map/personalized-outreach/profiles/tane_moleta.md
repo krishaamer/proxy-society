@@ -1,6 +1,6 @@
 # Tane Moleta — research for first contact
 
-**Lead:** `tane_moleta`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `tane_moleta`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Te Herenga Waka, Victoria University of Wellington, School of Architecture. **Recorded role:** Architecture faculty researcher in digital, virtual and augmented space.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help stage alternative threshold arrangements before building them and use embodied simulation as part of architectural inquiry. Simulation must be checked against actual staff and public use.
 
-**Draft connection (assessment):** Your supervision of research connecting geolocated AR with pedestrian interaction suggests a way to evaluate spatial scenarios before committing to a full building trial.
+**Selected source anchor:** [Victoria University research in digital and augmented space](https://www.wgtn.ac.nz/architecture/research/performance-and-technologies/digital-design-and-virtual-and-augmented-space) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a staged or mixed-reality threshold comparison test authority, handoff and encounter, and what would be lost by studying it outside everyday building use?
+**Draft connection (assessment):** [Victoria University research in digital and augmented space](https://www.wgtn.ac.nz/architecture/research/performance-and-technologies/digital-design-and-virtual-and-augmented-space) gives a route to experiencing alternatives before building them. I want simulation to reveal design questions that must subsequently be checked in occupied space.
+
+**Specific spatial case (proposal):** For Proxy Society, participants would enact an AI-mediated library collection within two augmented threshold layouts. We would record orientation, perceived proximity to help and attempts to intervene, then compare a physical mock-up with the simulated account.
+
+**Concrete first ask (proposed):** Would you consider a doctoral/advisory conversation? I would send a simulation storyboard and ask which spatial claims can be tested in augmented space and which require the real staff, acoustics and bodily constraints of a threshold.
 
 ## Supervision and open questions
 

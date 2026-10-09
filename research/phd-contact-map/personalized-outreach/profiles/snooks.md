@@ -1,6 +1,6 @@
 # Roland Snooks — research for first contact
 
-**Lead:** `snooks`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `snooks`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** RMIT University. **Recorded role:** Professor of Architecture; Architecture Tectonic Formation Lab director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could support a computational or practice-research route if architectural prototyping becomes the main contribution.
 
-**Draft connection (assessment):** Your research on swarm intelligence and multi-agent formation offers a useful contrast between agents that generate architectural form and agents that operate within an occupied building.
+**Selected source anchor:** [RMIT work on multi-agent formation](https://www.rmit.edu.au/profiles/s/roland-snooks) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a practice-research project investigate that second condition, using alternative threshold arrangements to test authority, movement conflicts and human control?
+**Draft connection (assessment):** Your [RMIT work on multi-agent formation](https://www.rmit.edu.au/profiles/s/roland-snooks) uses behavioural processes and swarm intelligence in architectural formation. I want to distinguish that design use of agents from agents moving with a person’s revocable authority.
+
+**Specific spatial case (proposal):** In Proxy Society, a proposed threshold model would give each AI agent a bounded destination and a stopping rule, while preserving a clear human passage. I would compare generated arrangements with a conventional counter and test where the simulation fails to predict actual handoffs.
+
+**Concrete first ask (proposed):** Would you consider a PhD discussion about that model-to-prototype comparison? I would bring the rules and one layout, and ask whether the difference between simulated behaviour and occupied-space behaviour could carry the research contribution.
 
 ## Supervision and open questions
 

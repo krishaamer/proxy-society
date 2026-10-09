@@ -1,6 +1,6 @@
 # Jenni Reuter — research for first contact
 
-**Lead:** `reuter`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `reuter`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Aalto University, Department of Architecture. **Recorded role:** Professor of Architectural Principles and Theory; Head of Department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could protect the humane, sensory and socially attentive architectural ambition and introduce an appropriate Aalto supervisory arrangement.
 
-**Draft connection (assessment):** Your Architecture and Film contribution and architectural practice suggest a useful perspective on how to document the experience of arriving, waiting and encountering other people.
+**Selected source anchor:** [Architecture and Film](https://research.aalto.fi/en/persons/jenni-reuter/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise what a film-based threshold study should capture, and who at Aalto might be appropriate for the architectural doctoral component?
+**Draft connection (assessment):** Your Aalto portfolio includes [Architecture and Film](https://research.aalto.fi/en/persons/jenni-reuter/). Film could capture qualities of a threshold that a plan or successful transaction leaves out: hesitation, recognition and choosing to remain.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose filming consented, staged arrivals at an existing library entrance: the author attends, a human assists, or an AI-mediated request is handled. The same task would expose different relations among the counter, waiting space and staff access.
+
+**Concrete first ask (proposed):** Would you critique a short storyboard and suggest an appropriate Aalto supervision or advisory route? I would like help deciding which spatial qualities the films should test before turning them into a design intervention.
 
 ## Supervision and open questions
 

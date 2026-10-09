@@ -1,14 +1,14 @@
 # Email draft — June-Hao Hou
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `june_hao_hou`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `june_hao_hou`.
 
 **Recipient:** June-Hao Hou — NYCU, Graduate Institute of Architecture / College of Artificial Intelligence.
 
 **Published email:** jhou@arch.nycu.edu.tw. **Route:** [Published contact page](https://arch.nycu.edu.tw/en/about/faculty/jhou/).
 
-**Subject:** Separating spatial effects from AI effects
+**Subject:** A factorial study of counter layout and delegated-service interface
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/june_hao_hou.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/june_hao_hou.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear June-Hao Hou,
 
-Your work in design computation, human-computer interaction and information design is relevant to a difficulty in this pilot: identifying what the layout changes independently of the AI service.
+Your [NYCU profile linking design computation and HCI](https://arch.nycu.edu.tw/en/about/faculty/jhou/) spans architecture, design computation and interaction. I am approaching you about a specific confound in a proposed experiment: space and software may improve together.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s library pilot could compare two reception layouts using both an ordinary booking interface and an AI-mediated request interface. The four conditions would share the task; observations would separate route errors, permission comprehension and staff interventions.
 
-How would you design a comparison that separates spatial arrangement, interface and task effects, and could this question fit NYCU's architecture research context?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you critique that comparison and discuss a suitable PhD route at NYCU? I would bring the four-condition diagram and ask whether it is feasible enough to reveal an architectural contribution rather than simply a software effect.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/june_hao_hou.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 147 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 115 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

@@ -1,6 +1,6 @@
 # Architects Sweden — research for first contact
 
-**Lead:** `world_sweden`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_sweden`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Architects Sweden. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Architects Sweden describes professional development and community building as central to its mission. I am looking for a practitioner who can assess what a delegated service changes for a place's users.
+**Selected source anchor:** [Architects Sweden’s professional network](https://www.arkitekt.se/in-english/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend someone working on civic reception, inclusive access or spatial behaviour who might critique a modest threshold experiment?
+**Draft connection (assessment):** [Architects Sweden’s professional network](https://www.arkitekt.se/in-english/) is my route to a practitioner with public-library or occupied-interior evaluation experience, alongside separate supervisory enquiries.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison would test personal, assisted and AI-mediated collection across two layouts, documenting whose access to staff, control and passage changes.
+
+**Concrete first ask (proposed):** Could you suggest a Swedish architect or researcher for a plan-and-outcome critique? I would begin with a bounded architectural question for a PhD proposal, before considering a study operator or practice partnership.
 
 ## Supervision and open questions
 

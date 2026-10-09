@@ -1,6 +1,6 @@
 # Ji-Hyun Lee — research for first contact
 
-**Lead:** `jihyun_lee`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `jihyun_lee`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** KAIST, Graduate School of Culture Technology. **Recorded role:** Professor; Information-Based Design Lab director.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could strengthen encounter mapping and evaluation of how physical/digital proximity affects experience and control under delegated participation.
 
-**Draft connection (assessment):** Your lab's work connects computational design, service experience and physical or virtual proximity. The pilot asks how those forms of proximity change when a task is represented by an agent.
+**Selected source anchor:** [Information-Based Design Lab](https://ibd-lab.kaist.ac.kr/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which spatial and experiential variables would show whether delegation changes social contact at a shared threshold, and could this fit a Culture Technology doctoral discussion?
+**Draft connection (assessment):** Your [Information-Based Design Lab](https://ibd-lab.kaist.ac.kr/) examines service experience and physical/virtual proximity. I want to test what happens when proximity to the representative is separated from proximity to the person who authorised it.
+
+**Specific spatial case (proposal):** In a Proxy Society library pilot, visitors and staff could encounter an AI agent at a counter while its author remains remote. Two layouts would vary the distance to human help and visibility of the permission display, without changing the task or software.
+
+**Concrete first ask (proposed):** Could you critique that proximity model and discuss doctoral or methods-advisory fit at KAIST? I would bring a service-and-space map and ask which interaction outcomes can be attributed to the layout.
 
 ## Supervision and open questions
 

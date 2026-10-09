@@ -1,6 +1,6 @@
 # Zambia Institute of Architects — research for first contact
 
-**Lead:** `world_zambia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_zambia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Zambia Institute of Architects. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Institute maintains a professional register of architects and practices. I am seeking someone whose experience can connect a reception layout with the everyday work of a civic building.
+**Selected source anchor:** [Zambia Institute of Architects](https://zia.org.zm/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you recommend a practitioner or academic studying public-building use, inclusive access or spatial interaction who might critique the proposed pilot?
+**Draft connection (assessment):** [Zambia Institute of Architects](https://zia.org.zm/) is my route to a member who has designed or evaluated reception and shared waiting areas.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment compares a shared counter and AI-mediated handoff bay, testing clear human passage, visible assistance and staff recovery of an uncertain request.
+
+**Concrete first ask (proposed):** Could you recommend a Zambian architect or researcher to critique the plans and interruption script? I would begin with practice advice for an architecture PhD proposal, without assuming a trial site or partnership.
 
 ## Supervision and open questions
 

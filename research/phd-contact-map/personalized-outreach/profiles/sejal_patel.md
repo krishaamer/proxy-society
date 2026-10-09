@@ -1,6 +1,6 @@
 # Sejal Patel — research for first contact
 
-**Lead:** `sejal_patel`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `sejal_patel`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** CEPT University, Faculty of Management / planning and housing research. **Recorded role:** Professor; Dean of Faculty of Management, appointed in 2026.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could provide a governance conversation and connect to an appropriate CEPT architecture/planning research team. A management appointment does not itself identify the right architectural dissertation home.
 
-**Draft connection (assessment):** Your research in housing, planning policy and participatory governance suggests a way to examine access as an institutional question alongside the spatial design of a service.
+**Selected source anchor:** [CEPT profile on housing, planning and participatory governance](https://cept.ac.in/people/dr-sejal-patel) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which CEPT research or doctoral context could assess the governance consequences of this bounded pilot, and who would best anchor its architectural component?
+**Draft connection (assessment):** Your [CEPT profile on housing, planning and participatory governance](https://cept.ac.in/people/dr-sejal-patel) offers a governance perspective on a spatial proposal. I want to clarify who can agree to, revise and refuse the service before assuming a building operator can decide for everyone.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed community-centre workshop would map the author, their AI representative, staff and other users, then negotiate one collection task and its exceptions. A threshold mock-up would show where those decisions become enforceable or visible.
+
+**Concrete first ask (proposed):** Could you critique that participation structure and identify an appropriate CEPT architecture or planning PhD colleague? I would send the stakeholder map, asking which decisions require collective agreement before a spatial trial begins.
 
 ## Supervision and open questions
 

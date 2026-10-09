@@ -1,6 +1,6 @@
 # Architecture Faculty — NUACA — research for first contact
 
-**Lead:** `world_armenia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_armenia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National University of Architecture and Construction of Armenia. **Recorded role:** Architecture faculty, via university contact office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could route a request for architectural critique and locally eligible doctoral supervision; the mailbox is institutional.
 
-**Draft connection (assessment):** NUACA's architecture faculty is a relevant starting point for an Armenian research conversation about the experience and operation of shared buildings.
+**Selected source anchor:** [NUACA’s architecture faculty contact](https://nuaca.am/university/contacts-us/?lang=en) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a faculty member studying public-building thresholds, accessibility or spatial behaviour, and indicate the appropriate research or postgraduate enquiry route?
+**Draft connection (assessment):** [NUACA’s architecture faculty contact](https://nuaca.am/university/contacts-us/?lang=en) provides the institutional route for finding a researcher who studies occupied public interiors.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library test compares an ordinary counter with an AI-delegated handoff zone. The first question is how enclosure and staff visibility change orientation and access to human assistance, with the service task unchanged.
+
+**Concrete first ask (proposed):** Could your faculty suggest a colleague in architectural design, environment–behaviour or post-occupancy evaluation? I would send a section and task sequence for critique, then establish whether any doctoral context is appropriate.
 
 ## Supervision and open questions
 

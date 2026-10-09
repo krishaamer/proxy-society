@@ -1,6 +1,6 @@
 # Mohammad S. B. M. Abdullah — research for first contact
 
-**Lead:** `world_kuwait`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_kuwait`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Kuwait University, College of Architecture. **Recorded role:** Assistant professor of architecture engineering.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique architectural prototypes or introduce a building-use researcher; the particular research fit and supervision eligibility need confirmation.
 
-**Draft connection (assessment):** Kuwait University's architecture research portal identifies your academic affiliation and research outputs. I am exploring a small spatial experiment rather than assuming a broad technological programme.
+**Selected source anchor:** [Kuwait University’s architecture research profile](https://pure.ku.edu.kw/en/persons/mohammad-s-b-m-abdullah-2/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Focused indexed primary text; full current page and contact operation not established. Historical publications do not establish a current appointment.
 
-**Concrete first ask (proposed):** Would you assess whether a civic-threshold comparison fits your work, or suggest a colleague studying access, reception and everyday building experience?
+**Draft connection (assessment):** [Kuwait University’s architecture research profile](https://pure.ku.edu.kw/en/persons/mohammad-s-b-m-abdullah-2/) identifies your architecture-research connection. I would like to establish fit explicitly, rather than infer expertise in delegated systems from the appointment.
+
+**Specific spatial case (proposal):** For Proxy Society, two library reception plans would use the same AI-mediated collection task. The proposed evidence is visibility of staff, route choice, waiting and recovery when the mandate is questioned.
+
+**Concrete first ask (proposed):** Could you critique the design comparison or refer me to a colleague in environment–behaviour or spatial analysis? I would send the plans and coding scheme before asking about formal PhD supervision.
 
 ## Supervision and open questions
 

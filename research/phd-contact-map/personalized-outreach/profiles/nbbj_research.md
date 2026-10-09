@@ -1,6 +1,6 @@
 # NBBJ design and research team — research for first contact
 
-**Lead:** `nbbj_research`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `nbbj_research`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** NBBJ. **Recorded role:** Architecture and research practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Potential practice critique or case-study route for human experience in institutional buildings. Topic-specific researchers and delegated-agent expertise are not yet established.
 
-**Draft connection (assessment):** NBBJ's research-rooted design process connects building design with health, community and environmental outcomes. Those aims suggest evaluating more than the convenience of a delegated transaction.
+**Selected source anchor:** [NBBJ’s research-rooted design process](https://www.nbbj.com/our-story) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which design or research colleague could critique measures of comprehension, staff burden and perceived control in a small public-building threshold comparison?
+**Draft connection (assessment):** [NBBJ’s research-rooted design process](https://www.nbbj.com/our-story) provides a practice perspective on connecting design with human outcomes. I need a reception comparison that does not equate efficient automated service with a better place.
+
+**Specific spatial case (proposal):** For Proxy Society, two library layouts would handle the same AI-mediated collection. Observations would record queue overlap, access to a person, staff interruption and visitors’ ability to remain in shared space, with ordinary arrival as the baseline.
+
+**Concrete first ask (proposed):** Could you suggest a design researcher to critique that plan and outcome set? I would send a route diagram and short coding sheet, seeking practice-methods advice for an architecture PhD rather than a project-hosting commitment.
 
 ## Supervision and open questions
 

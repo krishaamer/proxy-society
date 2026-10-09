@@ -1,6 +1,6 @@
 # National Order of Architects of Cameroon — research for first contact
 
-**Lead:** `world_cameroon`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_cameroon`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Order of Architects of Cameroon. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** The Commonwealth Association of Architects lists your Order as its Cameroon member. I am seeking a current, appropriate architectural contact rather than assuming the directory identifies a research specialist.
+**Selected source anchor:** [Commonwealth Association listing for Cameroon’s professional order](https://commonwealtharchitects.org/our-members/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you confirm the best enquiry route and recommend a practitioner or academic working on civic buildings, reception or inclusive access?
+**Draft connection (assessment):** I found your route through [Commonwealth Association listing for Cameroon’s professional order](https://commonwealtharchitects.org/our-members/); I would first confirm the current professional channel rather than rely on an older directory entry.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library study would compare a shared counter with an AI-mediated handoff bay, observing staff intervention and visitors’ access to assistance.
+
+**Concrete first ask (proposed):** Could you identify a Cameroon-based architect or academic with public-interior or post-occupancy experience? I would request a critique of the two plans and observation sheet, as an initial contribution to an architecture PhD proposal.
 
 ## Supervision and open questions
 

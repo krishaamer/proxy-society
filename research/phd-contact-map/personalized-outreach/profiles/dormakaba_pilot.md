@@ -1,6 +1,6 @@
 # David Fuller / dormakaba innovation team — research for first contact
 
-**Lead:** `dormakaba_pilot`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `dormakaba_pilot`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** dormakaba. **Recorded role:** Chief Innovation Officer; access management and door automation.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Very close precedent for your authorization threshold. Could provide a technical comparison and help examine expiry, exceptions and human handoff without assuming a public-building solution is already proven.
 
-**Draft connection (assessment):** Your September 2026 pilot with ANYbotics and LEGIC demonstrates a robot passing through access-controlled doors using digital credentials. It creates a useful distinction between identifying a machine and understanding the task delegated to it.
+**Selected source anchor:** [September 2026 dormakaba–ANYbotics–LEGIC pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could the appropriate innovation team discuss how a university-led spatial comparison might test that distinction, including clear human-priority access and revocation?
+**Draft connection (assessment):** [September 2026 dormakaba–ANYbotics–LEGIC pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) shows a robot requesting access with a secure credential under existing door rules. I want to examine the additional question of whose task that credential permits.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library prototype would show a named author, one permitted destination and a revocation/handoff state. Door access would be tested alongside a visible staff point, comparing it with conventional assistance.
+
+**Concrete first ask (proposed):** Could you direct me to public guidance or a colleague on task-limited access and revocation in such an integration? I would bring a mandate diagram; I am seeking technical advice for architectural research, not treating the industrial pilot as evidence of civic delegation.
 
 ## Supervision and open questions
 

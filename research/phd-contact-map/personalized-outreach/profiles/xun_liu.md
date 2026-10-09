@@ -1,6 +1,6 @@
 # Xun Liu — research for first contact
 
-**Lead:** `xun_liu`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `xun_liu`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of British Columbia, SALA / Generative Environments Lab. **Recorded role:** Assistant Professor; director of Generative Environments Lab.
 
@@ -18,9 +18,13 @@ GenEnv publishes September 2027 doctoral recruitment and a four-year funding sta
 
 An unusually direct bridge from interaction design to an architecture-school doctorate. Test whether an agent's interpretation of access rules matches a person's mandate, then study how threshold design makes that mismatch legible.
 
-**Draft connection (assessment):** GenEnv's published September 2027 PhD recruitment connects human-AI design with computational and interdisciplinary built-environment research. The project's authority model could be tested through a concrete spatial comparison.
+**Selected source anchor:** [GenEnv’s September 2027 PhD recruitment](https://genenv.ai/openings) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could this bounded pilot fit GenEnv, and what combination of spatial prototyping and user research would make it appropriate for Design, Technology and Society?
+**Draft connection (assessment):** [GenEnv’s September 2027 PhD recruitment](https://genenv.ai/openings) connects human–AI design with built-environment research. I would like to test agentic action through an inspectable spatial experiment rather than only an improved design tool.
+
+**Specific spatial case (proposal):** For Proxy Society, a delegated library request would be translated into a permitted destination and visible human-handoff state. Staff and users would compare two threshold layouts, then revise the mandate model in response to confusion, refusal and recovery.
+
+**Concrete first ask (proposed):** Could this be a suitable September 2027 PhD direction in Design, Technology and Society? I would send the authority diagram, study comparison and proposed outputs, asking what would make the work a substantive contribution to GenEnv.
 
 ## Supervision and open questions
 

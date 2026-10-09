@@ -1,6 +1,6 @@
 # Sierra Leone Institute of Architects — research for first contact
 
-**Lead:** `world_sierra_leone`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_sierra_leone`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Sierra Leone Institute of Architects, Freetown. **Recorded role:** Professional architecture institute.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a local architect working on public access or community facilities. Contact details require reconfirmation with the institute.
 
-**Draft connection (assessment):** The Commonwealth Association of Architects lists your Institute as its Sierra Leone member. I am seeking a current local architecture contact with relevant building-use experience.
+**Selected source anchor:** [Commonwealth Association’s Freetown institute listing](https://commonwealtharchitects.org/our-members/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you confirm the best enquiry route and recommend a practitioner or researcher studying civic reception, inclusive access or spatial behaviour?
+**Draft connection (assessment):** I found your published professional route through [Commonwealth Association’s Freetown institute listing](https://commonwealtharchitects.org/our-members/). I would first confirm the current institute channel before seeking a named member.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library comparison would test a shared counter and side AI-mediated-collection point, observing waiting, visible assistance and takeover when the request cannot proceed.
+
+**Concrete first ask (proposed):** Could you suggest a Sierra Leone architect or researcher with public-interior or post-occupancy experience? I would request a critique of the plans and coding sheet as initial advice to an architecture PhD proposal.
 
 ## Supervision and open questions
 

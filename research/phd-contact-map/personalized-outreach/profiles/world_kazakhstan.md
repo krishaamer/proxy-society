@@ -1,6 +1,6 @@
 # Union of Architects of Kazakhstan — research for first contact
 
-**Lead:** `world_kazakhstan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_kazakhstan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Union of Architects of Kazakhstan. **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** Your Union describes professional work toward a full human environment through architecture and urban planning. I am seeking a practitioner who can examine a service change through its social and spatial consequences.
+**Selected source anchor:** [Union of Architects of Kazakhstan](https://kazarch.kz/en/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you recommend an architect or academic studying civic access, reception or spatial behaviour, and the correct professional enquiry route?
+**Draft connection (assessment):** I am using [Union of Architects of Kazakhstan](https://kazarch.kz/en/) to identify an architect or researcher who can evaluate circulation in an occupied civic building.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library test compares shared waiting and a separate AI agent stop point, measuring passage overlap, staff visibility and access to human help during the same collection task.
+
+**Concrete first ask (proposed):** Could you suggest a Kazakhstan member with public-interior or spatial-analysis experience? I would send the route diagrams and observation sheet for critique as initial input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

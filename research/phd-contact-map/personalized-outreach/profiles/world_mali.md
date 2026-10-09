@@ -1,6 +1,6 @@
 # Ordre des Architectes du Mali — research for first contact
 
-**Lead:** `world_mali`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_mali`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ordre des Architectes du Mali. **Recorded role:** Professional architecture order.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could route a request to an architect working on civic/community space; reconfirm contact currency before sending.
 
-**Draft connection (assessment):** The government's published directory identifies the Ordre des Architectes du Mali. I am seeking a current professional route to a practitioner with relevant civic-building experience.
+**Selected source anchor:** [government directory entry for the Ordre des Architectes du Mali](https://demarchesadministratives.gouv.ml/files/upload/annuaire/annuaire-fonction-publique-mali.pdf) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you confirm the appropriate enquiry contact and suggest an architect or researcher studying reception, accessibility or everyday public-building use?
+**Draft connection (assessment):** I found the published route through [government directory entry for the Ordre des Architectes du Mali](https://demarchesadministratives.gouv.ml/files/upload/annuaire/annuaire-fonction-publique-mali.pdf); I would first confirm the current office and enquiry channel because the directory date is unresolved.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed community-library study compares the ordinary help counter with an optional AI-mediated handoff, documenting access to staff and the recovery of an uncertain request.
+
+**Concrete first ask (proposed):** Could you identify a Mali architect or researcher with civic-interior experience? I would send one plan and interruption scene for critique as initial advice to an architecture PhD proposal.
 
 ## Supervision and open questions
 

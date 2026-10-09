@@ -1,6 +1,6 @@
 # Sille Pihlak — research for first contact
 
-**Lead:** `pihlak`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `pihlak`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Estonian Academy of Arts (EKA). **Recorded role:** Dean of the Faculty of Architecture; PAKK research-group co-lead.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help position the project within EKA, find prototype facilities and connect architecture with computational research.
 
-**Draft connection (assessment):** PAKK's work brings research, teaching and industry together through algorithmic design and timber systems. I am exploring whether a modest spatial prototype could similarly connect design decisions with lived building use.
+**Selected source anchor:** [PAKK’s algorithmic timber architecture research](https://pakk.artun.ee/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which EKA research group or colleague would best critique the architectural contribution and practical scale of this proposed civic-threshold pilot?
+**Draft connection (assessment):** [PAKK’s algorithmic timber architecture research](https://pakk.artun.ee/) offers a local route to material experimentation. I would like to use a prototype to test reception rather than assume that a new digital service demands new permanent construction.
+
+**Specific spatial case (proposal):** For an architecture PhD within Proxy Society, I propose one movable threshold mock-up with alternative sightlines, an explicit human route and a bounded AI agent handoff point. The existing counter would provide the baseline; observations would determine whether any added element is warranted.
+
+**Concrete first ask (proposed):** Could you advise on the appropriate EKA supervisory team and prototype facilities? I would send a plan and section first, asking whether that limited comparison is a useful architectural research problem for the faculty.
 
 ## Supervision and open questions
 

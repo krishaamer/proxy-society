@@ -1,14 +1,14 @@
 # Email draft — Sophia Psarra
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `psarra`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `psarra`.
 
 **Recipient:** Sophia Psarra — UCL, Bartlett School of Architecture.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://profiles.ucl.ac.uk/31395-sophia-psarra/about).
 
-**Subject:** Spatial configuration and represented participation
+**Subject:** Spatial form, authority and the reception sequence
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/psarra.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/psarra.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Sophia Psarra,
 
-Your research combines spatial modelling with evidence of users' activity to examine social, cultural and organisational performance. That combination is central to making this pilot architecturally testable.
+Your work represented in [Parliament Buildings: The Architecture of Politics in Europe](https://www.ucl.ac.uk/bartlett/events/2024/mar/book-launch-parliament-buildings-architecture-politics-europe) connects spatial form, embodied cognition and power. I want to bring that question down to the scale of an ordinary civic reception.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+In Proxy Society, I propose drawing the sequence through which an AI-mediated request is seen, accepted, questioned and returned to its author. A counter, waiting area and staff-access point could distribute authority differently even when the same digital mandate is presented.
 
-How should visibility, circulation and waiting be compared when a task may arrive through a representative, while preserving the experience of people who attend in person?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Would you consider a doctoral conversation about that architectural sequence? I would send an annotated plan and ask how to relate its spatial configuration to observed participation and refusal, rather than infer power from the diagram alone.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/psarra.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 149 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 121 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

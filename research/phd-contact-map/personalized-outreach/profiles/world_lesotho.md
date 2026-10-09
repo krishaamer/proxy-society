@@ -1,6 +1,6 @@
 # Trend Group — research for first contact
 
-**Lead:** `world_lesotho`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_lesotho`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Trend Group, Maseru. **Recorded role:** Architecture/design practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A preliminary local practice referral for civic-building access and threshold critique; a named architect and project fit remain open.
 
-**Draft connection (assessment):** Trend Group's published Maseru practice route provides a starting point for a locally grounded discussion before proposing an intervention in a shared building.
+**Selected source anchor:** [Trend Group’s Maseru design practice](https://www.trendgroup.co.ls/contact.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate designer discuss reception, waiting and human assistance, or refer me to a Lesotho architect or researcher experienced in civic facilities?
+**Draft connection (assessment):** [Trend Group’s Maseru design practice](https://www.trendgroup.co.ls/contact.html) provides a local architectural route for a small interior feasibility review.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library retrofit would add a movable point for AI-delegated collection beside ordinary reception. Two positions would test clearance, staff reach and visitor passage, with the unchanged layout retained as the baseline.
+
+**Concrete first ask (proposed):** Could an architect in your team critique one plan and section, or suggest a Lesotho civic-building colleague? The initial request is practice advice for an architecture PhD proposal, before a study site or build budget is considered.
 
 ## Supervision and open questions
 

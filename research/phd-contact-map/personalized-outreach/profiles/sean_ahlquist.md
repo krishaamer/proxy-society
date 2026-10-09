@@ -1,6 +1,6 @@
 # Sean Ahlquist — research for first contact
 
-**Lead:** `sean_ahlquist`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `sean_ahlquist`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Michigan, Taubman College / Lab for Socio-material Architectures. **Recorded role:** Associate Professor of Architecture.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could make equitable access and dignity central to the design experiment. Particularly useful for avoiding a robot-friendly threshold that disadvantages people with sensory or mobility needs.
 
-**Draft connection (assessment):** The Lab for Socio-material Architectures studies sensory-responsive environments and social behaviour with people with disabilities. That is a relevant challenge to measuring success only as task completion.
+**Selected source anchor:** [Michigan research on sensory-responsive environments](https://taubmancollege.umich.edu/faculty/directory/sean-ahlquist/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How should disabled participants help define and evaluate a threshold comparison, particularly sensory orientation, dignity and the choice to receive human assistance?
+**Draft connection (assessment):** Your [Michigan research on sensory-responsive environments](https://taubmancollege.umich.edu/faculty/directory/sean-ahlquist/) includes social behaviour and environments for people with disabilities. I want equitable access to determine the pilot’s design and recruitment, rather than appear as a final checklist.
+
+**Specific spatial case (proposal):** For Proxy Society, two library handoff arrangements would be compared for sensory load, predictability, reachability and access to a person. Participants could choose to attend, delegate to an AI agent or obtain assistance; successful automated collection would not establish success for all users.
+
+**Concrete first ask (proposed):** Would you advise on the prototype and participant-task plan, with a possible doctoral conversation? I would like your critique of which sensory and spatial differences matter first, and how to avoid attributing universal effects to a small trial.
 
 ## Supervision and open questions
 

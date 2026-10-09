@@ -1,6 +1,6 @@
 # Cabinet d’Architecture Alpha Ousmane Camara — research for first contact
 
-**Lead:** `world_guinea`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_guinea`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Cabinet AOC, Conakry. **Recorded role:** Architecture and design practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a local architect and discuss circulation, reception and civic-space use.
 
-**Draft connection (assessment):** Cabinet AOC describes designing across residential, industrial and commercial settings in Conakry. I am seeking advice on which aspects of reception and service circulation transfer to civic buildings.
+**Selected source anchor:** [Cabinet AOC’s Conakry architectural practice](https://www.cabinetalphaoc.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate architect critique a small handoff-and-waiting scenario, or suggest a local researcher or public-building colleague?
+**Draft connection (assessment):** [Cabinet AOC’s Conakry architectural practice](https://www.cabinetalphaoc.com/) provides a practice route for examining whether the proposed reception arrangement is physically workable.
+
+**Specific spatial case (proposal):** Proxy Society’s library mock-up would compare a side handoff bay with a shared counter, testing an AI agent’s clearance, staff reach and where a paused request waits without blocking visitors.
+
+**Concrete first ask (proposed):** Could an architect in your office review one dimensioned plan and section, or refer me to a relevant Guinea colleague? This is practice input to an architecture PhD proposal, before any equipment, site or partnership is assumed.
 
 ## Supervision and open questions
 

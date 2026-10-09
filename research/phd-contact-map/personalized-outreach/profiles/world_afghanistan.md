@@ -1,6 +1,6 @@
 # Kabul University Architecture Department — research for first contact
 
-**Lead:** `world_afghanistan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_afghanistan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Kabul University. **Recorded role:** Architecture department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could connect the pilot to architectural teaching, local access conditions and a suitable researcher.
 
-**Draft connection (assessment):** Your department describes architectural studies and research as part of its contribution to Afghanistan's development. I am seeking an architectural perspective grounded in an existing civic institution.
+**Selected source anchor:** [Kabul University’s architecture department](https://ku.edu.af/en/architecture-department-0) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague who studies public-building access or everyday spatial use and might critique a small threshold experiment?
+**Draft connection (assessment):** [Kabul University’s architecture department](https://ku.edu.af/en/architecture-department-0) describes design teaching and research on community problems. I am looking for a colleague who could connect a small study to an existing community building.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose documenting waiting and requests for help before comparing an ordinary reception with one optional AI-mediated errand. The spatial question is whether the new handoff obstructs or preserves the human route.
+
+**Concrete first ask (proposed):** Could you forward this to a researcher in community-building use or environment–behaviour? I would send a plan and observation sheet for critique, and separately explore whether an appropriate doctoral context exists.
 
 ## Supervision and open questions
 

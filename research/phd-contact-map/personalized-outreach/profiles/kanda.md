@@ -1,6 +1,6 @@
 # Takayuki Kanda — research for first contact
 
-**Lead:** `kanda`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `kanda`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Kyoto University, Graduate School of Informatics. **Recorded role:** Professor of Informatics; Human-Robot Interaction Lab.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help evaluate whether people understand delegated authority and when robots should yield or hand off; strong empirical complement to architectural design research.
 
-**Draft connection (assessment):** Your lab's work on perceived robot authority and real-world human-robot interaction is directly relevant to whether building users correctly understand what an artificial representative may do.
+**Selected source anchor:** [Kyoto HRI Lab research on robot authority](https://www.robot.soc.i.kyoto-u.ac.jp/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** How would you test authority comprehension and human handoff at a civic threshold while isolating the effects of the spatial arrangement?
+**Draft connection (assessment):** [Kyoto HRI Lab research on robot authority](https://www.robot.soc.i.kyoto-u.ac.jp/) is relevant to the difference between a robot appearing authoritative and holding a narrow mandate from a particular person.
+
+**Specific spatial case (proposal):** In Proxy Society’s proposed library pilot, the robot could collect one item but must stop when staff question the authorisation or a visitor needs priority. Two threshold layouts would vary how clearly people can see the robot’s destination and reach its human-handoff point.
+
+**Concrete first ask (proposed):** Could you review a staged field-trial script and discuss a doctoral or HRI-advisory arrangement? I would ask which measures of perceived authority, interruption and recovery would expose confusion before an autonomous public trial.
 
 ## Supervision and open questions
 

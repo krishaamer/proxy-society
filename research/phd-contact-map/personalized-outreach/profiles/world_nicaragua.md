@@ -1,6 +1,6 @@
 # Architecture research network — UNI — research for first contact
 
-**Lead:** `world_nicaragua`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_nicaragua`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universidad Nacional de Ingeniería. **Recorded role:** Engineering/architecture university with architecture research journal.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could route a request to a civic-space researcher; no individual doctoral supervisor is established by this route.
 
-**Draft connection (assessment):** UNI's published institutional route is a starting point for identifying a current architecture researcher before assuming expertise or a doctoral programme.
+**Selected source anchor:** [UNI’s architecture research and Arquitectura+ connection](https://www.uni.edu.ni/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you direct the proposal to a colleague studying civic facilities, reception or environment-behaviour questions, and confirm the appropriate research enquiry process?
+**Draft connection (assessment):** [UNI’s architecture research and Arquitectura+ connection](https://www.uni.edu.ni/) offers a route to an architectural researcher, rather than a general university communications enquiry.
+
+**Specific spatial case (proposal):** For Proxy Society, a library prototype would use the same AI-mediated collection task in two counter layouts, observing how staff visibility and queue overlap affect human intervention.
+
+**Concrete first ask (proposed):** Could you forward this to a colleague in design research, public-building use or spatial analysis? I would send the plan pair and proposed coding sheet and establish any doctoral context separately.
 
 ## Supervision and open questions
 

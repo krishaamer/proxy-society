@@ -1,6 +1,6 @@
 # Maureen Anne L. Araneta — research for first contact
 
-**Lead:** `world_philippines`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_philippines`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of the Philippines Diliman, College of Architecture. **Recorded role:** Full-time architecture faculty.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A close methods/practice fit for observing campus thresholds, social meaning and building use. Her profile describes ongoing PhD studies, so formal doctoral-supervisor eligibility must not be assumed.
 
-**Draft connection (assessment):** Your UP profile connects campus planning and management with architectural heritage and anthropology. That combination is relevant to how a university threshold carries both practical and social meaning.
+**Selected source anchor:** [UP profile on heritage, anthropology and campus management](https://upca.upd.edu.ph/about/faculty/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you advise on a suitable campus research conversation or case, and which observations would capture assistance, belonging and the choice to arrive in person?
+**Draft connection (assessment):** Your [UP profile on heritage, anthropology and campus management](https://upca.upd.edu.ph/about/faculty/) gives a specific connection between institutional space and its everyday cultural use. I want the threshold study to record what personal arrival means as well as where people move.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed campus-library comparison would pair plans with short accounts of personal, assisted and AI-mediated collection, observing recognition, waiting and opportunities to remain in shared space.
+
+**Concrete first ask (proposed):** Could you critique that scene-and-route method or discuss a doctoral/advisory fit? I would send the plans and interview prompts before proposing any UP campus site or participant group.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Gerard Rey Lico — research for first contact
 
-**Lead:** `gerard_lico`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `gerard_lico`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of the Philippines Diliman, College of Architecture. **Recorded role:** Professor; Director of the Research Office in faculty directory.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A Philippine academic and fieldwork connector for explaining why a civic building's cultural meaning and physical welcome matter. Film and historical interpretation could complement the threshold experiment.
 
-**Draft connection (assessment):** Your work on institutional buildings, architectural heritage and documentaries on Philippine architecture offers a connection between spatial research and careful visual evidence.
+**Selected source anchor:** [UP’s account of your architectural and cultural scholarship](https://upd.edu.ph/ca-profs-receive-pfpa-awards/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which Philippine civic or university setting would make this threshold study worthwhile, and who could advise on the architectural contribution and local research process?
+**Draft connection (assessment):** [UP’s account of your architectural and cultural scholarship](https://upd.edu.ph/ca-profs-receive-pfpa-awards/) offers a perspective on the meaning of an institutional visit beyond completing its administrative task. That is what my proposed study risks missing if it starts with automation.
+
+**Specific spatial case (proposal):** For Proxy Society, I would pair plans and consented filmed scenes at a hypothetical civic-library threshold: personal arrival, assistance and AI-mediated collection. The comparison would ask what recognition, obligation or belonging is attached to being there.
+
+**Concrete first ask (proposed):** Could you critique that framing or suggest an appropriate UP research colleague? I would send one scene and its spatial diagram, seeking cultural-methods advice alongside an architecture PhD proposal.
 
 ## Supervision and open questions
 

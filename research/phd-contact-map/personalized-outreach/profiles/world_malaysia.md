@@ -1,6 +1,6 @@
 # Hazrina Haja Bava Mohidin — research for first contact
 
-**Lead:** `world_malaysia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_malaysia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Universiti Malaya, Department of Architecture. **Recorded role:** Associate professor; registered architect.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A strong candidate for spatial evaluation and architecture supervision discussion; capacity and eligibility still need confirmation.
 
-**Draft connection (assessment):** Your Universiti Malaya profile connects spatial analysis, housing and urban design, and records doctoral thesis supervision. The pilot asks what a spatial arrangement changes independently of the service technology.
+**Selected source anchor:** [Universiti Malaya profile on spatial analysis and architectural design](https://umexpert.um.edu.my/hazrinahaja.html) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could this comparison fit your research, and which observations would make its access, waiting and experience outcomes credible for an architectural doctorate?
+**Draft connection (assessment):** Your [Universiti Malaya profile on spatial analysis and architectural design](https://umexpert.um.edu.my/hazrinahaja.html) explicitly connects spatial analysis with design and doctoral thesis work. I want the field observations to test the layout model, rather than serve as illustrations.
+
+**Specific spatial case (proposal):** For Proxy Society, two library reception plans would carry the same AI-mediated collection task. Visibility, access depth and queue overlap would be compared with observed help-seeking, intervention and recovery.
+
+**Concrete first ask (proposed):** Would you consider a doctoral-fit conversation at Universiti Malaya? I would send the plans and candidate measures, asking which spatial proposition the small study can defend and which needs a different comparison.
 
 ## Supervision and open questions
 

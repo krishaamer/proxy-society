@@ -1,6 +1,6 @@
 # Birgitte Bundesen Svarre — research for first contact
 
-**Lead:** `birgitte_svarre`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `birgitte_svarre`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Gehl. **Recorded role:** Director Team Lead; public-life and mobility practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could provide observation protocols and a human-use baseline, so success includes encounter quality and access rather than automation speed.
 
-**Draft connection (assessment):** Gehl's Vesterbro Passage work combines mobility studies with a sensory public-space proposal. It suggests evaluating how people spend time and encounter others, alongside their ability to complete a task.
+**Selected source anchor:** [Gehl’s mobility-informed public-space redesign](https://www.gehlpeople.com/projects/reorganising-the-city-core-into-green-climate-adapted-public-space/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Which public-life observation measures would show whether a delegated civic service improves access while strengthening or weakening meaningful co-presence?
+**Draft connection (assessment):** Your credited role in [Gehl’s mobility-informed public-space redesign](https://www.gehlpeople.com/projects/reorganising-the-city-core-into-green-climate-adapted-public-space/) is relevant to observing the ordinary place before judging a new service. I want a baseline for optional activity as well as movement.
+
+**Specific spatial case (proposal):** For Proxy Society, I would record passing, waiting, staying and staff assistance around a library entrance, then compare two AI-mediated collection arrangements. A faster task could still remove opportunities or make access to help less visible.
+
+**Concrete first ask (proposed):** Could you review a short observation sheet or identify a Gehl colleague? I am seeking methods advice for an architecture PhD, specifically which public-life measures remain meaningful at the scale of a single threshold.
 
 ## Supervision and open questions
 

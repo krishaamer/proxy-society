@@ -1,6 +1,6 @@
 # Department of Architectural and Planning Engineering — research for first contact
 
-**Lead:** `world_libya`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_libya`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Tripoli. **Recorded role:** Architecture and planning department.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a researcher for civic-building design and local spatial experience; masked email is omitted and no individual supervisor is verified.
 
-**Draft connection (assessment):** Your architecture and planning department provides a relevant starting point for examining a threshold as part of a building's public and institutional setting.
+**Selected source anchor:** [University of Tripoli’s Architectural and Planning Engineering department](https://uot.edu.ly/eng/arch/contactussection.php?lang=en) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest a colleague studying civic access, reception or everyday spatial use who might critique the proposed comparison and its possible research route?
+**Draft connection (assessment):** I am using [University of Tripoli’s Architectural and Planning Engineering department](https://uot.edu.ly/eng/arch/contactussection.php?lang=en) to reach a researcher in public-building use or architectural design experimentation.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library comparison varies counter position and visibility while holding the AI-mediated collection task constant. Plans and staged encounters would document passage, help-seeking and human takeover.
+
+**Concrete first ask (proposed):** Could you identify a faculty colleague to critique the plan pair and a possible doctoral contribution? I would send a short protocol and establish programme operation, eligibility and supervisory capacity separately.
 
 ## Supervision and open questions
 

@@ -1,14 +1,14 @@
 # Email draft — Brisbane O’Garro Alvaranga
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_saint_kitts_and_nevis`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_saint_kitts_and_nevis`.
 
 **Recipient:** Brisbane O’Garro Alvaranga — Brisbane O’Garro Alvaranga.
 
 **Published email:** info@boaarchitects.com. **Route:** [Published contact page](https://www.boaarchitects.com/contact).
 
-**Subject:** Relationships and shared-building reception
+**Subject:** BOA: a Basseterre practice review of a delegated reception bay
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_saint_kitts_and_nevis.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_saint_kitts_and_nevis.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -19,13 +19,11 @@
 
 Dear Brisbane O’Garro Alvaranga team,
 
-BOA's practice account emphasises relationships in delivering projects. Reception is a useful architectural setting for examining how those relationships change when a task arrives through a representative.
+[BOA’s Basseterre office route](https://www.boaarchitects.com/contact) provides the practice channel I am using to request a small civic-interior feasibility critique.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library mock-up would compare a side collection bay and a shared counter, testing the dimensions for an AI agent acting for a visitor, sightlines and where staff can take over without blocking ordinary visitors.
 
-Could your team critique a small civic-threshold scenario, or suggest a Saint Kitts and Nevis practitioner or operator experienced in inclusive building access?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could an architect in your team review one plan and section, or suggest an appropriate St Kitts and Nevis colleague? This is practice input to an architecture PhD proposal before any building access or technical trial is considered.
 
 Best wishes,
 Kris Haamer
@@ -33,6 +31,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_saint_kitts_and_nevis.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 148 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 104 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

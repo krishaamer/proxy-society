@@ -1,6 +1,6 @@
 # National Association of Norwegian Architects (NAL) — research for first contact
 
-**Lead:** `world_norway`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_norway`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** National Association of Norwegian Architects (NAL). **Recorded role:** Architecture institution — referral contact.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer the project to an architect or researcher in civic-space design and help identify a local case-study setting.
 
-**Draft connection (assessment):** NAL describes professional development through pilot projects, competitions and architectural debate. That is a relevant network for questioning when a service change merits a spatial intervention.
+**Selected source anchor:** [National Association of Norwegian Architects](https://www.arkitektforbundet.no/english/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you suggest an architect or researcher studying civic reception, accessibility or social use of buildings who might critique the proposed threshold pilot?
+**Draft connection (assessment):** [National Association of Norwegian Architects](https://www.arkitektforbundet.no/english/) is my route to a practitioner with civic-interior or post-occupancy experience, complementing separate doctoral research conversations.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library trial would compare a shared counter with an AI-mediated handoff bay, measuring access to staff and the relation between waiting and passing.
+
+**Concrete first ask (proposed):** Could you recommend a Norwegian architect or researcher to critique the plans and observation method? The first request is a focused design conversation before seeking an operator, pilot site or practice partnership.
 
 ## Supervision and open questions
 

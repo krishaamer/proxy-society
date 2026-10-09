@@ -1,6 +1,6 @@
 # Mehdi Elhaoussine / LEGIC — research for first contact
 
-**Lead:** `mehdi_elhaoussine_legic`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `mehdi_elhaoussine_legic`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** LEGIC Identsystems. **Recorded role:** General Manager; secure digital identity and credential technology.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could help test how a person's limited mandate differs from a robot's technical identity, and where staff must resolve exceptions. Useful for linking the pilot to Proxy Society's authority and rights work.
 
-**Draft connection (assessment):** LEGIC's role in the September 2026 door-access pilot provides the credential layer that identifies an autonomous machine. The pilot I am proposing asks how that differs from a person's bounded authority to act.
+**Selected source anchor:** [LEGIC’s role in the September 2026 access pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who could discuss expiry, withdrawal and human exceptions in a permissioned research scenario, without treating a machine's identity as sufficient evidence of its mandate?
+**Draft connection (assessment):** [LEGIC’s role in the September 2026 access pilot](https://www.dormakabagroup.com/en/news/76d32a7d-b9ef-4513-9bdd-6e8a58be8cb7/dormakaba-anybotics-and-legic-present-a-successful-pilot-of-autonomous-robots-passing-through-access-controlled-doors) provides a concrete identity layer for robot door access. I want to keep machine authentication distinct from a person’s permission for one action.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would expose author, destination, expiry and withdrawal at a staff-accessible handoff point. It would compare that arrangement with ordinary assistance, including a credential that remains technically valid after the task is cancelled.
+
+**Concrete first ask (proposed):** Could you identify public guidance or a technical colleague for modelling that distinction? I would send the mandate-state diagram, seeking feasibility advice for an architecture PhD before proposing an access-control integration.
 
 ## Supervision and open questions
 

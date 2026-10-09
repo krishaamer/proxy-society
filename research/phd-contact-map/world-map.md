@@ -274,7 +274,7 @@ Each lead links to its readable evidence and fit note. The CSV/JSON files retain
 
 Qualify fit before preparing a personal approach: read a relevant work, identify a precise architectural question, and check the intended contribution. For a referral office, ask for a named researcher or architect first. For a potential supervisor, establish eligibility, programme route, availability and funding separately.
 
-All 303 leads have [personalized first-contact notes](personalized-outreach/README.md) and [individual unsent English drafts](../../writing/outreach/personalized/README.md), prepared 9 October 2026. Review the source-refresh limits and channel constraints before choosing a recipient. The [current introduction](../../writing/outreach/architecture-research-introduction.md) and [world referral wording](../../writing/outreach/world-architecture-referral.md) remain reusable templates. No reply, availability, admission or advisor agreement is recorded.
+All 303 leads have [personalized first-contact notes](personalized-outreach/README.md) and [individual unsent English drafts](../../writing/outreach/personalized/README.md), first prepared 9 October and rewritten as version 2 on 10 October 2026 with individual spatial cases and precise asks. The contact and source-check dates retain their own provenance. Review evidence limits and channel constraints before choosing a recipient. The [current introduction](../../writing/outreach/architecture-research-introduction.md) and [world referral wording](../../writing/outreach/world-architecture-referral.md) remain reusable templates. No reply, availability, admission or advisor agreement is recorded.
 
 ## Data and maintenance
 

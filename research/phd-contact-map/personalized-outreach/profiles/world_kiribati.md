@@ -1,6 +1,6 @@
 # Architectural and Design Division — ministry registry — research for first contact
 
-**Lead:** `world_kiribati`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_kiribati`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Ministry of Infrastructure and Sustainable Energy. **Recorded role:** Government architecture-and-design division, via registry.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a local architect and public-building access case; the route is a ministry referral and no academic supervision is implied.
 
-**Draft connection (assessment):** Your ministry publishes a registry route to its infrastructure services. I am seeking the appropriate architectural-design contact for a modest civic-building research question.
+**Selected source anchor:** [Kiribati ministry’s Architectural and Design Division](https://www.mise.gov.ki/contact-us) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could you direct me to a designer or public-building colleague who could discuss reception, accessibility and task handoff before any site proposal is made?
+**Draft connection (assessment):** [Kiribati ministry’s Architectural and Design Division](https://www.mise.gov.ki/contact-us) identifies the responsible architectural unit. I am contacting the registry to reach a designer, rather than infer that the registry itself is a research contact.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed civic-library test would compare an ordinary help counter with an optional AI-mediated handoff point, preserving a direct human route and testing staff reach.
+
+**Concrete first ask (proposed):** Could you direct this to an architect who can critique a small plan and refusal/handoff sequence? The request is architectural advice for a PhD proposal, with no building, operator or trial agreed.
 
 ## Supervision and open questions
 

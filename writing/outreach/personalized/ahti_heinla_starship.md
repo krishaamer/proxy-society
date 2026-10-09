@@ -1,14 +1,14 @@
 # Email draft — Ahti Heinla / Starship Technologies research or campus partnerships
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `ahti_heinla_starship`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `ahti_heinla_starship`.
 
 **Recipient:** Ahti Heinla / Starship Technologies research or campus partnerships — Starship Technologies.
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.starship.xyz/wp-content/uploads/2026/01/Uber-Eats-x-Starship-Leeds-Launch.pdf).
 
-**Subject:** Campus doorway handoffs and robot exceptions
+**Subject:** Campus delivery: where should a paused representative wait?
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/ahti_heinla_starship.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/ahti_heinla_starship.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -18,13 +18,11 @@
 
 Dear Starship Technologies team,
 
-Starship's January 2026 Leeds announcement describes delivery robots with human assistance when needed. Doorway handoff is a useful point for studying the relationship between autonomous convenience and work done by other people.
+[Starship’s 2026 account of autonomous delivery with human oversight](https://www.starship.xyz/wp-content/uploads/2026/01/Uber-Eats-x-Starship-Leeds-Launch.pdf) provides a concrete operating model for studying a handoff, including the continuing role of human assistance.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+For Proxy Society, a proposed campus-library task would send a representative to collect one authorised item. The architecture study would compare a shared entrance and a side bay for stopping, accessible passage and reaching a staff member when the task cannot proceed.
 
-Could a campus or research partnerships colleague discuss comparing handoff locations and human-priority circulation, including the staff or remote work needed to resolve exceptions?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you suggest a campus-partnership or research colleague to critique that arrival scenario? I would send a dimensioned plan and ask which pause/handoff constraints must be met before any robot trial is considered.
 
 Best wishes,
 Kris Haamer
@@ -32,6 +30,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/ahti_heinla_starship.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 153 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 110 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

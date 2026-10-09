@@ -1,6 +1,6 @@
 # Ángel Daniel Payán Sierra — research for first contact
 
-**Lead:** `world_honduras`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_honduras`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Colegio de Arquitectos de Honduras. **Recorded role:** Architect; president named in professional-federation directory.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could introduce a civic-space practitioner; the email reaches the organisation and leadership should be reconfirmed.
 
-**Draft connection (assessment):** FPAA's published college record identifies your professional connection in Honduras. I am seeking an appropriate current contact with experience of civic-building access.
+**Selected source anchor:** [FPAA’s Honduras leadership and executive-office listing](https://fpaa-arquitectos.org/region-centro/centro-quienes-somos/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you suggest a practitioner or academic studying reception, inclusive access or spatial behaviour, and confirm which office should handle the enquiry?
+**Draft connection (assessment):** I found your professional connection in [FPAA’s Honduras leadership and executive-office listing](https://fpaa-arquitectos.org/region-centro/centro-quienes-somos/). I am approaching the published office route for a member referral, without presuming your research specialism.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library experiment would compare a shared queue and a separate AI-mediated handoff, observing staff interruption and access to human help during the same task.
+
+**Concrete first ask (proposed):** Could you identify a Honduran architect or researcher in civic-interior design or post-occupancy evaluation? I would ask for a critique of the plans and coding sheet as initial input to an architecture PhD proposal.
 
 ## Supervision and open questions
 

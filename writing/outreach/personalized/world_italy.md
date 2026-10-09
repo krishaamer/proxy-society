@@ -1,14 +1,14 @@
 # Email draft — National Council of Architects, Planners, Landscapers and Conservationists (CNAPPC)
 
-**Status:** Prepared English draft; unsent; human review required. **Prepared:** 2026-10-09 (Asia/Manila). **Lead ID:** `world_italy`.
+**Status:** Prepared English draft; unsent; human review required. **First prepared:** 2026-10-09. **Revised:** 2026-10-10 (Asia/Manila), **version 2**. **Lead ID:** `world_italy`.
 
 **Recipient:** National Council of Architects, Planners, Landscapers and Conservationists (CNAPPC) — National Council of Architects, Planners, Landscapers and Conservationists (CNAPPC).
 
 **Published email:** No verified email recorded; use the published route to identify a channel. **Route:** [Published contact page](https://www.awn.it/).
 
-**Subject:** An Italian referral for architecture and civic access
+**Subject:** CNAPPC referral: public-interior research for a bounded handoff trial
 
-**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_italy.md). Sources and fit judgments are outside the message.
+**Research:** [Recipient note](../../../research/phd-contact-map/personalized-outreach/profiles/world_italy.md). The source anchor is linked in the message; evidence limits and fit judgments are in the note.
 
 ## Review notes
 
@@ -20,13 +20,11 @@
 
 Dear CNAPPC team,
 
-CNAPPC's national professional network is a relevant route to find an architect or researcher working on the experience of shared public buildings.
+I am approaching [CNAPPC’s published professional route](https://www.awn.it/) to find a member experienced in public reception or environment–behaviour evaluation. I would first confirm the current enquiry channel.
 
-I’m developing an architecture research proposal within Proxy Society and exploring a suitable PhD context. It asks what changes when AI agents act on people’s behalf in shared buildings. The proposed pilot compares reception and handoff layouts in one library or community centre with ordinary booking, fixed automation and human assistance. The aim is to make delegated authority understandable while protecting the right to participate in person.
+Proxy Society’s proposed library study would compare a shared counter with a separate delegated-collection bay, holding the service task constant and documenting human assistance and refusal recovery.
 
-Could you suggest someone in reception design, inclusive access or architectural interaction with technology who might critique a small delegated-service pilot?
-
-If this is relevant, I would welcome a short conversation. I can share a concise brief and the proposed comparison.
+Could you identify an Italian architect or researcher to critique the plans and task sequence? This is a focused practice enquiry for an architecture PhD proposal, rather than a request for the council to endorse AI infrastructure.
 
 Best wishes,
 Kris Haamer
@@ -34,6 +32,6 @@ Proxy Society
 
 ## Provenance and delivery
 
-Independent correspondence draft based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
+Independent version 2 correspondence based on the [current brief](../../proposals/architecture-of-delegated-presence.md), website source revision `8b621c9effe179a9f91463c32e10b6183004d13b`, contact snapshot `75e2615013a63f3170667278cc4cd06371959d18` and the linked dated research note. [Earlier version](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized/world_italy.md) is superseded. Recipient-specific work/method/office connection, a distinct proposed spatial comparison, and a defined first contribution. The case is a proposal, not an agreed experiment, site or relationship. Website copy is unchanged. No applicant credentials, existing relationship, partner, site or funding are asserted.
 
-Body: 139 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.
+Body: 99 words. **Delivery: Not sent.** No reply, agreement or commitment recorded. Preparation does not authorize sending.

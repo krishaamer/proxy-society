@@ -1,6 +1,6 @@
 # Michael Wagner — research for first contact
 
-**Lead:** `world_liechtenstein`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_liechtenstein`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Liechtenstein, School of Architecture. **Recorded role:** Professor of architecture and urban design; dean.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could connect civic thresholds with urban design and spatial development; doctoral-level teaching does not confirm individual supervisory availability.
 
-**Draft connection (assessment):** Your university profile connects urban design and spatial development with research and doctoral-level teaching. I am exploring how a small civic threshold could become a defensible design-research question.
+**Selected source anchor:** [Liechtenstein research in urban design and spatial development](https://www.uni.li/en/michael.wagner) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Would a comparison of delegated and ordinary arrival fit your interests, and which spatial evidence would make it appropriate for doctoral research?
+**Draft connection (assessment):** Your [Liechtenstein research in urban design and spatial development](https://www.uni.li/en/michael.wagner) provides a connection between the threshold and the wider route through a place. I want to test a service intervention without treating its isolated transaction as the only outcome.
+
+**Specific spatial case (proposal):** For Proxy Society, an existing library approach would be compared with a direct AI-mediated collection route, mapping access to staff, shared activity and optional stopping.
+
+**Concrete first ask (proposed):** Could you critique that route-and-activity diagram and discuss doctoral or advisory fit? I would ask which spatial-development question a bounded building study can substantiate before claiming wider urban effects.
 
 ## Supervision and open questions
 

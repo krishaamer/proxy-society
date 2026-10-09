@@ -1,6 +1,6 @@
 # Proxy Society prepared writing
 
-Prepared writing lives in this repository alongside the website and research. Updated 9 October 2026.
+Prepared writing lives in this repository alongside the website and research. Updated 10 October 2026.
 
 ## Writing index
 
@@ -12,7 +12,8 @@ Prepared writing lives in this repository alongside the website and research. Up
 | [Maintaining Human Intent](propositions/maintaining-human-intent.md) | Conceptual proposition; website-derived record | Persistent mandates, collective intent and spatial governance. |
 | [Agent Etiquette](propositions/agent-etiquette.md) | Working protocol; website-derived record | The six principles and social question behind Proxy Society. |
 | [Architecture research introduction](outreach/architecture-research-introduction.md) | Prepared wording; unsent | Reusable first-contact language, including a version aligned with the current pilot. |
-| [303 personalized architecture emails](outreach/personalized/README.md) | Current individual English drafts; unsent; human review required | Every contact-map lead has an individual subject, sourced connection and concrete ask, with a linked research note. Independent correspondence based on the current brief; route checks and shared-mailbox constraints are explicit. |
+| [303 personalized architecture emails](outreach/personalized/README.md) | Current version 2, revised 10 October; unsent; human review required | Each names a supported work, method, project or referral role and proposes its own spatial case and precise contribution. Independent correspondence based on the current brief; source dates, channel holds and shared-mailbox constraints remain explicit. |
+| [Architecture emails, version 1](https://github.com/krishaamer/proxy-society/tree/27b8058571eece94d3d66887f5f36c01055cd2ef/writing/outreach/personalized) | Earlier wording, prepared 9 October; superseded; unsent | First individualized openers and asks around a repeated broad project description. Retained through Git history; version 2 is current. |
 | [World architecture referral](outreach/world-architecture-referral.md) | Current referral wording; unsent draft | A concise request for an appropriate named architect or researcher, based on the current brief and world contact map. Independent correspondence draft; does not replace website copy. |
 
 The website-derived records preserve the core argument in readable Markdown and identify the website revision used. They are not automatic render exports. Diagrams, interface text and external precedent lists remain in the linked website modules. Live deployment was not checked as part of making these records.

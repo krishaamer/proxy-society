@@ -1,6 +1,6 @@
 # Yoshiharu Tsukamoto — research for first contact
 
-**Lead:** `tsukamoto`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `tsukamoto`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Institute of Science Tokyo, School of Environment and Society / Atelier Bow-Wow. **Recorded role:** Professor; architect and Atelier Bow-Wow co-founder.
 
@@ -18,9 +18,13 @@ The current lab page says admissions questions are handled through the general i
 
 Could provide an architectural foundation for observation, thresholds, everyday coexistence and why physical presence matters; strong methods conversation before choosing technical infrastructure.
 
-**Draft connection (assessment):** Your behaviorology research suggests observing people, objects and environmental conditions together before deciding that a new technical system requires a new architectural type.
+**Selected source anchor:** [Science Tokyo’s architectural behaviorology account](https://www.titech.ac.jp/english/public-relations/research/stories/faces25-tsukamoto) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could that method frame a comparison of conventional and delegated arrival at one civic threshold, and what field evidence would make the spatial question convincing?
+**Draft connection (assessment):** [Science Tokyo’s architectural behaviorology account](https://www.titech.ac.jp/english/public-relations/research/stories/faces25-tsukamoto) relates design to observing relationships among people, objects and their environment. That is a stronger starting point than assuming that a robot requires a dedicated entrance.
+
+**Specific spatial case (proposal):** For Proxy Society, I propose recording one library reception before any intervention: how visitors wait, pass objects, request help and change roles. Those observations would inform two reversible layouts for collection delegated to an AI agent, compared with the ordinary service and a human-assisted task.
+
+**Concrete first ask (proposed):** Through the published general admissions process, I would like to present that observation plan and ask whether it could support a doctoral architectural-behaviorology study. The first methodological question is which relations must be documented before proposing the spatial change.
 
 ## Supervision and open questions
 

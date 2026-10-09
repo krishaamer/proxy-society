@@ -1,6 +1,6 @@
 # ENSA Nantes Mauritius — research for first contact
 
-**Lead:** `world_mauritius`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_mauritius`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** École Nationale Supérieure d’Architecture de Nantes — Mauritius. **Recorded role:** Architecture and urbanism school.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a research or practice advisor for island civic architecture; this master’s-school route does not establish a local doctorate.
 
-**Draft connection (assessment):** Your Mauritius architecture-school route offers a way to find a colleague who can assess the pilot as an architectural design question before a programme is assumed.
+**Selected source anchor:** [ENSA Nantes Mauritius’s campus contact](https://nantes-archi.mu/en/apply-for-the-master/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Who studies civic-building use, inclusive reception or spatial experience, and might advise on a suitable doctoral or external research connection?
+**Draft connection (assessment):** I am approaching [ENSA Nantes Mauritius’s campus contact](https://nantes-archi.mu/en/apply-for-the-master/) for a research colleague, rather than treat the closed 2026–27 enrolment round as an available place.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study would compare two reception layouts with the same AI-mediated collection task, documenting staff visibility, waiting and the opportunity to attend or take over personally.
+
+**Concrete first ask (proposed):** Could you identify a design-research or environment–behaviour colleague to critique the plans and method? I would discuss doctoral or external-advisory options separately from the current campus enrolment notice.
 
 ## Supervision and open questions
 

@@ -1,6 +1,6 @@
 # Dylan Ng Terntzer / LionsBot research integration team — research for first contact
 
-**Lead:** `dylan_ng_lionsbot`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `dylan_ng_lionsbot`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** LionsBot International. **Recorded role:** CEO and co-founder, with initial approach through company contact form.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Study how a building supports shared movement and how robot servicing changes staff work. Use cleaning as an operational comparison, not as evidence that a robot represents a person's social intent.
 
-**Draft connection (assessment):** LionsBot's autonomous commercial-cleaning work provides an everyday occupied-building setting where robot movement, human priority and staff intervention already meet.
+**Selected source anchor:** [LionsBot’s autonomous commercial-cleaning systems](https://www.lionsbot.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a research-integration colleague discuss a small observational study of encounters, waiting zones and exceptions, together with a willing building operator?
+**Draft connection (assessment):** [LionsBot’s autonomous commercial-cleaning systems](https://www.lionsbot.com/) provides practical experience with robots sharing occupied buildings. I want to draw a reception test from realistic passage and recovery requirements, without treating cleaning as proof of delegated-service expertise.
+
+**Specific spatial case (proposal):** For Proxy Society, a mock AI agent would stop at a bounded library handoff point while people pass and staff intervene. Two layouts would test clearance, visibility and access to human help before any autonomous trial.
+
+**Concrete first ask (proposed):** Could you identify an operations or integration colleague to critique the dimensions and stopping scenario? I am seeking technical advice alongside an architecture PhD, with no assumption of equipment access or a deployment partner.
 
 ## Supervision and open questions
 

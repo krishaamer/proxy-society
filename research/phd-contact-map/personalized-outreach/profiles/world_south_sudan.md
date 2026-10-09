@@ -1,6 +1,6 @@
 # YS-Vision — research for first contact
 
-**Lead:** `world_south_sudan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_south_sudan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** YS-Vision, Juba. **Recorded role:** Architecture/design and construction office.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could refer a local architect for public-building access critique. Civic-building expertise and a named architectural recipient remain unconfirmed.
 
-**Draft connection (assessment):** YS-Vision's published architectural and construction practice provides a local route for questioning the practical assumptions behind a small reception redesign.
+**Selected source anchor:** [YS-Vision’s Juba architectural-planning practice](https://ys-vision.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could an appropriate designer discuss welcome, human assistance and service handoffs in a civic building, or suggest a South Sudanese practitioner or research contact?
+**Draft connection (assessment):** [YS-Vision’s Juba architectural-planning practice](https://ys-vision.com/) gives a local practice route; its visible portfolio is mainly residential, so I would first establish who could advise on a public reception arrangement.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library study compares an ordinary help counter with a bounded AI-mediated collection point, testing waiting, staff reach and unobstructed passage.
+
+**Concrete first ask (proposed):** Could you identify a suitable architect in your team or a South Sudan civic-building colleague? I would send one plan for practice advice to an architecture PhD proposal, without assuming a relevant live project.
 
 ## Supervision and open questions
 

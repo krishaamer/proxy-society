@@ -1,6 +1,6 @@
 # Shajay Bhooshan — research for first contact
 
-**Lead:** `shajay_bhooshan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `shajay_bhooshan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ZHA Architects, Computation and Design (ZHA CODE). **Recorded role:** Associate Director; ZHA CODE co-founder and leader.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Potential collaborator for prototype design or participatory simulation. Manufacturing and geometry expertise must be related explicitly to equitable access in occupied buildings.
 
-**Draft connection (assessment):** ZHA CODE bridges computational research with practical architectural applications. I am looking for a practice perspective on turning an abstract permission rule into a spatial scenario people can experience.
+**Selected source anchor:** [ZHA computational research using game technologies](https://www.zha.com/people/shajay-bhooshan?disclaimer=true) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your team advise what a convincing threshold prototype would need to demonstrate, and which field evidence would make it architecturally useful?
+**Draft connection (assessment):** Your [ZHA computational research using game technologies](https://www.zha.com/people/shajay-bhooshan?disclaimer=true) suggests a way to test scenarios and design alternatives together. I want participants to encounter a refusal or takeover, not merely navigate an attractive model.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library simulation would compare a shared counter and a separate handoff bay. Participants could change a mandate, prioritise a person or stop an AI agent; a later physical mock-up would check what the virtual exercise misses.
+
+**Concrete first ask (proposed):** Could you critique the scenario design or suggest a ZHA research collaborator? I would send one plan and task sequence, asking which decisions a game-based review can expose before a full-scale architectural test.
 
 ## Supervision and open questions
 

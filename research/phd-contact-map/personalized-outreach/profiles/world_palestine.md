@@ -1,6 +1,6 @@
 # Sanaa Anabtawi — research for first contact
 
-**Lead:** `world_palestine`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_palestine`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Birzeit University, Architectural Engineering and Planning. **Recorded role:** Assistant professor.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could critique spatial access and civic architecture or refer a social-space colleague; topic fit and doctoral capacity remain unconfirmed.
 
-**Draft connection (assessment):** Your Birzeit profile identifies your architectural-engineering and planning affiliation. I am seeking a context-sensitive critique before assuming that delegated civic service is useful or feasible in a particular setting.
+**Selected source anchor:** [Birzeit’s Architectural Engineering and Planning profile](https://www.birzeit.edu/en/faculty-staff/sanaa-anabtawi) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Would you assess the pilot's spatial question, or suggest a colleague who studies public-building access, everyday use and the institutional conditions of participation?
+**Draft connection (assessment):** [Birzeit’s Architectural Engineering and Planning profile](https://www.birzeit.edu/en/faculty-staff/sanaa-anabtawi) identifies your architecture/planning connection. I would like a design-fit check or colleague referral, without assuming topic interest or available supervision.
+
+**Specific spatial case (proposal):** For Proxy Society, a proposed library test would compare shared reception and a bounded AI-mediated handoff, retaining direct human access and measuring what happens when a request is refused or taken over.
+
+**Concrete first ask (proposed):** Could you critique the plan pair or suggest a researcher in public-building use or environment–behaviour? I would send the task script and establish the appropriate doctoral/advisory route separately.
 
 ## Supervision and open questions
 

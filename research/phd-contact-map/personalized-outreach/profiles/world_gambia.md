@@ -1,6 +1,6 @@
 # Original Design and Build Africa (ODABA) — research for first contact
 
-**Lead:** `world_gambia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_gambia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** ODAB Africa. **Recorded role:** Architecture/design-and-build practice.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 A preliminary practice referral for culturally grounded spatial design; named architect credentials and academic research fit remain open.
 
-**Draft connection (assessment):** ODABA describes design rooted in African heritage and local craftsmanship. That is a useful perspective on making a service boundary understandable through ordinary spatial and material practices.
+**Selected source anchor:** [ODABA’s architectural and interior-design practice](https://www.odabafrica.com/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could your design team discuss a small civic-threshold scenario, or refer me to a Gambian practitioner or researcher who works with public-building users?
+**Draft connection (assessment):** [ODABA’s architectural and interior-design practice](https://www.odabafrica.com/) gives me a practice connection for the physical legibility of reception, rather than the AI system’s capabilities.
+
+**Specific spatial case (proposal):** For Proxy Society, a community-centre mock-up would compare counter orientation, a clear stopping marker and visibility of staff during personal and delegated arrival. The question is whether people recognise where help and authority reside.
+
+**Concrete first ask (proposed):** Could an ODABA designer critique the layout and cue board or suggest a Gambia colleague? The initial contribution would be practice advice to an architecture PhD proposal before any live trial is planned.
 
 ## Supervision and open questions
 

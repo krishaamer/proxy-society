@@ -1,6 +1,6 @@
 # Xu Tiantian — research for first contact
 
-**Lead:** `xu_tiantian`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `xu_tiantian`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** DnA_Design and Architecture. **Recorded role:** Architect and founding principal.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could challenge when a small civic intervention strengthens shared life and when adding technical infrastructure is unnecessary; useful for a community-centre pilot and a qualitative case study.
 
-**Draft connection (assessment):** Your community-based architectural acupuncture in Songyang makes the social purpose of a place central to the architectural intervention. That is a useful challenge to a project about making physical attendance optional.
+**Selected source anchor:** [community-based architectural acupuncture](https://www.esa-paris.fr/accueil/actus/conference-xu-tiantian) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Indexed primary text or retained earlier source evidence; full current page not established.
 
-**Concrete first ask (proposed):** Could you advise how a threshold pilot should identify and protect the activities that make gathering worthwhile, before proposing new automated infrastructure?
+**Draft connection (assessment):** Your published account of [community-based architectural acupuncture](https://www.esa-paris.fr/accueil/actus/conference-xu-tiantian) is a useful challenge to my proposal: a small spatial intervention may strengthen shared life without requiring a large technical infrastructure.
+
+**Specific spatial case (proposal):** For Proxy Society, I am considering one community-centre threshold where delegated errands can be handled at an existing staff point. A bench, sightline or change of position might matter more than a separate robot route; the comparison would include leaving the entrance unchanged.
+
+**Concrete first ask (proposed):** Could you critique the intervention sketch and suggest a community-use precedent? I am seeking practice advice for an architecture PhD, especially on deciding when an added threshold weakens the relationships it is meant to support.
 
 ## Supervision and open questions
 

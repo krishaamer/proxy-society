@@ -1,6 +1,6 @@
 # Philip F. Yuan — research for first contact
 
-**Lead:** `philip_yuan`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `philip_yuan`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** Tongji University, College of Architecture and Urban Planning. **Recorded role:** Professor and Dean; Architectural Intelligent Design and Fabrication.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-08**. Source review this 
 
 Could provide an architecture research home and prototyping network for spatial boundaries and robot/human circulation. Fabrication expertise needs to be connected explicitly to the building-in-use pilot.
 
-**Draft connection (assessment):** Your Tongji research connects intelligent architectural design, performance-based tectonics and robotic fabrication. I would like to test whether those experimental approaches can also inform a building-in-use question.
+**Selected source anchor:** [Tongji research in intelligent architectural design and robotic fabrication](https://caup.tongji.edu.cn/caupen/e6/43/c33464a321091/page.htm) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Could a civic-threshold comparison fit your research context, or which colleague would be better placed to study spatial experience, access and delegated authority?
+**Draft connection (assessment):** Your [Tongji research in intelligent architectural design and robotic fabrication](https://caup.tongji.edu.cn/caupen/e6/43/c33464a321091/page.htm) offers a prototyping context, but my question concerns occupied space rather than robotic production of a building.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed experiment is a library handoff bay with a bounded robot destination, a visible stopping point and an unobstructed human route. I would construct two spatial alternatives and compare staff intervention and passage while keeping the robot task constant.
+
+**Concrete first ask (proposed):** Would you consider a doctoral-fit conversation at Tongji? I would bring a dimensioned prototype brief and ask which research method could connect the fabrication work to evidence about everyday use and delegated authority.
 
 ## Supervision and open questions
 

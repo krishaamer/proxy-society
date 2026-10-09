@@ -1,6 +1,6 @@
 # Faculty of Architecture — research centre — research for first contact
 
-**Lead:** `world_serbia`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+**Lead:** `world_serbia`. **First prepared:** 2026-10-09. **Writing revised:** 2026-10-10 (Asia/Manila), version 2. **Status:** Prepared English draft; unsent; human review required.
 
 **Published affiliation:** University of Belgrade, Faculty of Architecture. **Recorded role:** Architecture research centre referral.
 
@@ -16,9 +16,13 @@ The underlying contact record was checked on **2026-10-09**. Source review this 
 
 Could identify a social-space or architectural-design researcher and clarify the doctoral route. A doctoral office listing does not establish an individual's supervision capacity.
 
-**Draft connection (assessment):** Your faculty's published research-centre route provides a starting point for finding a colleague who can assess a small service change through architectural evidence.
+**Selected source anchor:** [Belgrade architecture faculty’s research-centre route](https://www.arh.bg.ac.rs/o-fakultetu/opste-informacije/kontakt/) — reviewed 2026-10-09; public text retrieved. Public HTML text or, for PDFs, at most the first 30 pages; focused first-contact review, not a complete publication review.
 
-**Concrete first ask (proposed):** Who studies civic-building access, reception or everyday spatial behaviour, and could advise on the pilot's research fit and an appropriate doctoral enquiry process?
+**Draft connection (assessment):** [Belgrade architecture faculty’s research-centre route](https://www.arh.bg.ac.rs/o-fakultetu/opste-informacije/kontakt/) is the appropriate research channel for finding a colleague to assess the architectural question before using the separate doctoral-administration route.
+
+**Specific spatial case (proposal):** Proxy Society’s proposed library test would translate an AI-mediated mandate into a visible destination and human takeover point, comparing two layouts through plans and staged refusal/recovery tasks.
+
+**Concrete first ask (proposed):** Could you identify a researcher in architectural behaviour, design computation or public-building use? I would send the comparison and proposed outputs, then establish doctoral eligibility and supervisory capacity separately.
 
 ## Supervision and open questions
 
