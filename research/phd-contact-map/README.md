@@ -1,5 +1,7 @@
 # Proxy Society architecture and PhD contact map
 
+The [Anthology Manila event cohort](anthology-manila/README.md) adds focused research on 102 publicly named people around the 2026 festival, with [102 specific unsent emails and an organiser enquiry](../../writing/outreach/anthology-manila/README.md). It sits alongside this 303-record global tracker, cross-references Andra Matin and Abelardo Tolentino, and retains the global country-coverage counts. Use its event-specific writing when approaching that network; profile and routing gaps are explicit.
+
 Expanded research map, updated 9 October 2026 (Asia/Manila). The shared tracker contains 303 leads: 153 named people and 150 institutional, practice and industry referral contacts across 201 search geographies. The retained 118-lead map includes the initial 41 people, the [8 October global expansion](global-expansion.md) and the [continuation](continuation.md). The world sweep adds 185 leads after reconciling two duplicate professors. Individual records retain their own check dates.
 
 The strongest first conversations are Ava Fatah gen Schieck, Jüri Soolep, Kerstin Sailer, Maroš Krivý, Klaske Havik, Panu Lehtovuori, Ruth Conroy Dalton and Sam Conrad Joyce. For an early practice conversation, approach Usman Haque and Ling Tan together at HAQUE TAN.
