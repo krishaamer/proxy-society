@@ -6,6 +6,12 @@ The strongest first conversations are Ava Fatah gen Schieck, Jüri Soolep, Kerst
 
 The map began from the Architecture of Presence proposal, Social Permeability Map and Maintaining Human Intent proposition. The current [Architecture of Delegated Presence brief](../../writing/proposals/architecture-of-delegated-presence.md) adds an equitable-access framing and a bounded civic-building threshold pilot, with comparisons against ordinary booking, fixed automation and human assistance. Priorities and possible contributions below are judgments about fit. Published supervision evidence is stated separately. Capacity, funding, willingness, admission eligibility and any formal appointment remain unconfirmed. Existing relationships and the applicant's enrolment status are unknown. No outreach was performed.
 
+## Personalized first-contact research
+
+All 303 leads now have a [source-linked recipient research note](personalized-outreach/README.md) and an [individual English email draft](../../writing/outreach/personalized/README.md), prepared 9 October 2026. Every subject, published-work/office connection and first ask is tailored to its recipient. Offices receive referral requests; advisory and doctoral fit remain proposed questions. All messages are unsent and require review. The notes distinguish direct-source text, indexed evidence and unsuccessful refreshes, and record channel restrictions and shared routes.
+
+This focused pass adds published emails for José Pinto Duarte and Māra Liepa-Zemeša and explicit UKIM doctoral-mentor evidence for Aneta Hristova-Popovska. Penn State's individual and centre pages disagree on the current centre directorship, so Duarte's email avoids that title. Other historical records retain their earlier evidence dates; retrieval availability does not establish a complete current-role audit. [Preparation JSON](personalized-outreach/records.json) · [CSV](personalized-outreach/records.csv).
+
 ## World coverage
 
 The [world map and verification queue](world-map.md) records all 193 UN member states and the two observer states, plus Taiwan, Kosovo, the Cook Islands, Niue, Western Sahara and the retained Hong Kong research geography: 201 rows. Published country-connected routes cover 197 geographies. Marshall Islands, Niue and Western Sahara have externally based connections; North Korea has only an indirect UIA referral and its local route remains unresolved. Eleven dated, directory-sourced or access-limited routes require extra verification.
@@ -18,7 +24,7 @@ The [continuation](continuation.md) adds nine academic and seven company/practic
 
 The [18-route funding and recruitment screen](funding-and-recruitment.md), [route CSV](funding-routes.csv) and [route JSON](funding-routes.json) distinguish dated calls from programmes, pending catalogues, restricted projects and closed rounds. Stages, funding evidence and eligibility caveats are separate. No outreach or applications were performed.
 
-The original 102 lead records remain unchanged without a full new role audit. Use the new screen for current programme/funding findings, not older intake dates.
+The original 102 lead records are retained, with the limited source-backed corrections identified above. No complete new role audit was performed. Use the recruitment screen for programme/funding findings, not older intake dates, and the individual preparation notes for the latest focused source review.
 
 ## Global expansion
 

@@ -38,4 +38,4 @@ Keep the intended degree route explicit: NYCU’s architecture doctoral route is
 
 The [world map](../../research/phd-contact-map/world-map.md), added 9 October 2026, expands country coverage. For architecture associations, faculty offices and government building-design offices, use the [referral draft](world-architecture-referral.md) to identify an appropriate named recipient before preparing a personal approach. A referral office's published route is not evidence of research fit or doctoral supervision.
 
-No recipient-specific message has been prepared or sent in this record. Record any later preparation, delivery and response with its date and supporting evidence.
+This record remains reusable wording. On 9 October 2026, [303 recipient-specific English drafts](personalized/README.md) were prepared separately with [source-linked research notes](../../research/phd-contact-map/personalized-outreach/README.md). No message was sent. Record later delivery and responses only with their dates and supporting evidence.

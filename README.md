@@ -12,6 +12,7 @@ This repository is the home for the entire Proxy Society project: the website, r
 | --- | --- |
 | Research and project index | [research/README.md](research/README.md) |
 | Architecture and PhD contact leads | [Contact map](research/phd-contact-map/README.md) · [CSV tracker](research/phd-contact-map/contacts.csv) · [Structured records](research/phd-contact-map/contacts.json) |
+| Personalized research and emails | [303 source-linked recipient notes](research/phd-contact-map/personalized-outreach/README.md) · [303 unsent English drafts](writing/outreach/personalized/README.md) · [CSV](research/phd-contact-map/personalized-outreach/records.csv) |
 | Global architecture PhD and industry research | [8 October expansion](research/phd-contact-map/global-expansion.md) · [Continuation](research/phd-contact-map/continuation.md): earlier 102/118-lead snapshots retained in the shared tracker |
 | World architecture country coverage | [201-geography map and verification queue](research/phd-contact-map/world-map.md) · [Coverage CSV](research/phd-contact-map/world-coverage.csv) · [Coverage JSON](research/phd-contact-map/world-coverage.json): 303 leads |
 | Doctoral funding and recruitment | [18-route screen](research/phd-contact-map/funding-and-recruitment.md) · [CSV](research/phd-contact-map/funding-routes.csv) · [JSON](research/phd-contact-map/funding-routes.json) |

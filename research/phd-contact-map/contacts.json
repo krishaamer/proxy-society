@@ -2268,6 +2268,21 @@
       "title": "Institute of Architects of Zimbabwe, Harare — published record 1",
       "url": "https://www.zimarchitects.com/contact",
       "checked_on": "2026-10-09"
+    },
+    "personalization_latvia_1": {
+      "title": "RTU academic profile",
+      "url": "https://www.rtu.lv/en/iad/about-us-4/academics/open/dr-arch-mara-liepa-zemesa",
+      "checked_on": "2026-10-09"
+    },
+    "personalization_latvia_2": {
+      "title": "RTU research profile and publications",
+      "url": "https://www.rtu.lv/lv/adi/zinatne-2/petnieki/atvert/mara-liepa-zemesa",
+      "checked_on": "2026-10-09"
+    },
+    "personalization_north_macedonia_mentor": {
+      "title": "UKIM doctoral mentor list",
+      "url": "https://ukim.edu.mk/en/doktorska-shkola/informacii/mentori/",
+      "checked_on": "2026-10-09"
     }
   },
   "contacts": [
@@ -4744,7 +4759,7 @@
       "id": "jose_duarte",
       "name": "José Pinto Duarte",
       "institution": "Penn State University, Stuckeman School / Stuckeman Center for Design Computing",
-      "role": "Stuckeman Chair in Design Innovation; SCDC director",
+      "role": "Stuckeman Chair in Design Innovation; centre directorship differs between public pages",
       "location": "University Park, United States",
       "geography": "United States",
       "category": "Potential doctoral supervisor or external advisor",
@@ -4754,25 +4769,25 @@
         "Rule-based spatial design",
         "Architectural innovation"
       ],
-      "email": "",
+      "email": "jxp400@psu.edu",
       "contact_url": "https://arts.psu.edu/directory/jose-pinto-duarte/",
-      "evidence": "Penn State identifies his design innovation chair and leadership of the Stuckeman Center for Design Computing.",
+      "evidence": "The Penn State profile identifies his design innovation chair and design-computing research and publishes jxp400@psu.edu. Its centre-director description differs from the centre page, which names Felecia Davis as acting director.",
       "possible_contribution": "Could help turn scope-limited proxy permissions into explicit spatial design rules and compare generated alternatives. Needs a human-use evaluation partner so the dissertation does not stop at formal computation.",
       "first_ask": "Could a design-rule model of proxy permissions generate spatial alternatives that can be tested against ordinary reception arrangements?",
       "supervision_evidence": "Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.",
-      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.",
+      "unknowns": "Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation. Current centre directorship requires clarification because the public pages differ.",
       "source_ids": [
         "global_jose_duarte_1",
         "global_jose_duarte_2"
       ],
-      "checked_on": "2026-10-08",
+      "checked_on": "2026-10-09",
       "existing_relationship": "Unknown",
       "outreach_in_this_task": "None",
       "response": "",
       "next_follow_up": "",
       "provider_type": "University",
       "region": "North America",
-      "contact_route_status": "Official profile, team or project page; direct personal email not verified",
+      "contact_route_status": "Published professional email; delivery untested",
       "source_batch": "Global expansion 2026-10-08",
       "contact_kind": "Named academic",
       "coverage_geographies": [
@@ -10598,13 +10613,13 @@
         "Spatial experience",
         "Local research referrals"
       ],
-      "email": "",
-      "contact_url": "https://www.rtu.lv/lv/universitate/struktura-un-vadiba/fakultates/arhitekturas-un-dizaina-instituts/kontakti-18",
-      "evidence": "The institute’s current contact page names its director and publishes an office telephone; email was not legible and is not inferred.",
+      "email": "mara.liepa-zemesa@rtu.lv",
+      "contact_url": "https://www.rtu.lv/en/iad/about-us-4/academics/open/dr-arch-mara-liepa-zemesa",
+      "evidence": "RTU’s English academic profile names its architecture and design institute director and publishes mara.liepa-zemesa@rtu.lv. The research profile lists work on public perception and inclusive planning.",
       "possible_contribution": "Could identify a colleague for architectural experience, civic-space design and doctoral research questions.",
       "first_ask": "Would the civic-building threshold question fit your architecture research, or could you identify an appropriate colleague? What architectural evidence would make the pilot useful, and is there a suitable doctoral context?",
       "supervision_evidence": "Published academic affiliation or architecture unit verified. No individual doctoral-supervisor appointment or current capacity was established in this expansion; eligibility and programme operation require a separate check.",
-      "unknowns": "Current role/contact operation, precise topic fit, response availability, access to a field site and any funding or advisory commitment remain unconfirmed. A published title or mailbox does not establish supervisory capacity. Prior relationships and prior outreach are unknown. No verified direct email is recorded; use the linked public page to identify a suitable route.",
+      "unknowns": "Current role/contact operation, precise topic fit, response availability, access to a field site and any funding or advisory commitment remain unconfirmed. A published title or mailbox does not establish supervisory capacity. Prior relationships and prior outreach are unknown.",
       "checked_on": "2026-10-09",
       "existing_relationship": "Unknown",
       "outreach_in_this_task": "None",
@@ -10618,12 +10633,14 @@
       "verification": "Published source text reviewed; contact delivery not tested",
       "research_batch": "World expansion",
       "source_ids": [
-        "world_latvia_source_1"
+        "world_latvia_source_1",
+        "personalization_latvia_1",
+        "personalization_latvia_2"
       ],
       "provider_type": "University",
       "source_batch": "World expansion 2026-10-09",
       "region": "Europe",
-      "contact_route_status": "Published webpage/form route; direct email unverified"
+      "contact_route_status": "Published professional email; delivery untested"
     },
     {
       "id": "world_lebanon",
@@ -12039,7 +12056,7 @@
       "evidence": "The university’s current directory names her and publishes her faculty email; an archived directory names a different dean and is not used for the current role.",
       "possible_contribution": "Could discuss the architectural contribution and identify appropriate doctoral/design-research colleagues.",
       "first_ask": "Would the civic-building threshold question fit your architecture research, or could you identify an appropriate colleague? What architectural evidence would make the pilot useful, and is there a suitable doctoral context?",
-      "supervision_evidence": "Published academic affiliation or architecture unit verified. No individual doctoral-supervisor appointment or current capacity was established in this expansion; eligibility and programme operation require a separate check.",
+      "supervision_evidence": "UKIM’s published doctoral mentor list includes Aneta Hristova-Popovska in Architecture and Urban Planning. This establishes a listed mentor route, not current capacity, funding, recruitment or agreement; degree eligibility and programme terms require confirmation.",
       "unknowns": "Current role/contact operation, precise topic fit, response availability, access to a field site and any funding or advisory commitment remain unconfirmed. A published title or mailbox does not establish supervisory capacity. Prior relationships and prior outreach are unknown.",
       "checked_on": "2026-10-09",
       "existing_relationship": "Unknown",
@@ -12054,7 +12071,8 @@
       "verification": "Published source text reviewed; contact delivery not tested",
       "research_batch": "World expansion",
       "source_ids": [
-        "world_north_macedonia_source_1"
+        "world_north_macedonia_source_1",
+        "personalization_north_macedonia_mentor"
       ],
       "provider_type": "University",
       "source_batch": "World expansion 2026-10-09",

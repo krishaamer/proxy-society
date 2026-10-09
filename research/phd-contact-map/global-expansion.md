@@ -956,11 +956,11 @@ Checked 2026-10-08. Prior relationship unknown. No outreach performed.
 
 #### José Pinto Duarte (jose_duarte)
 
-Stuckeman Chair in Design Innovation; SCDC director. Penn State University, Stuckeman School / Stuckeman Center for Design Computing. University Park, United States.
+Stuckeman Chair in Design Innovation; centre directorship differs between public pages. Penn State University, Stuckeman School / Stuckeman Center for Design Computing. University Park, United States.
 
 **Route:** Potential doctoral supervisor or external advisor. **Priority:** Focused follow-up. **Themes:** Design computation; Rule-based spatial design; Architectural innovation.
 
-**Evidence:** Penn State identifies his design innovation chair and leadership of the Stuckeman Center for Design Computing.
+**Evidence:** The individual Penn State profile identifies his design innovation chair and publishes `jxp400@psu.edu`. Its centre-director description differs from the centre page, which names Felecia Davis as acting director. This discrepancy was recorded during personalized preparation on 9 October 2026.
 
 **Possible contribution (assessment):** Could help turn scope-limited proxy permissions into explicit spatial design rules and compare generated alternatives. Needs a human-use evaluation partner so the dissertation does not stop at formal computation.
 
@@ -970,7 +970,7 @@ Stuckeman Chair in Design Innovation; SCDC director. Penn State University, Stuc
 
 **Open points:** Capacity, topic acceptance, qualifying-degree equivalence, language, funding and access to a study site require confirmation.
 
-**Professional route:** [official page](https://arts.psu.edu/directory/jose-pinto-duarte/). Official profile, team or project page; direct personal email not verified.
+**Professional route:** `jxp400@psu.edu`, published on the [official profile](https://arts.psu.edu/directory/jose-pinto-duarte/); delivery untested. [Personalized research and unsent draft](personalized-outreach/profiles/jose_duarte.md).
 
 **Sources:** [José Pinto Duarte - College of Arts & Architecture](https://arts.psu.edu/directory/jose-pinto-duarte/); [Stuckeman Center for Design Computing (SCDC) - College of Arts & Architecture](https://arts.psu.edu/directory/stuckeman-center-for-design-computing-2).
 

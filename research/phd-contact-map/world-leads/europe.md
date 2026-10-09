@@ -342,9 +342,9 @@ New records checked 9 October 2026 (Asia/Manila). Existing priority and East Asi
 
 **Location / connection:** Latvia — published affiliation or office connection. **Coverage basis:** Published country affiliation or office connection.
 
-**Published contact:** No verified direct email recorded · [Public route](https://www.rtu.lv/lv/universitate/struktura-un-vadiba/fakultates/arhitekturas-un-dizaina-instituts/kontakti-18). **Checked:** 2026-10-09. **Verification:** Published source text reviewed; contact delivery not tested.
+**Published contact:** mara.liepa-zemesa@rtu.lv · [Public route](https://www.rtu.lv/en/iad/about-us-4/academics/open/dr-arch-mara-liepa-zemesa). **Checked:** 2026-10-09. **Verification:** Published source text reviewed; contact delivery not tested.
 
-**Evidence:** The institute’s current contact page names its director and publishes an office telephone; email was not legible and is not inferred. [Published source 1](https://www.rtu.lv/lv/universitate/struktura-un-vadiba/fakultates/arhitekturas-un-dizaina-instituts/kontakti-18)
+**Evidence:** RTU’s English academic profile names its architecture and design institute director and publishes mara.liepa-zemesa@rtu.lv. The research profile lists work on public perception and inclusive planning. [Published source 1](https://www.rtu.lv/lv/universitate/struktura-un-vadiba/fakultates/arhitekturas-un-dizaina-instituts/kontakti-18) · [Published source 2](https://www.rtu.lv/en/iad/about-us-4/academics/open/dr-arch-mara-liepa-zemesa) · [Published source 3](https://www.rtu.lv/lv/adi/zinatne-2/petnieki/atvert/mara-liepa-zemesa)
 
 **Possible contribution (assessment):** Could identify a colleague for architectural experience, civic-space design and doctoral research questions.
 
@@ -352,7 +352,7 @@ New records checked 9 October 2026 (Asia/Manila). Existing priority and East Asi
 
 **Supervision evidence:** Published academic affiliation or architecture unit verified. No individual doctoral-supervisor appointment or current capacity was established in this expansion; eligibility and programme operation require a separate check.
 
-**Open questions:** Current role/contact operation, precise topic fit, response availability, access to a field site and any funding or advisory commitment remain unconfirmed. A published title or mailbox does not establish supervisory capacity. Prior relationships and prior outreach are unknown. No verified direct email is recorded; use the linked public page to identify a suitable route.
+**Open questions:** Current role/contact operation, precise topic fit, response availability, access to a field site and any funding or advisory commitment remain unconfirmed. A published title or mailbox does not establish supervisory capacity. Prior relationships and prior outreach are unknown.
 
 **Status:** Country expansion — qualify fit. Existing relationship: Unknown. Outreach in this task: None. Response: None recorded. Next follow-up: None recorded.
 
@@ -520,13 +520,13 @@ New records checked 9 October 2026 (Asia/Manila). Existing priority and East Asi
 
 **Published contact:** hristova.aneta@arh.ukim.edu.mk · [Public route](https://ukim.edu.mk/en/sostav/fakulteti/arhitektonski-fakultet/). **Checked:** 2026-10-09. **Verification:** Published source text reviewed; contact delivery not tested.
 
-**Evidence:** The university’s current directory names her and publishes her faculty email; an archived directory names a different dean and is not used for the current role. [Published source 1](https://ukim.edu.mk/en/sostav/fakulteti/arhitektonski-fakultet/)
+**Evidence:** The university’s current directory names her and publishes her faculty email; an archived directory names a different dean and is not used for the current role. [Published source 1](https://ukim.edu.mk/en/sostav/fakulteti/arhitektonski-fakultet/) · [Published source 2](https://ukim.edu.mk/en/doktorska-shkola/informacii/mentori/)
 
 **Possible contribution (assessment):** Could discuss the architectural contribution and identify appropriate doctoral/design-research colleagues.
 
 **First ask (proposed):** Would the civic-building threshold question fit your architecture research, or could you identify an appropriate colleague? What architectural evidence would make the pilot useful, and is there a suitable doctoral context?
 
-**Supervision evidence:** Published academic affiliation or architecture unit verified. No individual doctoral-supervisor appointment or current capacity was established in this expansion; eligibility and programme operation require a separate check.
+**Supervision evidence:** UKIM’s published doctoral mentor list includes Aneta Hristova-Popovska in Architecture and Urban Planning. This establishes a listed mentor route, not current capacity, funding, recruitment or agreement; degree eligibility and programme terms require confirmation.
 
 **Open questions:** Current role/contact operation, precise topic fit, response availability, access to a field site and any funding or advisory commitment remain unconfirmed. A published title or mailbox does not establish supervisory capacity. Prior relationships and prior outreach are unknown.
 

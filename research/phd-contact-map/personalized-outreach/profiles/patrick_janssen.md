@@ -1,0 +1,48 @@
+# Patrick Janssen — research for first contact
+
+**Lead:** `patrick_janssen`. **Reviewed:** 2026-10-09 (Asia/Manila). **Status:** Prepared English draft; unsent; human review required.
+
+**Published affiliation:** National University of Singapore, Department of Architecture / Design Automation Lab. **Recorded role:** Associate Professor; Design Automation Laboratory director.
+
+**Type:** Named academic. **Search geographies:** Singapore. **Priority:** Focused follow-up.
+
+## Published evidence
+
+Janssen's professional site identifies his NUS role and Design Automation Laboratory. An NUS research-centre investigator page confirms affiliation and email.
+
+The underlying contact record was checked on **2026-10-08**. Source review this pass: **Indexed primary evidence; current page recheck needed**. Availability is not confirmation that all role, programme or project claims remain current.
+
+## Proposed fit and contribution
+
+Could model bounded mandates and alternative building configurations, then connect them to observed human outcomes. Algorithmic generation alone would not answer the civic access question.
+
+**Draft connection (assessment):** Design Automation Laboratory's work on spatial computational thinking offers a way to make a threshold's assumptions explicit before generating design alternatives.
+
+**Concrete first ask (proposed):** Can a task-and-permission model generate layouts whose access, waiting and social effects are testable in a civic building, and who could advise on that research direction?
+
+## Supervision and open questions
+
+Academic affiliation is verified; individual doctoral-supervisor approval and current recruitment were not established.
+
+Dedicated university rank and individual doctoral supervisor listing, current capacity, qualifying-degree equivalence and funding require confirmation. Avoid relying on the old CV's assistant-professor title.
+
+No current capacity, funding offer, admission, site permission or advisory agreement has been confirmed. Earlier relationships remain unknown; a first-contact draft does not imply that no earlier contact ever occurred.
+
+## Contact route and review notes
+
+**Published email:** patrick.janssen@nus.edu.sg. **Public route:** [Published page](https://patrick.janssen.name/). Delivery has not been tested.
+
+- Reopen the primary profile/contact source before use; this refresh did not retrieve adequate direct public text.
+- The published contact page could not be adequately retrieved in the automated refresh (timeout, access or transport failure). Reopen the route in a browser and verify the intended enquiry channel before use; source text elsewhere does not establish route operation.
+
+## Public sources
+
+1. [Home | patrick-janssen](https://patrick.janssen.name/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Underlying evidence date: 2026-10-08. Indexed primary text or retained earlier source evidence; full current page not established.
+2. [Principle and Co-Principle Investigators – Centre for Sustainable Asian Cities](https://cde.nus.edu.sg/csac/principle-and-co-principle-investigators/) — reviewed 2026-10-09; direct retrieval unsuccessful or insufficient. Underlying evidence date: 2026-10-08. Indexed primary text or retained earlier source evidence; full current page not established.
+3. [NUS DoA](https://cde.nus.edu.sg/arch/news_and_events/news_ay2021_patrick_janssen_teach_learn_moocs_260121/) — reviewed 2026-10-09; primary-source indexed text reviewed; direct retrieval limited. Underlying evidence date: 2026-10-08. Focused indexed primary text; full current page and contact operation not established. Historical publications do not establish a current appointment.
+
+## Prepared correspondence
+
+[Personalized email](../../../../writing/outreach/personalized/patrick_janssen.md) · [Full index](../README.md) · [Structured record](../records.json).
+
+**Delivery:** Not sent. **Response:** None recorded. **Relationship:** Unknown. No email, form or social message was sent.

@@ -28,4 +28,4 @@ Select the office from its current public source and record its lead ID. For an 
 
 For externally based contacts, state the actual connection to the search geography. North Korea's UIA route calls for an introduction to the Korean Architects Union; it does not establish a local recipient. Reconfirm dated, directory-sourced and access-limited routes before using them.
 
-Add only verified education, work and enrolment details. No recipient-specific message, delivery, reply, site access, funding or advisory agreement is recorded. Saving this wording does not authorize sending it.
+Add only verified education, work and enrolment details. This remains the generic template; [recipient-specific drafts](personalized/README.md) were prepared separately on 9 October 2026 for every contact-map lead, including the institutional routes. No delivery, reply, site access, funding or advisory agreement is recorded. Saving this wording does not authorize sending it.

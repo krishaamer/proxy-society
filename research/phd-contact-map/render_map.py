@@ -113,7 +113,7 @@ def render():
         lines.append('')
     lines += ['## Working from the map', '',
               'Qualify fit before preparing a personal approach: read a relevant work, identify a precise architectural question, and check the intended contribution. For a referral office, ask for a named researcher or architect first. For a potential supervisor, establish eligibility, programme route, availability and funding separately.', '',
-              'Use the [current introduction](../../writing/outreach/architecture-research-introduction.md) for named contacts and the [world referral wording](../../writing/outreach/world-architecture-referral.md) for offices and associations. Both are unsent drafts. No reply, availability, admission or advisor agreement is recorded.', '',
+              'All 303 leads have [personalized first-contact notes](personalized-outreach/README.md) and [individual unsent English drafts](../../writing/outreach/personalized/README.md), prepared 9 October 2026. Review the source-refresh limits and channel constraints before choosing a recipient. The [current introduction](../../writing/outreach/architecture-research-introduction.md) and [world referral wording](../../writing/outreach/world-architecture-referral.md) remain reusable templates. No reply, availability, admission or advisor agreement is recorded.', '',
               '## Data and maintenance', '',
               '- [All contacts — JSON](contacts.json) · [CSV](contacts.csv).',
               '- [World coverage — JSON](world-coverage.json) · [CSV](world-coverage.csv), including search queries/method and explicit gaps.',

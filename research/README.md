@@ -5,6 +5,7 @@ This is the project's research index. Updated 9 October 2026 (Asia/Manila).
 ## Architecture and PhD
 
 - [Architecture and PhD contact map](phd-contact-map/README.md): 303 leads, including 153 named people and 150 institutional, practice and industry referral contacts; evidence, fit and supervision are recorded separately.
+- [Personalized first-contact research](phd-contact-map/personalized-outreach/README.md): a source-linked note, individual subject, research connection and concrete ask for all 303 leads. [Unsent email drafts](../writing/outreach/personalized/README.md) · [Canonical records](phd-contact-map/personalized-outreach/records.json) · [CSV](phd-contact-map/personalized-outreach/records.csv). Source-refresh limits, shared routes and channel constraints are recorded per recipient.
 - [World country coverage](phd-contact-map/world-map.md): 201 search geographies, including all 193 UN members and both observers. Published country-connected routes cover 197 geographies; three have externally based connections and North Korea has only an indirect referral. Includes a verification queue.
 - [Country coverage CSV](phd-contact-map/world-coverage.csv) and [JSON](phd-contact-map/world-coverage.json): geography, lead IDs, search method, source links and remaining gaps.
 - [Global expansion](phd-contact-map/global-expansion.md): the 8 October snapshot with 61 additions and nine programme screenings.
