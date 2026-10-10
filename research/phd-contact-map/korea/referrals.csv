@@ -1,0 +1,13 @@
+id,name,geography,institution,city,checked_on,contact_email,contact_url,route_scope,route_status,published_evidence,fit_assessment,proposed_contribution,supervision_evidence,open_questions,source_urls,global_lead_id,delivery_status,existing_relationship,response,draft_kind,draft_subject,draft_body,draft_path,profile_path
+north_korea_uia,Korean Architects Union — via UIA secretariat,North Korea,"International Union of Architects, Paris; possible referral to KAU","Paris, France — external referral",2026-10-10,uia@uia-architectes.org,https://www.uia-architectes.org/en/contact/,External UIA secretariat route; no named architect or local North Korean professional contact established,Hold — refresh current UIA general contact before use,Member page names Korean Architects Union — KAU. No individual or local email was exposed.,Bounded institutional referral to learn whether a public academic/professional introduction route exists.,Public professional referral or advice on published architectural research resources.,No North Korean doctoral route or individual supervisor verified.,"Current UIA contact route and whether it can advise on KAU professional research introductions. | Named local architecture researcher, public route, appropriate enquiry scope and institutional willingness remain gaps.",https://www.uia-architectes.org/en/member/north-korea-korean-architects-union-kau/ | https://www.uia-architectes.org/en/contact/,world_north_korea,Not sent,Unknown,,Institutional referral email,Public architectural research route for the Korean Architects Union,"Dear UIA Secretariat,
+
+Your member page names the Korean Architects Union in North Korea (https://www.uia-architectes.org/en/member/north-korea-korean-architects-union-kau/).
+
+I am developing Proxy Society, an architectural research project on how civic-building thresholds accommodate people and AI/robot services acting for absent people. For the Korea research map, I am looking for published architectural scholarship or an appropriate professional introduction route, without assuming a local contact or doctoral opportunity.
+
+Could UIA advise whether KAU has a public channel for such research enquiries, or suggest accessible publications and a suitable institutional intermediary? A referral or clarification of the available route would be helpful.
+
+Best regards,
+Kris Haamer
+Proxy Society
+https://proxysociety.org/architecture",writing/outreach/korea/north_korea_uia.md,research/phd-contact-map/korea/referral-north-korea.md

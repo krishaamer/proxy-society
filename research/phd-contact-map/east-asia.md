@@ -1,5 +1,7 @@
 # Architecture and PhD leads — China, Taiwan, South Korea and Japan
 
+**Korea update, 10 October:** the [focused Korea network](korea/README.md) contains 32 named South Korea contacts, nine programme/process screens and [31 personalized unsent emails plus a Make Lab interest statement](../../writing/outreach/korea/README.md). Use it for current Korea wording and source/route distinctions, including Yonsei's Architecture PhD, KAIST's separate degree homes, SNU's retirement-related Park record and Make Lab's form policy. Five named contacts have holds; the separate North Korea referral is external and on contact-refresh hold. No Korea trip is assumed; this page retains the earlier regional snapshot.
+
 **Japan update, 10 October:** the [focused Japan network](japan/README.md) contains 40 named contacts, six programme/process screens and [39 personalized unsent emails plus a general-session question](../../writing/outreach/japan/README.md). Use it for current Japan first-contact wording and source/route cautions, including Tsukamoto's general admissions process and the historical doctoral-roster link that now returns 404. No Japan trip is assumed; this page retains the earlier regional snapshot.
 
 Regional evidence below is the 8 October 2026 snapshot. See the [continuation](continuation.md) and [funding/recruitment screen](funding-and-recruitment.md) for later connections and current China, Taiwan, South Korea and Japan route caveats.
