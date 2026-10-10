@@ -192,7 +192,7 @@ def render(data):
     plan += ['', '## Route holds', '']
     for p in people:
         if p['route_status'].startswith('Hold'):
-            plan.append(f"- **[{p['name']}](profiles/{p['id']}.md):** {p['route_status']}. {p['affiliation_caveat']}")
+            plan.append(f"- **[{p['name']}](profiles/{p['id']}.md):** {p['route_status']}. {p['affiliation_caveat']}".rstrip())
     plan += ['', 'No messages have been sent. Drafts with shared mailboxes are alternative approaches, not a batch to send unchanged. Personal visit dates and private replies must not be published in the repo.', '']
     output[HERE / 'visit-plan.md'] = '\n'.join(plan)
 

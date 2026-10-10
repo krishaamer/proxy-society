@@ -53,8 +53,8 @@ Use these for precise administrative questions after choosing a route; a faculty
 
 - **[Yi-Cheng Lai](profiles/yi_cheng_lai.md):** Hold: verified email/routing not yet established. Current roster uses Yi-Cheng Lai; older catalogues use Ih-Cheng. Use the current roster form and confirm preferred spelling.
 - **[Chen-Cheng Chen](profiles/chen_cheng_chen.md):** Hold: verified email/routing not yet established. Absent from the current Architecture faculty list. Teacher history alone does not establish a present appointment. Hold routing and confirm affiliation.
-- **[Jui-Mao Huang](profiles/jui_mao_huang.md):** Hold: verified email/routing not yet established. 
-- **[Hoang-Ell Jeng](profiles/hoang_ell_jeng.md):** Hold: verified email/routing not yet established. 
+- **[Jui-Mao Huang](profiles/jui_mao_huang.md):** Hold: verified email/routing not yet established.
+- **[Hoang-Ell Jeng](profiles/hoang_ell_jeng.md):** Hold: verified email/routing not yet established.
 - **[Yuan-Jung Lee](profiles/yuan_jung_lee.md):** Hold for fresh verification: older indexed official department route. Approximately 1.3-year-old indexed roster. Current appointment and route ownership unconfirmed; recheck before use.
 - **[Yi-Pei Hsu](profiles/yi_pei_hsu.md):** Hold for fresh verification: older indexed official department route. Older indexed listing; current appointment and route ownership need confirmation.
 - **[Huang Sheng-Yuan](profiles/huang_sheng_yuan.md):** Hold: verified email/routing not yet established. Government evidence is historical; official practice site retrieval failed. Verify current route and affiliation before outreach.
