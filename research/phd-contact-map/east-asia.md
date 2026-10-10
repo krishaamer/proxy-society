@@ -1,5 +1,7 @@
 # Architecture and PhD leads — China, Taiwan, South Korea and Japan
 
+**Japan update, 10 October:** the [focused Japan network](japan/README.md) contains 40 named contacts, six programme/process screens and [39 personalized unsent emails plus a general-session question](../../writing/outreach/japan/README.md). Use it for current Japan first-contact wording and source/route cautions, including Tsukamoto's general admissions process and the historical doctoral-roster link that now returns 404. No Japan trip is assumed; this page retains the earlier regional snapshot.
+
 Regional evidence below is the 8 October 2026 snapshot. See the [continuation](continuation.md) and [funding/recruitment screen](funding-and-recruitment.md) for later connections and current China, Taiwan, South Korea and Japan route caveats.
 
 **Taiwan update, 10 October:** the [Taiwan visit cohort](taiwan-visit/README.md) now contains 56 named contacts, five published doctoral routes and [56 visit-specific unsent emails](../../writing/outreach/taiwan-visit/README.md). It supplies the current role checks and outreach wording for the four Taiwan people below, including NYCU leadership-label conflicts. This page preserves the earlier regional snapshot; use the focused cohort for visit planning.
