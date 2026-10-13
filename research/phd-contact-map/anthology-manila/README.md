@@ -1,5 +1,7 @@
 # Anthology Manila architecture and PhD contact cohort
 
+**Manila geography update, 13 October:** the [Manila/Metro Manila network](../manila/README.md) contains 27 named people, four local institutional/operational routes and [31 specific unsent texts](../../../writing/outreach/manila/README.md). Nine event people have fresh city-based role/route checks there; the event roster below includes people based elsewhere. Use the geographical cohort for local doctoral/methods/practice approaches. BookStop’s new web status labels and the separate operator enquiry are recorded there. The 102-person event snapshot retains its 10 October dates and counts.
+
 Status: researched leads and **unsent** writing. Checked 10 October 2026, Asia/Manila.
 
 Focus: **Anthology ASEAN Architecture Festival 2026**, Intramuros, Manila, 2–4 October; theme **Shared Ground: Architecture of Care, Culture, and Collective Futures**. [Official event](https://www.anthologyfest.com/) · [Programme links](https://www.anthologyfest.com/program2026).
