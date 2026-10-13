@@ -1,5 +1,7 @@
 # Korea architecture and PhD contact network
 
+**Busan update, 13 October:** the [focused Busan network](../busan/README.md) contains 21 named people, two local introduction routes and [23 specific unsent texts](../../../writing/outreach/busan/README.md). It rechecks Paek, Woo and Lawrence Kim, adds university/practice contacts, and supplies newer PNU Architecture doctorate evidence and the Spring 2027 guide. Use the Busan cohort for current city-specific wording; the Korea records below retain their 10 October dates and totals.
+
 Status: researched leads and **unsent** prepared writing. Checked **10 October 2026, Asia/Manila**.
 
 **32 named South Korea contacts:** 31 recipient-specific email drafts and 1 Make Lab expression-of-interest statement. One **separately counted external North Korea institutional referral** brings the total to 33 prepared texts. 60 primary source records and 9 programme/process screens include unresolved degree-route gaps.

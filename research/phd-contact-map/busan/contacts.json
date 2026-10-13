@@ -1,0 +1,2277 @@
+{
+  "metadata": {
+    "title": "Busan architecture and PhD contacts",
+    "checked_on": "2026-10-13",
+    "timezone": "Asia/Taipei",
+    "status": "Researched leads and unsent prepared writing",
+    "scope": "Busan-connected academics, architects and local introducers for Architecture of Delegated Presence; published dual-city practices are explicitly identified. Evidence, fit and supervision capacity are separate.",
+    "canonical_workspace": "Proxy Society website repository",
+    "project_brief": "writing/proposals/architecture-of-delegated-presence.md",
+    "brief_source_revision": "8b621c9effe179a9f91463c32e10b6183004d13b",
+    "travel_status": "Busan is the requested contact geography. No travel dates or personal whereabouts are assumed, and no meeting or visit is arranged.",
+    "provenance": "Independent Busan correspondence prepared 13 October 2026 from published recipient evidence and Architecture of Delegated Presence, website source revision 8b621c9effe179a9f91463c32e10b6183004d13b. The spatial experiments are proposals. No prior contact, qualification, attachment, travel date or site permission is assumed. These drafts do not revise the architecture-route text.",
+    "counts": {
+      "named_people": 21,
+      "institutional_referrals": 2,
+      "prepared_texts": 23,
+      "email_drafts": 22,
+      "telephone_scripts": 1,
+      "sources": 55,
+      "published_person_record_emails": 21,
+      "unique_named_record_mailboxes": 21,
+      "named_record_holds": 0,
+      "referral_holds": 0,
+      "programme_screens": 4,
+      "earlier_korea_people": 3
+    }
+  },
+  "people": [
+    {
+      "id": "seunghan_paek",
+      "name": "Seunghan Paek",
+      "korean_name": "백승한",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Associate Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 1,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_paek",
+        "busan_pnu_paek_seminar",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_paek",
+          "text": "AI architecture, everyday life and posthumanism are explicit research topics; a 2023 bibliography entry examines AI as a facade object."
+        },
+        {
+          "source_id": "busan_pnu_paek_seminar",
+          "text": "Theory seminar records a doctoral participant and questions functional reduction of urban space."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "seunghan.paek@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Strengthen the account of architectural agency and mediated presence, beyond designing an efficient transfer point.",
+      "project_case": "Proxy Society asks what happens when an AI representative acts for an absent person. I would compare a speaking position at a shared civic counter with a separate screened niche, using the same voice and mandate. The question is whether the room makes authority, responsibility and the option to return personally intelligible, rather than treating presence as an audio effect.",
+      "first_ask": "Would you be willing to critique whether this is a useful architectural account of delegated agency, and whether it could become a doctoral question in your research group?",
+      "supervision_evidence": "Profile lists graduate research guidance; March 2026 theory seminar includes a doctoral participant. The 2025 graduate curriculum lists architectural criticism, the Anthropocene and architecture/objects. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current topic fit and willingness to discuss, advise, collaborate or refer.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "seunghan_paek",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/seunghan_paek.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "An AI representative with a place to speak in a civic foyer",
+        "salutation": "Dear Professor Paek,",
+        "personalized_opening": "Your PNU profile explicitly links AI architecture with posthumanism and everyday life, and lists your 2023 study of AI as a facade object (https://his.pusan.ac.kr/pnuProfl/archi/551/23126/artclView.do).",
+        "project_case": "Proxy Society asks what happens when an AI representative acts for an absent person. I would compare a speaking position at a shared civic counter with a separate screened niche, using the same voice and mandate. The question is whether the room makes authority, responsibility and the option to return personally intelligible, rather than treating presence as an audio effect.",
+        "personalized_ask": "Would you be willing to critique whether this is a useful architectural account of delegated agency, and whether it could become a doctoral question in your research group?",
+        "body": "Dear Professor Paek,\n\nYour PNU profile explicitly links AI architecture with posthumanism and everyday life, and lists your 2023 study of AI as a facade object (https://his.pusan.ac.kr/pnuProfl/archi/551/23126/artclView.do).\n\nProxy Society asks what happens when an AI representative acts for an absent person. I would compare a speaking position at a shared civic counter with a separate screened niche, using the same voice and mandate. The question is whether the room makes authority, responsibility and the option to return personally intelligible, rather than treating presence as an audio effect.\n\nWould you be willing to critique whether this is a useful architectural account of delegated agency, and whether it could become a doctoral question in your research group?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 122,
+        "anchor_source_id": "busan_pnu_paek",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/seunghan_paek.md"
+      }
+    },
+    {
+      "id": "shin_koo_woo",
+      "name": "Shin-Koo Woo",
+      "korean_name": "우신구",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 5,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_woo_port_forum",
+        "busan_woo_uia_2026",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_woo_port_forum",
+          "text": "September 2026 BPA notice schedules Woo to present North Port urban principles at an October citizens forum."
+        },
+        {
+          "source_id": "busan_woo_uia_2026",
+          "text": "June 2026 official programme identifies Woo as Busan chief architect; that date-specific appointment is not presumed current."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "woosk@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Connect a delegated-service threshold to the public waterfront and everyday urban access, and identify realistic Busan case-study routes.",
+      "project_case": "For Proxy Society, I would compare two ways an AI representative could complete a civic transaction: collection at the outer edge of a public building, or collection through a sheltered shared foyer. I would map whether the change preserves an unbooked route from the waterfront, a place to pause, and access to staff when a mandate fails.",
+      "first_ask": "Could you suggest a Busan public-building or waterfront case where this distinction matters, and advise which question would make a worthwhile doctoral investigation?",
+      "supervision_evidence": "Current Architecture professor and published graduate-curriculum role. Public urban-design activity supports case-study/referral fit, not individual doctoral availability. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current city/public role and whether an introduction to an operator would be appropriate; the forum notice is not evidence of access.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Exact doctorate admission category, applicant eligibility, teaching/research language and funding route.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "shin_koo_woo",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/shin_koo_woo.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "A public threshold that remains usable after the transaction moves online",
+        "salutation": "Dear Professor Woo,",
+        "personalized_opening": "The Port Authority’s September notice named you for the North Port forum session on seven principles for a better city (https://www.busanpa.com/board/view.do?boardId=BBS_0000027&dataSid=36875&menuCd=DOM_000000105001001000&paging=ok&startPage=1).",
+        "project_case": "For Proxy Society, I would compare two ways an AI representative could complete a civic transaction: collection at the outer edge of a public building, or collection through a sheltered shared foyer. I would map whether the change preserves an unbooked route from the waterfront, a place to pause, and access to staff when a mandate fails.",
+        "personalized_ask": "Could you suggest a Busan public-building or waterfront case where this distinction matters, and advise which question would make a worthwhile doctoral investigation?",
+        "body": "Dear Professor Woo,\n\nThe Port Authority’s September notice named you for the North Port forum session on seven principles for a better city (https://www.busanpa.com/board/view.do?boardId=BBS_0000027&dataSid=36875&menuCd=DOM_000000105001001000&paging=ok&startPage=1).\n\nFor Proxy Society, I would compare two ways an AI representative could complete a civic transaction: collection at the outer edge of a public building, or collection through a sheltered shared foyer. I would map whether the change preserves an unbooked route from the waterfront, a place to pause, and access to staff when a mandate fails.\n\nCould you suggest a Busan public-building or waterfront case where this distinction matters, and advise which question would make a worthwhile doctoral investigation?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 111,
+        "anchor_source_id": "busan_woo_port_forum",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/shin_koo_woo.md"
+      }
+    },
+    {
+      "id": "lawrence_kim",
+      "name": "Lawrence Kim",
+      "korean_name": "로렌스 김",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Professor; Director of A+U Lab",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 9,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_lawrence_about",
+        "busan_pnu_lawrence_work",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_lawrence_about",
+          "text": "PNU professor and A+U Lab director; practice combines architecture, urban design and installation."
+        },
+        {
+          "source_id": "busan_pnu_lawrence_work",
+          "text": "Portfolio includes Visitor Center in the Forest."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "lawrence.kim@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Design a small reversible installation that tests optional bodily presence after a service has been delegated.",
+      "project_case": "Proxy Society asks why someone would still choose to come personally after delegating a transaction to an AI representative. I would build two removable threshold mockups: a narrow collection point and a shared sheltered pause with the same service capacity. Drawings and observation would record what each permits beyond completion, including meeting someone, watching activity and changing one’s mind.",
+      "first_ask": "Could you critique the two spatial arrangements and advise whether a temporary installation could provide credible evidence for a PNU architecture doctorate?",
+      "supervision_evidence": "Current professor; 2025 graduate curriculum lists installation architecture and urban-design research. No specific doctoral student or vacancy verified. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current topic fit and willingness to discuss, advise, collaborate or refer.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "lawrence_kim",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/lawrence_kim.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "A Busan installation for choosing to stay after AI-assisted collection",
+        "salutation": "Dear Professor Kim,",
+        "personalized_opening": "Your A+U Lab portfolio includes Visitor Center in the Forest, and the studio works across buildings and installations (https://www.au-lab.net/; https://www.au-lab.net/about-).",
+        "project_case": "Proxy Society asks why someone would still choose to come personally after delegating a transaction to an AI representative. I would build two removable threshold mockups: a narrow collection point and a shared sheltered pause with the same service capacity. Drawings and observation would record what each permits beyond completion, including meeting someone, watching activity and changing one’s mind.",
+        "personalized_ask": "Could you critique the two spatial arrangements and advise whether a temporary installation could provide credible evidence for a PNU architecture doctorate?",
+        "body": "Dear Professor Kim,\n\nYour A+U Lab portfolio includes Visitor Center in the Forest, and the studio works across buildings and installations (https://www.au-lab.net/; https://www.au-lab.net/about-).\n\nProxy Society asks why someone would still choose to come personally after delegating a transaction to an AI representative. I would build two removable threshold mockups: a narrow collection point and a shared sheltered pause with the same service capacity. Drawings and observation would record what each permits beyond completion, including meeting someone, watching activity and changing one’s mind.\n\nCould you critique the two spatial arrangements and advise whether a temporary installation could provide credible evidence for a PNU architecture doctorate?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 111,
+        "anchor_source_id": "busan_pnu_lawrence_work",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/lawrence_kim.md"
+      }
+    },
+    {
+      "id": "dongho_han",
+      "name": "Dongho Han",
+      "korean_name": "한동호",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Assistant Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 7,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_han",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_han",
+          "text": "Doctoral thesis traces regeneration-policy mobility over 30 years in Busan; bibliography includes Eco Delta City and public procurement for innovation."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "dhsquare@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Study how smart-city and delegated-service models translate into existing Busan neighbourhoods rather than treating technology as a universal spatial solution.",
+      "project_case": "For Proxy Society, I would compare a planned AI-assisted service hub with an existing neighbourhood office adapted for the same delegated transaction. The investigation would track which policy assumptions survive the retrofit, then examine opening hours, walk-in access and the physical route back to a human decision-maker.",
+      "first_ask": "Would you help identify a Busan regeneration case and a research design for comparing the policy promise with the changed public threshold? I would also value your advice on whether this fits doctoral work in your group.",
+      "supervision_evidence": "Current assistant professor; 2025 general-graduate curriculum assigns research methods and urban-regeneration criticism. Individual doctorate supervision eligibility not verified. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current topic fit and willingness to discuss, advise, collaborate or refer.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/dongho_han.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Tracing a delegated-service model from smart-city policy to a Busan foyer",
+        "salutation": "Dear Professor Han,",
+        "personalized_opening": "Your doctoral thesis follows regeneration-policy mobility across 30 years in Busan, and your profile lists work on Eco Delta City and public procurement for innovation (https://his.pusan.ac.kr/pnuProfl/archi/551/29705/artclView.do).",
+        "project_case": "For Proxy Society, I would compare a planned AI-assisted service hub with an existing neighbourhood office adapted for the same delegated transaction. The investigation would track which policy assumptions survive the retrofit, then examine opening hours, walk-in access and the physical route back to a human decision-maker.",
+        "personalized_ask": "Would you help identify a Busan regeneration case and a research design for comparing the policy promise with the changed public threshold? I would also value your advice on whether this fits doctoral work in your group.",
+        "body": "Dear Professor Han,\n\nYour doctoral thesis follows regeneration-policy mobility across 30 years in Busan, and your profile lists work on Eco Delta City and public procurement for innovation (https://his.pusan.ac.kr/pnuProfl/archi/551/29705/artclView.do).\n\nFor Proxy Society, I would compare a planned AI-assisted service hub with an existing neighbourhood office adapted for the same delegated transaction. The investigation would track which policy assumptions survive the retrofit, then examine opening hours, walk-in access and the physical route back to a human decision-maker.\n\nWould you help identify a Busan regeneration case and a research design for comparing the policy promise with the changed public threshold? I would also value your advice on whether this fits doctoral work in your group.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 120,
+        "anchor_source_id": "busan_pnu_han",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/dongho_han.md"
+      }
+    },
+    {
+      "id": "jaewoo_yoo",
+      "name": "Jaewoo Yoo",
+      "korean_name": "유재우",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 14,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_yoo",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_yoo",
+          "text": "Bibliography includes users’ and managers’ views of combined/merged senior welfare centers in Changwon; profile documents graduate research guidance."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "dduel@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Separate transaction efficiency from the social reasons for attending a neighbourhood or senior community facility, incorporating users and managers.",
+      "project_case": "Proxy Society would ask what remains when an AI representative handles a routine administrative task for someone. I would compare a collection-only entrance with an entrance retaining a shared sitting area and an easy staff handoff. Interviews with users and managers would distinguish saved effort from lost opportunities for company, informal assistance or an unplanned visit.",
+      "first_ask": "Could you advise which user–manager questions would reveal a real spatial loss or benefit, and whether this is suitable for a doctoral planning study or a local research collaboration?",
+      "supervision_evidence": "Profile explicitly records graduate thesis/student guidance and 2024 student research awards; current professor and graduate curriculum role. Doctoral availability is not verified. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Whether any Busan facility is an appropriate case; the published senior-center study concerns Changwon, not Busan.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Exact doctorate admission category, applicant eligibility, teaching/research language and funding route.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/jaewoo_yoo.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Does delegated administration leave the senior center worth attending?",
+        "salutation": "Dear Professor Yoo,",
+        "personalized_opening": "Your profile lists the 2021 study of users’ and managers’ views of combining and merging senior welfare centers in Changwon (https://his.pusan.ac.kr/pnuProfl/archi/551/6336/artclView.do).",
+        "project_case": "Proxy Society would ask what remains when an AI representative handles a routine administrative task for someone. I would compare a collection-only entrance with an entrance retaining a shared sitting area and an easy staff handoff. Interviews with users and managers would distinguish saved effort from lost opportunities for company, informal assistance or an unplanned visit.",
+        "personalized_ask": "Could you advise which user–manager questions would reveal a real spatial loss or benefit, and whether this is suitable for a doctoral planning study or a local research collaboration?",
+        "body": "Dear Professor Yoo,\n\nYour profile lists the 2021 study of users’ and managers’ views of combining and merging senior welfare centers in Changwon (https://his.pusan.ac.kr/pnuProfl/archi/551/6336/artclView.do).\n\nProxy Society would ask what remains when an AI representative handles a routine administrative task for someone. I would compare a collection-only entrance with an entrance retaining a shared sitting area and an easy staff handoff. Interviews with users and managers would distinguish saved effort from lost opportunities for company, informal assistance or an unplanned visit.\n\nCould you advise which user–manager questions would reveal a real spatial loss or benefit, and whether this is suitable for a doctoral planning study or a local research collaboration?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 116,
+        "anchor_source_id": "busan_pnu_yoo",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/jaewoo_yoo.md"
+      }
+    },
+    {
+      "id": "changbae_park",
+      "name": "Changbae Park",
+      "korean_name": "박창배",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 12,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_park",
+        "busan_pnu_park_vr",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_park_vr",
+          "text": "Corresponding author of 2023 BIM-VR exterior evaluation research with Architecture PhD candidate coauthors; selected methods use configurable elements and a small student pilot."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "changbae@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Develop a controlled comparison of threshold geometry and participant-chosen alternatives, then validate outside VR.",
+      "project_case": "For Proxy Society, I would let participants vary a delegated-service entrance’s opening, screen and waiting edge while holding the AI transaction constant. I would then compare the chosen layouts in a full-scale mockup, especially the moment when someone interrupts an AI representative and asks for staff.",
+      "first_ask": "Could you advise how to adapt the configurable-model method without confusing visual preference with actual public access, and whether a VR-to-mockup study could fit doctoral work at PNU?",
+      "supervision_evidence": "2023 original article identifies PhD candidate coauthors and Park as corresponding author; current professor and graduate design curriculum role. Coauthorship is not proof of supervision or a place. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current facilities and ethics/access requirements for VR and full-scale participant work. The 2023 pilot used experienced architecture students; a civic-user study needs a different sample.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Exact doctorate admission category, applicant eligibility, teaching/research language and funding route.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/changbae_park.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "From configurable BIM-VR exteriors to a civic service threshold",
+        "salutation": "Dear Professor Park,",
+        "personalized_opening": "Your 2023 BIM-VR paper lets respondents change exterior elements within one model instead of only selecting among completed designs (https://www.aodr.org/_PR/view/index.php?aidx=35842&bidx=3213).",
+        "project_case": "For Proxy Society, I would let participants vary a delegated-service entrance’s opening, screen and waiting edge while holding the AI transaction constant. I would then compare the chosen layouts in a full-scale mockup, especially the moment when someone interrupts an AI representative and asks for staff.",
+        "personalized_ask": "Could you advise how to adapt the configurable-model method without confusing visual preference with actual public access, and whether a VR-to-mockup study could fit doctoral work at PNU?",
+        "body": "Dear Professor Park,\n\nYour 2023 BIM-VR paper lets respondents change exterior elements within one model instead of only selecting among completed designs (https://www.aodr.org/_PR/view/index.php?aidx=35842&bidx=3213).\n\nFor Proxy Society, I would let participants vary a delegated-service entrance’s opening, screen and waiting edge while holding the AI transaction constant. I would then compare the chosen layouts in a full-scale mockup, especially the moment when someone interrupts an AI representative and asks for staff.\n\nCould you advise how to adapt the configurable-model method without confusing visual preference with actual public access, and whether a VR-to-mockup study could fit doctoral work at PNU?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 104,
+        "anchor_source_id": "busan_pnu_park_vr",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/changbae_park.md"
+      }
+    },
+    {
+      "id": "keojin_jin",
+      "name": "Keojin Jin",
+      "korean_name": "진교진",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Associate Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 4,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_jin",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_jin",
+          "text": "Research links public/private intermediate zones, building life cycles and incremental renewal; 2024 bibliography includes a Yeongdo hillside prefab-renewal proposal. Profile lists Architecture master thesis students."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "keojin.jin@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Frame delegated-presence infrastructure as reversible retrofit and a public/private intermediate space rather than whole-building replacement.",
+      "project_case": "Proxy Society asks how AI can act for an absent person on instructions that can be withdrawn. I would compare a removable service module at an existing entrance with a deeper shared vestibule, leaving the building’s structure intact. The same delegated transaction would be offered in both; I would assess what the retrofit does to accessible approach, neighbourly encounters, weather shelter and the option to speak with a person.",
+      "first_ask": "Would you critique how to keep this intervention reversible and socially usable on a Busan hillside site, and advise whether it belongs in your graduate research or an external design collaboration?",
+      "supervision_evidence": "Institutional profile explicitly lists current/past Architecture masters thesis students; current associate professor and graduate curriculum role. Doctoral authority and availability remain unverified. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current topic fit and willingness to discuss, advise, collaborate or refer.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/keojin_jin.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "A removable delegation threshold for an existing Busan hillside building",
+        "salutation": "Dear Professor Jin,",
+        "personalized_opening": "Your profile pairs an interest in public/private intermediate zones with incremental renewal, and lists the 2024 Yeongdo hillside study using prefabrication (https://his.pusan.ac.kr/pnuProfl/archi/551/21916/artclView.do).",
+        "project_case": "Proxy Society asks how AI can act for an absent person on instructions that can be withdrawn. I would compare a removable service module at an existing entrance with a deeper shared vestibule, leaving the building’s structure intact. The same delegated transaction would be offered in both; I would assess what the retrofit does to accessible approach, neighbourly encounters, weather shelter and the option to speak with a person.",
+        "personalized_ask": "Would you critique how to keep this intervention reversible and socially usable on a Busan hillside site, and advise whether it belongs in your graduate research or an external design collaboration?",
+        "body": "Dear Professor Jin,\n\nYour profile pairs an interest in public/private intermediate zones with incremental renewal, and lists the 2024 Yeongdo hillside study using prefabrication (https://his.pusan.ac.kr/pnuProfl/archi/551/21916/artclView.do).\n\nProxy Society asks how AI can act for an absent person on instructions that can be withdrawn. I would compare a removable service module at an existing entrance with a deeper shared vestibule, leaving the building’s structure intact. The same delegated transaction would be offered in both; I would assess what the retrofit does to accessible approach, neighbourly encounters, weather shelter and the option to speak with a person.\n\nWould you critique how to keep this intervention reversible and socially usable on a Busan hillside site, and advise whether it belongs in your graduate research or an external design collaboration?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 132,
+        "anchor_source_id": "busan_pnu_jin",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/keojin_jin.md"
+      }
+    },
+    {
+      "id": "seonghwan_yoon",
+      "name": "Seonghwan Yoon",
+      "korean_name": "윤성환",
+      "institution": "Pusan National University / Department of Architecture",
+      "published_role": "Professor",
+      "base": "Construction Building, PNU Busan campus",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor or methods collaborator",
+      "priority_rank": 21,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "busan_pnu_roster",
+        "busan_pnu_curriculum",
+        "busan_pnu_yoon",
+        "pnu_2027_notice",
+        "pnu_2027_guide"
+      ],
+      "evidence": [
+        {
+          "source_id": "busan_pnu_yoon",
+          "text": "Profile combines comfort prediction/evaluation, BIM environmental planning, climate-adaptive design and AI-based disaster-prevention architecture."
+        },
+        {
+          "source_id": "busan_pnu_roster",
+          "text": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan."
+        }
+      ],
+      "email": "yoon@pusan.ac.kr",
+      "telephone": "",
+      "contact_url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "contact_source_id": "busan_pnu_roster",
+      "route_scope": "Published individual academic email; appropriate for topic-fit or referral enquiry, not an application or visit booking",
+      "route_status": "Published professional email",
+      "caveats": "PNU Architecture on the Busan campus; distinguish from Architectural Engineering and PNU campuses outside Busan.",
+      "contribution": "Test whether apparent savings from delegated visits redistribute thermal exposure and waiting burdens to people who still come physically.",
+      "project_case": "In Proxy Society, an AI representative may reduce time inside a civic building while people still wait for collection or human assistance. I would compare a sun-exposed outer transfer point with a shaded, ventilated vestibule using the same transaction time. Measured microclimate and waiting position would test whether reduced indoor occupancy creates a new burden at the threshold.",
+      "first_ask": "Could you help define a defensible thermal-comfort comparison for these thresholds and advise whether this is a suitable doctoral methods collaboration within PNU Architecture?",
+      "supervision_evidence": "Current professor; institutional profile lists student paper awards and the department publishes graduate teaching. Exact individual doctoral supervision and current resources are unconfirmed. Formal individual capacity, willingness, funding and applicant eligibility remain unconfirmed. The Spring 2027 guide separately lists an Architecture doctorate; this establishes a published route, not individual acceptance.",
+      "open_questions": [
+        "Current topic fit and willingness to discuss, advise, collaborate or refer.",
+        "Which Architecture research field and supervision allocation fit? Check actual applicant qualifications, departmental conditions, teaching/fieldwork language and funding against the Spring 2027 guide or intended later round.",
+        "Any case-study building, operator, fieldwork or participant access requires a separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/seonghwan_yoon.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "The thermal cost of moving a civic queue to the outside edge",
+        "salutation": "Dear Professor Yoon,",
+        "personalized_opening": "Your PNU profile links comfort prediction and evaluation with climate-adaptive urban design and BIM-based environmental planning (https://his.pusan.ac.kr/pnuProfl/archi/551/6337/artclView.do).",
+        "project_case": "In Proxy Society, an AI representative may reduce time inside a civic building while people still wait for collection or human assistance. I would compare a sun-exposed outer transfer point with a shaded, ventilated vestibule using the same transaction time. Measured microclimate and waiting position would test whether reduced indoor occupancy creates a new burden at the threshold.",
+        "personalized_ask": "Could you help define a defensible thermal-comfort comparison for these thresholds and advise whether this is a suitable doctoral methods collaboration within PNU Architecture?",
+        "body": "Dear Professor Yoon,\n\nYour PNU profile links comfort prediction and evaluation with climate-adaptive urban design and BIM-based environmental planning (https://his.pusan.ac.kr/pnuProfl/archi/551/6337/artclView.do).\n\nIn Proxy Society, an AI representative may reduce time inside a civic building while people still wait for collection or human assistance. I would compare a sun-exposed outer transfer point with a shaded, ventilated vestibule using the same transaction time. Measured microclimate and waiting position would test whether reduced indoor occupancy creates a new burden at the threshold.\n\nCould you help define a defensible thermal-comfort comparison for these thresholds and advise whether this is a suitable doctoral methods collaboration within PNU Architecture?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 109,
+        "anchor_source_id": "busan_pnu_yoon",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published professional evidence and the Architecture of Delegated Presence project. Proposed experiments are suggestions, not work already performed. No prior relationship, visit, qualification, attachment or permission is assumed.",
+        "path": "writing/outreach/busan/seonghwan_yoon.md"
+      }
+    },
+    {
+      "id": "roh_ji_hwa",
+      "name": "Roh Ji-Hwa",
+      "korean_name": "노지화",
+      "institution": "Pukyong National University, Architecture / Universal Design Lab",
+      "published_role": "Professor",
+      "base": "Daeyeon campus, C22 Architecture Building, room 8324; 45 Yongso-ro, Nam-gu, Busan",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor / access-design collaborator",
+      "priority_rank": 2,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "pknu_roh",
+        "pknu_english",
+        "pknu_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "pknu_roh",
+          "text": "Professor based in Daeyeon campus Architecture Building C22, room 8324; whitewind@pknu.ac.kr. Research covers welfare facilities, universal and barrier-free design. Graduate courses include universal design and welfare planning; bibliography includes a September 2024 commons-space/modern heritage study."
+        },
+        {
+          "source_id": "pknu_english",
+          "text": "Official English name and email match: Roh Ji-Hwa / whitewind@pknu.ac.kr."
+        }
+      ],
+      "email": "whitewind@pknu.ac.kr",
+      "telephone": "",
+      "contact_url": "https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19401353",
+      "contact_source_id": "pknu_roh",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Evaluate whether delegated service actually reduces barriers for older and disabled visitors, including independent return to human help.",
+      "project_case": "For Proxy Society, I propose two versions of a community-service counter: a shared waiting area and a seated side bay for a human or AI delegate. The comparison would record reach, turning space, assistance and the route back to staff when a mandate is withdrawn.",
+      "first_ask": "Which access criteria should govern this comparison, particularly for older visitors and people using mobility aids? Could it fit doctoral Architecture work with your lab, or would you suggest an access-design collaboration first?",
+      "supervision_evidence": "Personal profile lists graduate universal-design/welfare planning teaching; graduate school separately lists Architecture doctoral study. Individual allocation and acceptance unconfirmed.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/roh_ji_hwa.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Universal-design review of a revocable community-service handoff",
+        "salutation": "Dear Professor Roh,",
+        "personalized_opening": "Your combination of universal design, welfare-facility planning and graduate teaching seems well suited to testing who a delegated-service threshold actually helps (https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19401353).",
+        "project_case": "For Proxy Society, I propose two versions of a community-service counter: a shared waiting area and a seated side bay for a human or AI delegate. The comparison would record reach, turning space, assistance and the route back to staff when a mandate is withdrawn.",
+        "personalized_ask": "Which access criteria should govern this comparison, particularly for older visitors and people using mobility aids? Could it fit doctoral Architecture work with your lab, or would you suggest an access-design collaboration first?",
+        "body": "Dear Professor Roh,\n\nYour combination of universal design, welfare-facility planning and graduate teaching seems well suited to testing who a delegated-service threshold actually helps (https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19401353).\n\nFor Proxy Society, I propose two versions of a community-service counter: a shared waiting area and a seated side bay for a human or AI delegate. The comparison would record reach, turning space, assistance and the route back to staff when a mandate is withdrawn.\n\nWhich access criteria should govern this comparison, particularly for older visitors and people using mobility aids? Could it fit doctoral Architecture work with your lab, or would you suggest an access-design collaboration first?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 110,
+        "anchor_source_id": "pknu_roh",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/roh_ji_hwa.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "hong_sung_min",
+      "name": "Hong Sung-Min",
+      "korean_name": "홍성민",
+      "institution": "Pukyong National University, Architecture / Architectural Space Lab",
+      "published_role": "Professor",
+      "base": "Daeyeon campus, C22 Architecture Building, room 8325; 45 Yongso-ro, Nam-gu, Busan",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor / publicness-evaluation collaborator",
+      "priority_rank": 8,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "pknu_hong",
+        "hong_publicness",
+        "pknu_english",
+        "pknu_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "pknu_hong",
+          "text": "Professor in Daeyeon campus C22, room 8325; gaudimin@pknu.ac.kr. Architectural psychology and design methodology; graduate design and architectural psychology teaching; bibliography lists 2021 public-building publicness evaluation indicators."
+        },
+        {
+          "source_id": "hong_publicness",
+          "text": "Paper by Hong Sungmin in Journal of Korea Institute of Spatial Design 16(1), 267-280, DOI 10.35216/kisd.2021.16.1.267. Abstract describes expert-value assessment and publicness indicators; keywords include AHP."
+        },
+        {
+          "source_id": "pknu_english",
+          "text": "Official English name and email match: Hong Sung-Min / gaudimin@pknu.ac.kr."
+        }
+      ],
+      "email": "gaudimin@pknu.ac.kr",
+      "telephone": "",
+      "contact_url": "https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19401352",
+      "contact_source_id": "pknu_hong",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Translate publicness criteria into a spatial evaluation that compares professional judgments with visitor experience and preserves disagreement.",
+      "project_case": "Proxy Society studies AI acting for absent people on revocable instructions. I would compare an open shared counter with a screened delegation niche while keeping the task constant. Experts and visitors would assess visibility, approachability and the ability to dispute a delegate’s authority; their disagreements would remain visible in the record.",
+      "first_ask": "Which of your publicness criteria would survive this change of setting, and which would need visitor-based evidence? I would value a short discussion about the evaluation design and its suitability for a doctoral Architecture proposal.",
+      "supervision_evidence": "University profile lists graduate design and architectural psychology teaching; Architecture doctorate is separately published. Current supervision capacity unconfirmed.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/hong_sung_min.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Adapting your publicness indicators to a delegated-service foyer",
+        "salutation": "Dear Professor Hong,",
+        "personalized_opening": "Your 2021 study develops public-building publicness indicators from expert value judgments; that gives me a useful starting point for evaluating a delegated-service foyer (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002688367).",
+        "project_case": "Proxy Society studies AI acting for absent people on revocable instructions. I would compare an open shared counter with a screened delegation niche while keeping the task constant. Experts and visitors would assess visibility, approachability and the ability to dispute a delegate’s authority; their disagreements would remain visible in the record.",
+        "personalized_ask": "Which of your publicness criteria would survive this change of setting, and which would need visitor-based evidence? I would value a short discussion about the evaluation design and its suitability for a doctoral Architecture proposal.",
+        "body": "Dear Professor Hong,\n\nYour 2021 study develops public-building publicness indicators from expert value judgments; that gives me a useful starting point for evaluating a delegated-service foyer (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002688367).\n\nProxy Society studies AI acting for absent people on revocable instructions. I would compare an open shared counter with a screened delegation niche while keeping the task constant. Experts and visitors would assess visibility, approachability and the ability to dispute a delegate’s authority; their disagreements would remain visible in the record.\n\nWhich of your publicness criteria would survive this change of setting, and which would need visitor-based evidence? I would value a short discussion about the evaluation design and its suitability for a doctoral Architecture proposal.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 120,
+        "anchor_source_id": "hong_publicness",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/hong_sung_min.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "joohyun_lee",
+      "name": "Joohyun Lee",
+      "korean_name": "이주현",
+      "institution": "Pukyong National University, Architecture / Next Sustainability Lab",
+      "published_role": "Assistant Professor",
+      "base": "Daeyeon campus, C22 Architecture Building, room 8217; 45 Yongso-ro, Nam-gu, Busan",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor / evidence-based spatial methods collaborator",
+      "priority_rank": 10,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "pknu_joohyun",
+        "pknu_english",
+        "pknu_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "pknu_joohyun",
+          "text": "Assistant Professor in Daeyeon campus C22, room 8217; joohyunlee@pknu.ac.kr. Evidence-Based Design, sustainable architecture and Next Sustainability Lab. Bibliography lists Lee/Shepley campus smartphone walkability article, DOI 10.3390/su12239986, and current 2026 papers."
+        },
+        {
+          "source_id": "pknu_english",
+          "text": "Official English name and email match: Joohyun Lee / joohyunlee@pknu.ac.kr."
+        }
+      ],
+      "email": "joohyunlee@pknu.ac.kr",
+      "telephone": "",
+      "contact_url": "https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19404122",
+      "contact_source_id": "pknu_joohyun",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Design a mixed spatial-observation and participant-perception protocol for digital guidance without reducing access to travel time.",
+      "project_case": "In Proxy Society, an AI could book a civic service for an absent person. I propose comparing a civic foyer with phone-based delegation instructions against one with room-based signs and an ordinary staff route. Participant sketch maps, route observation and short interviews could reveal where people lose orientation or feel unable to reclaim the interaction.",
+      "first_ask": "Would this combination distinguish the effect of digital guidance from the effect of the layout? I would appreciate your advice on the study design and whether your lab could be a doctoral or methods-collaboration home.",
+      "supervision_evidence": "Profile lists master seminars/research methods and Architecture PhD background; institution offers Architecture doctorate. Personal doctoral eligibility/capacity not separately confirmed.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/joohyun_lee.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Campus-route perception methods for digital guidance in a civic foyer",
+        "salutation": "Dear Professor Lee,",
+        "personalized_opening": "Your university profile lists the Lee–Shepley study on smartphone use and campus-route perception alongside Evidence-Based Design (https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19404122).",
+        "project_case": "In Proxy Society, an AI could book a civic service for an absent person. I propose comparing a civic foyer with phone-based delegation instructions against one with room-based signs and an ordinary staff route. Participant sketch maps, route observation and short interviews could reveal where people lose orientation or feel unable to reclaim the interaction.",
+        "personalized_ask": "Would this combination distinguish the effect of digital guidance from the effect of the layout? I would appreciate your advice on the study design and whether your lab could be a doctoral or methods-collaboration home.",
+        "body": "Dear Professor Lee,\n\nYour university profile lists the Lee–Shepley study on smartphone use and campus-route perception alongside Evidence-Based Design (https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19404122).\n\nIn Proxy Society, an AI could book a civic service for an absent person. I propose comparing a civic foyer with phone-based delegation instructions against one with room-based signs and an ordinary staff route. Participant sketch maps, route observation and short interviews could reveal where people lose orientation or feel unable to reclaim the interaction.\n\nWould this combination distinguish the effect of digital guidance from the effect of the layout? I would appreciate your advice on the study design and whether your lab could be a doctoral or methods-collaboration home.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 117,
+        "anchor_source_id": "pknu_joohyun",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/joohyun_lee.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "lee_yong_sung",
+      "name": "Lee-Yong Sung",
+      "korean_name": "성이용",
+      "institution": "Dong-A University, Department of Architecture",
+      "published_role": "Associate Professor",
+      "base": "Seunghak campus, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan; personal page lists industry-academic building room 818",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor / adaptive-reuse collaborator",
+      "priority_rank": 3,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "donga_roster",
+        "sung_home",
+        "sung_reuse",
+        "donga_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "donga_roster",
+          "text": "Lee-Yong Sung is Associate Professor, architectural planning/design and urban regeneration; Sangjin Lee is Professor, architectural design. Architecture department address is Seunghak campus, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan."
+        },
+        {
+          "source_id": "sung_home",
+          "text": "University-hosted page publishes Sung, Lee-yong and leerick@dau.ac.kr; address is Dong-A industry-academic building room 818 at Seunghak campus."
+        },
+        {
+          "source_id": "sung_reuse",
+          "text": "KIEAE 26(3), 33-42, DOI 10.12813/kieae.2026.26.3.033. Framework links architectural/material, urban/public and experiential/symbolic layers, including public interface and governance. Publisher header confirms Lee-Yong Sung as Dong-A Associate Professor and publishes leerick@dau.ac.kr."
+        }
+      ],
+      "email": "leerick@dau.ac.kr",
+      "telephone": "",
+      "contact_url": "https://www.kieae.kr/_PR/view/?aidx=49761&bidx=4469",
+      "contact_source_id": "sung_reuse",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Personal university page is indexed but failed direct retrieval; current department roster and live June 2026 publisher header confirm Associate Professor role and leerick@dau.ac.kr.",
+      "contribution": "Study a delegated-service insertion as an operational and public-interface change within an existing cultural building, retaining local identity and unmediated use.",
+      "project_case": "Proxy Society asks how buildings can support AI acting for absent people on revocable instructions. I propose a reversible delegation counter inside an existing cultural hall. Comparing placement at the entrance with a deeper service alcove would show whether faster transactions displace informal gathering or allow the hall’s existing activities to continue.",
+      "first_ask": "Could your layered framework help distinguish a useful service insertion from a loss of public life? I would value a conversation about that case and whether it could develop into doctoral Architectural Studies at Dong-A.",
+      "supervision_evidence": "Official graduate programme lists Sung and describes doctoral Architectural Studies, including regeneration. Current individual acceptance and funding unconfirmed.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/lee_yong_sung.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Delegated-service counters inside reused cultural halls",
+        "salutation": "Dear Professor Sung,",
+        "personalized_opening": "Your June 2026 paper with Jae-Woo Chang connects adaptive reuse to public interface and governance as well as material continuity (https://www.kieae.kr/_PR/view/?aidx=49761&bidx=4469).",
+        "project_case": "Proxy Society asks how buildings can support AI acting for absent people on revocable instructions. I propose a reversible delegation counter inside an existing cultural hall. Comparing placement at the entrance with a deeper service alcove would show whether faster transactions displace informal gathering or allow the hall’s existing activities to continue.",
+        "personalized_ask": "Could your layered framework help distinguish a useful service insertion from a loss of public life? I would value a conversation about that case and whether it could develop into doctoral Architectural Studies at Dong-A.",
+        "body": "Dear Professor Sung,\n\nYour June 2026 paper with Jae-Woo Chang connects adaptive reuse to public interface and governance as well as material continuity (https://www.kieae.kr/_PR/view/?aidx=49761&bidx=4469).\n\nProxy Society asks how buildings can support AI acting for absent people on revocable instructions. I propose a reversible delegation counter inside an existing cultural hall. Comparing placement at the entrance with a deeper service alcove would show whether faster transactions displace informal gathering or allow the hall’s existing activities to continue.\n\nCould your layered framework help distinguish a useful service insertion from a loss of public life? I would value a conversation about that case and whether it could develop into doctoral Architectural Studies at Dong-A.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 118,
+        "anchor_source_id": "sung_reuse",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/lee_yong_sung.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "sangjin_lee",
+      "name": "Sangjin Lee",
+      "korean_name": "이상진",
+      "institution": "Dong-A University, Architecture / Urban Design Research Laboratory",
+      "published_role": "Professor",
+      "base": "Seunghak campus, Department of Architecture, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential doctoral advisor / urban-threshold collaborator",
+      "priority_rank": 13,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "donga_roster",
+        "sangjin_contact",
+        "sangjin_lab",
+        "donga_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "donga_roster",
+          "text": "Lee-Yong Sung is Associate Professor, architectural planning/design and urban regeneration; Sangjin Lee is Professor, architectural design. Architecture department address is Seunghak campus, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan."
+        },
+        {
+          "source_id": "sangjin_contact",
+          "text": "Publishes Sangjin Lee as advising professor with slee@dau.ac.kr and phone 051-200-7617; distinguishes Architecture and Architectural Engineering."
+        },
+        {
+          "source_id": "sangjin_lab",
+          "text": "University-hosted lab introduction examines boundaries and relations between urban and architectural space, and transformation of place through building insertion."
+        }
+      ],
+      "email": "slee@dau.ac.kr",
+      "telephone": "",
+      "contact_url": "https://police.donga.ac.kr/abouteng/CMS/Contents/Contents.do?mCode=MN067",
+      "contact_source_id": "sangjin_contact",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Lab research statement is undated and older; current official departmental roster confirms role. Refresh specific lab projects before proposing a site.",
+      "contribution": "Examine how placing a delegate handoff on a building edge alters the street-building relation and burdens ordinary pedestrian movement.",
+      "project_case": "Proxy Society asks how a building can accommodate an authorized AI representative of an absent person while keeping public access. I propose comparing a street-facing delegation hatch with a shared indoor counter. Plans, pedestrian traces and observations of waiting would test whether convenience for a delegate creates obstruction, confusion or new exclusions along the pavement.",
+      "first_ask": "How would you define the spatial unit of comparison so that the street is evaluated alongside the building? Could this boundary study fit Dong-A’s doctoral Architecture programme under your guidance or with another colleague?",
+      "supervision_evidence": "Official doctoral Architecture programme lists Lee; department introduction publishes an advising-professor enquiry route. Neither establishes current personal supervision capacity.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/sangjin_lee.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Street-facing delegation hatch: where should the study boundary lie?",
+        "salutation": "Dear Professor Lee,",
+        "personalized_opening": "Your Urban Design Research Laboratory describes the boundary between urban and architectural space as a way to understand how buildings transform place (https://web.donga.ac.kr/slee/main/intro.htm).",
+        "project_case": "Proxy Society asks how a building can accommodate an authorized AI representative of an absent person while keeping public access. I propose comparing a street-facing delegation hatch with a shared indoor counter. Plans, pedestrian traces and observations of waiting would test whether convenience for a delegate creates obstruction, confusion or new exclusions along the pavement.",
+        "personalized_ask": "How would you define the spatial unit of comparison so that the street is evaluated alongside the building? Could this boundary study fit Dong-A’s doctoral Architecture programme under your guidance or with another colleague?",
+        "body": "Dear Professor Lee,\n\nYour Urban Design Research Laboratory describes the boundary between urban and architectural space as a way to understand how buildings transform place (https://web.donga.ac.kr/slee/main/intro.htm).\n\nProxy Society asks how a building can accommodate an authorized AI representative of an absent person while keeping public access. I propose comparing a street-facing delegation hatch with a shared indoor counter. Plans, pedestrian traces and observations of waiting would test whether convenience for a delegate creates obstruction, confusion or new exclusions along the pavement.\n\nHow would you define the spatial unit of comparison so that the street is evaluated alongside the building? Could this boundary study fit Dong-A’s doctoral Architecture programme under your guidance or with another colleague?\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 122,
+        "anchor_source_id": "sangjin_lab",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/sangjin_lee.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "dong_jin_kang",
+      "name": "Dong-Jin Kang",
+      "korean_name": "강동진",
+      "institution": "Kyungsung University, Urban Planning / Urban Conservation Lab",
+      "published_role": "Professor",
+      "base": "309 Suyeong-ro, Nam-gu, Busan; Urban Planning department, Building 27 room 1310",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential urban doctoral advisor / conservation-methods collaborator",
+      "priority_rank": 15,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "kyungsung_roster",
+        "kyungsung_labs",
+        "kang_paper",
+        "kyungsung_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "kyungsung_roster",
+          "text": "Professor of urban design/historical environment conservation; conkang@ks.ac.kr; Busan department base."
+        },
+        {
+          "source_id": "kang_paper",
+          "text": "Publisher record names Kang, Dong-Jin, Kyungsung University, conkang@ks.ac.kr and research on modern heritage inscription."
+        },
+        {
+          "source_id": "kyungsung_roster",
+          "text": "Professors: Dong-Jin Kang, urban design/historical environment conservation, conkang@ks.ac.kr; Seok-Hwan Lee, planning/design/regeneration, lshsun@ks.ac.kr; Kwang-Woo Nam, smart planning/GIS/spatial analysis, kwnam@ks.ac.kr. All department base: 309 Suyeong-ro, Nam-gu, Busan, Building 27 room 1310."
+        }
+      ],
+      "email": "conkang@ks.ac.kr",
+      "telephone": "",
+      "contact_url": "https://kscms.ks.ac.kr/urban/CMS/ProfessorMgr/list.do?mCode=MN023",
+      "contact_source_id": "kyungsung_roster",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Treat local residents and users as participants in changing the public interface of a conserved building, rather than deriving a mandate from heritage status.",
+      "project_case": "In Proxy Society, residents could authorize an AI to act for them while retaining the right to withdraw its instructions. I propose testing a temporary delegation desk within a reused neighbourhood workshop. Two layouts would keep the same service but vary its separation from everyday social activity; residents could reject a placement and revise who may represent them there.",
+      "first_ask": "What process would make those revisions meaningful within a conserved place, rather than treating participation as approval of a finished design? I would appreciate a methods conversation and advice on Kyungsung’s joint doctoral route.",
+      "supervision_evidence": "Graduate page names Kang’s lab and joint Construction/Environment/Urban Engineering doctoral programme; current doctoral curriculum published. Exact degree and individual allocation require confirmation.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/dong_jin_kang.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Who may change the public interface of a reused neighbourhood workshop?",
+        "salutation": "Dear Professor Kang,",
+        "personalized_opening": "Your Urban Conservation Lab connects the sharing of historical and cultural assets with publicness and citizen-centred urban design (https://kscms.ks.ac.kr/urban/CMS/Contents/Contents.do?mCode=MN038).",
+        "project_case": "In Proxy Society, residents could authorize an AI to act for them while retaining the right to withdraw its instructions. I propose testing a temporary delegation desk within a reused neighbourhood workshop. Two layouts would keep the same service but vary its separation from everyday social activity; residents could reject a placement and revise who may represent them there.",
+        "personalized_ask": "What process would make those revisions meaningful within a conserved place, rather than treating participation as approval of a finished design? I would appreciate a methods conversation and advice on Kyungsung’s joint doctoral route.",
+        "body": "Dear Professor Kang,\n\nYour Urban Conservation Lab connects the sharing of historical and cultural assets with publicness and citizen-centred urban design (https://kscms.ks.ac.kr/urban/CMS/Contents/Contents.do?mCode=MN038).\n\nIn Proxy Society, residents could authorize an AI to act for them while retaining the right to withdraw its instructions. I propose testing a temporary delegation desk within a reused neighbourhood workshop. Two layouts would keep the same service but vary its separation from everyday social activity; residents could reject a placement and revise who may represent them there.\n\nWhat process would make those revisions meaningful within a conserved place, rather than treating participation as approval of a finished design? I would appreciate a methods conversation and advice on Kyungsung’s joint doctoral route.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 122,
+        "anchor_source_id": "kyungsung_labs",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/dong_jin_kang.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "seok_hwan_lee",
+      "name": "Seok-Hwan Lee",
+      "korean_name": "이석환",
+      "institution": "Kyungsung University, Urban Planning / Urban Regeneration and Design Lab",
+      "published_role": "Professor",
+      "base": "309 Suyeong-ro, Nam-gu, Busan; Urban Planning department, Building 27 room 1310",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential urban doctoral advisor / community-facility collaborator",
+      "priority_rank": 16,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "kyungsung_roster",
+        "kyungsung_labs",
+        "lee_core_facilities",
+        "lee_english",
+        "kyungsung_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "kyungsung_roster",
+          "text": "Professor of planning/design/regeneration; lshsun@ks.ac.kr; Busan department base."
+        },
+        {
+          "source_id": "lee_core_facilities",
+          "text": "June 2015 publisher article names Lee, Seok Hwan at Kyungsung, lshsun@ks.ac.kr. Abstract evaluates Busan community facilities by operators, administrators and experts across preparation, activity and settlement; DOI 10.17208/jkpa.2015.06.50.4.87."
+        },
+        {
+          "source_id": "lee_english",
+          "text": "Publisher PDF identifies Seok-Hwan Lee of Kyungsung and lshsun@ks.ac.kr; village-unit community-facility paper."
+        },
+        {
+          "source_id": "kyungsung_roster",
+          "text": "Professors: Dong-Jin Kang, urban design/historical environment conservation, conkang@ks.ac.kr; Seok-Hwan Lee, planning/design/regeneration, lshsun@ks.ac.kr; Kwang-Woo Nam, smart planning/GIS/spatial analysis, kwnam@ks.ac.kr. All department base: 309 Suyeong-ro, Nam-gu, Busan, Building 27 room 1310."
+        }
+      ],
+      "email": "lshsun@ks.ac.kr",
+      "telephone": "",
+      "contact_url": "https://kscms.ks.ac.kr/urban/CMS/ProfessorMgr/list.do?mCode=MN023",
+      "contact_source_id": "kyungsung_roster",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Connect spatial thresholds to sustained community-facility operation, including responsibility when a delegated mandate ends.",
+      "project_case": "For Proxy Society, I propose comparing a staffed shared table with a separate AI delegate desk in a neighbourhood centre. The spatial trial would follow who can interrupt a task, who inherits it when a mandate expires, and whether visitors still stay for ordinary community activities.",
+      "first_ask": "Which operational indicators would reveal whether the centre remains a community resource after delegation is introduced? I would value a short discussion of the protocol and the appropriate urban-doctoral or collaboration route.",
+      "supervision_evidence": "Named graduate lab and published joint engineering doctoral history/curriculum; exact current degree title and supervision allocation unverified.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/seok_hwan_lee.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Community-facility operation after a delegate’s mandate expires",
+        "salutation": "Dear Professor Lee,",
+        "personalized_opening": "Your Busan village-unit core-facility study separates operator, administrator and expert perspectives across preparation, activity and settlement (https://kpaj.or.kr/_PR/view/?aidx=4550&bidx=577).",
+        "project_case": "For Proxy Society, I propose comparing a staffed shared table with a separate AI delegate desk in a neighbourhood centre. The spatial trial would follow who can interrupt a task, who inherits it when a mandate expires, and whether visitors still stay for ordinary community activities.",
+        "personalized_ask": "Which operational indicators would reveal whether the centre remains a community resource after delegation is introduced? I would value a short discussion of the protocol and the appropriate urban-doctoral or collaboration route.",
+        "body": "Dear Professor Lee,\n\nYour Busan village-unit core-facility study separates operator, administrator and expert perspectives across preparation, activity and settlement (https://kpaj.or.kr/_PR/view/?aidx=4550&bidx=577).\n\nFor Proxy Society, I propose comparing a staffed shared table with a separate AI delegate desk in a neighbourhood centre. The spatial trial would follow who can interrupt a task, who inherits it when a mandate expires, and whether visitors still stay for ordinary community activities.\n\nWhich operational indicators would reveal whether the centre remains a community resource after delegation is introduced? I would value a short discussion of the protocol and the appropriate urban-doctoral or collaboration route.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 105,
+        "anchor_source_id": "lee_core_facilities",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/seok_hwan_lee.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "kwang_woo_nam",
+      "name": "Kwang-Woo Nam",
+      "korean_name": "남광우",
+      "institution": "Kyungsung University, Urban Planning / Intelligent City Lab",
+      "published_role": "Professor",
+      "base": "309 Suyeong-ro, Nam-gu, Busan; Urban Planning department, Building 27 room 1310",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Potential urban doctoral advisor / GIS and living-lab collaborator",
+      "priority_rank": 17,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "kyungsung_roster",
+        "kyungsung_labs",
+        "nam_compact",
+        "kyungsung_doctoral"
+      ],
+      "evidence": [
+        {
+          "source_id": "kyungsung_roster",
+          "text": "Professor of smart planning/GIS/spatial analysis; kwnam@ks.ac.kr; Busan department base."
+        },
+        {
+          "source_id": "nam_compact",
+          "text": "Primary article identifies Nam, Kwang-Woo as Kyungsung Professor/corresponding author, kwnam@ks.ac.kr; examines Japan location-optimization planning in the Busan/Ulsan/Gyeongnam region."
+        },
+        {
+          "source_id": "kyungsung_roster",
+          "text": "Professors: Dong-Jin Kang, urban design/historical environment conservation, conkang@ks.ac.kr; Seok-Hwan Lee, planning/design/regeneration, lshsun@ks.ac.kr; Kwang-Woo Nam, smart planning/GIS/spatial analysis, kwnam@ks.ac.kr. All department base: 309 Suyeong-ro, Nam-gu, Busan, Building 27 room 1310."
+        }
+      ],
+      "email": "kwnam@ks.ac.kr",
+      "telephone": "",
+      "contact_url": "https://kscms.ks.ac.kr/urban/CMS/ProfessorMgr/list.do?mCode=MN023",
+      "contact_source_id": "kyungsung_roster",
+      "route_scope": "Direct published professional academic email; no admissions or availability implied",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Map which travel and access burdens actually change when neighbourhood public services permit delegation; pair regional accessibility with room-scale observation.",
+      "project_case": "For Proxy Society, I propose mapping trips to a neighbourhood public counter under ordinary and AI-delegated service, then observing the same users at its threshold. The comparison would ask whether shorter journeys conceal new access costs when a person must appear to dispute or revoke a mandate.",
+      "first_ask": "Could your GIS and living-lab approach connect those regional and room-scale measures? I would appreciate advice on the minimum evidence needed and whether Kyungsung’s joint doctoral programme is a suitable route.",
+      "supervision_evidence": "Graduate lab page and joint engineering doctoral description; doctoral urban curriculum includes GIS and quantitative methods. No individual acceptance or specific funded living lab verified.",
+      "open_questions": [
+        "Current availability and willingness to advise, collaborate or refer.",
+        "Exact degree/admission route, applicant eligibility, English/Korean teaching and fieldwork requirements, and funding are unresolved.",
+        "No site permission, participant access, current lab vacancy, prior relationship or outreach is assumed."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/kwang_woo_nam.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Mapping the trips that delegated public service removes or restores",
+        "salutation": "Dear Professor Nam,",
+        "personalized_opening": "Your 2025 paper with Yoko Kamata on location-optimization planning in the Busan–Ulsan–Gyeongnam region connects service placement to a wider urban scale (https://kpaj.or.kr/_PR/view/?aidx=46346&bidx=4196).",
+        "project_case": "For Proxy Society, I propose mapping trips to a neighbourhood public counter under ordinary and AI-delegated service, then observing the same users at its threshold. The comparison would ask whether shorter journeys conceal new access costs when a person must appear to dispute or revoke a mandate.",
+        "personalized_ask": "Could your GIS and living-lab approach connect those regional and room-scale measures? I would appreciate advice on the minimum evidence needed and whether Kyungsung’s joint doctoral programme is a suitable route.",
+        "body": "Dear Professor Nam,\n\nYour 2025 paper with Yoko Kamata on location-optimization planning in the Busan–Ulsan–Gyeongnam region connects service placement to a wider urban scale (https://kpaj.or.kr/_PR/view/?aidx=46346&bidx=4196).\n\nFor Proxy Society, I propose mapping trips to a neighbourhood public counter under ordinary and AI-delegated service, then observing the same users at its threshold. The comparison would ask whether shorter journeys conceal new access costs when a person must appear to dispute or revoke a mandate.\n\nCould your GIS and living-lab approach connect those regional and room-scale measures? I would appreciate advice on the minimum evidence needed and whether Kyungsung’s joint doctoral programme is a suitable route.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 110,
+        "anchor_source_id": "nam_compact",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/kwang_woo_nam.md",
+        "provenance": "Independent Busan correspondence prepared 2026-10-13 from published recipient evidence and the Proxy Society Architecture of Delegated Presence framing. Architectural experiments are proposals. No correspondence, meeting, qualification, travel or attachment assumed."
+      }
+    },
+    {
+      "id": "kichul_lee",
+      "name": "Kichul Lee",
+      "korean_name": "이기철",
+      "institution": "Architect-K",
+      "published_role": "Founder and principal architect",
+      "base": "Seo-gu: 3F, 253 Gamcheon-ro, Busan; separate Seoul office",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Practice conversation",
+      "priority_rank": 6,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_kichul_about",
+        "bp_kichul_contact",
+        "bp_yeonje"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_kichul_about",
+          "text": "Practice founder/principal."
+        },
+        {
+          "source_id": "bp_yeonje",
+          "text": "Directed the February 2024 Yeonje-gu Youth Culture Center competition proposal; programme flexibility and indoor/outdoor sequences are stated design intentions."
+        },
+        {
+          "source_id": "bp_kichul_contact",
+          "text": "Project enquiries use office@architect-k.com; media uses kichul@architect-k.com. Busan office is 3F, 253 Gamcheon-ro, Seo-gu; a separate Seoul office is also listed."
+        }
+      ],
+      "email": "office@architect-k.com",
+      "telephone": "",
+      "contact_url": "https://www.architect-k.com/contact",
+      "contact_source_id": "bp_kichul_contact",
+      "route_scope": "Shared practice email for routing a practice critique; personal access unconfirmed",
+      "route_status": "Published professional email",
+      "caveats": "Dual-city practice: Busan and Seoul; office email is a project-enquiry route, not a personal mailbox. Do not assume the architect is presently in Busan.",
+      "contribution": "Critique a civic arrival sequence that separates delegated service from optional social use.",
+      "project_case": "I am developing Proxy Society, an architectural study of AI acting on a person’s limited, revocable instructions. For a youth/community centre, I propose comparing a single reception queue with a small handoff alcove beside an open courtyard route. Confirming a booking should leave young people free to enter, stay or decline the AI service.",
+      "first_ask": "Could you critique where that alcove would weaken the flexibility of a centre like your proposal? I would value one plan-level objection or a referral to a Busan architect working on community-centre thresholds.",
+      "supervision_evidence": "Practice critique or referral only; no current doctoral supervision authority, capacity or funding established.",
+      "open_questions": [
+        "Confirm whether a project-question email is suitable for this research critique; the principal email is labelled media enquiries.",
+        "Busan and Seoul office bases are published; personal whereabouts and meeting availability unknown.",
+        "Preferred professional language, current interest and willingness to respond.",
+        "Any building/operator/fieldwork access would require separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/kichul_lee.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "A handoff alcove within a flexible youth-centre sequence",
+        "salutation": "Dear Architect Lee,",
+        "personalized_opening": "Your Yeonje-gu Youth Culture Center competition proposal works with small-scale masses and flexible indoor/outdoor sequences (https://www.architect-k.com/yeonje-gu-youthculturecenter).",
+        "project_case": "I am developing Proxy Society, an architectural study of AI acting on a person’s limited, revocable instructions. For a youth/community centre, I propose comparing a single reception queue with a small handoff alcove beside an open courtyard route. Confirming a booking should leave young people free to enter, stay or decline the AI service.",
+        "personalized_ask": "Could you critique where that alcove would weaken the flexibility of a centre like your proposal? I would value one plan-level objection or a referral to a Busan architect working on community-centre thresholds.",
+        "body": "Dear Architect Lee,\n\nYour Yeonje-gu Youth Culture Center competition proposal works with small-scale masses and flexible indoor/outdoor sequences (https://www.architect-k.com/yeonje-gu-youthculturecenter).\n\nI am developing Proxy Society, an architectural study of AI acting on a person’s limited, revocable instructions. For a youth/community centre, I propose comparing a single reception queue with a small handoff alcove beside an open courtyard route. Confirming a booking should leave young people free to enter, stay or decline the AI service.\n\nCould you critique where that alcove would weaken the flexibility of a centre like your proposal? I would value one plan-level objection or a referral to a Busan architect working on community-centre thresholds.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 113,
+        "anchor_source_id": "bp_yeonje",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/kichul_lee.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    },
+    {
+      "id": "yong_nam_kim",
+      "name": "Yong Nam Kim",
+      "korean_name": "김용남",
+      "institution": "Samhyun Dosi Architects",
+      "published_role": "Principal architect / CEO",
+      "base": "Suyeong-gu: 536-55 Gwangan-dong, Busan HQ",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Practice conversation",
+      "priority_rank": 19,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_samhyun_about",
+        "bp_samhyun_works",
+        "bp_samhyun_interview"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_samhyun_about",
+          "text": "Principal architect/CEO; Busan headquarters and general office email published."
+        },
+        {
+          "source_id": "bp_samhyun_interview",
+          "text": "Explains privacy and terrace-unit design that leaves opportunities for encounters without requiring shared-space socialising."
+        },
+        {
+          "source_id": "bp_samhyun_about",
+          "text": "Lists Yong Nam Kim as principal architect/CEO and Busan HQ at 536-55 Gwangan-dong, Suyeong-gu; publishes samhyun7317@naver.com."
+        }
+      ],
+      "email": "samhyun7317@naver.com",
+      "telephone": "",
+      "contact_url": "https://samhyundosi.com/about/",
+      "contact_source_id": "bp_samhyun_about",
+      "route_scope": "Shared practice email for routing a practice critique; personal access unconfirmed",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Practice critique of private/shared boundaries and everyday encounters around delegated service.",
+      "project_case": "For Proxy Society, I am exploring what happens when an AI collects or books something for an absent person. One proposed comparison places a shared service counter directly on a residents’ terrace route; another keeps a small screened handoff recess beside it. I would examine whether convenience exposes residents or leaves them a choice about encountering others.",
+      "first_ask": "Which boundary would you change first to preserve privacy while keeping chance meetings possible? A short critique of a plan and section, or a relevant Busan housing/common-space precedent, would help sharpen the PhD question.",
+      "supervision_evidence": "Practice critique or referral only; no current doctoral supervision authority, capacity or funding established.",
+      "open_questions": [
+        "Outside teaching appears in an undated biography; current teaching and doctoral authority not established.",
+        "Check whether shared office will route a research critique to Kim.",
+        "Preferred professional language, current interest and willingness to respond.",
+        "Any building/operator/fieldwork access would require separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/yong_nam_kim.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Privacy and chance encounters around a delegated service counter",
+        "salutation": "Dear Architect Kim,",
+        "personalized_opening": "In your practice’s interview on terrace housing units, you distinguish privacy from opportunities for chance encounters (https://samhyundosi.com/2021/11/09/%EC%9C%A0%EB%8B%9B%EC%9C%BC%EB%A1%9C-%EC%8C%93%EC%95%84%EC%98%AC%EB%A6%B0-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%98-%EC%84%B8%EA%B3%84/).",
+        "project_case": "For Proxy Society, I am exploring what happens when an AI collects or books something for an absent person. One proposed comparison places a shared service counter directly on a residents’ terrace route; another keeps a small screened handoff recess beside it. I would examine whether convenience exposes residents or leaves them a choice about encountering others.",
+        "personalized_ask": "Which boundary would you change first to preserve privacy while keeping chance meetings possible? A short critique of a plan and section, or a relevant Busan housing/common-space precedent, would help sharpen the PhD question.",
+        "body": "Dear Architect Kim,\n\nIn your practice’s interview on terrace housing units, you distinguish privacy from opportunities for chance encounters (https://samhyundosi.com/2021/11/09/%EC%9C%A0%EB%8B%9B%EC%9C%BC%EB%A1%9C-%EC%8C%93%EC%95%84%EC%98%AC%EB%A6%B0-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%98-%EC%84%B8%EA%B3%84/).\n\nFor Proxy Society, I am exploring what happens when an AI collects or books something for an absent person. One proposed comparison places a shared service counter directly on a residents’ terrace route; another keeps a small screened handoff recess beside it. I would examine whether convenience exposes residents or leaves them a choice about encountering others.\n\nWhich boundary would you change first to preserve privacy while keeping chance meetings possible? A short critique of a plan and section, or a relevant Busan housing/common-space precedent, would help sharpen the PhD question.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 118,
+        "anchor_source_id": "bp_samhyun_interview",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/yong_nam_kim.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    },
+    {
+      "id": "ahn_yongdae",
+      "name": "Ahn Yongdae",
+      "korean_name": "안용대",
+      "institution": "KAGA Architects & Planners",
+      "published_role": "Principal architect",
+      "base": "Haeundae-gu: Centum Green Tower 507, 78 Centum jungang-ro",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Practice conversation",
+      "priority_rank": 18,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_kaga_about",
+        "bp_kaga_contact",
+        "bp_kaga_projects"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_kaga_about",
+          "text": "Current practice profile names Ahn Yongdae as principal and dates previous teaching/competition committee service."
+        },
+        {
+          "source_id": "bp_kaga_projects",
+          "text": "Portfolio includes Space Lee Ufan at Busan Museum of Art and the Busan Carmelites Center; listing is not sole-authorship evidence."
+        },
+        {
+          "source_id": "bp_kaga_contact",
+          "text": "Publishes ka@kaga21.com and office at 507 Centum Green Tower, 78 Centum jungang-ro, Haeundae-gu, Busan. An additional footer email is present but is not selected."
+        }
+      ],
+      "email": "ka@kaga21.com",
+      "telephone": "",
+      "contact_url": "https://www.kaga21.com/contact",
+      "contact_source_id": "bp_kaga_contact",
+      "route_scope": "Shared practice email for routing a practice critique; personal access unconfirmed",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Practice criticism of cultural-building approaches and the boundary between transaction and staying.",
+      "project_case": "I am developing Proxy Society’s architectural PhD question about AI acting for an absent person under instructions that can be withdrawn. In a civic cultural building, I propose comparing a reception counter in the main approach with a side handoff niche, keeping the quieter route to a room available after the administrative task is complete.",
+      "first_ask": "Could you identify the first spatial condition that would protect that quieter route? I would welcome a concise plan/section critique or an introduction to a Busan cultural-building architect with whom this question is worth testing.",
+      "supervision_evidence": "Practice critique or referral only; no current doctoral supervision authority, capacity or funding established.",
+      "open_questions": [
+        "Do not attribute Space Lee Ufan solely to Ahn: it was an architectural collaboration, and portfolio listing alone is narrower evidence.",
+        "Past adjunct teaching and competition roles do not establish current doctoral supervision.",
+        "Preferred professional language, current interest and willingness to respond.",
+        "Any building/operator/fieldwork access would require separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/ahn_yongdae.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Keeping a quiet cultural arrival after an AI service handoff",
+        "salutation": "Dear Architect Ahn,",
+        "personalized_opening": "KAGA’s portfolio places Space Lee Ufan alongside the Busan Carmelites Center—useful references for thinking about an arrival that does not immediately become a transaction (https://www.kaga21.com/).",
+        "project_case": "I am developing Proxy Society’s architectural PhD question about AI acting for an absent person under instructions that can be withdrawn. In a civic cultural building, I propose comparing a reception counter in the main approach with a side handoff niche, keeping the quieter route to a room available after the administrative task is complete.",
+        "personalized_ask": "Could you identify the first spatial condition that would protect that quieter route? I would welcome a concise plan/section critique or an introduction to a Busan cultural-building architect with whom this question is worth testing.",
+        "body": "Dear Architect Ahn,\n\nKAGA’s portfolio places Space Lee Ufan alongside the Busan Carmelites Center—useful references for thinking about an arrival that does not immediately become a transaction (https://www.kaga21.com/).\n\nI am developing Proxy Society’s architectural PhD question about AI acting for an absent person under instructions that can be withdrawn. In a civic cultural building, I propose comparing a reception counter in the main approach with a side handoff niche, keeping the quieter route to a room available after the administrative task is complete.\n\nCould you identify the first spatial condition that would protect that quieter route? I would welcome a concise plan/section critique or an introduction to a Busan cultural-building architect with whom this question is worth testing.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 125,
+        "anchor_source_id": "bp_kaga_projects",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/ahn_yongdae.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    },
+    {
+      "id": "jaemin_yoon",
+      "name": "Jaemin Yoon",
+      "korean_name": "윤재민",
+      "institution": "JMY Architects",
+      "published_role": "Architect; practice profile lead",
+      "base": "Jung-gu: Minjok Building 2F, 77-1 Bosudong-2ga",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Practice conversation",
+      "priority_rank": 11,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_jmy_profile",
+        "bp_jmy_contact",
+        "bp_jmy_naum"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_jmy_profile",
+          "text": "Own profile names Jaemin Yoon."
+        },
+        {
+          "source_id": "bp_jmy_naum",
+          "text": "NAUM centre is labelled completed 2013–2014; description connects two entrances at different levels and middle-floor staff space to an open play/healing setting."
+        },
+        {
+          "source_id": "bp_jmy_contact",
+          "text": "Publishes general/client route jmy.architects@gmail.com and 2nd floor Minjok Building, 77-1 Bosudong-2ga, Jung-gu, Busan. Recruitment is a distinct jmy.ref@gmail.com route."
+        }
+      ],
+      "email": "jmy.architects@gmail.com",
+      "telephone": "",
+      "contact_url": "https://www.jmy.kr/contacts",
+      "contact_source_id": "bp_jmy_contact",
+      "route_scope": "Shared practice email for routing a practice critique; personal access unconfirmed",
+      "route_status": "Published professional email",
+      "caveats": "Published professional role and route verified in this pass; present whereabouts, mailbox delivery, availability and willingness remain unconfirmed.",
+      "contribution": "Critique level changes, staff sightlines and non-isolating entrance choices using a public-facing service-building comparison.",
+      "project_case": "For Proxy Society, I am considering an ordinary neighbourhood service building, where an AI can handle a limited task for someone absent. I propose comparing two thresholds: one sends every visitor through the same counter; the other permits a staff-visible handoff at one level while leaving another route open for people who wish to enter and stay.",
+      "first_ask": "Could you critique how to keep staff oversight without making that second route feel secondary? A spatial precedent or a plan-level objection for an ordinary civic building would help sharpen the PhD question.",
+      "supervision_evidence": "Practice critique or referral only; no current doctoral supervision authority, capacity or funding established.",
+      "open_questions": [
+        "Public generic mailbox routes enquiries to the team, not guaranteed direct access to Yoon.",
+        "NAUM is a sensitive health setting; the proposed pilot is an ordinary civic building and no patient access is requested.",
+        "Preferred professional language, current interest and willingness to respond.",
+        "Any building/operator/fieldwork access would require separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/jaemin_yoon.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "Two entrances, staff visibility and an optional civic handoff",
+        "salutation": "Dear Architect Yoon,",
+        "personalized_opening": "Your NAUM Childhood Cancer Center description connects two entrances at different levels with staff space between programme floors, while resisting an isolated institutional image (https://www.jmy.kr/kor-busan-naum-childhood-cancer-center).",
+        "project_case": "For Proxy Society, I am considering an ordinary neighbourhood service building, where an AI can handle a limited task for someone absent. I propose comparing two thresholds: one sends every visitor through the same counter; the other permits a staff-visible handoff at one level while leaving another route open for people who wish to enter and stay.",
+        "personalized_ask": "Could you critique how to keep staff oversight without making that second route feel secondary? A spatial precedent or a plan-level objection for an ordinary civic building would help sharpen the PhD question.",
+        "body": "Dear Architect Yoon,\n\nYour NAUM Childhood Cancer Center description connects two entrances at different levels with staff space between programme floors, while resisting an isolated institutional image (https://www.jmy.kr/kor-busan-naum-childhood-cancer-center).\n\nFor Proxy Society, I am considering an ordinary neighbourhood service building, where an AI can handle a limited task for someone absent. I propose comparing two thresholds: one sends every visitor through the same counter; the other permits a staff-visible handoff at one level while leaving another route open for people who wish to enter and stay.\n\nCould you critique how to keep staff oversight without making that second route feel secondary? A spatial precedent or a plan-level objection for an ordinary civic building would help sharpen the PhD question.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 125,
+        "anchor_source_id": "bp_jmy_naum",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/jaemin_yoon.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    },
+    {
+      "id": "bhujon_kang",
+      "name": "Bhujon Kang",
+      "korean_name": "강부존",
+      "institution": "Bhujon Kang Architects",
+      "published_role": "Principal architect",
+      "base": "Yeonje-gu, Busan office; also Flagstaff, Arizona",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Practice conversation",
+      "priority_rank": 20,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_kang_contact",
+        "bp_kang_data",
+        "bp_kang_projects"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_kang_data",
+          "text": "Public website content names Kang as principal; Uam Library in Nam-gu is a 2021 fifth-place competition proposal with a curved street edge, skip-floor levels and western open space."
+        },
+        {
+          "source_id": "bp_kang_contact",
+          "text": "Shared enquiry route and both Busan and Arizona office bases are published."
+        },
+        {
+          "source_id": "bp_kang_contact",
+          "text": "Publishes info@bhujonkang.com and a contact form. Busan office: 30 Yeonje-ro, Yeonje-gu, Vista Dongwon 105-8307; also Flagstaff, Arizona."
+        }
+      ],
+      "email": "info@bhujonkang.com",
+      "telephone": "",
+      "contact_url": "https://bhujonkang.com/contact.html",
+      "contact_source_id": "bp_kang_contact",
+      "route_scope": "Shared practice email for routing a practice critique; personal access unconfirmed",
+      "route_status": "Published professional email",
+      "caveats": "Dual-city practice: Busan and Flagstaff, Arizona; do not assume personal presence in Busan.",
+      "contribution": "Library/campus practice critique of slope, public entry and the access burden of delegated-service placement.",
+      "project_case": "I am developing Proxy Society, a PhD question about AI acting on limited instructions for someone absent. For a sloping library site, I propose comparing a delegated pickup at street level with one reached through the shared lobby. The task would be identical; the architectural question is who bears the detour and which route still invites people to stay.",
+      "first_ask": "Could you suggest the most revealing section comparison and one way this idea could fail on a Busan slope? I would value a practice critique or referral to a local library designer.",
+      "supervision_evidence": "Practice critique or referral only; no current doctoral supervision authority, capacity or funding established.",
+      "open_questions": [
+        "Practice publishes Busan and Arizona bases; current personal location and availability remain unknown.",
+        "Uam Library is a fifth-place proposal, not a built work or an operational case study.",
+        "Preferred professional language, current interest and willingness to respond.",
+        "Any building/operator/fieldwork access would require separate agreement."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/profiles/bhujon_kang.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "A section test for delegated pickup on a sloping library site",
+        "salutation": "Dear Architect Kang,",
+        "personalized_opening": "Your Uam Library competition proposal treats the curved street edge, skip-floor levels and western open space as part of the library’s civic relationship (https://bhujonkang.com/projects.html; Uam Library, 2021 proposal).",
+        "project_case": "I am developing Proxy Society, a PhD question about AI acting on limited instructions for someone absent. For a sloping library site, I propose comparing a delegated pickup at street level with one reached through the shared lobby. The task would be identical; the architectural question is who bears the detour and which route still invites people to stay.",
+        "personalized_ask": "Could you suggest the most revealing section comparison and one way this idea could fail on a Busan slope? I would value a practice critique or referral to a local library designer.",
+        "body": "Dear Architect Kang,\n\nYour Uam Library competition proposal treats the curved street edge, skip-floor levels and western open space as part of the library’s civic relationship (https://bhujonkang.com/projects.html; Uam Library, 2021 proposal).\n\nI am developing Proxy Society, a PhD question about AI acting on limited instructions for someone absent. For a sloping library site, I propose comparing a delegated pickup at street level with one reached through the shared lobby. The task would be identical; the architectural question is who bears the detour and which route still invites people to stay.\n\nCould you suggest the most revealing section comparison and one way this idea could fail on a Busan slope? I would value a practice critique or referral to a local library designer.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 129,
+        "anchor_source_id": "bp_kang_projects",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/bhujon_kang.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    }
+  ],
+  "referrals": [
+    {
+      "id": "kiab_busan",
+      "name": "Korean Institute of Architects — Busan branch (KIAB)",
+      "korean_name": "한국건축가협회 부산건축가회",
+      "institution": "Korean Institute of Architects — Busan branch (KIAB)",
+      "published_role": "Local architecture organisation; forums, workshops and exhibitions",
+      "base": "Nam-gu: Busan Arts Center 304, 78 Yongso-ro",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Institutional referral",
+      "priority_rank": 50,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_kiab_home",
+        "bp_kiab_event",
+        "bp_kia_corroboration"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_kiab_home",
+          "text": "General secretariat and local architecture activities published."
+        },
+        {
+          "source_id": "bp_kiab_event",
+          "text": "Latest 30 September 2026 notice advertises 27–31 October 2026 at BEXCO Hall 3A; announced programme, not verified individual attendance."
+        },
+        {
+          "source_id": "bp_kia_corroboration",
+          "text": "National KIA 2022 workshop notice corroborates the kiabb.org branch domain and kiabb@hanmail.net route; it is historical evidence."
+        },
+        {
+          "source_id": "bp_kiab_home",
+          "text": "Current news includes September 2026; publishes kiabb@hanmail.net and Busan Arts Center 304, 78 Yongso-ro, Nam-gu, plus public architecture stories/workshops/forums."
+        }
+      ],
+      "email": "kiabb@hanmail.net",
+      "telephone": "+82 51 241 4011",
+      "contact_url": "https://kiabb.smart-app.co.kr/",
+      "contact_source_id": "bp_kiab_home",
+      "route_scope": "General secretariat mailbox; request a local introduction, not individual contact access or event admission",
+      "route_status": "Published organisational email",
+      "caveats": "Current branch pages required a public read after TLS certificate mismatch. National KIA corroborates historical domain and email; refresh route and event details before use.",
+      "contribution": "Introduce one local civic/public-space practitioner or scholar and clarify a suitable forum route.",
+      "project_case": "I am developing Proxy Society’s PhD question about the architectural consequences of AI acting for an absent person. A proposed library/community-centre comparison moves the same delegated handoff between a main queue and a side recess, tracing how waiting, walk-in access and the possibility of staying change.",
+      "first_ask": "Could you suggest one Busan architect or scholar working on everyday civic thresholds, or the appropriate forum contact for a short critique? I would like to identify the right person before proposing any meeting or attendance.",
+      "supervision_evidence": "Institutional introducer only; no PhD supervision authority or funded place established.",
+      "open_questions": [
+        "Preferred research introduction contact and language.",
+        "Confirm programme details with organiser before any travel, attendance or registration."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/referrals/kiab_busan.md",
+      "draft": {
+        "kind": "Email",
+        "subject": "A Busan introduction for civic thresholds and delegated presence",
+        "salutation": "Dear KIAB Busan team,",
+        "personalized_opening": "Your 30 September programme notice for the 2026 architecture festival pairs an inclusion/recovery theme with housing and urban architecture forums (https://kiabb.smart-app.co.kr/community/notice/?lhwb_mode=view&board_id=6&list_id=2824).",
+        "project_case": "I am developing Proxy Society’s PhD question about the architectural consequences of AI acting for an absent person. A proposed library/community-centre comparison moves the same delegated handoff between a main queue and a side recess, tracing how waiting, walk-in access and the possibility of staying change.",
+        "personalized_ask": "Could you suggest one Busan architect or scholar working on everyday civic thresholds, or the appropriate forum contact for a short critique? I would like to identify the right person before proposing any meeting or attendance.",
+        "body": "Dear KIAB Busan team,\n\nYour 30 September programme notice for the 2026 architecture festival pairs an inclusion/recovery theme with housing and urban architecture forums (https://kiabb.smart-app.co.kr/community/notice/?lhwb_mode=view&board_id=6&list_id=2824).\n\nI am developing Proxy Society’s PhD question about the architectural consequences of AI acting for an absent person. A proposed library/community-centre comparison moves the same delegated handoff between a main queue and a side recess, tracing how waiting, walk-in access and the possibility of staying change.\n\nCould you suggest one Busan architect or scholar working on everyday civic thresholds, or the appropriate forum contact for a short critique? I would like to identify the right person before proposing any meeting or attendance.\n\nBest regards,\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 114,
+        "anchor_source_id": "bp_kiab_event",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/kiab_busan.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    },
+    {
+      "id": "kira_busan",
+      "name": "Busan Metropolitan City Institute of Registered Architects (KIRA Busan)",
+      "korean_name": "대한건축사협회 부산광역시건축사회",
+      "institution": "Busan Metropolitan City Institute of Registered Architects (KIRA Busan)",
+      "published_role": "Local registered architects association",
+      "base": "Busanjin-gu: 973 Jungang-daero, Yangjeong-dong",
+      "city": "Busan",
+      "geography": "South Korea",
+      "category": "Institutional referral",
+      "priority_rank": 51,
+      "checked_on": "2026-10-13",
+      "source_ids": [
+        "bp_kira_bus"
+      ],
+      "evidence": [
+        {
+          "source_id": "bp_kira_bus",
+          "text": "Official association page publishes the general phone, Yangjeong-dong base and work relating to the public urban environment."
+        },
+        {
+          "source_id": "bp_kira_bus",
+          "text": "Official page describes local architects/public urban environment role. Publishes general phone 051-633-6677 and 973 Jungang-daero, Yangjeong-dong, Busanjin-gu."
+        }
+      ],
+      "email": "",
+      "telephone": "+82 51 633 6677",
+      "contact_url": "https://bira.kira.or.kr/jsp/02/06/01.jsp",
+      "contact_source_id": "bp_kira_bus",
+      "route_scope": "Published general secretariat telephone; no email verified. Ask for a public professional referral route; script prepared, no call made.",
+      "route_status": "Published organisational phone; email absent",
+      "caveats": "General secretariat telephone is published; no general email was verified. Distinct from KIAB and no named architect referral is yet evidenced.",
+      "contribution": "Referral to one local library/community-centre architect and their public professional route.",
+      "project_case": "I am developing a PhD question about where a civic building should place a small handoff for an AI acting for an absent visitor. I want to compare a main reception queue with a side recess, while keeping an ordinary staff route and the option to enter and stay.",
+      "first_ask": "Could the secretariat suggest a member who works on Busan libraries or community-centre entrances, or give me the appropriate published professional route for that enquiry?",
+      "supervision_evidence": "Institutional introducer only; no doctorate or supervision claim.",
+      "open_questions": [
+        "General email not independently verified; use phone to clarify preferred route.",
+        "Whether secretariat can refer a non-member research enquiry."
+      ],
+      "earlier_korea_id": "",
+      "delivery_status": "Not sent",
+      "existing_relationship": "Unknown",
+      "response": "",
+      "profile_path": "research/phd-contact-map/busan/referrals/kira_busan.md",
+      "draft": {
+        "kind": "Telephone routing script",
+        "subject": "Busan public-building architect referral — telephone routing note",
+        "salutation": "Hello, I am Kris Haamer from Proxy Society.",
+        "personalized_opening": "Your association describes its work in relation to architects and the public urban environment (https://bira.kira.or.kr/jsp/02/06/01.jsp).",
+        "project_case": "I am developing a PhD question about where a civic building should place a small handoff for an AI acting for an absent visitor. I want to compare a main reception queue with a side recess, while keeping an ordinary staff route and the option to enter and stay.",
+        "personalized_ask": "Could the secretariat suggest a member who works on Busan libraries or community-centre entrances, or give me the appropriate published professional route for that enquiry?",
+        "body": "Hello, I am Kris Haamer from Proxy Society.\n\nI am developing a PhD question about where a civic building should place a small handoff for an AI acting for an absent visitor. I want to compare a main reception queue with a side recess, while keeping an ordinary staff route and the option to enter and stay.\n\nCould the secretariat suggest a member who works on Busan libraries or community-centre entrances, or give me the appropriate published professional route for that enquiry?\n\nThank you.\n\nReference only, not spoken: Your association describes its work in relation to architects and the public urban environment (https://bira.kira.or.kr/jsp/02/06/01.jsp).\n\nKris Haamer\nProxy Society\nhttps://proxysociety.org/architecture",
+        "body_word_count": 108,
+        "anchor_source_id": "bp_kira_bus",
+        "prepared_on": "2026-10-13",
+        "status": "Unsent; human review required",
+        "version": 1,
+        "path": "writing/outreach/busan/kira_busan.md",
+        "provenance": "Independent Busan draft prepared 2026-10-13 from the published recipient evidence and Proxy Society Architecture of Delegated Presence framing. Proposed comparison is not an existing experiment. No prior contact, travel dates, credentials, attachments or access is assumed."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "busan_pnu_roster",
+      "url": "https://archi.pusan.ac.kr/archi/6152/subview.do",
+      "label": "PNU Architecture — current faculty and Busan base",
+      "finding": "Current roster verifies the named academics and published professional emails. Department address: Construction Building, Jangjeon campus, Geumjeong-gu, Busan.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "A roster is neither proof of a PhD vacancy nor permission to visit an office.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_curriculum",
+      "url": "https://archi.pusan.ac.kr/bbs/archi/11921/949547/download.do",
+      "label": "PNU — 2025 general-graduate Architecture curriculum",
+      "finding": "Indexed departmental curriculum assigns graduate courses to faculty, including architectural criticism and Anthropocene studies, installation architecture, digital fabrication, architectural research methods and urban-regeneration criticism.",
+      "review_method": "Search-indexed primary institutional curriculum extract reviewed",
+      "limitations": "Indexed primary document extract reviewed; direct download returned a short empty response. Graduate teaching does not establish individual doctoral capacity. This is the general-graduate curriculum, not the Industrial Graduate School.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_paek",
+      "url": "https://his.pusan.ac.kr/pnuProfl/archi/551/23126/artclView.do",
+      "label": "Seunghan Paek — institutional profile",
+      "finding": "Associate Professor since September 2024. Research lists everyday life, posthumanism and AI architecture; bibliography includes a 2023 study of AI as a facade object. Profile lists graduate research guidance.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Bibliographic entry and profile read; the full 2023 article was not reviewed. Expected student graduation dates are not verified outcomes.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_paek_seminar",
+      "url": "https://archi.pusan.ac.kr/bbs/archi/765/1433609/artclView.do",
+      "label": "PNU theory lab — 31 March 2026 seminar",
+      "finding": "Posted 6 April 2026; records Paek and a doctoral participant. Student discussion resists reducing roads to connection/access; another contribution considers architectural mediation through drawings.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Seminar account is an institutional report, not a published study or proof Paek supervises every participant.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_woo_port_forum",
+      "url": "https://www.busanpa.com/board/view.do?boardId=BBS_0000027&dataSid=36875&menuCd=DOM_000000105001001000&paging=ok&startPage=1",
+      "label": "Busan Port Authority — North Port citizens forum notice",
+      "finding": "Official 30 September 2026 notice schedules Woo as presenter of seven principles for a better North Port city at the 6 October forum, with public discussion and Q&A.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "The announcement confirms the scheduled role, not attendance, delivery, participant access or the results of the forum.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_woo_uia_2026",
+      "url": "https://archiculture.seoul.go.kr/web/noti/ntce/ntceDetail.do?post_no=54058DAC31D501DCE063C0A8A0222E20",
+      "label": "Seoul official portal — June 2026 UIA Korea session",
+      "finding": "Programme for 29 June 2026 names Woo as Busan chief architect and Keojin Jin as moderator; Woo presentation addresses Busan architecture, topography and history.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Event programme is historical role evidence at June 2026, not confirmation of an October city appointment.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_lawrence_about",
+      "url": "https://www.au-lab.net/about-",
+      "label": "Lawrence Kim / A+U Lab — practice and teaching",
+      "finding": "Architect, PNU Architecture professor and A+U Lab director. Studio works across architecture, urban design, installations and lighting.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Self-published practice account; current PNU roster independently supports university role. No research place or project access offered.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_lawrence_work",
+      "url": "https://www.au-lab.net/",
+      "label": "A+U Lab — portfolio",
+      "finding": "Portfolio includes Visitor Center in the Forest alongside installation work.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Project title and portfolio context reviewed; no claim about a building location, completion status or demonstrated visitor behavior.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_han",
+      "url": "https://his.pusan.ac.kr/pnuProfl/archi/551/29705/artclView.do",
+      "label": "Dongho Han — institutional profile",
+      "finding": "Assistant Professor in urban design/regeneration; thesis studies 30 years of regeneration-policy mobility in Busan. Profile lists a 2022 Eco Delta City paper and a 2023 public-procurement innovation paper.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Institutional biography and bibliography reviewed. Full thesis and journal papers were not read; no specific interpretation of their findings is asserted.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_yoo",
+      "url": "https://his.pusan.ac.kr/pnuProfl/archi/551/6336/artclView.do",
+      "label": "Jaewoo Yoo — institutional profile and research",
+      "finding": "Professor in architectural planning/theory/design and housing. Bibliography lists a 2021 study of users and managers of merged/combined senior welfare centers in Changwon. Profile records graduate thesis/student guidance.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Bibliography and profile reviewed, not the full senior-center article. Historic civic appointments and student outcomes are not presumed current; profile contains older and newer sections.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_park",
+      "url": "https://his.pusan.ac.kr/pnuProfl/archi/551/6338/artclView.do",
+      "label": "Changbae Park — institutional profile",
+      "finding": "Professor in architectural design; institutional email published.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Profile is partly historical; present rank and Busan base cross-checked on current department roster.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_park_vr",
+      "url": "https://www.aodr.org/_PR/view/index.php?aidx=35842&bidx=3213",
+      "label": "Park et al. — BIM-VR building-exterior evaluation",
+      "finding": "2023 original research lets respondents vary exterior elements in one VR model. Park is corresponding author; two coauthors are identified as PNU Architecture PhD candidates.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Abstract and selected methods read. Pilot involved 15 architecture students experienced in VR; preference evaluation cannot establish real-world civic accessibility or trust.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_jin",
+      "url": "https://his.pusan.ac.kr/pnuProfl/archi/551/21916/artclView.do",
+      "label": "Keojin Jin — institutional profile",
+      "finding": "Associate Professor, promoted 2025; interests include boundaries between public/private and street/commercial space, life-cycle design and incremental renewal. Lists 2024 Yeongdo hillside prefabricated renewal study and Architecture master thesis students.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Biography and bibliography reviewed; full conference paper not read. Masters thesis supervision is not proof of doctoral authorization or availability.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "busan_pnu_yoon",
+      "url": "https://his.pusan.ac.kr/pnuProfl/archi/551/6337/artclView.do",
+      "label": "Seonghwan Yoon — institutional profile",
+      "finding": "Professor in environmental architecture; work includes comfort prediction/evaluation, climate-adaptive planning, BIM and AI-based disaster-prevention architecture.",
+      "review_method": "Primary website text opened and reviewed through web tool",
+      "limitations": "Profile and research-field list read, not all publications. Current roster corroborates rank. Building-performance expertise is inferred to fit this proposed study; an advisor commitment is not established.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "pknu_roh",
+      "url": "https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19401353",
+      "label": "Pukyong: Roh Ji-Hwa individual faculty profile",
+      "finding": "Professor based in Daeyeon campus Architecture Building C22, room 8324; whitewind@pknu.ac.kr. Research covers welfare facilities, universal and barrier-free design. Graduate courses include universal design and welfare planning; bibliography includes a September 2024 commons-space/modern heritage study.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official individual profile opened and read; Korean headings translated",
+      "limitations": "Publication titles and faculty description reviewed; no full-paper analysis or current individual doctoral recruitment verified."
+    },
+    {
+      "id": "pknu_hong",
+      "url": "https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19401352",
+      "label": "Pukyong: Hong Sung-Min individual faculty profile",
+      "finding": "Professor in Daeyeon campus C22, room 8325; gaudimin@pknu.ac.kr. Architectural psychology and design methodology; graduate design and architectural psychology teaching; bibliography lists 2021 public-building publicness evaluation indicators.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official individual profile opened and read; Korean headings translated",
+      "limitations": "Bibliography and teaching reviewed; exact current supervision allocation unverified."
+    },
+    {
+      "id": "hong_publicness",
+      "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002688367",
+      "label": "Hong: 2021 publicness-indicator paper, KCI author/abstract record",
+      "finding": "Paper by Hong Sungmin in Journal of Korea Institute of Spatial Design 16(1), 267-280, DOI 10.35216/kisd.2021.16.1.267. Abstract describes expert-value assessment and publicness indicators; keywords include AHP.",
+      "checked_on": "2026-10-13",
+      "review_method": "Primary national scholarly index record and abstract read",
+      "limitations": "Full paper was not independently analysed; proposed visitor-based extension is our assessment, not the paper finding."
+    },
+    {
+      "id": "pknu_joohyun",
+      "url": "https://pknuarchi.pknu.ac.kr/pknuarchi/961?action=view&no=19404122",
+      "label": "Pukyong: Joohyun Lee individual faculty profile",
+      "finding": "Assistant Professor in Daeyeon campus C22, room 8217; joohyunlee@pknu.ac.kr. Evidence-Based Design, sustainable architecture and Next Sustainability Lab. Bibliography lists Lee/Shepley campus smartphone walkability article, DOI 10.3390/su12239986, and current 2026 papers.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official individual profile opened and read; Korean headings translated",
+      "limitations": "Bibliography reviewed; full walkability paper not independently analysed. Publicly linked Google Site failed retrieval; university profile supplies the evidence."
+    },
+    {
+      "id": "pknu_english",
+      "url": "https://itc.pknu.ac.kr/eng/html/02/05_2.php",
+      "label": "Pukyong: official English architecture faculty roster",
+      "finding": "English name forms Roh Ji-Hwa, Hong Sung-Min and Joohyun Lee; published emails match individual profiles.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official primary English roster indexed content read",
+      "limitations": "Use Korean individual profiles for the detailed current research and rank; English descriptions are abbreviated."
+    },
+    {
+      "id": "pknu_doctoral",
+      "url": "https://graduate.pknu.ac.kr/departments",
+      "label": "Pukyong: graduate departments and degree levels",
+      "finding": "Lists Architecture with master/doctoral study, separately from Architectural Engineering under Architecture/Fire Engineering.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official graduate-school primary page indexed content read",
+      "limitations": "Current international admission cycle, degree title in English, personal eligibility, supervisor allocation, language and funding need confirmation."
+    },
+    {
+      "id": "donga_roster",
+      "url": "https://arch.donga.ac.kr/arch/CMS/ProfessorMgr/list.do?mCode=MN032",
+      "label": "Dong-A: current architecture faculty roster",
+      "finding": "Lee-Yong Sung is Associate Professor, architectural planning/design and urban regeneration; Sangjin Lee is Professor, architectural design. Architecture department address is Seunghak campus, 37 Nakdong-daero 550beon-gil, Saha-gu, Busan.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official department primary roster opened and read",
+      "limitations": "English graduate roster uses a different transliteration order; current Korean departmental roster governs rank. No claim of accepting applicants."
+    },
+    {
+      "id": "sung_home",
+      "url": "https://web.donga.ac.kr/leerick/",
+      "label": "Dong-A: Lee-Yong Sung university-hosted personal page",
+      "finding": "University-hosted page publishes Sung, Lee-yong and leerick@dau.ac.kr; address is Dong-A industry-academic building room 818 at Seunghak campus.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official primary university-hosted page search-index content read; direct web fetch returned timeout/502; direct Python request also reset connection",
+      "limitations": "Contact route is publicly listed but no mailbox delivery or response verified."
+    },
+    {
+      "id": "sung_reuse",
+      "url": "https://www.kieae.kr/_PR/view/?aidx=49761&bidx=4469",
+      "label": "Sung/Chang: June 2026 adaptive reuse and place-identity paper",
+      "finding": "KIEAE 26(3), 33-42, DOI 10.12813/kieae.2026.26.3.033. Framework links architectural/material, urban/public and experiential/symbolic layers, including public interface and governance. Publisher header confirms Lee-Yong Sung as Dong-A Associate Professor and publishes leerick@dau.ac.kr.",
+      "checked_on": "2026-10-13",
+      "review_method": "Primary publisher header, abstract and selected conceptual-framework sections opened and read",
+      "limitations": "Selected sections reviewed; no independent reanalysis of cases, outcomes or causal effect."
+    },
+    {
+      "id": "sangjin_contact",
+      "url": "https://police.donga.ac.kr/abouteng/CMS/Contents/Contents.do?mCode=MN067",
+      "label": "Dong-A: English architecture department introduction/contact",
+      "finding": "Publishes Sangjin Lee as advising professor with slee@dau.ac.kr and phone 051-200-7617; distinguishes Architecture and Architectural Engineering.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official university English primary page indexed content read",
+      "limitations": "Advising-professor label is a department enquiry role; not evidence of an individual doctoral offer."
+    },
+    {
+      "id": "sangjin_lab",
+      "url": "https://web.donga.ac.kr/slee/main/intro.htm",
+      "label": "Dong-A: Sangjin Lee Urban Design Research Laboratory",
+      "finding": "University-hosted lab introduction examines boundaries and relations between urban and architectural space, and transformation of place through building insertion.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official university-hosted primary lab description indexed content read; main-frame link returned 502; direct Python request reset connection",
+      "limitations": "Undated older lab statement; current department roster confirms affiliation, but specific live projects and lab recruitment are unverified."
+    },
+    {
+      "id": "donga_doctoral",
+      "url": "https://graeng.donga.ac.kr/graeng/CMS/Contents/Contents.do?mCode=MN064",
+      "label": "Dong-A: Architecture graduate programme",
+      "finding": "Explicitly describes master and doctoral Architectural Studies, including design, planning, theory, history, urban design and regeneration. Lists Sung and Sangjin Lee as graduate faculty.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official English graduate primary page opened and read",
+      "limitations": "No admission cycle, English-track availability, funding or faculty acceptance verified. Some faculty names/ranks differ from current departmental roster."
+    },
+    {
+      "id": "kyungsung_roster",
+      "url": "https://kscms.ks.ac.kr/urban/CMS/ProfessorMgr/list.do?mCode=MN023",
+      "label": "Kyungsung: urban planning faculty roster",
+      "finding": "Professors: Dong-Jin Kang, urban design/historical environment conservation, conkang@ks.ac.kr; Seok-Hwan Lee, planning/design/regeneration, lshsun@ks.ac.kr; Kwang-Woo Nam, smart planning/GIS/spatial analysis, kwnam@ks.ac.kr. All department base: 309 Suyeong-ro, Nam-gu, Busan, Building 27 room 1310.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official departmental primary roster opened and read; Korean names retained and English spellings cross-checked against primary author records",
+      "limitations": "No current individual vacancy or doctoral supervision allocation verified."
+    },
+    {
+      "id": "kyungsung_labs",
+      "url": "https://kscms.ks.ac.kr/urban/CMS/Contents/Contents.do?mCode=MN038",
+      "label": "Kyungsung: graduate research labs and doctoral history",
+      "finding": "Lee leads urban regeneration/design lab; Kang urban conservation lab; Nam intelligent-city lab. Lab work covers publicness/place, citizen-oriented conservation and human-centred GIS/smart-city living labs respectively. Department describes a 2006 joint doctoral programme with environmental and civil engineering in Construction/Environment/Urban Engineering.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official graduate lab primary page opened and read",
+      "limitations": "Historical programme description and generic current-student claims lack an explicit update date; confirm exact current joint degree and supervisor eligibility."
+    },
+    {
+      "id": "kyungsung_doctoral",
+      "url": "https://kscms.ks.ac.kr/urban/CMS/Contents/Contents.do?mCode=MN040",
+      "label": "Kyungsung: urban planning doctoral curriculum",
+      "finding": "Published doctoral curriculum covers urban regeneration, housing environment, urban form, GIS, quantitative analysis and thesis research.",
+      "checked_on": "2026-10-13",
+      "review_method": "Official departmental primary doctoral curriculum opened and read",
+      "limitations": "Urban/planning doctoral teaching evidence; not an Architecture doctorate or current admissions invitation."
+    },
+    {
+      "id": "kang_paper",
+      "url": "https://www.kpaj.or.kr/_PR/view/?aidx=11834&bidx=983",
+      "label": "Kang: primary 2017 heritage paper/name record",
+      "finding": "Publisher record names Kang, Dong-Jin, Kyungsung University, conkang@ks.ac.kr and research on modern heritage inscription.",
+      "checked_on": "2026-10-13",
+      "review_method": "Primary Korea Planning Association publisher record indexed content read",
+      "limitations": "Used for name/identity and historical work; no current membership or rank inferred from 2017."
+    },
+    {
+      "id": "lee_core_facilities",
+      "url": "https://kpaj.or.kr/_PR/view/?aidx=4550&bidx=577",
+      "label": "Lee: sustainable Busan village-unit core facilities",
+      "finding": "June 2015 publisher article names Lee, Seok Hwan at Kyungsung, lshsun@ks.ac.kr. Abstract evaluates Busan community facilities by operators, administrators and experts across preparation, activity and settlement; DOI 10.17208/jkpa.2015.06.50.4.87.",
+      "checked_on": "2026-10-13",
+      "review_method": "Primary Korea Planning Association publisher header and abstract opened and read",
+      "limitations": "Historical paper; abstract reviewed rather than full-text methodological audit. Visitor/mandate comparison is proposed independently."
+    },
+    {
+      "id": "lee_english",
+      "url": "https://www.kais99.org/jkais/journal/Vol17No1/p47/1nw/1nw.pdf",
+      "label": "Lee: 2016 publisher PDF author identity",
+      "finding": "Publisher PDF identifies Seok-Hwan Lee of Kyungsung and lshsun@ks.ac.kr; village-unit community-facility paper.",
+      "checked_on": "2026-10-13",
+      "review_method": "Primary academic-society PDF indexed text read",
+      "limitations": "Used for identity/English spelling; university roster supplies current role."
+    },
+    {
+      "id": "nam_compact",
+      "url": "https://kpaj.or.kr/_PR/view/?aidx=46346&bidx=4196",
+      "label": "Nam/Kamata: August 2025 compact-city planning paper",
+      "finding": "Primary article identifies Nam, Kwang-Woo as Kyungsung Professor/corresponding author, kwnam@ks.ac.kr; examines Japan location-optimization planning in the Busan/Ulsan/Gyeongnam region.",
+      "checked_on": "2026-10-13",
+      "review_method": "Primary Korea Planning Association publisher page opened; article header and abstract reviewed",
+      "limitations": "Case/region planning is a published research hook; no inference that compacting services improves access for all users or that projects accept external research."
+    },
+    {
+      "id": "bp_kichul_about",
+      "url": "https://www.architect-k.com/about",
+      "label": "Architect-K principal biography",
+      "finding": "Names Kichul Lee as founder/principal; practice works across architecture, interiors, furniture and art.",
+      "review_method": "Live primary page",
+      "limitations": "Public professional source; no delivery, availability or access verified.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kichul_contact",
+      "url": "https://www.architect-k.com/contact",
+      "label": "Architect-K professional routes and offices",
+      "finding": "Project enquiries use office@architect-k.com; media uses kichul@architect-k.com. Busan office is 3F, 253 Gamcheon-ro, Seo-gu; a separate Seoul office is also listed.",
+      "review_method": "Live primary page",
+      "limitations": "Public professional source; no delivery, availability or access verified.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_yeonje",
+      "url": "https://www.architect-k.com/yeonje-gu-youthculturecenter",
+      "label": "Yeonje-gu Youth Culture Center competition proposal",
+      "finding": "February 2024 Busan competition, directed by Kichul Lee; proposes small-scale masses and interwoven indoor/outdoor places with flexible programmes.",
+      "review_method": "Live primary project page",
+      "limitations": "Competition proposal; built status and operational outcomes not established. The page repeats unrelated house copy before its own project section; only the labelled youth-centre section is used.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_samhyun_about",
+      "url": "https://samhyundosi.com/about/",
+      "label": "Samhyun Dosi leadership and office",
+      "finding": "Lists Yong Nam Kim as principal architect/CEO and Busan HQ at 536-55 Gwangan-dong, Suyeong-gu; publishes samhyun7317@naver.com.",
+      "review_method": "Live primary page",
+      "limitations": "Undated biography mentions outside teaching at Dong-A; this does not establish a current academic appointment or doctoral authority. Korean/English company-history dates differ; founding date is not used.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_samhyun_interview",
+      "url": "https://samhyundosi.com/2021/11/09/%EC%9C%A0%EB%8B%9B%EC%9C%BC%EB%A1%9C-%EC%8C%93%EC%95%84%EC%98%AC%EB%A6%B0-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%98-%EC%84%B8%EA%B3%84/",
+      "label": "Samhyun interview: possibilities assembled from units",
+      "finding": "Kim explains terrace/courtyard housing units and prioritises privacy while leaving spatial opportunities for encounters.",
+      "review_method": "Interview republished on practice site, dated 2021-11-09",
+      "limitations": "Recipient statement and photographer observations, not independently measured community outcomes.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_samhyun_works",
+      "url": "https://samhyundosi.com/works/",
+      "label": "Samhyun Dosi works roster",
+      "finding": "Lists the Haeundae children/youth future-space competition as winner; also lists schools and civic-support competition work.",
+      "review_method": "Live primary page",
+      "limitations": "A competition win is not evidence of construction completion, operation, or willingness to host a pilot.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kaga_about",
+      "url": "https://www.kaga21.com/about",
+      "label": "KAGA and Ahn Yongdae biography",
+      "finding": "Names Ahn Yongdae as principal; past adjunct roles have date ranges, and public-design competition committee work includes 2021–2022.",
+      "review_method": "Live primary page",
+      "limitations": "Do not treat past university teaching or committee service as current PhD supervision or a present city appointment.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kaga_contact",
+      "url": "https://www.kaga21.com/contact",
+      "label": "KAGA office routes",
+      "finding": "Publishes ka@kaga21.com and office at 507 Centum Green Tower, 78 Centum jungang-ro, Haeundae-gu, Busan. An additional footer email is present but is not selected.",
+      "review_method": "Live primary page",
+      "limitations": "Public professional source; no delivery, availability or access verified.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kaga_projects",
+      "url": "https://www.kaga21.com/",
+      "label": "KAGA project index",
+      "finding": "Lists Space Lee Ufan at Busan Museum of Art, Busan Carmelites Center and Johyun Gallery at Dalmaji-gil.",
+      "review_method": "Live primary project index",
+      "limitations": "Portfolio listing supports practice association, not sole authorship. The draft avoids attributing sole design to Ahn. No public opening, building access or current operation verified.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_jmy_profile",
+      "url": "https://www.jmy.kr/profile",
+      "label": "JMY Jaemin Yoon profile",
+      "finding": "Names Jaemin Yoon and publishes his architecture/interior/scenography training.",
+      "review_method": "Live primary page",
+      "limitations": "Profile text is partial; current director status is supported by the practice identity/profile and current office rather than assumed academic authority.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_jmy_contact",
+      "url": "https://www.jmy.kr/contacts",
+      "label": "JMY general enquiries and base",
+      "finding": "Publishes general/client route jmy.architects@gmail.com and 2nd floor Minjok Building, 77-1 Bosudong-2ga, Jung-gu, Busan. Recruitment is a distinct jmy.ref@gmail.com route.",
+      "review_method": "Live primary page",
+      "limitations": "Shared practice mailbox; not a direct personal address. Use general enquiries, not the recruitment mailbox.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_jmy_naum",
+      "url": "https://www.jmy.kr/kor-busan-naum-childhood-cancer-center",
+      "label": "Busan NAUM Childhood Cancer Center",
+      "finding": "Labels project completed in 2013–2014 in Busan. Description uses two entrances at different levels, middle-floor staff offices and visually open play/healing space.",
+      "review_method": "Live primary page via read-only HTTP retrieval after web timeout",
+      "limitations": "Practice-reported design rationale; staffing/therapeutic benefits are not independently validated. Do not propose patient research or imply site access.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kang_data",
+      "url": "https://bhujonkang.com/data.js",
+      "label": "Bhujon Kang website content data",
+      "finding": "Published website script names Bhujon Kang as principal architect. Uam Library is a 2021 fifth-place competition proposal in Nam-gu: curved street edge, skip-floor levels, western open space.",
+      "review_method": "Read the public data.js referenced by about.html and projects.html; no execution or private API used",
+      "limitations": "Source is public website content, not a hidden operational system. Project is a competition proposal; no built status claimed. Past teaching and registrations are practice-reported.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kang_contact",
+      "url": "https://bhujonkang.com/contact.html",
+      "label": "Bhujon Kang offices and enquiry route",
+      "finding": "Publishes info@bhujonkang.com and a contact form. Busan office: 30 Yeonje-ro, Yeonje-gu, Vista Dongwon 105-8307; also Flagstaff, Arizona.",
+      "review_method": "Live primary page",
+      "limitations": "Dual-city practice; the Busan office does not establish Kang personally being in Busan on a given date. Do not treat a general form/mailbox as direct personal access.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kiab_home",
+      "url": "https://kiabb.smart-app.co.kr/",
+      "label": "Korean Institute of Architects Busan branch",
+      "finding": "Current news includes September 2026; publishes kiabb@hanmail.net and Busan Arts Center 304, 78 Yongso-ro, Nam-gu, plus public architecture stories/workshops/forums.",
+      "review_method": "Primary text fetched read-only, HTTP 200, after TLS hostname-mismatch error; certificate verification disabled for this public read",
+      "limitations": "Web tool timed out and normal TLS verification failed. Content identity matches official kiabb.org notices. Route is published, not delivery-tested.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kiab_event",
+      "url": "https://kiabb.smart-app.co.kr/community/notice/?lhwb_mode=view&board_id=6&list_id=2824",
+      "label": "KIAB 2026-09-30 architecture festival notice",
+      "finding": "Announces Korea International Architecture Festival and Busan Architecture Exhibition, BEXCO first exhibition hall 3A, 27–31 October 2026; inclusion/recovery theme, housing and urban architecture forums and heritage tour.",
+      "review_method": "Latest notice linked from primary home; read-only HTTP 200 after certificate mismatch",
+      "limitations": "An announced future programme, not proof a recipient will attend. No registration, booking or attendance is assumed; check organiser for changes before planning.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kira_bus",
+      "url": "https://bira.kira.or.kr/jsp/02/06/01.jsp",
+      "label": "Busan Metropolitan City Institute of Registered Architects",
+      "finding": "Official page describes local architects/public urban environment role. Publishes general phone 051-633-6677 and 973 Jungang-daero, Yangjeong-dong, Busanjin-gu.",
+      "review_method": "Live primary page",
+      "limitations": "No general email verified. KIRA Busan is distinct from KIAB (Korean Institute of Architects Busan branch); phone routing script is prepared, not an addressed email.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kia_corroboration",
+      "url": "https://kia.or.kr/news/notice.php?code=notice&idx=11687&page=59&ptype=view",
+      "label": "National KIA corroboration of Busan branch route",
+      "finding": "National Korean Institute of Architects 2022-08-19 workshop notice names the Busan branch, kiabb.org and kiabb@hanmail.net.",
+      "review_method": "Primary national-association notice, retrieved indexed text via web search",
+      "limitations": "Historical domain/email corroboration only; current route comes from the October 2026 branch-site read. Does not validate the smart-app domain certificate or imply an open workshop.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "pnu_2027_notice",
+      "url": "https://international.pusan.ac.kr/bbs/international/2089/1464797/artclView.do",
+      "label": "PNU — Spring 2027 international graduate notice",
+      "finding": "Official notice dated 1 October 2026 publishes the Spring 2027 international graduate guide and Korean/Chinese/English PDF; Korean version takes precedence.",
+      "review_method": "Official international-office notice opened and read",
+      "limitations": "Notice and guide publication do not confirm eligibility, faculty acceptance or a funded place.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "pnu_2027_guide",
+      "url": "https://international.pusan.ac.kr/bbs/international/2089/1532399/download.do",
+      "label": "PNU — Spring 2027 international graduate guide",
+      "finding": "English section: printed p54 lists online application 12–23 October 2026 until 17:00 KST, documents until 6 November 17:00 KST; p55 says doctoral applicants may apply regardless of master’s major subject to degree/equivalent qualification and other requirements. P64 lists Architecture (Architecture) doctorate separately from Architectural Engineering, on Busan campus. P74 gives Architecture office +82 51 510 1470.",
+      "review_method": "Public primary PDF securely retrieved; selected English sections extracted and read with pypdf (PDF pages 28, 33, 38 of 40). Web download timed out; direct HTTPS succeeded.",
+      "limitations": "English text and selected tables reviewed, not every rule in the multilingual guide. Korean version takes precedence. Applicant qualifications, department conditions, language and actual supervision remain unconfirmed; no application made.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "donga_admissions",
+      "url": "https://graeng.donga.ac.kr/graeng/CMS/Contents/Contents.do?mCode=MN132",
+      "label": "Dong-A — international graduate process",
+      "finding": "International admissions overview distinguishes doctoral/master’s qualifications and Korean/English tracks; it says department availability can change by semester. Certain cross-field applicants may need approval requested from the intended advisor with CV/research explanation.",
+      "review_method": "Official graduate-school page opened and read; live primary HTML independently retrieved",
+      "limitations": "General procedure, not an Architecture English-track guarantee or current-round offer. Determine whether an approval letter is applicable using the target-round guidelines and actual applicant history.",
+      "checked_on": "2026-10-13"
+    },
+    {
+      "id": "bp_kang_projects",
+      "url": "https://bhujonkang.com/projects.html",
+      "label": "Bhujon Kang — public projects display page",
+      "finding": "Public projects page loads data.js, the linked public content record that describes Uam Library as a 2021 competition proposal. The draft points to this human-facing page; attribution and project status are recorded from the linked public data.",
+      "review_method": "Live primary HTML retrieved and its linked public data.js source cross-referenced; not a rendered project-page inspection",
+      "limitations": "Dynamic display shell and linked content data; not proof of built status, project access or present whereabouts. Uam Library is a fifth-place competition proposal.",
+      "checked_on": "2026-10-13"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "pnu_architecture",
+      "institution": "Pusan National University — Architecture doctorate, Busan",
+      "source_ids": [
+        "pnu_2027_notice",
+        "pnu_2027_guide",
+        "busan_pnu_curriculum"
+      ],
+      "finding": "Spring 2027 international guide lists Architecture (Architecture) PhD separately from Architectural Engineering. Online applications: 12–23 October 2026, ending 17:00 KST (16:00 Asia/Taipei). Required documents: by 6 November 17:00 KST (16:00 Asia/Taipei). Architecture office: +82 51 510 1470. Current graduate curriculum adds theory/design/criticism teaching evidence.",
+      "caution": "Published current round, not an individual advisor invitation. The English guide says a doctorate can be applied for regardless of master’s major, subject to degree/equivalent qualification and other requirements; actual eligibility and any department conditions remain unconfirmed. English guide availability does not prove English classes or fieldwork. Korean version takes precedence; no application, fee payment or funding award is recorded.",
+      "questions": [
+        "Which named faculty member and research field would evaluate the spatial contribution?",
+        "Does the applicant’s actual qualification meet the target-round rules, and are supplementary architecture requirements relevant?",
+        "Confirm supervision/coursework/fieldwork language, individual capacity and funding before choosing an application round."
+      ]
+    },
+    {
+      "id": "pukyong_architecture",
+      "institution": "Pukyong National University",
+      "source_ids": [
+        "pknu_doctoral"
+      ],
+      "finding": "Architecture master/doctoral programme is separately published from Architectural Engineering.",
+      "caution": "Programme listing and teaching evidence do not establish individual supervisor eligibility, capacity, funding, language or an accepted applicant.",
+      "questions": [
+        "Current admissions cycle, degree title, supervisor allocation, eligibility, language and funding."
+      ]
+    },
+    {
+      "id": "donga_architecture",
+      "institution": "Dong-A University",
+      "source_ids": [
+        "donga_doctoral",
+        "donga_admissions"
+      ],
+      "finding": "Master and doctoral Architectural Studies explicitly listed; design, planning, theory/history, urban design and regeneration.",
+      "caution": "Published Architectural Studies doctorate; faculty ranks on the English graduate page can be older than the current department/publisher. English-track availability and target round require separate confirmation. Determine whether a cross-field approval letter applies before requesting it; the first-contact draft does not claim a CV is attached.",
+      "questions": [
+        "English-track availability, current intake, individual capacity, portfolio and funding."
+      ]
+    },
+    {
+      "id": "kyungsung_joint",
+      "institution": "Kyungsung University",
+      "source_ids": [
+        "kyungsung_labs",
+        "kyungsung_doctoral"
+      ],
+      "finding": "Urban-planning page reports joint Construction/Environment/Urban Engineering doctorate and publishes doctoral curriculum.",
+      "caution": "The joint Construction/Environment/Urban Engineering description has historical 2006 provenance; a published doctoral curriculum adds teaching evidence. This is an urban/planning route, not a verified Architecture doctorate; confirm the current admission unit/title and individual eligibility.",
+      "questions": [
+        "Exact current joint degree title and admission unit, supervisor eligibility, language and funding."
+      ]
+    }
+  ],
+  "coordination_groups": [
+    {
+      "id": "pnu",
+      "people": [
+        "seunghan_paek",
+        "shin_koo_woo",
+        "lawrence_kim",
+        "dongho_han",
+        "jaewoo_yoo",
+        "changbae_park",
+        "keojin_jin",
+        "seonghwan_yoon"
+      ],
+      "instruction": "Start with one architectural/theory question: Paek for agency, Jin for reversible thresholds, Han for regeneration, or Woo for public-space links. Select a complementary method after fit is clearer; avoid sending eight parallel copies to one department."
+    },
+    {
+      "id": "pukyong",
+      "people": [
+        "roh_ji_hwa",
+        "hong_sung_min",
+        "joohyun_lee"
+      ],
+      "instruction": "Roh for access, Hong for publicness, Lee for evidence and perception. Choose one lead question before a second approach; the shared department and doctorate are not three independent offers."
+    },
+    {
+      "id": "donga",
+      "people": [
+        "lee_yong_sung",
+        "sangjin_lee"
+      ],
+      "instruction": "Sung for adaptive reuse and governance; Lee for the street/building boundary. Confirm target-degree and language procedure separately."
+    },
+    {
+      "id": "kyungsung",
+      "people": [
+        "dong_jin_kang",
+        "seok_hwan_lee",
+        "kwang_woo_nam"
+      ],
+      "instruction": "Conservation, community operation and spatial accessibility are distinct questions in an urban/planning degree context. Avoid treating these as an interchangeable Architecture-supervisor list."
+    },
+    {
+      "id": "practice",
+      "people": [
+        "kichul_lee",
+        "yong_nam_kim",
+        "ahn_yongdae",
+        "jaemin_yoon",
+        "bhujon_kang"
+      ],
+      "instruction": "Use one supported project as the critique prompt. All selected emails are practice-office routes; dual-city bases and project proposals are explicit. Ask before assuming personal presence or project access."
+    },
+    {
+      "id": "introducers",
+      "people": [
+        "kiab_busan",
+        "kira_busan"
+      ],
+      "instruction": "KIAB and KIRA are distinct organisations. Ask one for a relevant named professional route; the phone script is prepared only and no call has been made."
+    }
+  ],
+  "clusters": [
+    {
+      "area": "Geumjeong-gu / Jangjeon",
+      "description": "Eight PNU Architecture academics at the Busan campus Construction Building."
+    },
+    {
+      "area": "Nam-gu / Daeyeon",
+      "description": "Pukyong Architecture and Kyungsung urban-planning campuses; KIAB at Busan Arts Center."
+    },
+    {
+      "area": "Saha-gu / Seunghak",
+      "description": "Dong-A Architecture at Seunghak campus; distinct from other Dong-A campuses."
+    },
+    {
+      "area": "Seo-gu / Jung-gu",
+      "description": "Architect-K Busan office in Seo-gu; JMY in Bosudong, Jung-gu."
+    },
+    {
+      "area": "Suyeong-gu / Haeundae-gu",
+      "description": "Samhyun Dosi in Gwangan-dong; KAGA in Centum. KIAB announces BEXCO festival/exhibition 27–31 October 2026, not individual attendance."
+    },
+    {
+      "area": "Yeonje-gu / Busanjin-gu",
+      "description": "Bhujon Kang has a Busan office in Yeonje-gu and a separate Arizona base; KIRA secretariat in Yangjeong-dong."
+    }
+  ],
+  "limitations": [
+    "This is a focused cohort of 21 people at four universities and five practices. Dong-Eui, Dongseo, additional civic/library operators and regional practices remain discovery gaps; no weak or stale route was added to fill a count.",
+    "Sixteen academics have individual institutional or publisher-confirmed emails. Five practices use office routes; these do not establish direct personal access. Faculty capacity, supervision approval, funding and the applicant’s qualifications remain unconfirmed.",
+    "PNU’s current Spring 2027 guide supplies a newer explicit Architecture doctorate route than the 10 October Korea screen. Keep the older screen as history and use this guide for the current round; a deadline is not proof the applicant is ready or eligible.",
+    "Published institutional or office bases are not proof of a person’s current whereabouts. No Busan visit dates, meeting, itinerary, prior relationship, site permission or willingness to host a pilot is assumed.",
+    "Publication metadata, abstracts, selected methods and full-text reads are distinguished in source limits. Faculty bibliography does not imply the whole paper was read or that the recipient supervised every coauthor.",
+    "Woo’s North Port forum source is an announcement, not attendance/delivery evidence. Project rationales are practice-reported; competition proposals and wins are not built or operated projects.",
+    "KAGA portfolio association is not sole authorship of Space Lee Ufan. JMY’s NAUM is a precedent for an ordinary civic-building critique, not an invitation to patient or care-site research.",
+    "KIAB pages were read after a certificate mismatch; a national KIA notice corroborates the branch domain/email historically. Refresh the current route and announced 27–31 October event before attendance or correspondence. No event booking is recorded.",
+    "Sungho Ko / PDM Partners and the historical biacf.org festival route remain deferred because current professional routes could not be verified. KIRA publishes a general telephone only; do not invent an email."
+  ]
+}
