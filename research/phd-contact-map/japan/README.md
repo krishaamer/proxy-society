@@ -8,9 +8,11 @@ Status: researched leads and **unsent** prepared correspondence. Checked **10 Oc
 
 [Canonical JSON](contacts.json) · [CSV tracker](contacts.csv) · [Evidence audit](sources.md) · [PhD and conversation preparation](programme-notes.md) · [Unsent writing](../../../writing/outreach/japan/README.md).
 
+**Tokyo update (13 October):** use the [Tokyo cohort](../tokyo/README.md) and [Tokyo writing](../../../writing/outreach/tokyo/README.md) for its overlapping people. This 10 October Japan snapshot and its counts remain historical; Tokyo has new route and programme checks.
+
 No Japan trip, dates or itinerary are assumed. City labels describe published institutional or practice bases, not personal whereabouts. Kaijima is a Japan-connected contact with an academic base in Zurich.
 
-This cohort supplements the [303-lead global snapshot](../README.md), whose historical count remains unchanged. Japan wording here is current for Tsukamoto, Mano, Kakehi and Kanda; their global IDs are linked. Kadowaki and Shimoda also link to the [Anthology cohort](../anthology-manila/README.md): choose the Japan first-contact wording unless an event-specific approach is intended. No attendance or prior relationship is inferred.
+This cohort supplements the [303-lead global snapshot](../README.md), whose historical count remains unchanged. Japan wording here is the 10 October version for Tsukamoto, Mano, Kakehi and Kanda; the Tokyo update takes precedence for overlapping people; their global IDs are linked. Kadowaki and Shimoda also link to the [Anthology cohort](../anthology-manila/README.md): choose the Japan first-contact wording unless an event-specific approach is intended. No attendance or prior relationship is inferred.
 
 ## First conversations
 

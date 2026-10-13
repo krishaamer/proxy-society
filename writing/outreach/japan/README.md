@@ -6,6 +6,8 @@ Independent Japan revisions based on Architecture of Delegated Presence (website
 
 [Research map](../../../research/phd-contact-map/japan/README.md) · [Programme preparation](../../../research/phd-contact-map/japan/programme-notes.md) · [Canonical evidence/text](../../../research/phd-contact-map/japan/contacts.json).
 
+**Tokyo update (13 October):** [current Tokyo drafts](../tokyo/README.md) take precedence for the Tokyo cohort’s overlapping people. This Japan version remains the earlier wording for those people and the current Japan wording for people without a Tokyo update.
+
 Use this wording for the four overlapping Japan global leads and the two Meiji event contacts when making a Japan-focused first approach. Earlier general/event versions remain as history or an explicitly selected alternative. Shared office letters are alternatives, and recorded holds must be resolved before use.
 
 | Recipient | Prepared subject | Type / route status |
