@@ -452,7 +452,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                 <p className={styles.languageNote}>{t.originalLanguage}</p>
                 <blockquote lang="et">“{quote.text}”</blockquote>
 <p className={styles.citationTitle}>{quote.sourcePublisher}{quote.sourceAuthor ? " · " + quote.sourceAuthor : ""}: <cite>{quote.sourceTitle}</cite></p>
-                <a href={quote.source} aria-label={`${quote.sourcePublisher}: ${quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.source}</a>
+                <a href={quote.source} aria-label={`${t.source}: ${quote.sourcePublisher}: ${quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.source}</a>
               </article>
             );
           })}
@@ -547,7 +547,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                           <blockquote lang="et">“{member.quote.text}”</blockquote>
                           <p>{t.scope}: {locale === "zh-TW" ? (quoteContextZh[member.name] ?? member.quote.context) : member.quote.context}</p>
 <p className={styles.citationTitle}>{member.quote.sourcePublisher}{member.quote.sourceAuthor ? " · " + member.quote.sourceAuthor : ""}: <cite>{member.quote.sourceTitle}</cite></p>
-                          <a href={member.quote.source} aria-label={`${member.name}: ${member.quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
+                          <a href={member.quote.source} aria-label={`${t.sourceLabel}: ${member.name}: ${member.quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
                         </div>
                       ) : <p className={styles.muted}>{t.noQuote}</p>}
                       {member.actions.length > 0 ? (
@@ -557,7 +557,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                             {member.actions.map((action) => (
                               <li key={action.kind}>
                                 <span>{actionDescription(action, locale)} ({action.date})</span>
-                                <a href={action.source} aria-label={`${member.name}: ${actionDescription(action, locale)} (${action.date})`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
+                                <a href={action.source} aria-label={`${t.sourceLabel}: ${member.name}: ${actionDescription(action, locale)} (${action.date})`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
                               </li>
                             ))}
                           </ul>
