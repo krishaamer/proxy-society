@@ -53,7 +53,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocal
     <main className={styles.page} lang={locale === "zh-TW" ? "zh-Hant-TW" : "en"}>
       <div className="ambient-grid" aria-hidden="true" />
       <header className="site-header shell">
-        <a className="wordmark" href={t.home} aria-label="Proxy Society home">
+        <a className="wordmark" href={t.home} >
           <span className="mark" aria-hidden="true">P/S</span>
           <span className="wordmark-copy">
             <strong>PROXY SOCIETY</strong>
