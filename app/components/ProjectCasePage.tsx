@@ -97,7 +97,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: CivicLocale;
                   href={civicLanguageRoutes[option.code]}
                   hrefLang={option.lang}
                   lang={option.lang}
-                  aria-label={locale === "et" ? `Loe projekti ${option.code === "en" ? "inglise" : "hiina"} keeles` : `Read this case in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
+                  aria-label={`${option.label} · ${locale === "et" ? `Loe projekti ${option.code === "en" ? "inglise" : "hiina"} keeles` : `Read this case in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}`}
                 >
                   {option.label}
                 </a>
