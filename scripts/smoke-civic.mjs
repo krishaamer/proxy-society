@@ -41,6 +41,8 @@ async function main() {
     "/zh-tw/projects/chickens-no-cages",
     "/projects/chickens-no-cages/rights",
     "/zh-tw/projects/chickens-no-cages/rights",
+    "/et/projects/chickens-no-cages",
+    "/et/projects/chickens-no-cages/rights",
   ];
   const results = [];
   for (const path of routes) {
@@ -48,6 +50,13 @@ async function main() {
     assert.equal(response.status, 200, path + " status");
     assert.match(body, /<main\b/, path + " landmark");
     assert.match(body, /<h1\b/, path + " primary heading");
+    if (path.startsWith("/et/")) {
+      assert.match(body, /<main[^>]+lang="et"/, path + " Estonian content language");
+      assert(body.includes("Kanad ilma puurideta") || body.includes("Allikad, isikuandmed"), path + " translated content");
+    }
+    if (path === "/projects/chickens-no-cages" || path === "/zh-tw/projects/chickens-no-cages") {
+      assert(body.includes("/et/projects/chickens-no-cages"), path + " Estonian language switch");
+    }
     assert.equal(response.headers.get("x-content-type-options"), "nosniff", path + " MIME hardening");
     assert.equal(response.headers.get("x-frame-options"), "DENY", path + " anti-framing");
     assert.equal(response.headers.get("referrer-policy"), "strict-origin-when-cross-origin", path + " privacy");
