@@ -14,6 +14,13 @@
 
 A public statement and a copyrighted portrait have different reuse rules. Publicly accessible material is not automatically free to republish; every item requires a source and permission/exception assessment. The public site does not include private correspondence or unverified statuses.
 
+## October 23, 2026: expanded 101-member public quotation evidence
+
+- [2026 official 101-MP source review](2026-101-mp-source-review.md): all 101 names reconciled with the Riigikogu's current official API; 99 MPs with 2026 plenary excerpts, two with other official individual statements; **20** individually selected issue/welfare quotations, with all other snippets explicitly separated from positions on cage housing.
+- [Source collection audit, 2026 January–October](official-2026-speech-audit.json): per-MP date, exact excerpt, original sitting URL, agenda topic and relevance classification. This is publicly recorded speech research, not any political prediction or synthetic quotation.
+- [Public 101-MP source dataset](../../app/chicken-outreach-data.ts) and [automatic citation integrity test](../../scripts/validate-chicken-citations.mjs).
+- The site's 101-entry table supports global search, topic/source links, dated quotation cards and consistent "not contacted" statuses. **Unrelated public remarks must not be repurposed as cage-policy positions.**
+
 ## Intent
 
 > Laying hens should not be kept in cages.
