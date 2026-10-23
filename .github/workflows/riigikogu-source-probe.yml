@@ -1,0 +1,20 @@
+name: Riigikogu Source Probe
+on:
+  push:
+    paths:
+      - scripts/riigikogu-probe.mjs
+      - .github/workflows/riigikogu-source-probe.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Probe official open data shapes
+        run: node scripts/riigikogu-probe.mjs
