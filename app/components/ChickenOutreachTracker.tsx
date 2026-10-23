@@ -437,7 +437,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                 </div>
                 {civicPortraits[member.name] ? (
                   <figure className={styles.portrait}>
-                    <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} sizes="(max-width: 740px) 92px, 108px" quality={60} loading="lazy" decoding="async" className={styles.portraitImage} />
+                    <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} unoptimized loading="lazy" decoding="async" className={styles.portraitImage} />
                     <figcaption>
                       <span>{t.portraitPhoto}: {civicPortraits[member.name].attribution}</span>
                       <span>
@@ -529,7 +529,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                     <div>
                         {civicPortraits[member.name] ? (
                           <figure className={styles.portrait}>
-                            <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} sizes="(max-width: 740px) 92px, 108px" quality={60} loading="lazy" decoding="async" className={styles.portraitImage} />
+                            <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} unoptimized loading="lazy" decoding="async" className={styles.portraitImage} />
                             <figcaption>
                               <span>{t.portraitPhoto}: {civicPortraits[member.name].attribution}</span>
                               <span>
