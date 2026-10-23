@@ -74,7 +74,7 @@ export default function ChickenLegalNotice({ locale }: { locale: ProjectLocale }
     <main className={styles.page} lang={locale === "en" ? "en" : "zh-Hant-TW"}>
       <div className="ambient-grid" aria-hidden="true" />
       <header className="site-header shell">
-        <a className="wordmark" href={locale === "en" ? "/" : "/zh-tw"} aria-label="Proxy Society home">
+        <a className="wordmark" href={locale === "en" ? "/" : "/zh-tw"} >
           <span className="mark" aria-hidden="true">P/S</span>
           <span className="wordmark-copy"><strong>PROXY SOCIETY</strong><small>HUMAN / AGENT / SOCIETY</small></span>
         </a>
