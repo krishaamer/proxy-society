@@ -81,7 +81,7 @@ function ThresholdDiagram() {
         <rect x="58" y="132" width="210" height="170" fill="#0e0d19" stroke="#63f5d1" strokeWidth="2" />
         <text x="82" y="166" fill="#63f5d1" fontSize="12" letterSpacing="2">01 / HUMAN</text>
         <text x="82" y="205" fill="#f5f4ff" fontSize="22">intent</text>
-        <text x="82" y="238" fill="#a3a0b7" fontSize="13">"collect this for me"</text>
+        <text x="82" y="238" fill="#a3a0b7" fontSize="13">&ldquo;collect this for me&rdquo;</text>
 
         <rect x="350" y="132" width="210" height="170" fill="#0e0d19" stroke="#8d6bff" strokeWidth="2" />
         <text x="374" y="166" fill="#8d6bff" fontSize="12" letterSpacing="2">02 / PROXY</text>
