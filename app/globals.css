@@ -6,7 +6,7 @@
   --panel-soft: rgba(34, 28, 61, 0.48);
   --ink: #f5f4ff;
   --muted: #a3a0b7;
-  --faint: #6f6a86;
+  --faint: #8983a2;
   --line: rgba(166, 150, 255, 0.26);
   --line-strong: rgba(166, 150, 255, 0.58);
   --violet: #8d6bff;
@@ -360,4 +360,13 @@ nav a:hover { color: var(--cyan); }
   .reading-row p { font-size: 14px; }
   .case-step-wrap > div:first-child { grid-template-columns: 55px 1fr; }
   .site-footer { align-items: flex-start; flex-direction: column; justify-content: center; gap: 9px; padding: 24px 0; }
+}
+
+/* The evidence-heavy tracker does not need fixed full-screen blended overlays.
+   Removing them avoids per-frame compositing work on long mobile scrolls. */
+body:has(#outreach)::before,
+body:has(#outreach)::after { display: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
 }
