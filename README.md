@@ -30,6 +30,7 @@ This repository is the home for the entire Proxy Society project: the website, r
 | Prepared writing and versions | [writing/README.md](writing/README.md) |
 | First-contact wording | [Architecture research introduction](writing/outreach/architecture-research-introduction.md) |
 | Institutional referral wording | [World architecture referral draft](writing/outreach/world-architecture-referral.md) |
+| VARI film club | [English film club page](https://proxysociety.org/vari) · [Traditional Chinese page](https://proxysociety.org/zh-tw/vari) · [Program research](research/vari/README.md) · [Website copy record](writing/programmes/vari-film-club.md). Bilingual cultural program in formation; no screening announced. |
 | Website | `app/` and `public/` |
 | Working conventions | [AGENTS.md](AGENTS.md) |
 
