@@ -654,3 +654,71 @@
   margin: 7px 0 9px;
 }
 .citationTitle cite { font-style: italic; }
+
+
+/* Limit directory work and improve keyboard/touch operability. */
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  border-top: 1px solid var(--line);
+  padding: 17px 0;
+}
+.pagination button {
+  appearance: none;
+  min-height: 44px;
+  min-width: 116px;
+  border: 1px solid var(--line-strong);
+  background: rgba(99,245,209,.04);
+  color: var(--cyan);
+  padding: 11px 14px;
+  cursor: pointer;
+  font: 750 12px/1.35 ui-monospace, SFMono-Regular, Menlo, monospace;
+  transition: background .12s ease;
+}
+.pagination button:hover:not(:disabled) { background: rgba(99,245,209,.11); }
+.pagination button:disabled { opacity: .43; cursor: not-allowed; }
+.pagination span {
+  text-align: center;
+  font: 750 12px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.tracker a:focus-visible,
+.tracker button:focus-visible,
+.tracker input:focus-visible,
+.tracker select:focus-visible,
+.tracker summary:focus-visible {
+  outline: 3px solid var(--cyan);
+  outline-offset: 3px;
+}
+/* Minimum readable meta sizes on a high-density mobile display. */
+.kicker { font-size: 11px; }
+.snapshot span { font-size: 11px; }
+.stat span { font-size: 11px; }
+.languageNote { font-size: 11px; }
+.quoteHead time { font-size: 12px; }
+.quoteCard > a { font-size: 12px; }
+.timeline a { font-size: 12px; }
+.billGrid small { font-size: 12px; }
+.controls label > span { font-size: 12px; }
+.resultLine { font-size: 12px; }
+.columnHead { font-size: 11px; }
+.recordQuote > span { font-size: 11px; }
+.actions li a { min-height: 32px; display: inline-flex; align-items: center; }
+.citationTitle { font-size: 12px; }
+.rightsRibbon a { font-size: 12px; }
+.methodLinks a { font-size: 13px; }
+@media (max-width: 540px) {
+  .pagination { gap: 8px; }
+  .pagination button { min-width: 0; font-size: 11px; padding: 10px 9px; }
+  .pagination span { font-size: 11px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tracker *, .tracker *::before, .tracker *::after {
+    transition-duration: 0ms !important;
+    animation-duration: 0ms !important;
+  }
+}
