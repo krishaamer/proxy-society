@@ -1,0 +1,31 @@
+name: Riigikogu Speech Research
+on:
+  push:
+    paths:
+      - scripts/collect-riigikogu-research.mjs
+      - .github/workflows/riigikogu-research.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Collect 2026 official transcripts for all 101 MPs
+        run: node scripts/collect-riigikogu-research.mjs
+      - name: Commit public citation research, not automatically approved quotes
+        run: |
+          git config user.name "proxy-society-research[bot]"
+          git config user.email "proxy-society-research[bot]@users.noreply.github.com"
+          git add research/chickens-no-cages/official-2026-speech-audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Research: collect official 2026 MP transcript candidates [skip ci]"
+            git push origin HEAD:main
+          fi
