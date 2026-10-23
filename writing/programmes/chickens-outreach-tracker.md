@@ -4,6 +4,8 @@
 
 **English route:** \`/projects/chickens-no-cages#outreach\`  
 **Traditional Chinese route:** \`/zh-tw/projects/chickens-no-cages#outreach\`
+**Estonian route:** `/et/projects/chickens-no-cages#outreach`  
+**Estonian rights route:** `/et/projects/chickens-no-cages/rights`  
 
 The canonical rendered copy lives in:
 
