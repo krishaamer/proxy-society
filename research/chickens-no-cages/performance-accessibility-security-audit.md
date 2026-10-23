@@ -83,6 +83,20 @@ These are **local CI measurements**, not global page download sizes or real-worl
 
 **Latest run status:** See [GitHub Actions](https://github.com/krishaamer/proxy-society/actions/workflows/ci.yml) for commit-specific results rather than assuming checks passed for a future change.
 
+## 23 October 2026: source-rich 101-MP directory regression
+
+After sourcing a public excerpt for **all 101 MPs** (with only 20 short quotations selected for individual issue/welfare highlighting), the 12-row initial page budget was preserved. The UI shows research, original sitting/publication links, dates and explicit reminders that unrelated quotations are not evidence of a cage-policy position.
+
+A completed [GitHub CI run](https://github.com/krishaamer/proxy-society/actions/runs/39923711207) verified:
+
+- **101/101** public attributable research excerpts; **20** source-checked individual featured/issue quotations; **25** initial-source excerpts explicitly mentioning the 828 SE debate or cages; **76** other-topic excerpts with explicit non-inference labels.
+- The English tracker initial HTML was **74,898 bytes** and the Traditional Chinese tracker **74,043 bytes** in a same-runner smoke test. This is larger than the prior 56KB HTML snapshot because the page exposes individual parliamentary research, but still renders only **12** directory details initially.
+- Both EN and zh-TW tracker and rights pages passed automated axe-core WCAG 2.2 A/AA scans at desktop 1280×900 and mobile 390×844, with **0 automated violations**. This is not manual assistive-technology certification.
+- Smoke checks for photo byte budgets, local image hosting, security headers and the blocked remote image proxy all passed; production-dependency audit reported **0 vulnerabilities** in the CI environment.
+- The source-integrity script `npm run test:research` validates name/UUID agreement with the current official Riigikogu roster, excerpt-to-source provenance, unique identities, and zero speculative contact/reply status.
+
+This validation describes HTML render budget, CI static and browser checks, **not** measured field Core Web Vitals (LCP/CLS/INP). Adding more unrelated statements increases privacy-review and page-weight obligations: continue to document editorial necessity, consider lazy per-MP source modules if the register grows substantially, and do not treat machine-selected public transcript snippets as a fully reviewed political position.
+
 ## Remaining risk and future verification
 
 1. Real-device measurement: run PageSpeed Insights / Lighthouse mobile + desktop on a warm production deploy; monitor LCP, INP, CLS and accessibility errors. Do not infer a Lighthouse score from CI compile time.
