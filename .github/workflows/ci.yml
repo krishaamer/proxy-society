@@ -23,6 +23,8 @@ jobs:
         run: npm run build
       - name: Smoke test public routes and optimized images
         run: npm run test:smoke
+      - name: One-time licensed portrait asset export
+        run: node scripts/export-civic-thumbnails.mjs
       - name: Check critical production dependency advisories
         run: npm audit --omit=dev --audit-level=critical
 
