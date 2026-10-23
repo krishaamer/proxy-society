@@ -11,7 +11,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       alternates: {
         languages: {
           en: `https://proxysociety.org/projects/${slug}`,
-          "zh-Hant-TW": `https://proxysociety.org/zh-tw/projects/${slug}`
+          "zh-Hant-TW": `https://proxysociety.org/zh-tw/projects/${slug}`,
+          ...(slug === "chickens-no-cages" ? { et: "https://proxysociety.org/et/projects/chickens-no-cages" } : {})
         }
       }
     },
@@ -23,10 +24,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       alternates: {
         languages: {
           en: `https://proxysociety.org/projects/${slug}`,
-          "zh-Hant-TW": `https://proxysociety.org/zh-tw/projects/${slug}`
+          "zh-Hant-TW": `https://proxysociety.org/zh-tw/projects/${slug}`,
+          ...(slug === "chickens-no-cages" ? { et: "https://proxysociety.org/et/projects/chickens-no-cages" } : {})
         }
       }
-    }
+    },
+    ...(slug === "chickens-no-cages" ? [{
+      url: "https://proxysociety.org/et/projects/chickens-no-cages",
+      lastModified: new Date("2026-10-23"),
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+      alternates: {
+        languages: {
+          et: "https://proxysociety.org/et/projects/chickens-no-cages",
+          en: "https://proxysociety.org/projects/chickens-no-cages",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages"
+        }
+      }
+    }] : [])
   ]);
 
   return [
@@ -110,7 +125,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       alternates: {
         languages: {
           en: "https://proxysociety.org/projects/chickens-no-cages/rights",
-          "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights"
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights",
+          et: "https://proxysociety.org/et/projects/chickens-no-cages/rights"
         }
       }
     },
@@ -121,6 +137,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
       alternates: {
         languages: {
+          en: "https://proxysociety.org/projects/chickens-no-cages/rights",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights",
+          et: "https://proxysociety.org/et/projects/chickens-no-cages/rights"
+        }
+      }
+    },
+    {
+      url: "https://proxysociety.org/et/projects/chickens-no-cages/rights",
+      lastModified: new Date("2026-10-23"),
+      changeFrequency: "yearly",
+      priority: 0.5,
+      alternates: {
+        languages: {
+          et: "https://proxysociety.org/et/projects/chickens-no-cages/rights",
           en: "https://proxysociety.org/projects/chickens-no-cages/rights",
           "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights"
         }
