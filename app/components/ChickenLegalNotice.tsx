@@ -59,7 +59,7 @@ const copy = {
 
 const links = [
   { label: "GDPR, Regulation (EU) 2016/679", url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng" },
-  { label: "Estonian Personal Data Protection Act", url: "https://www.riigiteataja.ee/en/akt/519032026002" },
+  { label: "Estonian Personal Data Protection Act (in force 1 October 2026, authentic Estonian text)", url: "https://www.riigiteataja.ee/akt/130062026052" },
   { label: "Estonian Copyright Act §19", url: "https://www.riigiteataja.ee/akt/128122021003" },
   { label: "Data Protection Inspectorate", url: "https://www.aki.ee/isikuandmed/kkk/ajakirjandus" },
   { label: "Riigikogu Photo Archive conditions", url: "https://www.riigikogu.ee/en/conditions-use-riigikogu-photo-archive/" },
