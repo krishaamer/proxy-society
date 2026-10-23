@@ -350,7 +350,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
         <a href={locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
       </div>
 
-      <div className={styles.stats} aria-label={t.coverage}>
+      <div className={styles.stats} role="group" aria-label={t.coverage}>
         {[
           [counts.members, t.metrics.members],
           [counts.profiles, t.metrics.profiles],
