@@ -1,6 +1,7 @@
 import styles from "./Projects.module.css";
 import ChickenOutreachTracker from "./ChickenOutreachTracker";
-import { getProject, getProjects, type ProjectLocale } from "../projects-data";
+import { getProject, getProjects } from "../projects-data";
+import { civicLanguageRoutes, estonianChickensProject, type CivicLocale } from "../chicken-locales";
 
 const labels = {
   en: {
@@ -36,13 +37,33 @@ const labels = {
     previous: "上一個",
     next: "下一個",
     contactLabel: "聯絡"
+  },
+  et: {
+    home: "/",
+    index: "/projects",
+    otherPrefix: "/projects",
+    otherLabel: "EN",
+    contact: "/contact",
+    back: "Kõik projektid (EN)",
+    intent: "Inimese soov",
+    action: "Süsteemi / agendi tegevus",
+    boundary: "Põhimõtteline piir",
+    evidence: "Kontrollitavad tõendid",
+    question: "Proxy Society uurimisküsimus",
+    status: "Praegune seis",
+    previous: "Eelmine",
+    next: "Järgmine",
+    contactLabel: "Kontakt"
   }
 } as const;
 
-export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocale; slug: string }) {
+export default function ProjectCasePage({ locale, slug }: { locale: CivicLocale; slug: string }) {
   const t = labels[locale];
-  const projects = getProjects(locale);
-  const project = getProject(slug, locale);
+  const fallbackLocale = locale === "et" ? "en" : locale;
+  const projects = getProjects(fallbackLocale);
+  const project = locale === "et" && slug === "chickens-no-cages"
+    ? estonianChickensProject
+    : getProject(slug, fallbackLocale);
   if (!project) return null;
 
   const index = projects.findIndex((item) => item.slug === slug);
@@ -50,7 +71,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocal
   const next = index < projects.length - 1 ? projects[index + 1] : projects[0];
 
   return (
-    <main className={styles.page} lang={locale === "zh-TW" ? "zh-Hant-TW" : "en"}>
+    <main className={styles.page} lang={locale === "zh-TW" ? "zh-Hant-TW" : locale}>
       <div className="ambient-grid" aria-hidden="true" />
       <header className="site-header shell">
         <a className="wordmark" href={t.home} >
@@ -62,7 +83,28 @@ export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocal
         </a>
         <nav aria-label="Primary navigation">
           <a href={t.index}>{t.back}</a>
-          <a className="locale-switch" href={`${t.otherPrefix}/${project.slug}`}>{t.otherLabel}</a>
+          {slug === "chickens-no-cages" ? (
+            <>
+              {([
+                { code: "et", label: "ET", lang: "et" },
+                { code: "en", label: "EN", lang: "en" },
+                { code: "zh-TW", label: "繁中", lang: "zh-Hant-TW" }
+              ] as const).filter((option) => option.code !== locale).map((option) => (
+                <a
+                  key={option.code}
+                  className="locale-switch"
+                  href={civicLanguageRoutes[option.code]}
+                  hrefLang={option.lang}
+                  lang={option.lang}
+                  aria-label={`Read this case in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
+                >
+                  {option.label}
+                </a>
+              ))}
+            </>
+          ) : (
+            <a className="locale-switch" href={`${t.otherPrefix}/${project.slug}`}>{t.otherLabel}</a>
+          )}
           <a className="nav-cta" href={t.contact}>{t.contactLabel}</a>
         </nav>
       </header>
@@ -80,7 +122,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocal
             {slug === "chickens-no-cages" && (
               <div className={styles.linkRow}>
                 <a className="button primary" href="#outreach">
-                  {locale === "zh-TW" ? "查看公開追蹤紀錄 ↓" : "Explore the public tracker ↓"}
+                  {locale === "zh-TW" ? "查看公開追蹤紀錄 ↓" : locale === "et" ? "Vaata avalikku registrit ↓" : "Explore the public tracker ↓"}
                 </a>
               </div>
             )}
@@ -142,15 +184,21 @@ export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocal
           </aside>
         </div>
 
-        <nav className={styles.caseNav} aria-label="Project cases">
-          <a href={`${t.index}/${previous.slug}`}>← {t.previous}: {previous.name}</a>
-          <a href={`${t.index}/${next.slug}`}>{t.next}: {next.name} →</a>
+        <nav className={styles.caseNav} aria-label={locale === "et" ? "Projektide vahel liikumine" : "Project cases"}>
+          {locale === "et" ? (
+            <a href="/projects">← Teised projektid inglise keeles</a>
+          ) : (
+            <>
+              <a href={`${t.index}/${previous.slug}`}>← {t.previous}: {previous.name}</a>
+              <a href={`${t.index}/${next.slug}`}>{t.next}: {next.name} →</a>
+            </>
+          )}
         </nav>
       </section>
 
       <footer className="site-footer shell">
         <span>© 2026 PROXY SOCIETY MTÜ</span>
-        <span>FIELD SYSTEM {project.number} / 11</span>
+        <span>{locale === "et" ? "JUHTUM" : "FIELD SYSTEM"} {project.number} / 11</span>
         <a href="mailto:hello@proxysociety.org">hello@proxysociety.org</a>
       </footer>
     </main>
