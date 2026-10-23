@@ -645,3 +645,12 @@
   .rightsRibbon { flex-direction: column; align-items: flex-start; }
   .portraitImage { width: 91px; height: 97px; }
 }
+
+/* Attribution includes the publication title, author when given, and source. */
+.citationTitle {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.55;
+  margin: 7px 0 9px;
+}
+.citationTitle cite { font-style: italic; }
