@@ -27,4 +27,11 @@ Content boundaries:
 - Private email content and contact metadata are not website content.
 - The snapshot is explicitly dated; site wording must not imply that it reads government or Gmail state in real time.
 
+
+## Privacy and source notice incorporated
+
+The bilingual interface prominently links the separate legal/source notice (`app/components/ChickenLegalNotice.tsx`), identifies Proxy Society MTÜ as publisher and controller, provides a correction contact, discloses limits of Article 6/9/85 and Estonia's IKS §4, and avoids portraying a URL as blanket copyright permission. Three source-licensed photographs are accompanied by author, Commons file, CC licence and modification notes. Every featured MP quotation now names the originating publication as well as linking the dated original.
+
+[Website rights page](https://proxysociety.org/projects/chickens-no-cages/rights) · [Rights-cleared photograph manifest](../../app/chicken-portrait-rights.ts) · [Legal review and remaining counsel questions](../../research/chickens-no-cages/legal-and-photo-review.md).
+
 [Research and source notes](../../research/chickens-no-cages/README.md)
