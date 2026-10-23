@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Image from "next/image";
 import {
   chickenMembers,
   chickenMembershipAudit,
@@ -9,6 +10,7 @@ import {
   type ChickenMember,
 } from "../chicken-outreach-data";
 import type { ProjectLocale } from "../projects-data";
+import { civicPortraits } from "../chicken-portrait-rights";
 import styles from "./ChickenOutreachTracker.module.css";
 
 type EvidenceFilter = "all" | "quote" | "action" | "unknown";
@@ -81,6 +83,12 @@ const text = {
     replyCaution: "The reply has not been published here. Private correspondence is reviewed before quotation.",
     empty: "No members match those filters.",
     reset: "Clear filters",
+    portraitPhoto: "Licensed photograph",
+    portraitSource: "Image source ↗",
+    portraitNotEndorse: "Portrait used for identification only; no endorsement implied.",
+    noClearedPhoto: "Photo omitted pending rights verification.",
+    complianceNote: "This is proportionate, source-linked public-interest documentation, not a political score. Publicly available does not mean copyright-free or exempt from data protection.",
+    rightsAndSources: "Privacy, rights and image credits ↗",
     methodology: "How to read this register",
     methods:
       "A quotation must be individually attributable, dated and linked to its source. Bill sponsorship, committee office, debate participation and responses are different types of evidence. Silence is never labeled opposition. Prepared or unsent drafts are not outreach. A public response appears only after verification and an editorial review.",
@@ -161,6 +169,12 @@ const text = {
     replyCaution: "回覆內容尚未公開；私人通信須先經查核與編輯審視。",
     empty: "沒有符合目前篩選條件的議員。",
     reset: "清除篩選",
+    portraitPhoto: "已授權的照片",
+    portraitSource: "照片原始資料 ↗",
+    portraitNotEndorse: "照片僅用來辨識人物，不代表當事人支持本計畫。",
+    noClearedPhoto: "照片尚未完成授權確認，因此暫不使用。",
+    complianceNote: "本頁記錄涉及公共利益的議會活動，不對政治立場評分。每筆資料都有來源與日期。公開可見不代表自動免除著作權或個資保護義務。",
+    rightsAndSources: "個資、使用權利與照片來源 ↗",
     methodology: "閱讀這份紀錄的原則",
     methods:
       "引言須明確出自本人，並記錄日期及來源。提案連署、委員會職務、議場發言與通信回覆是不同類型的證據；未回覆不等於反對。尚未寄出的草稿不算聯繫。公開回覆前必須核實並審視可公開的內容。",
@@ -314,6 +328,11 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
         </aside>
       </div>
 
+      <div className={styles.rightsRibbon}>
+        <p>{t.complianceNote}</p>
+        <a href={locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
+      </div>
+
       <div className={styles.stats} aria-label={t.coverage}>
         {[
           [counts.members, t.metrics.members],
@@ -399,6 +418,20 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                 <div className={styles.quoteHead}>
                   <strong>{member.name}</strong><time dateTime={quote.date}>{quote.date}</time>
                 </div>
+                {civicPortraits[member.name] ? (
+                  <figure className={styles.portrait}>
+                    <Image src={civicPortraits[member.name].src} alt={"Portrait of " + member.name} width={120} height={126} className={styles.portraitImage} />
+                    <figcaption>
+                      <span>{t.portraitPhoto}: {civicPortraits[member.name].attribution}</span>
+                      <span>
+                        <a href={civicPortraits[member.name].originalFile} target="_blank" rel="noreferrer">{t.portraitSource}</a>
+                        {" · "}
+                        <a href={civicPortraits[member.name].licenseUrl} target="_blank" rel="noreferrer">{civicPortraits[member.name].license}</a>
+                      </span>
+                      <small>{t.portraitNotEndorse}</small>
+                    </figcaption>
+                  </figure>
+                ) : <p className={styles.noImageNotice}>{t.noClearedPhoto}</p>}
                 <p className={styles.languageNote}>{t.originalLanguage}</p>
                 <blockquote lang="et">“{quote.text}”</blockquote>
                 <a href={quote.source} target="_blank" rel="noreferrer">{t.source}</a>
@@ -476,6 +509,20 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                   </summary>
                   <div className={styles.entryBody}>
                     <div>
+                        {civicPortraits[member.name] ? (
+                          <figure className={styles.portrait}>
+                            <Image src={civicPortraits[member.name].src} alt={"Portrait of " + member.name} width={120} height={126} className={styles.portraitImage} />
+                            <figcaption>
+                              <span>{t.portraitPhoto}: {civicPortraits[member.name].attribution}</span>
+                              <span>
+                                <a href={civicPortraits[member.name].originalFile} target="_blank" rel="noreferrer">{t.portraitSource}</a>
+                                {" · "}
+                                <a href={civicPortraits[member.name].licenseUrl} target="_blank" rel="noreferrer">{civicPortraits[member.name].license}</a>
+                              </span>
+                              <small>{t.portraitNotEndorse}</small>
+                            </figcaption>
+                          </figure>
+                        ) : null}
                       {member.quote ? (
                         <div className={styles.recordQuote}>
                           <span>{t.originalLanguage} / {member.quote.date}</span>
@@ -529,6 +576,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
         </div>
         <div className={styles.methodLinks}>
           <a href="https://github.com/krishaamer/proxy-society/blob/main/app/chicken-outreach-data.ts" target="_blank" rel="noreferrer">{t.sourceCode}</a>
+          <a href={locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
           <a href="mailto:hello@proxysociety.org?subject=Chickens%2C%20No%20Cages%20-%20source%20correction">{t.correct}</a>
           <span>{t.snapshotLabel}: {chickenOutreachSnapshot}</span>
           <span>MP / {chickenMembershipAudit}</span>
