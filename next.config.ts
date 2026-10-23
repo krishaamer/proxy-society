@@ -2,20 +2,9 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    // Only previously cleared Commons image paths can reach the optimizer.
-    // Broader wildcard Wikimedia sources create avoidable attack surface.
-    remotePatterns: [
-      { protocol: "https", hostname: "upload.wikimedia.org", pathname: "/wikipedia/commons/thumb/1/13/**", search: "" },
-      { protocol: "https", hostname: "upload.wikimedia.org", pathname: "/wikipedia/commons/thumb/9/9c/**", search: "" },
-      { protocol: "https", hostname: "upload.wikimedia.org", pathname: "/wikipedia/commons/thumb/4/46/**", search: "" }
-    ],
-    // The 105px images need only small 1x/2x derivatives.
-    deviceSizes: [640, 750, 1080, 1920],
-    imageSizes: [64, 96, 128, 256],
-    qualities: [60],
-    formats: ["image/webp"],
-    minimumCacheTTL: 86400,
-    maximumRedirects: 0,
+    // Civic portraits ship as tiny first-party WebP assets in public/portraits.
+    // No remote host is authorized for on-demand image proxying.
+    remotePatterns: [],
     dangerouslyAllowSVG: false
   },
   async headers() {
