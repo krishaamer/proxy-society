@@ -51,7 +51,7 @@ async function main() {
       if (!path.endsWith("/rights")) {
         assert.equal(await page.locator("details").count(), 12, "12 entry initial paging");
         const field = page.getByRole("searchbox");
-        await field.fill("Urmas");
+        await field.fill("Kruuse");
         assert.equal(await page.locator("details").count(), 1, "Search filters all 101 records");
         await field.fill("");
         await page.locator("details summary").first().click();
