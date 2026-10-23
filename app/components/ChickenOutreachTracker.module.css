@@ -572,3 +572,76 @@
   .stat { min-height: 118px; }
   .legend { gap: 12px; flex-direction: column; }
 }
+
+
+/* Public source, privacy, and image-license disclosure */
+.rightsRibbon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px 32px;
+  padding: 14px 18px;
+  margin: 0 0 24px;
+  border: 1px solid rgba(99,245,209,.3);
+  background: rgba(99,245,209,.035);
+}
+.rightsRibbon p {
+  max-width: 850px;
+  margin: 0;
+  color: #dfdce8;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.rightsRibbon a {
+  color: var(--cyan);
+  flex: 0 0 auto;
+  font: 750 10px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
+  text-underline-offset: 4px;
+}
+.portrait {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  margin: 4px 0 13px;
+  min-height: 115px;
+}
+.portraitImage {
+  background: rgba(255,255,255,.04);
+  border: 1px solid var(--line-strong);
+  width: 105px;
+  height: 110px;
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+.portrait figcaption {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.38;
+  min-width: 0;
+}
+.portrait figcaption > span:first-child {
+  color: #e3deed;
+}
+.portrait figcaption a {
+  color: var(--cyan);
+  text-underline-offset: 3px;
+  font-size: 11px;
+}
+.portrait figcaption small {
+  color: var(--faint);
+  font-size: 10px;
+  line-height: 1.4;
+}
+.noImageNotice {
+  margin: 2px 0 12px;
+  color: var(--faint);
+  font-size: 11px;
+  line-height: 1.4;
+}
+@media (max-width: 740px) {
+  .rightsRibbon { flex-direction: column; align-items: flex-start; }
+  .portraitImage { width: 91px; height: 97px; }
+}
