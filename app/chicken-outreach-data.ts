@@ -23,6 +23,9 @@ export type ChickenQuote = {
   text: string;
   date: string;
   source: string;
+  sourceTitle: string;
+  sourcePublisher: string;
+  sourceAuthor?: string;
   context: string;
 };
 export type ChickenMember = {
@@ -124,6 +127,8 @@ export const chickenMembers: ChickenMember[] = [
       "text": "Sektori jaoks oleks see äärmiselt keeruline",
       "date": "2024-06-13",
       "source": "https://www.riigikogu.ee/pressiteated/maaelukomisjon-kanade-puurispidamise-lopetamist-on-vaja-suvitsi-analuusida/",
+      "sourceTitle": "Maaelukomisjon: kanade puurispidamise lõpetamist on vaja süvitsi analüüsida",
+      "sourcePublisher": "Riigikogu",
       "context": "His remark explicitly concerned a proposed 4-5-year transition, NOT the later 2035 deadline"
     },
     "actions": [],
@@ -322,6 +327,9 @@ export const chickenMembers: ChickenMember[] = [
       "text": "Valitsuse eelnõu toppab juba möödunud aasta sügisest saati ja pole isegi riigikogusse jõudnud.",
       "date": "2026-05-21",
       "source": "https://www.sotsid.ee/sotsiaaldemokraadid-kusivad-peaministrilt-miks-valitsus-ei-liigu-edasi-kanade-puurispidamise-lopetamise-eelnouga/",
+      "sourceTitle": "Sotsiaaldemokraadid küsivad peaministrilt: miks valitsus ei liigu edasi kanade puurispidamise lõpetamise eelnõuga?",
+      "sourcePublisher": "Sotsiaaldemokraadid",
+      "sourceAuthor": "Ann-Marii Nergi",
       "context": "Directly attributed in party-published statement; describes government draft delay as of May 2026; does not establish exact current committee stage or current position"
     },
     "actions": [
@@ -631,6 +639,8 @@ export const chickenMembers: ChickenMember[] = [
       "text": "Seetõttu ei pea me praeguses olukorras vajalikuks täiendavat seadusandlikku sekkumist, vaid toetame jätkuvat dialoogi ja koostööd.",
       "date": "2025-11-10",
       "source": "https://www.riigikogu.ee/pressiteated/maaelukomisjon-arutas-eesti-pollumajandus-kaubanduskoja-poordumist-valitsuse-ja-maaelukomisjoni-poole/",
+      "sourceTitle": "Maaelukomisjon arutas Eesti Põllumajandus-Kaubanduskoja pöördumist valitsuse ja maaelukomisjoni poole",
+      "sourcePublisher": "Riigikogu",
       "context": "Spoken as Rural Affairs Committee chair, summarising committee position in 2025, NOT automatically his present individual 2026 vote"
     },
     "actions": [
@@ -814,6 +824,8 @@ export const chickenMembers: ChickenMember[] = [
       "text": "Aeg on ammu küps viia see hea tahe ja kümnete tuhandete inimeste soov ka seadusesse",
       "date": "2026-02-19",
       "source": "https://www.riigikogu.ee/pressiteated/18-riigikogu-liiget-esitas-eeln-u-kanade-puurispidamise-keelustamiseks/",
+      "sourceTitle": "18 riigikogu liiget esitas eelnõu kanade puurispidamise keelustamiseks",
+      "sourcePublisher": "Riigikogu",
       "context": "Direct public statement urging the cage-ban commitment to become legislation"
     },
     "actions": [
