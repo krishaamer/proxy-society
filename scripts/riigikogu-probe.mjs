@@ -36,3 +36,16 @@ for (let v of verbal) {
        console.log("CAGE_ITEM",JSON.stringify({date:item.date,title:item.title,agendaItemUuid:item.agendaItemUuid,speakers:(item.events||[]).filter(x=>x.type==="SPEECH").map(x=>({speaker:x.speaker,date:x.date,text:x.text?.slice(0,150),link:x.link}))}).slice(0,11000));
   }
 }
+
+for(const [a,b] of [["2026-10-01","2026-10-22"],["2026-05-01","2026-05-31"]]){
+ const url="https://api.riigikogu.ee/api/steno/verbatims?startDate="+a+"&endDate="+b+"&lang=ET";
+ try{
+  const resp=await fetch(url,{signal:AbortSignal.timeout(60000)});
+  const bytes=Buffer.from(await resp.arrayBuffer());
+  let json;
+  try{json=JSON.parse(bytes.toString("utf8"))}catch{}
+  let evs=(json||[]).flatMap(v=>(v.agendaItems||[]).flatMap(i=>(i.events||[]).filter(e=>e.type==="SPEECH")));
+  console.log("MONTH",a,b,"status",resp.status,"bytes",bytes.length,"sittings",json?.length,"speeches",evs.length,"unique",new Set(evs.map(e=>e.speaker)).size,"sample",evs[0]?.speaker);
+ }catch(e){console.log("MONTHERROR",a,String(e))}
+ await new Promise(r=>setTimeout(r,1200));
+}
