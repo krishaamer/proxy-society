@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint .",
     "test:smoke": "node scripts/smoke-civic.mjs",
-    "test:a11y": "node scripts/a11y-civic.mjs"
+    "test:a11y": "node scripts/a11y-civic.mjs",
+    "test:research": "node scripts/validate-chicken-citations.mjs"
   },
   "dependencies": {
     "next": "16.4.2",
