@@ -1,5 +1,5 @@
 import { civicPortraits } from "../chicken-portrait-rights";
-import type { ProjectLocale } from "../projects-data";
+import type { CivicLocale } from "../chicken-locales";
 import styles from "./ChickenLegalNotice.module.css";
 
 const copy = {
@@ -29,6 +29,39 @@ const copy = {
     references: "Statutes and guidance",
     disclaimer: "This notice explains the project's practices; it is not a legal certification or a guarantee against liability. Publication of a public record remains subject to its facts, copyright and applicable data-protection law. No affiliation with Parliament, Wikimedia Commons, photographed MPs or photographers is implied."
   },
+  et: {
+    back: "Tagasi projekti juurde",
+    home: "/et/projects/chickens-no-cages#outreach",
+    alternative: "/projects/chickens-no-cages/rights",
+    alternativeLabel: "EN",
+    title: "Allikad, isikuandmed ja fotode kasutusõigused",
+    lead: "Selgitame, mida avaldame, kust andmed pärinevad, kes nende töötlemise eest vastutab ja kuidas saab taotleda parandust.",
+    updated: "Üle vaadatud 23.10.2026",
+    items: [
+      ["Avaldaja ja vastutav töötleja",
+        "Selle avaliku registri avaldaja ja isikuandmete vastutav töötleja on Eesti mittetulundusühing Proxy Society MTÜ (registrikood 80679069). Registrijärgne aadress: Jahu tn 14-219, 10415 Tallinn, Eesti. Kontakt: hello@proxysociety.org."],
+      ["Avalik huvi ja andmete päritolu",
+        "Register käsitleb munakanade puurispidamise üle peetavat avalikku seadusandlikku arutelu. Saadikute nimed, ametikohad, neile omistatavad sõnavõtud, menetlustoimingud ja allikad pärinevad avalikest Riigikogu dokumentidest, stenogrammidest ning avalikult avaldatud ütlustest. Iga 101 saadiku kohta leidub ka viitega lühike avaliku sõnavõtu katkend. Paljud neist puudutavad muid teemasid ning on sellisena märgistatud; neid ei kasutata järelduste tegemiseks saadiku seisukoha kohta puurispidamise küsimuses. Ka nende kõrvaliste andmete avaldamise vajalikkust tuleb jätkuvalt hinnata. Kuvame üksnes eraldi kontrollitud kasutusõigusega portreefotosid. Meie endi kinnitatud kirja saatmise või vastuse saabumise fakt on eraldi tegevusandmestik, mitte tõend saadiku seisukoha kohta. Me ei avalda saatmata kirju, erakirjavahetust, koduaadresse, isikukoode, terviseandmeid ega muid eraelu puudutavaid andmeid. Register pole Riigikogu ametlik teenus ega poliitikute pingerida."],
+      ["Isikuandmete kaitse üldmäärus ja Eesti õigus",
+        "Avaliku ülesande ja ametitegevusega seotud tavaliste isikuandmete töötlemisel on kavandatav õiguslik alus isikuandmete kaitse üldmääruse (IKÜM, GDPR) artikli 6 lõike 1 punkt f: õigustatud huvi proportsionaalseks avalikes huvides teadustööks ja kodanikuteavituseks. See eeldab töötlemise vajalikkuse ja andmesubjekti õiguste tegelikku kaalumist. Poliitilised vaated võivad olla eriliigilised isikuandmed IKÜM artikli 9 tähenduses ning vajavad eraldi töötlemistingimust. Artikli 9 lõike 2 punkt e võib kohalduda seisukohtadele, mille inimene on ise ilmselgelt avalikustanud. Kui seaduses sätestatud tingimused on täidetud, võivad asjakohased olla ka IKÜM artikkel 85 ja Eesti isikuandmete kaitse seaduse § 4, sealhulgas ajakirjanduseetika ja liigse kahjustamise vältimise nõuded. Ükski neist sätetest ei ole automaatne üldluba kogu internetis kättesaadava teabe taasavaldamiseks."],
+      ["Tsitaatide täpsus ja proportsionaalsus",
+        "Avaldame lühikesi algkeelseid tsitaate koos kuupäeva, allikaviite ja omistamise selgitusega. Eraldi tuleb hoida saadiku isiklik ütlus, komisjoni ühine hinnang, eelnõu algatamine, istungil sõna võtmine, hääletamine ja meie kirjale vastamata jätmine. Ükski neist ei näita automaatselt inimese praegust seisukohta eelnõu kõigi sätete suhtes. Me ei järelda poliitilisi vaateid muuteemalisest jutust, ei koosta poliitilisi reitinguid ega omista inimestele oletatud motiive. Varasemad sõnavõtud on kuupäevastatud. Tuvastatud olulised vead parandatakse ning vaidlusalune kirje võidakse asjaolude kontrollimise ajaks peita."],
+      ["Autoriõigus ja portreefotod",
+        "Autoriõiguse seaduse § 19 näeb ette kindlatel tingimustel avaldatud teoste proportsionaalse tsiteerimise või refereerimise koos nõuetekohase viitamisega. See ei tähenda üldist õigust ajakirjanduslikke tekste või fotosid vabalt kopeerida. Fotode avaldamiseks on vaja eraldi sobivat kasutusluba või seaduslikku erandit. Kolme kasutatava Wikimedia Commonsi foto juures on viide originaalfailile, autorile, litsentsile ja tehnilistele muudatustele. Foto näitab avalikus ametis olevat inimest, kuid ei tähenda tema toetust sellele projektile. Riigikogu fotoarhiivi tingimused lubavad teatavat viitega mitteärilist ja muutmata kujul kasutust. Neid tingimusi ei saa automaatselt laiendada kõigile Riigikogu veebis olevatele fotodele."],
+      ["Säilitamine ja andmesubjekti õigused",
+        "Register on kuupäevastatud väljavõte, mitte reaalajas andmebaas. Hindame vähemalt kord aastas ning uute oluliste asjaolude ilmnemisel andmete täpsust, vajalikkust ja avalikku huvi. Säilitame andmeid üksnes seni, kuni selleks on õigustatud ja proportsionaalne avaliku huvi eesmärk. Kampaania lõppedes hindame eraldi kirjavahetuse staatuse säilitamise vajadust. Andmesubjektil võib seaduse järgi olla õigus saada andmetega tutvuda, nõuda parandamist, kustutamist või töötlemise piiramist ning esitada vastuväide. Palume saata vastav kiri aadressil hello@proxysociety.org, lisades kirje lingi ja põhjenduse. Vastame üldjuhul ühe kuu jooksul, arvestades seaduslikke erandeid ja vajaduse korral proportsionaalset isiku tuvastamist. Andmekaitsealase vaidluse puhul võib pöörduda Andmekaitse Inspektsiooni poole aadressil aki.ee. Autoriõiguse valdaja saab paluda konkreetse foto või tsitaadi kasutamise ülevaatamist."],
+      ["Veebimajutus ja andmeedastus",
+        "Veebilehte majutab Vercel, kelle taristu võib töödelda tehnilisi päringuandmeid (näiteks IP-aadresse ja serveriloge) ka rahvusvaheliselt. Verceli privaatsustingimused ja andmetöötluse kokkulepe on allpool viidatud. Register ei kasuta sihitud reklaami ega koosta külastajate või saadikute automaatseid profiile. Kolm CC-litsentsiga fotot on salvestatud umbes 256 piksli suuruste WebP-piltidena veebilehe enda CDN-is; lehe avamisel ei laadita neid otse Wikimedia serverist. Originaalfaili või litsentsi lingil klõpsates avaneb väline veebileht. Avalik register ei ühendu Gmaili mustandite ega privaatsete uurimisfailidega."]
+    ],
+    photosTitle: "Fotode autorid ja kasutusload",
+    photoIntro: "Fotod on üksnes isikute tuvastamiseks. Foto tegemise kuupäev ei ole seotud selle kõrval esitatud Riigikogu sõnavõtu kuupäevaga. Igal fotol on oma kasutuslitsents ning autoriõigus jääb õiguste valdajale.",
+    creator: "Autor ja allikas",
+    changes: "Pildi töötlemine",
+    original: "Originaalfail ja autoriandmed ↗",
+    license: "Litsentsitingimused ↗",
+    references: "Õigusaktid ja ametlikud juhised",
+    disclaimer: "See teave kirjeldab projekti toimetamis- ja andmekäitluspõhimõtteid, kuid ei ole õiguslik kinnitus ega välista võimalikke nõudeid. Avaliku huvi, isikuandmete kaitse ja autoriõiguse norme tuleb iga avaldamise puhul eraldi hinnata. Projekt ei esinda Riigikogu, Wikimedia Commonsit, fotograafe ega piltidel kujutatud saadikuid."
+  },
   "zh-TW": {
     back: "返回 Chickens, No Cages",
     home: "/zh-tw/projects/chickens-no-cages#outreach",
@@ -57,6 +90,21 @@ const copy = {
   }
 } as const;
 
+const estonianPhotoCredits: Record<string, { credit: string; changes: string }> = {
+  "Arvo Aller": {
+    credit: "Foto: Ilja Smirnov / Eesti Kultuuriministeerium. Wikimedia Commonsi kasutaja Karljohan29 lõikas algsest litsentsitud fotost väljavõtte.",
+    changes: "Commonsis tehtud väljalõige; Proxy Society teisendas faili tehniliselt umbes 256 piksli laiuseks WebP-pildiks. Rohkem kärpimist ega retušeerimist ei tehtud."
+  },
+  "Urmas Kruuse": {
+    credit: "Foto: Renee Altrov / Riigikantselei. Wikimedia VRT luba nr 2021033010001343.",
+    changes: "Tehniline teisendamine umbes 256 piksli laiuseks WebP-pildiks; muud kärpimist ega retušeerimist ei tehtud. Litsents CC BY-SA 4.0 jääb kehtima."
+  },
+  "Züleyxa Izmailova": {
+    credit: "Foto: Sillerkiil, Arvamusfestival 2021.",
+    changes: "Tehniline teisendamine umbes 256 piksli laiuseks WebP-pildiks; muud kärpimist ega retušeerimist ei tehtud. Litsents CC BY-SA 4.0 jääb kehtima."
+  }
+};
+
 const links = [
   { label: "GDPR, Regulation (EU) 2016/679", url: "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng" },
   { label: "Estonian Personal Data Protection Act (in force 1 October 2026, authentic Estonian text)", url: "https://www.riigiteataja.ee/akt/130062026052" },
@@ -68,24 +116,39 @@ const links = [
   { label: "Public civic dataset", url: "https://github.com/krishaamer/proxy-society/blob/main/app/chicken-outreach-data.ts" }
 ];
 
-export default function ChickenLegalNotice({ locale }: { locale: ProjectLocale }) {
+export default function ChickenLegalNotice({ locale }: { locale: CivicLocale }) {
   const t = copy[locale];
   return (
-    <main className={styles.page} lang={locale === "en" ? "en" : "zh-Hant-TW"}>
+    <main className={styles.page} lang={locale === "zh-TW" ? "zh-Hant-TW" : locale}>
       <div className="ambient-grid" aria-hidden="true" />
       <header className="site-header shell">
-        <a className="wordmark" href={locale === "en" ? "/" : "/zh-tw"} >
+        <a className="wordmark" href={locale === "zh-TW" ? "/zh-tw" : "/"} >
           <span className="mark" aria-hidden="true">P/S</span>
           <span className="wordmark-copy"><strong>PROXY SOCIETY</strong><small>HUMAN / AGENT / SOCIETY</small></span>
         </a>
         <nav aria-label="Primary navigation">
           <a href={t.home}>{t.back}</a>
-          <a className="locale-switch" href={t.alternative}>{t.alternativeLabel}</a>
-          <a className="nav-cta" href="mailto:hello@proxysociety.org">Contact</a>
+          {([
+            { code: "et", label: "ET", lang: "et", href: "/et/projects/chickens-no-cages/rights" },
+            { code: "en", label: "EN", lang: "en", href: "/projects/chickens-no-cages/rights" },
+            { code: "zh-TW", label: "繁中", lang: "zh-Hant-TW", href: "/zh-tw/projects/chickens-no-cages/rights" }
+          ] as const).filter((option) => option.code !== locale).map((option) => (
+            <a
+              key={option.code}
+              className="locale-switch"
+              href={option.href}
+              hrefLang={option.lang}
+              lang={option.lang}
+              aria-label={`Read these terms in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
+            >
+              {option.label}
+            </a>
+          ))}
+          <a className="nav-cta" href="mailto:hello@proxysociety.org">{locale === "et" ? "Kontakt" : "Contact"}</a>
         </nav>
       </header>
       <article className={styles.content + " shell"}>
-        <div className={styles.meta}><span>PUBLIC RECORD / LEGAL INFORMATION</span><span>{t.updated}</span></div>
+        <div className={styles.meta}><span>{locale === "et" ? "AVALIK REGISTER / ÕIGUSTEAVE" : "PUBLIC RECORD / LEGAL INFORMATION"}</span><span>{t.updated}</span></div>
         <h1>{t.title}</h1>
         <p className={styles.lead}>{t.lead}</p>
         <a className={styles.email} href="mailto:hello@proxysociety.org">hello@proxysociety.org ↗</a>
@@ -104,13 +167,13 @@ export default function ChickenLegalNotice({ locale }: { locale: ProjectLocale }
               {Object.values(civicPortraits).map((photo) => (
                 <div className={styles.photo} key={photo.person}>
                   <h3>{photo.person}</h3>
-                  <p>{t.creator}: {photo.creditDetails}</p>
-                  <p>{t.changes}: {photo.editNote}</p>
+                  <p>{t.creator}: {locale === "et" ? (estonianPhotoCredits[photo.person]?.credit ?? photo.creditDetails) : photo.creditDetails}</p>
+                  <p>{t.changes}: {locale === "et" ? (estonianPhotoCredits[photo.person]?.changes ?? photo.editNote) : photo.editNote}</p>
                   <div className={styles.links}>
                     <a href={photo.originalFile} target="_blank" rel="noreferrer">{t.original}</a>
                     <a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}: {t.license}</a>
                   </div>
-                  <small>{photo.sourceDate} · checked {photo.checkedAt}</small>
+                  <small>{photo.sourceDate} · {locale === "et" ? "kontrollitud" : "checked"} {photo.checkedAt}</small>
                 </div>
               ))}
             </div>
@@ -122,7 +185,16 @@ export default function ChickenLegalNotice({ locale }: { locale: ProjectLocale }
             <h2>{t.references}</h2>
             <ul className={styles.references}>
               {links.map((link) => (
-                <li key={link.url}><a href={link.url} target="_blank" rel="noreferrer">{link.label} ↗</a></li>
+                <li key={link.url}><a href={link.url} target="_blank" rel="noreferrer">{locale === "et" ? ({
+                  "GDPR, Regulation (EU) 2016/679": "Isikuandmete kaitse üldmäärus (IKÜM / GDPR)",
+                  "Estonian Personal Data Protection Act (in force 1 October 2026, authentic Estonian text)": "Isikuandmete kaitse seadus (kehtiv alates 01.10.2026)",
+                  "Estonian Copyright Act §19": "Autoriõiguse seaduse § 19",
+                  "Data Protection Inspectorate": "Andmekaitse Inspektsioon",
+                  "Riigikogu Photo Archive conditions": "Riigikogu fotoarhiivi kasutustingimused",
+                  "Vercel privacy notice": "Verceli privaatsusteade",
+                  "Vercel data processing terms": "Verceli andmetöötlustingimused",
+                  "Public civic dataset": "Avalik andmestik ja muudatuste ajalugu"
+                } as Record<string, string>)[link.label] ?? link.label : link.label} ↗</a></li>
               ))}
             </ul>
             <p className={styles.disclaimer}>{t.disclaimer}</p>
