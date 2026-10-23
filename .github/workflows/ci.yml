@@ -21,6 +21,8 @@ jobs:
         run: npm run lint
       - name: Build
         run: npm run build
+      - name: Validate 101 MP speech records and verified citations
+        run: npm run test:research
       - name: Smoke test public routes and optimized images
         run: npm run test:smoke
       - name: Install Chromium for accessibility audit
