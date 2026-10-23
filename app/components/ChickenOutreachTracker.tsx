@@ -434,6 +434,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                 ) : <p className={styles.noImageNotice}>{t.noClearedPhoto}</p>}
                 <p className={styles.languageNote}>{t.originalLanguage}</p>
                 <blockquote lang="et">“{quote.text}”</blockquote>
+<p className={styles.citationTitle}>{quote.sourcePublisher}{quote.sourceAuthor ? " · " + quote.sourceAuthor : ""}: <cite>{quote.sourceTitle}</cite></p>
                 <a href={quote.source} target="_blank" rel="noreferrer">{t.source}</a>
               </article>
             );
@@ -528,6 +529,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                           <span>{t.originalLanguage} / {member.quote.date}</span>
                           <blockquote lang="et">“{member.quote.text}”</blockquote>
                           <p>{t.scope}: {locale === "zh-TW" ? (quoteContextZh[member.name] ?? member.quote.context) : member.quote.context}</p>
+<p className={styles.citationTitle}>{member.quote.sourcePublisher}{member.quote.sourceAuthor ? " · " + member.quote.sourceAuthor : ""}: <cite>{member.quote.sourceTitle}</cite></p>
                           <a href={member.quote.source} target="_blank" rel="noreferrer">{t.sourceLabel}</a>
                         </div>
                       ) : <p className={styles.muted}>{t.noQuote}</p>}
