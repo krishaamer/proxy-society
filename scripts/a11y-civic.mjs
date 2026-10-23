@@ -44,7 +44,8 @@ async function main() {
   const tags = ["wcag2a", "wcag2aa", "wcag21a", "wcag21aa", "wcag22aa"];
   let failed = 0;
   for (const viewport of [{ width: 1280, height: 900 }, { width: 390, height: 844 }]) {
-    const page = await browser.newPage({ viewport });
+    const context = await browser.newContext({ viewport });
+    const page = await context.newPage();
     for (const path of routes) {
       await page.goto(base + path, { waitUntil: "load" });
       assert.equal(await page.locator("h1").count(), 1, "One primary heading on " + path);
@@ -68,7 +69,7 @@ async function main() {
         console.log(JSON.stringify({ path, viewport, axeViolations: 0, scanned: result.passes.length }));
       }
     }
-    await page.close();
+    await context.close();
   }
   assert.equal(failed, 0, "Axe reported WCAG A/AA violations. See log for failed selectors.");
   console.log("Automated WCAG browser scans passed on 4 routes at 2 viewport sizes.");
