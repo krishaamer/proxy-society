@@ -21,3 +21,8 @@ jobs:
         run: npm run lint
       - name: Build
         run: npm run build
+      - name: Smoke test public routes and optimized images
+        run: npm run test:smoke
+      - name: Check critical production dependency advisories
+        run: npm audit --omit=dev --audit-level=critical
+
