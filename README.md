@@ -30,6 +30,7 @@ This repository is the home for the entire Proxy Society project: the website, r
 | Prepared writing and versions | [writing/README.md](writing/README.md) |
 | First-contact wording | [Architecture research introduction](writing/outreach/architecture-research-introduction.md) |
 | Institutional referral wording | [World architecture referral draft](writing/outreach/world-architecture-referral.md) |
+| Chickens, No Cages | [Public EN tracker](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese tracker](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach) · [101-member public data snapshot](app/chicken-outreach-data.ts) · [Source and publication protocol](research/chickens-no-cages/README.md). Evidence and email-contact outcomes are distinct; 23 Oct 2026 snapshot; no emails sent. |
 | VARI film club | [English film club page](https://proxysociety.org/vari) · [Traditional Chinese page](https://proxysociety.org/zh-tw/vari) · [Program research](research/vari/README.md) · [Website copy record](writing/programmes/vari-film-club.md). Bilingual cultural program in formation; no screening announced. |
 | Website | `app/` and `public/` |
 | Working conventions | [AGENTS.md](AGENTS.md) |
