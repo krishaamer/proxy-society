@@ -2,10 +2,11 @@
 
 **Snapshot:** 23 October 2026  
 **Status:** Published source snapshot in the website code, not a live connection to Gmail or Riigikogu  
-**Page:** [English](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach)
+**Page:** [Eesti](https://proxysociety.org/et/projects/chickens-no-cages#outreach) · [English](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach)
 
 ## Public legal and image rights notice
 
+- [Eesti: Allikad, isikuandmed ja fotode kasutusõigused](https://proxysociety.org/et/projects/chickens-no-cages/rights)
 - [English: Sources, privacy and image rights](https://proxysociety.org/projects/chickens-no-cages/rights)
 - [Traditional Chinese: 資料來源、個資與圖片使用權](https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights)
 - [GDPR, photo clearance and editorial review](legal-and-photo-review.md): case-by-case Article 6 / 9 / 14 considerations, rights handling, source-to-quote checks, copyright and legitimate-interest assessment outline. **Not lawyer-certified; obtain qualified Estonian review before expanding to broader political profiling or public replies.**
