@@ -722,3 +722,9 @@
     animation-duration: 0ms !important;
   }
 }
+
+
+/* Accessible placeholders and mobile navigation link targets. */
+.controls input::placeholder { color: #a8a1b9; }
+.tracker .timeline a,
+.tracker .methodLinks a { min-height: 36px; display: inline-flex; align-items: center; }
