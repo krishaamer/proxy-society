@@ -59,35 +59,38 @@ async function main() {
       const rows = (body.match(/<details\b/g) || []).length;
       assert.equal(rows, 12, path + " limited initial directory entries");
       assert(body.includes("101"), path + " documented coverage");
-      assert(body.includes("upload.wikimedia.org"), path + " correct Commons image host");
+      assert(body.includes("/portraits/urmas-kruuse.webp"), path + " first-party cached portrait");
       assert((body.match(/loading="lazy"/g) || []).length >= 3, path + " lazily loaded portraits");
     }
     results.push({ path, ms, bytes });
   }
 
-  // Warm one first-party optimized image through the local Next image endpoint.
-  // This detects broken remote hostnames and forbidden remote patterns.
-  const source = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Urmas_Kruuse.jpg/330px-Urmas_Kruuse.jpg";
-  const path = "/_next/image?url=" + encodeURIComponent(source) + "&w=128&q=60";
-  let success = false, last = "";
-  for (let attempt = 0; attempt < 2; attempt++) {
-    try {
-      const t = performance.now();
-      const response = await fetch(base + path, { signal: AbortSignal.timeout(25000) });
-      const data = Buffer.from(await response.arrayBuffer());
-      const type = response.headers.get("content-type")||"";
-      last = "status=" + response.status + " type=" + type + " bytes=" + data.length;
-      if (response.ok && type.startsWith("image/") && data.length > 1000 && data.length < 100000) {
-        results.push({ path: "/_next/image (Kruuse, 128px)", ms: Math.round(performance.now() - t), bytes: data.length });
-        success = true;
-        break;
-      }
-    } catch (error) { last = String(error); }
-    await delay(500);
+  // All three CC-licensed photos must be small, locally served WebP files.
+  const portraits = [
+    ["arvo-aller.webp", 12244],
+    ["urmas-kruuse.webp", 2230],
+    ["zuleyxa-izmailova.webp", 5148],
+  ];
+  let totalPhotoBytes = 0;
+  for (const [name, expectedSize] of portraits) {
+    const t = performance.now();
+    const response = await fetch(base + "/portraits/" + name, { signal: AbortSignal.timeout(10000) });
+    const bytes = Buffer.from(await response.arrayBuffer());
+    assert.equal(response.status, 200, name + " HTTP");
+    assert.match(response.headers.get("content-type") || "", /image\/webp/, name + " MIME");
+    assert.equal(bytes.slice(0, 4).toString("ascii"), "RIFF", name + " RIFF");
+    assert.equal(bytes.slice(8, 12).toString("ascii"), "WEBP", name + " WebP magic");
+    assert.equal(bytes.length, expectedSize, name + " source file unexpectedly changed");
+    assert(bytes.length < 20000, name + " file budget");
+    totalPhotoBytes += bytes.length;
+    results.push({ path: "/portraits/" + name, ms: Math.round(performance.now() - t), bytes: bytes.length });
   }
-  assert(success, "First-party Commons image optimization failed: " + last);
+  assert(totalPhotoBytes < 30000, "Civic portrait payload exceeds 30 KB");
+  const remote = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Urmas_Kruuse.jpg/330px-Urmas_Kruuse.jpg";
+  const blocked = await fetch(base + "/_next/image?url=" + encodeURIComponent(remote) + "&w=256&q=75");
+  assert.equal(blocked.status, 400, "Remote image proxy should reject all external URLs");
   for (const item of results) console.log(JSON.stringify(item));
-  console.log("Smoke checks passed: bilingual routes, bounded initial DOM, image proxy, key security headers.");
+  console.log("Smoke checks passed: bilingual routes, bounded initial DOM, local licensed images, blocked remote proxy, key security headers.");
 }
 
 try { await main(); }
