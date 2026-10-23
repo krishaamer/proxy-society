@@ -59,6 +59,20 @@ Before the switch to locally served WebP photos, a successful GitHub Actions smo
 - Traditional Chinese rights page: **33,197 B**, **13ms** loopback;
 - First on-demand 128px image conversion could take **4,050ms cold**, while a cached repeat took 171ms; this motivated first-party static photo hosting.
 
+**Post-optimization CI verification** (GitHub Actions run 39916179526) shows the image-hosting change's impact on the same smoke protocol:
+
+| Resource | Before static photos | With local WebP photos |
+| --- | ---: | ---: |
+| English tracker HTML | 67,063 B | **56,024 B** |
+| Traditional Chinese tracker HTML | 66,478 B | **55,439 B** |
+| Arvo Aller 256px WebP | Cold server-side image conversion | **12,244 B static file, 3ms loopback** |
+| Urmas Kruuse 256px WebP | Cold server-side conversion | **2,230 B static file, 2ms loopback** |
+| Züleyxa Izmailova 256px WebP | Cold server-side conversion | **5,148 B static file, 1ms loopback** |
+| Remote image optimization origin | Allowed Wikimedia prefix | **Denied (HTTP 400)** |
+| Production dependency audit | 0 vulnerabilities in initial passing smoke run | **0 vulnerabilities** |
+
+The HTML payload reduction is roughly 16% across both locales; this reduction includes the removal of generated image optimization markup and does not account for JavaScript, CSS, fonts, or external browser-network latency. The 1–3ms values are same-machine CI loopback requests, **not worldwide production response times**.
+
 These are **local CI measurements**, not global page download sizes or real-world user metrics. HTML includes Next server component streaming data. The final smoke test checks:
 - Four bilingual page routes return 200 and accessible main/heading landmarks.
 - Three local static WebP image files are served with correct MIME, signatures and expected bytes, and all three together remain under a 30KB budget.
