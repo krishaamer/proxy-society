@@ -39,7 +39,7 @@ try {
   for(const asset of images) {
     const url=base+"/_next/image?url="+encodeURIComponent(asset.url)+"&w=256&q=60";
     const r=await fetch(url,{signal:AbortSignal.timeout(40000)});
-    assert(r.ok,asset.name+" optimizer HTTP "+r.status+": "+(await r.text()).slice(0,140));
+    if (!r.ok) throw new Error(asset.name+" optimizer HTTP "+r.status+": "+(await r.text()).slice(0,140));
     const mime=r.headers.get("content-type")||"";
     const bytes=Buffer.from(await r.arrayBuffer());
     assert(mime.startsWith("image/"),asset.name+" invalid type "+mime);
