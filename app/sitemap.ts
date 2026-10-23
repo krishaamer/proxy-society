@@ -102,6 +102,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
         }
       }
     },
+    {
+      url: "https://proxysociety.org/projects/chickens-no-cages/rights",
+      lastModified: new Date("2026-10-23"),
+      changeFrequency: "yearly",
+      priority: 0.5,
+      alternates: {
+        languages: {
+          en: "https://proxysociety.org/projects/chickens-no-cages/rights",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights"
+        }
+      }
+    },
+    {
+      url: "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights",
+      lastModified: new Date("2026-10-23"),
+      changeFrequency: "yearly",
+      priority: 0.5,
+      alternates: {
+        languages: {
+          en: "https://proxysociety.org/projects/chickens-no-cages/rights",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights"
+        }
+      }
+    },
     ...projectEntries,
     {
       url: "https://proxysociety.org/contact",
