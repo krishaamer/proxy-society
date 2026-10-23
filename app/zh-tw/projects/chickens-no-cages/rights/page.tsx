@@ -8,7 +8,8 @@ export const metadata: Metadata = {
     canonical: "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights",
     languages: {
       en: "https://proxysociety.org/projects/chickens-no-cages/rights",
-      "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights"
+      "zh-Hant-TW": "https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights",
+      et: "https://proxysociety.org/et/projects/chickens-no-cages/rights"
     }
   }
 };
