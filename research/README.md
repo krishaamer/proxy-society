@@ -2,6 +2,10 @@
 
 This is the project's research index. Index updated 23 October 2026 (Asia/Taipei); individual source dates retain their provenance.
 
+## Civic evidence and accountability
+
+- [Chickens, No Cages parliamentary outreach tracker](chickens-no-cages/README.md): 101-member source-backed public dataset, quote verification, bill timeline, zero-sent baseline and editorial update protocol (23 October 2026). [English page](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese page](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach).
+
 ## Culture and cinema
 
 - [VARI experimental film club](vari/README.md): new cultural program exploring AI cinema, creative decisions, authorship, consent and public film discussion. Proposed pilot only; no announced date or venue. Public English and Traditional Chinese pages at `/vari` and `/zh-tw/vari`.
