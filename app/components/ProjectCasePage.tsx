@@ -1,3 +1,4 @@
+import Link from "next/link";
 import styles from "./Projects.module.css";
 import ChickenOutreachTracker from "./ChickenOutreachTracker";
 import { getProject, getProjects } from "../projects-data";
@@ -186,7 +187,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: CivicLocale;
 
         <nav className={styles.caseNav} aria-label={locale === "et" ? "Projektide vahel liikumine" : "Project cases"}>
           {locale === "et" ? (
-            <a href="/projects">← Teised projektid inglise keeles</a>
+            <Link href="/projects">← Teised projektid inglise keeles</Link>
           ) : (
             <>
               <a href={`${t.index}/${previous.slug}`}>← {t.previous}: {previous.name}</a>
