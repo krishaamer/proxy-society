@@ -40,6 +40,8 @@ async function main() {
     "/zh-tw/projects/chickens-no-cages",
     "/projects/chickens-no-cages/rights",
     "/zh-tw/projects/chickens-no-cages/rights",
+    "/et/projects/chickens-no-cages",
+    "/et/projects/chickens-no-cages/rights",
   ];
   const tags = ["wcag2a", "wcag2aa", "wcag21a", "wcag21aa", "wcag22aa"];
   let failed = 0;
