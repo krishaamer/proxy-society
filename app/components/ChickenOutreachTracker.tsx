@@ -507,7 +507,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: CivicLocale
 
       <div className={styles.rightsRibbon}>
         <p>{t.complianceNote}</p>
-        <a href={locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
+        <a href={locale === "et" ? "/et/projects/chickens-no-cages/rights" : locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
       </div>
 
       <div className={styles.stats} role="group" aria-label={t.coverage}>
@@ -789,7 +789,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: CivicLocale
         </div>
         <div className={styles.methodLinks}>
           <a href="https://github.com/krishaamer/proxy-society/blob/main/app/chicken-outreach-data.ts" target="_blank" rel="noreferrer">{t.sourceCode}</a>
-          <a href={locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
+          <a href={locale === "et" ? "/et/projects/chickens-no-cages/rights" : locale === "en" ? "/projects/chickens-no-cages/rights" : "/zh-tw/projects/chickens-no-cages/rights"}>{t.rightsAndSources}</a>
           <a href="mailto:hello@proxysociety.org?subject=Chickens%2C%20No%20Cages%20-%20source%20correction">{t.correct}</a>
           <span>{t.snapshotLabel}: {chickenOutreachSnapshot}</span>
           <span>MP / {chickenMembershipAudit}</span>
