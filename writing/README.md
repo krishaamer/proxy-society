@@ -1,11 +1,12 @@
 # Proxy Society prepared writing
 
-Prepared writing lives in this repository alongside the website and research. Updated 13 October 2026.
+Prepared writing lives in this repository alongside the website and research. Index updated 23 October 2026.
 
 ## Writing index
 
 | Writing | Status | Purpose and provenance |
 | --- | --- | --- |
+| [VARI Film Club / website copy](programmes/vari-film-club.md) | Current bilingual website-derived program copy; proposed session only | VARI experimental film club public copy, sourced from `app/components/VariFilmClub.tsx` and associated with `/vari` and `/zh-tw/vari`. |
 | [Architecture of Delegated Presence](proposals/architecture-of-delegated-presence.md) | Current research brief; website-derived record | Current architecture track and bounded civic-building pilot, from `app/architecture/page.tsx`. |
 | [The Architecture of Presence](proposals/architecture-of-presence.md) | Earlier proposal framing; website-derived record | Chosen presence, humane architecture, typologies and original method, from `app/proposal/`. |
 | [Social Permeability Map](propositions/social-permeability-map.md) | Research concept; website-derived record | Encounter mapping as an observation and architectural research instrument. |
