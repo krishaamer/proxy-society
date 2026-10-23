@@ -127,7 +127,7 @@
 .footerBottom { display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; padding-top: 25px; border-top: 1px solid var(--vari-line); color: #958e82; }
 .footerBottom a:hover { color: #f3eee4; }
 
-.homeTeaser { border: 1px solid var(--vari-line); padding: clamp(28px, 4vw, 54px); display: grid; grid-template-columns: .8fr 1.2fr; gap: 65px; background: #171815; }
+.homeTeaser { --vari-line: rgba(243,238,228,.19); border: 1px solid var(--vari-line); padding: clamp(28px, 4vw, 54px); display: grid; grid-template-columns: .8fr 1.2fr; gap: 65px; background: #171815; }
 .homeTeaserKicker { font: 700 10px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; color: #c2d7ca; letter-spacing: .11em; }
 .homeTeaserMark { font: 400 clamp(76px, 11vw, 148px)/.9 Georgia, serif; letter-spacing: -.11em; margin: 28px 0 0; color: #f1eee4; }
 .homeTeaser h2 { font-size: clamp(36px, 4.1vw, 60px); line-height: 1.02; margin: 0 0 20px; }
@@ -197,4 +197,8 @@
 @media (prefers-reduced-motion: reduce) {
   .primaryButton, .secondaryButton { transition: none; }
   .primaryButton:hover, .secondaryButton:hover { transform: none; }
+}
+
+@media (min-width: 981px) and (max-width: 1180px) {
+  .homeNavLink { display: none !important; }
 }
