@@ -4,6 +4,16 @@
 **Status:** Published source snapshot in the website code, not a live connection to Gmail or Riigikogu  
 **Page:** [English](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach)
 
+## Public legal and image rights notice
+
+- [English: Sources, privacy and image rights](https://proxysociety.org/projects/chickens-no-cages/rights)
+- [Traditional Chinese: 資料來源、個資與圖片使用權](https://proxysociety.org/zh-tw/projects/chickens-no-cages/rights)
+- [GDPR, photo clearance and editorial review](legal-and-photo-review.md): case-by-case Article 6 / 9 / 14 considerations, rights handling, source-to-quote checks, copyright and legitimate-interest assessment outline. **Not lawyer-certified; obtain qualified Estonian review before expanding to broader political profiling or public replies.**
+- [Image rights manifest](../../app/chicken-portrait-rights.ts): only three individually rights-checked Wikimedia Commons photos; others remain unillustrated.
+- [Bilingual legal policy source](../../app/components/ChickenLegalNotice.tsx): publisher/controller, correction route and source credits.
+
+A public statement and a copyrighted portrait have different reuse rules. Publicly accessible material is not automatically free to republish; every item requires a source and permission/exception assessment. The public site does not include private correspondence or unverified statuses.
+
 ## Intent
 
 > Laying hens should not be kept in cages.
