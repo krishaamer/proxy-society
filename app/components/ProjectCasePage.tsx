@@ -82,7 +82,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: CivicLocale;
             <small>HUMAN / AGENT / SOCIETY</small>
           </span>
         </a>
-        <nav aria-label="Primary navigation">
+        <nav aria-label={locale === "et" ? "Põhinavigatsioon" : "Primary navigation"}>
           <a href={t.index}>{t.back}</a>
           {slug === "chickens-no-cages" ? (
             <>
@@ -97,7 +97,7 @@ export default function ProjectCasePage({ locale, slug }: { locale: CivicLocale;
                   href={civicLanguageRoutes[option.code]}
                   hrefLang={option.lang}
                   lang={option.lang}
-                  aria-label={`Read this case in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
+                  aria-label={locale === "et" ? `Loe projekti ${option.code === "en" ? "inglise" : "hiina"} keeles` : `Read this case in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
                 >
                   {option.label}
                 </a>
