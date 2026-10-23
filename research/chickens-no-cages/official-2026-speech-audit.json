@@ -1,0 +1,3803 @@
+{
+  "summary": {
+    "asOf": "2026-10-23",
+    "queryWindow": "2026-01-01 to 2026-10-22",
+    "source": "https://api.riigikogu.ee/api/steno/verbatims",
+    "rosterSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+    "caveat": "Machine-extracted short verbatim excerpts are candidates only, not vetted expressions of a policy position. Some are questions or procedural remarks; context must be checked.",
+    "months": {
+      "2026-01": {
+        "sittings": 15,
+        "memberInterventions": 2527,
+        "withInterventions": 87
+      },
+      "2026-02": {
+        "sittings": 14,
+        "memberInterventions": 2916,
+        "withInterventions": 95
+      },
+      "2026-03": {
+        "sittings": 15,
+        "memberInterventions": 2490,
+        "withInterventions": 96
+      },
+      "2026-04": {
+        "sittings": 15,
+        "memberInterventions": 2765,
+        "withInterventions": 96
+      },
+      "2026-05": {
+        "sittings": 15,
+        "memberInterventions": 2713,
+        "withInterventions": 97
+      },
+      "2026-06": {
+        "sittings": 15,
+        "memberInterventions": 3942,
+        "withInterventions": 98
+      },
+      "2026-07": {
+        "sittings": 0,
+        "memberInterventions": 0,
+        "withInterventions": 98
+      },
+      "2026-08": {
+        "sittings": 0,
+        "memberInterventions": 0,
+        "withInterventions": 98
+      },
+      "2026-09": {
+        "sittings": 15,
+        "memberInterventions": 2659,
+        "withInterventions": 99
+      },
+      "2026-10": {
+        "sittings": 11,
+        "memberInterventions": 2187,
+        "withInterventions": 99
+      }
+    },
+    "counts": {
+      "members": 101,
+      "withAny2026Speech": 99,
+      "withCageOrWelfareCandidate": 33,
+      "withOtherSpeechFallback": 99,
+      "withNo2026Speech": 2
+    }
+  },
+  "people": [
+    {
+      "name": "Jaak Aab",
+      "uuid": "6b45cfb5-8a17-481c-b674-80fc00c6cf5d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 137,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Jaak Aab",
+        "excerpt": "Kas neid investeeringuid on kuidagi toetatud, et oleks võimalik loobuda kanade puuris pidamisest?",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 108
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Jaak Aab",
+          "excerpt": "Kas neid investeeringuid on kuidagi toetatud, et oleks võimalik loobuda kanade puuris pidamisest?",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 108
+        },
+        {
+          "date": "2026-10-20",
+          "speaker": "Jaak Aab",
+          "excerpt": "Siin kõlas murelikke nooteid ka näiteks regionaal- ja põllumajandusministrid ja ministeeriumilt, kes väitsid, et uues riigi plaanis on võrreldes eelmise Euroopa Liidu rahastusperioodiga piirkondade …",
+          "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202610201000",
+          "wordCount": 93
+        },
+        {
+          "date": "2026-04-15",
+          "speaker": "Jaak Aab",
+          "excerpt": "Toit, mida me tarbime, on ju suurel määral kodumaine ja see [muudatus] aitaks ka toidujulgeolekut toetada.",
+          "topic": "Käibemaksuseaduse muutmise seaduse eelnõu (818 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604151400",
+          "wordCount": 112
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Jaak Aab",
+          "excerpt": "Me räägime siin täna põllumajanduse toetamisest ja selle olulisusest, toidujulgeolekust.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 112
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Jaak Aab",
+        "excerpt": "Jah, 2021–2022, te korra ise ka mainisite, et teatud meetmeid on rakendatud.",
+        "topic": "Kütuste ja energia hinnad talveperioodil",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 252
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Annely Akkermann",
+      "uuid": "7655e8d3-b658-49f0-8e09-f6cbc4a2c714",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 198,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Annely Akkermann",
+        "excerpt": "aasta teise lisaeelarve seaduse eelnõu 1019 teiseks lugemiseks ettevalmistamisel arutas rahanduskomisjon 13.",
+        "topic": "Riigi 2026. aasta teise lisaeelarve seaduse eelnõu (1019 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 296
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Yoko Alender",
+      "uuid": "90074aa2-4938-41a9-8275-3a6efa1cee31",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 58,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-09-29",
+        "speaker": "Yoko Alender",
+        "excerpt": "Kaitsekulude tõus ja defitsiidi vähendamine on loomulikult mõlemad kindlustunde loomiseks vältimatud, aga väga [oluline] on inimestele ka nende kodu.",
+        "topic": "Peaminister Kristen Michali poliitiline avaldus seoses 2027. aasta riigieelarve seaduse eelnõu üleandmisega",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609291000",
+        "wordCount": 78
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Anti Allas",
+      "uuid": "f6353ede-a0a5-4918-ab8b-790a1957c5cd",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 214,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Anti Allas",
+        "excerpt": "Seda on minule mitmed munatootjad ütelnud, et kui me täna julgeksime ära teha selle otsuse ja annaksime ka selge sõnumi, et me tahame riigina …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 123
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Anti Allas",
+          "excerpt": "Seda on minule mitmed munatootjad ütelnud, et kui me täna julgeksime ära teha selle otsuse ja annaksime ka selge sõnumi, et me tahame riigina …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 123
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Anti Allas",
+          "excerpt": "Suurem eesmärk on ikka see, et terves Euroopa Liidus nii puuris kanade pidamine kui ka puurikanade munade tarbimine, [sealhulgas] toiduainetes kasutamine, saab ühel hetkel …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 109
+        },
+        {
+          "date": "2026-10-19",
+          "speaker": "Anti Allas",
+          "excerpt": "Aga minu küsimus on selle kohta, miks te olete ja ka Reformierakond on arg ja ei julge näiteks kanade puurispidamise keelustamise seadust esimeselt lugemiselt …",
+          "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202610191500",
+          "wordCount": 112
+        },
+        {
+          "date": "2026-10-19",
+          "speaker": "Anti Allas",
+          "excerpt": "Vaieldamatult on see arguse märk, kui ei julgeta ühte seadust lasta saali ehk kanade puurispidamise eelnõu ei lubata suurel saalil arutada.",
+          "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202610191500",
+          "wordCount": 87
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Anti Allas",
+        "excerpt": "Veel kord, kui ma käisin siin õpetajate päeval koolides, siis need kirjeldused, mis sealt tulid, mis on seotud laste vaimse tervisega – tegelikult kõik …",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 81
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Arvo Aller",
+      "uuid": "a39c4392-bbc8-4036-b923-0f5f2b3d9766",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 3697,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Arvo Aller",
+        "excerpt": "veebruaril allkirjastasid vabatahtlikult [kokkuleppe] üleminekuks puurivabade kanade pidamisele ja munatootmisele.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 119
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Arvo Aller",
+          "excerpt": "veebruaril allkirjastasid vabatahtlikult [kokkuleppe] üleminekuks puurivabade kanade pidamisele ja munatootmisele.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 119
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Arvo Aller",
+          "excerpt": "Teid ei mainitud, nii et ma ei saa vastusõnavõttu ka anda.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 54
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Arvo Aller",
+          "excerpt": "Sotsiaaldemokraatliku Erakonna fraktsiooni nimel Tiit Maran, palun!",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 22
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Arvo Aller",
+          "excerpt": "Eesti 200 fraktsiooni nimel Toomas Uibo, palun!",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 14
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Arvo Aller",
+        "excerpt": "2035, mis tegelikult on suurusjärgus kümne aasta pärast, siis näidata neid numbritena ja näidata siin tegevusi on päris põnev.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 812
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Vladimir Arhipov",
+      "uuid": "586335bd-0e3f-4cee-a325-7af602224ca7",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 207,
+      "highestRelevant": {
+        "date": "2026-10-14",
+        "speaker": "Vladimir Arhipov",
+        "excerpt": "See teine osa, ma mõtlen, et mitte see zoofiilia, vaid loomakaitse, nagu te seda nimetate.",
+        "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 112
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-10-14",
+          "speaker": "Vladimir Arhipov",
+          "excerpt": "See teine osa, ma mõtlen, et mitte see zoofiilia, vaid loomakaitse, nagu te seda nimetate.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 112
+        },
+        {
+          "date": "2026-10-22",
+          "speaker": "Vladimir Arhipov",
+          "excerpt": "Me teame, et noored praktiliselt kogu aeg töötavad ainult suvehooajal restoranides, kuskil maal, põllumajanduses natuke.",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202610221000",
+          "wordCount": 81
+        },
+        {
+          "date": "2026-05-20",
+          "speaker": "Vladimir Arhipov",
+          "excerpt": "Ka Riigikontroll on toonud välja puuduseid nii kriisivalmiduses kui ka toidujulgeolekus.",
+          "topic": "Riigikogu otsuse \"\"Eesti julgeolekupoliitika alused\" heakskiitmine\" eelnõu (908 OE) esimese lugemise jätkamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605201400",
+          "wordCount": 446
+        },
+        {
+          "date": "2026-05-19",
+          "speaker": "Vladimir Arhipov",
+          "excerpt": "Meie toidujulgeoleku keskne eesmärk oli ja on ka praegu 14 päeva toiduvaru, kuid isegi see eesmärk ei ole veel täidetud.",
+          "topic": "Riigikogu otsuse \"\"Eesti julgeolekupoliitika alused\" heakskiitmine\" eelnõu (908 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605191000",
+          "wordCount": 61
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Vladimir Arhipov",
+        "excerpt": "Siis ma esitan selle küsimuse lugupeetud ettekandjale, kui ma ei saanud Laurile seda esitada.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 96
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Vadim Belobrovtsev",
+      "uuid": "80eac2f1-bb1e-4996-ac5a-4c3dba91bade",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 250,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-03-18",
+          "speaker": "Vadim Belobrovtsev",
+          "excerpt": "Nii et kui me räägime sellest, et need toiduained läheksid odavamaks, siis ma arvan, et kindlasti kohalikud inimesed hakkaksid rohkem kodumaist ostma ja sel …",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele toiduainete käibemaksu langetamiseks 9-le protsendile\" eelnõu (783 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181400",
+          "wordCount": 221
+        },
+        {
+          "date": "2026-01-22",
+          "speaker": "Vadim Belobrovtsev",
+          "excerpt": "Uuel paberil on nende [punktide] vahele tekkinud seesama umbusalduse küsimus ehk 33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes …",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele algatada naistevastase vägivalla ja perevägivalla ennetamise ja tõkestamise Euroopa Nõukogu konventsiooni denonsseerimine\" eelnõu (751 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202601221000",
+          "wordCount": 220
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Vadim Belobrovtsev",
+        "excerpt": "Oskad sa natuke rohkem seletada, mis olukord praegu on tööturul, mis puudutab just noori?",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 78
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Lea Danilson-Järg",
+      "uuid": "7f83e40c-4854-4632-9372-448b3a5dc93a",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 150,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-19",
+        "speaker": "Lea Danilson-Järg",
+        "excerpt": "Viimaste tundide jooksul oleme saanud taas veenduda, et ega musta valgeks rääkimises ei ole Reformierakonnale vastast.",
+        "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 150
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Enn Eesmaa",
+      "uuid": "07132cc4-5afc-4edb-9537-7c721ec39b2d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 2,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Enn Eesmaa",
+        "excerpt": "Ma arvan, et see teema, mida fraktsioon püstitas, on küllaltki oluline.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 42
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Rain Epler",
+      "uuid": "94ffc777-09a5-4472-bf5d-ce16e78a2341",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 283,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-06-03",
+          "speaker": "Rain Epler",
+          "excerpt": "Aga nüüd, kui Hormuzi väin on suletud, on hakanud nad vaatama, et vähe sellest, et igapäevane inimeste transport [kannatab], ka näiteks põllumajandustootmine ja muu …",
+          "topic": "Atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (839 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606031400",
+          "wordCount": 1508
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Rain Epler",
+          "excerpt": "Ja siin on räägitud, eks ole, et kui toiduainete käibemaksu alandada, siis see aitaks lisaks ka põllumajandussektorit.",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele toiduainete käibemaksu langetamiseks 9-le protsendile\" eelnõu (783 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181400",
+          "wordCount": 79
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Rain Epler",
+        "excerpt": "Olete ikka peaministrina siin, kuigi teie koalitsioonipartneritest keegi teid toetamas ei olnud.",
+        "topic": "Eesti majanduse olukord, tuleviku väljavaated",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 239
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Peeter Ernits",
+      "uuid": "f8a770b2-916c-4172-84b3-005ba9906a18",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 645,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Peeter Ernits",
+        "excerpt": "Aga küsimus on, kas te arutasite komisjonis, miks selle eelnõuga ei taheta keelata ära puurikanade munade müüki.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 87
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Peeter Ernits",
+          "excerpt": "Aga küsimus on, kas te arutasite komisjonis, miks selle eelnõuga ei taheta keelata ära puurikanade munade müüki.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 87
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Peeter Ernits",
+          "excerpt": "Aga minu küsimus on, kui palju te komisjonis arutasite turu võimalikku ümberjagamist, Eesti inimeste reaalset ostujõudu – munade ostu jõudu just nimelt –, võimalikku …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 49
+        },
+        {
+          "date": "2026-04-06",
+          "speaker": "Peeter Ernits",
+          "excerpt": "Noh, kanamune veel on ja konserve ka on, aga [vahepeal] nõuti mürkroheliste rünnakute käigus suurtelt munatootjatelt kiiret, ilma pika jorutamiseta puurikanade pidamise lõpetamist.",
+          "topic": "Arupärimine toidujulgeoleku ja varude tagamise kohta (nr 904)",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202604061500",
+          "wordCount": 429
+        },
+        {
+          "date": "2026-10-21",
+          "speaker": "Peeter Ernits",
+          "excerpt": "Hommikul ma osalesin ka loomakaitserühma koosolekul ja sealt tuli väga selgelt välja, et kaasamist nende – ma räägin praegu kassipidajatest ja nende kassitubadest ja …",
+          "topic": "Võlaõigusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse (finantspettuste ennetamine ja tõkestamine) eelnõu (936 SE) kolmas lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610211400",
+          "wordCount": 76
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Peeter Ernits",
+        "excerpt": "Nagu ma aru sain, seekord ei ole sellist asja, et Vabariigi Valitsus juba tegeleb sama asjaga ja tänu sellele tuleb prügikasti saata.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 41
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Ants Frosch",
+      "uuid": "c4e3fc0f-80fb-4a3e-b49e-80045c5253d9",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 34,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Ants Frosch",
+        "excerpt": "Nimelt, siin mõni nädal tagasi õnnestus mul teid täiendavalt informeerida sellest, et Kaitsepolitseiameti endine peadirektor oli juba 2023.",
+        "topic": "Muud küsimused",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 151
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Kalle Grünthal",
+      "uuid": "db532de2-5abd-4b6d-a82c-2d9a75fd9d18",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 149,
+      "highestRelevant": {
+        "date": "2026-10-14",
+        "speaker": "Kalle Grünthal",
+        "excerpt": "Täna ju võib öelda seda, sest me menetleme loomade heaolu.",
+        "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 391
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-10-14",
+          "speaker": "Kalle Grünthal",
+          "excerpt": "Täna ju võib öelda seda, sest me menetleme loomade heaolu.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 391
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Kalle Grünthal",
+          "excerpt": "Kirjeldage mulle palun, mismoodi ja kes siis – ma eeldan, et see on siis Põllumajandus- ja Toiduamet, kes teeb seda kontrolli –, kirjeldage mulle …",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 90
+        },
+        {
+          "date": "2026-01-26",
+          "speaker": "Kalle Grünthal",
+          "excerpt": "Seda selles mõttes, et kui teid ametisse nimetati, siis ajakirjanikud uurisid, mis on teie eelnev kogemus põllumajanduses.",
+          "topic": "33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes Terrasele",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202601261500",
+          "wordCount": 97
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-20",
+        "speaker": "Kalle Grünthal",
+        "excerpt": "Ma küsisin teie käest Zelenskõi ja Kaja Kallase sõlmitud lepingu kohta, kus Eesti annab igal aastal ümmarguselt 100 miljonit eurot Ukraina toetuseks.",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610201000",
+        "wordCount": 141
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Andre Hanimägi",
+      "uuid": "80f542c1-393a-46e2-9fca-99948e59850d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 176,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Andre Hanimägi",
+        "excerpt": "Mina olen aru saanud, et ka Euroopa Liidu siseselt on ikkagi võimalik näiteks puurikanade munasid riigiti keelata, nende müüki keelata, kui on põhjendatud argument, …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 163
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Andre Hanimägi",
+          "excerpt": "Mina olen aru saanud, et ka Euroopa Liidu siseselt on ikkagi võimalik näiteks puurikanade munasid riigiti keelata, nende müüki keelata, kui on põhjendatud argument, …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 163
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Andre Hanimägi",
+          "excerpt": "Aga ma jõuan oma küsimuses sinna, kuhu teie jõudsite samuti, tarbija juurde.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 75
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Andre Hanimägi",
+          "excerpt": "… või kas see vääriks eraldi arutelu?",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 7
+        },
+        {
+          "date": "2026-10-21",
+          "speaker": "Andre Hanimägi",
+          "excerpt": "Me saime teada, et selle ettepaneku on küll Eesti Loomakaitse Liit teinud, aga seda käesolevas eelnõus ei ole.",
+          "topic": "Karistusseadustiku, loomakaitseseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu (1009 SE) esimene lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610211400",
+          "wordCount": 541
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Andre Hanimägi",
+        "excerpt": "Aga ma pean tõepoolest ütlema ka seda, et see samm oleks tulnud astuda varem.",
+        "topic": "Võlaõigusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse (finantspettuste ennetamine ja tõkestamine) eelnõu (936 SE) kolmas lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 507
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Anti Haugas",
+      "uuid": "07003549-aa42-4764-8bdd-cab06cb94a92",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 28,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Anti Haugas",
+        "excerpt": "Mina igal juhul avaldan tunnustust ka Võru inimeste poolt, sest viimastel aastatel, kes on Võrus käinud, on näinud, et linn on ikkagi väga-väga palju …",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 138
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Helle-Moonika Helme",
+      "uuid": "f4e5d00e-19d1-428a-ba5e-5ce9ae4ef2c2",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 300,
+      "highestRelevant": {
+        "date": "2026-01-28",
+        "speaker": "Helle-Moonika Helme",
+        "excerpt": "Avalikkusele on jäänudki mulje, et põllumajandus- ja regionaalminister on asunud pigem PTA ametnike tegevust õigustama, mitte uurima, kas nende tegevus vastas seadusele, loomakaitse põhimõtetele …",
+        "topic": "Olukord riigis",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202601281200",
+        "wordCount": 327
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-01-28",
+          "speaker": "Helle-Moonika Helme",
+          "excerpt": "Avalikkusele on jäänudki mulje, et põllumajandus- ja regionaalminister on asunud pigem PTA ametnike tegevust õigustama, mitte uurima, kas nende tegevus vastas seadusele, loomakaitse põhimõtetele …",
+          "topic": "Olukord riigis",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202601281200",
+          "wordCount": 327
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Helle-Moonika Helme",
+        "excerpt": "No ettepanek oli ikkagi siitpoolt sinna raha juurde panna, mitte ära võtta.",
+        "topic": "Julgeolek",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 239
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Mart Helme",
+      "uuid": "4b96f3e5-af5e-41ce-86c9-3fdee3ce51da",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 263,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-06-17",
+          "speaker": "Mart Helme",
+          "excerpt": "Ma natuke laiendan seda teemat ja laiendan selle praegu väga aktuaalsele toidujulgeoleku valdkonnale.",
+          "topic": "Halal- Eesti",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606171200",
+          "wordCount": 229
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Mart Helme",
+          "excerpt": "Ja mis puutub põllumajandustootmisse erasektoris, siis see oli Nõukogude perioodi lõpul väga vaba.",
+          "topic": "Muud küsimused",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604221200",
+          "wordCount": 262
+        },
+        {
+          "date": "2026-03-09",
+          "speaker": "Mart Helme",
+          "excerpt": "Ja kui rääkida nüüd sellest, et lugupeetud kolleegid Keskerakonnast, just Lauri Laats, tõstatasid selle vanalinna küsimuse, siis jah, ma töötasin mitu aastat Pikal tänaval …",
+          "topic": "Arupärimine Tallinna Pärnu mnt 7 ajaloolise kohtumaja võõrandamise kavatsuse kohta (nr 894)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603091500",
+          "wordCount": 597
+        },
+        {
+          "date": "2026-02-11",
+          "speaker": "Mart Helme",
+          "excerpt": "Aga see ei tööta tegelikult mitte kuidagi rohujuuretasandi toidujulgeoleku kasuks.",
+          "topic": "Toidujulgeolek",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202602111200",
+          "wordCount": 199
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Mart Helme",
+        "excerpt": "No see oli puhas demagoogia, mida me kuulsime praegu Seedrile vastuseks siin.",
+        "topic": "Julgeolek",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 301
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Martin Helme",
+      "uuid": "98008392-64a2-4429-8a41-fb051823e402",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 231,
+      "highestRelevant": {
+        "date": "2026-10-19",
+        "speaker": "Martin Helme",
+        "excerpt": "Midagi siin piiksuvad puurikanadest ja ma ei tea mis maksuasjadest, aga põhimõtteliselt hoiate ju võimul seda kampa.",
+        "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+        "category": "laying_hen_cages",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 1021
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-10-19",
+          "speaker": "Martin Helme",
+          "excerpt": "Midagi siin piiksuvad puurikanadest ja ma ei tea mis maksuasjadest, aga põhimõtteliselt hoiate ju võimul seda kampa.",
+          "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202610191500",
+          "wordCount": 1021
+        },
+        {
+          "date": "2026-09-15",
+          "speaker": "Martin Helme",
+          "excerpt": "Vaadake, kui te varastate raha näiteks Kliimaministeeriumis, siis teid tuleb ikka vangi panna, sest raha on varastatud, aga midagi hullu ei juhtu, no mingid …",
+          "topic": "Kaitseminister Hanno Pevkuri poliitiline avaldus riigikaitse arengute kohta",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202609151000",
+          "wordCount": 927
+        },
+        {
+          "date": "2026-06-17",
+          "speaker": "Martin Helme",
+          "excerpt": "Teiseks: kas Eesti loomakaitsjad, kes muidu ei lase meil kanugi puuris pidada, on ka sel teemal teiega ühendust võtnud?",
+          "topic": "Halal- Eesti",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202606171200",
+          "wordCount": 203
+        },
+        {
+          "date": "2026-05-20",
+          "speaker": "Martin Helme",
+          "excerpt": "Teine positiivne efekt oli see, et marja[kasvatus]sektor või kohapealne toidutootmise sektor tuli varimajandusest välja ja hakkas makse deklareerima.",
+          "topic": "Alkoholi-, tubaka-, kütuse- ja elektriaktsiisi seaduse ja käibemaksuseaduse muutmise seaduse eelnõu (844 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605201400",
+          "wordCount": 636
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Martin Helme",
+        "excerpt": "Siin oli hea nali enne, et Kristen Michal ei ole kindel tollase valitsuse headuses või selles, et see oli populaarne.",
+        "topic": "Eesti majanduse olukord, tuleviku väljavaated",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 261
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Lauri Hussar",
+      "uuid": "64c0141f-371b-4520-8a50-09e65231f775",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 3660,
+      "highestRelevant": {
+        "date": "2026-10-21",
+        "speaker": "Lauri Hussar",
+        "excerpt": "Järgmine päevakorrapunkt on Vabariigi Valitsuse algatatud karistusseadustiku, loomakaitseseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu 1009 esimene lugemine.",
+        "topic": "Karistusseadustiku, loomakaitseseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu (1009 SE) esimene lugemine",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 30
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-10-21",
+          "speaker": "Lauri Hussar",
+          "excerpt": "Järgmine päevakorrapunkt on Vabariigi Valitsuse algatatud karistusseadustiku, loomakaitseseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu 1009 esimene lugemine.",
+          "topic": "Karistusseadustiku, loomakaitseseaduse ja väärteomenetluse seadustiku muutmise seaduse eelnõu (1009 SE) esimene lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610211400",
+          "wordCount": 30
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Lauri Hussar",
+          "excerpt": "Juhtivkomisjoni ettepanek on eelnõu 899 teine lugemine lõpetada, aga meile on laekunud avaldus Eesti Keskerakonna fraktsioonilt ja sellekohaselt tehakse ettepanek 899 loomakaitseseaduse ja veterinaarseaduse …",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 128
+        },
+        {
+          "date": "2026-06-03",
+          "speaker": "Lauri Hussar",
+          "excerpt": "Viies küsimus on samuti peaminister Kristen Michalile, küsib Riigikogu liige Anti Allas ja teema on loomade heaolu.",
+          "topic": "Loomade heaolu",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202606031200",
+          "wordCount": 22
+        },
+        {
+          "date": "2026-10-21",
+          "speaker": "Lauri Hussar",
+          "excerpt": "Aga meie tänases Riigikogu infotunnis osalevad peaminister Kristen Michal, justiits- ja digiminister Liisa-Ly Pakosta ning regionaal- ja põllumajandusminister Hendrik Johannes Terras.",
+          "topic": "Infotund",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202610211200",
+          "wordCount": 130
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Lauri Hussar",
+        "excerpt": "Ja Eesti 200 fraktsiooni nimel palun siia Riigikogu kõnetooli kolleeg Peeter Tali.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 22
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Diana Ingerainen",
+      "uuid": "8946b072-80c5-436e-95b2-41f928a7c636",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 77,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Diana Ingerainen",
+        "excerpt": "Andrei andis ülevaate, nii nagu praegu ka Lauri, ja siis komisjon natukene arutles asja üle.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 145
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Züleyxa Izmailova",
+      "uuid": "658c9d00-82c9-4161-8314-48ff1d67e3b7",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 133,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Züleyxa Izmailova",
+        "excerpt": "Ma olen olnud maaelukomisjoni liige ja näinud oma silmaga seal inimesi, kes ei soovi loomade heaolu parandamist, sest nad reaalselt ei hooli nende elusolendite …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 94
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Züleyxa Izmailova",
+          "excerpt": "Ma olen olnud maaelukomisjoni liige ja näinud oma silmaga seal inimesi, kes ei soovi loomade heaolu parandamist, sest nad reaalselt ei hooli nende elusolendite …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 94
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Züleyxa Izmailova",
+          "excerpt": "Praeguse koalitsiooni ministrid on seda eelnõu minu teada juba kaks korda kooskõlastanud ja tegelikult see teema on ka koalitsioonileppes sees.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 41
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Züleyxa Izmailova",
+          "excerpt": "Kui ma saali tulin, siis ma nägin, et selle puurikanade keelustamise petitsiooni autorid, Nähtamatute Loomade [liikmed], eskortis julgestus majast välja.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 30
+        },
+        {
+          "date": "2026-05-21",
+          "speaker": "Züleyxa Izmailova",
+          "excerpt": "märtsil arutas Vabariigi Valitsus Riigikogu liikmete algatatud eelnõu, mis nägi ette lõpetada kanade puuris pidamine Eestis.",
+          "topic": "Istungi rakendamine",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202605211000",
+          "wordCount": 153
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Züleyxa Izmailova",
+        "excerpt": "See eelnõu sai sisse antud juunikuus, vahetult pärast kohtumisi lastega tegelevate spetsialistidega ja ka lastepsühhiaatritega, kelle meelest, erinevalt valitsuserakonna esindajatest, ei tegeleta selle teemaga …",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 359
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Jüri Jaanson",
+      "uuid": "09500870-255e-416d-8eda-f80e9929adda",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 34,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Jüri Jaanson",
+        "excerpt": "Mul on palju küsimusi, aga Rail Baltic pärnakana on ikkagi A ja O.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 108
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Aleksei Jevgrafov",
+      "uuid": "0ef9e676-8ee6-481a-ae29-e1ce75af5aaa",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 63,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-02-16",
+          "speaker": "Aleksei Jevgrafov",
+          "excerpt": "Regionaal- ja põllumajandusminister Hendrik Johannes Terras on avaldanud soovi korraldada ühistransport ümber nii, et nelja aasta jooksul hoitaks kokku kuni 25 miljonit eurot.",
+          "topic": "Arupärimine maakondliku ühistranspordi reformi kohta (nr 873)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202602161500",
+          "wordCount": 220
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Aleksei Jevgrafov",
+        "excerpt": "Kuigi planeerimine edeneb, puuduvad endiselt konkreetsed otsused selle kohta, millal maantee ehitamine algab ja kuidas seda rahastatakse.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 68
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Maria Jufereva-Skuratovski",
+      "uuid": "a5af5ad0-6e31-443a-9b12-15769d43e784",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 40,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Maria Jufereva-Skuratovski",
+        "excerpt": "Viimsi vallas elavale naisele helistasid kelmid, kes esinesid Telia, Smart-ID, Eesti Panga ja politsei töötajatena.",
+        "topic": "Võlaõigusseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse (finantspettuste ennetamine ja tõkestamine) eelnõu (936 SE) kolmas lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 379
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Mario Kadastik",
+      "uuid": "53141769-f7bb-4995-8d12-5ff0d9c1eca1",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 81,
+      "highestRelevant": {
+        "date": "2026-05-20",
+        "speaker": "Mario Kadastik",
+        "excerpt": "aastal, selle koosseisu alguses oli erinevate organisatsioonide ja loomakaitsjate, loomaarstide ja teistega suur arutelu.",
+        "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) esimene lugemine",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202605201400",
+        "wordCount": 54
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-05-20",
+          "speaker": "Mario Kadastik",
+          "excerpt": "aastal, selle koosseisu alguses oli erinevate organisatsioonide ja loomakaitsjate, loomaarstide ja teistega suur arutelu.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) esimene lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202605201400",
+          "wordCount": 54
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-14",
+        "speaker": "Mario Kadastik",
+        "excerpt": "Tahtsingi ära markeerida, et me peame arvestama, et elektrilised tõukerattad on tahes-tahtmata tulnud liikluspilti selleks, et jääda.",
+        "topic": "Liiklusseaduse muutmise seaduse eelnõu (986 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 374
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Raimond Kaljulaid",
+      "uuid": "989194b6-b6cc-4c8f-9e6a-8eb8913d103e",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 29,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-09-30",
+        "speaker": "Raimond Kaljulaid",
+        "excerpt": "Eesti erakondadeülene toetus Ukrainale tugineb tegelikult kõige enam Eesti rahva solidaarsusele Ukraina rahvale, mis on ilmnenud selle täiemahulise sissetungi esimesest päevast peale.",
+        "topic": "Riigikogu avalduse \"Ukraina võidu ja Euroopa julgeoleku tagamiseks\" eelnõu (1015 AE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609301400",
+        "wordCount": 511
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Madis Kallas",
+      "uuid": "c7f4f213-58a3-4b6f-a236-153644653d17",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 219,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Madis Kallas",
+        "excerpt": "Mul oli au olla selle valdkonna eest vastutav minister kuskil kolm aastat tagasi ja paaril korral ka munatootjate esindajatega kohtuda.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 129
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Madis Kallas",
+          "excerpt": "Mul oli au olla selle valdkonna eest vastutav minister kuskil kolm aastat tagasi ja paaril korral ka munatootjate esindajatega kohtuda.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 129
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Madis Kallas",
+          "excerpt": "Te olete ka, nii nagu istungi juhataja ja nii nagu mina, vastutanud põllumajanduse eest, kaasa arvatud selle teema eest, mis täna siin laual on.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 78
+        },
+        {
+          "date": "2026-09-21",
+          "speaker": "Madis Kallas",
+          "excerpt": "Põllumajandussektorist on kuulda olnud, et 546 miljoni jaotamise otsuse eest ollakse tänulikud.",
+          "topic": "Arupärimine põllumajandussektori rahastamise kohta (nr 961)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609211500",
+          "wordCount": 92
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Madis Kallas",
+          "excerpt": "Sa rääkisid päris palju sellest, mida põllumajandusettevõtja iga päev tunneb, mida ta läbi elab.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 138
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Madis Kallas",
+        "excerpt": "Ma arvan, et enamik meist nõustub, et vaimse tervise muredest ja lahenduste kaardistamisest rääkimist ei saa olla kunagi liiga palju ei ühiskonnas laiemalt ega …",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 849
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Jaanus Karilaid",
+      "uuid": "94351dfe-449e-48db-9396-06cf204ce22e",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 76,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-09-16",
+          "speaker": "Jaanus Karilaid",
+          "excerpt": "aastal vabastati ametist Illar Lemetti, põllumajandusministeeriumi kantsler.",
+          "topic": "Muud küsimused",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609161200",
+          "wordCount": 119
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Jaanus Karilaid",
+          "excerpt": "Me näeme tõesti, et ühelt poolt on sektor isegi nii ebakindel, et põllumajandusminister ise liitub meeleavaldajatega, mis on absurdne – on ta ju ise …",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 494
+        },
+        {
+          "date": "2026-02-09",
+          "speaker": "Jaanus Karilaid",
+          "excerpt": "Kas valitsus peab vajalikuks suunata nimetatud 540 miljonit eurot täies mahus põllumajanduse, toidutootmise ja konkurentsivõime tugevdamiseks, arvestades sektori rolli Eesti toidujulgeoleku [tagamises] ja regionaalses …",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202602091500",
+          "wordCount": 129
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Jaanus Karilaid",
+        "excerpt": "Vaadates neid eesmärke, ma arvan, et nende teeside vastu, mis on kirja pandud, ei vaidle keegi.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 526
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Ester Karuse",
+      "uuid": "d5c54f88-dff3-486b-aac6-2cd124577d38",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 37,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-03-16",
+          "speaker": "Ester Karuse",
+          "excerpt": "Mina ei ole ka loomapidamise ekspert, aga see teema siiski puudutab meid kõiki, meie toidujulgeolekut.",
+          "topic": "Arupärimine Nuudi hobitalu linnugripi juhtumi kohta (nr 903)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603161500",
+          "wordCount": 67
+        },
+        {
+          "date": "2026-02-11",
+          "speaker": "Ester Karuse",
+          "excerpt": "Käesolevaga esitan arupärimise regionaal- ja põllumajandusministrile seoses Valga–Tartu rongiühenduse muudatusega, mis on paljude Lõuna-Eesti inimeste igapäevaelu oluliselt keerulisemaks muutnud.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202602111400",
+          "wordCount": 226
+        },
+        {
+          "date": "2026-01-26",
+          "speaker": "Ester Karuse",
+          "excerpt": "Hea Hendrik, kes sa oled Eesti Vabariigi regionaal- ja põllumajandusminister!",
+          "topic": "33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes Terrasele",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202601261500",
+          "wordCount": 127
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Ester Karuse",
+        "excerpt": "Hea ettekandja, tänan samuti selle olulise teema püstitamise eest ja selle ettekande eest!",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 112
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Liina Kersna",
+      "uuid": "a12ffc5c-0809-46cb-abc4-cc99a7fa3f60",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 67,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-13",
+        "speaker": "Liina Kersna",
+        "excerpt": "Esimesel arutelul minister tutvustas eelnõu nii, nagu ta praegu teile seda kenasti tutvustas, aga siis tõstatas nõunik Kristel Möller, õigusnõunik, ka teema, mis puudutab …",
+        "topic": "Alusharidusseaduse muutmise seaduse eelnõu (937 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610131000",
+        "wordCount": 212
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Tanel Kiik",
+      "uuid": "561abe91-76eb-45f3-90b0-efa94c663689",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 278,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Tanel Kiik",
+        "excerpt": "Minu meelest see muudatus, mida siin välja pakutakse, ei aita mitte ainult loomade ja lindude heaolu [tagada], ei aita meie tarbijat, vaid tegelikult annab …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 170
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Tanel Kiik",
+          "excerpt": "Minu meelest see muudatus, mida siin välja pakutakse, ei aita mitte ainult loomade ja lindude heaolu [tagada], ei aita meie tarbijat, vaid tegelikult annab …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 170
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Tanel Kiik",
+          "excerpt": "Oleme ausad, väga paljusid siin saalis ja ma arvan, et ka avalikkuses, huvitab mitte ainult see, kas antud eelnõu – loomi ja linde ja …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 125
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Tanel Kiik",
+          "excerpt": "Küsimus olevat olnud mingites väikestes kanamänguasjades, mis paluti vist ära võtta, aga selle peale … (Vaatab istungisaali rõdu poole.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 86
+        },
+        {
+          "date": "2026-09-21",
+          "speaker": "Tanel Kiik",
+          "excerpt": "Tundub jah, et mis puudutab põllumajanduse rahastamist, siis olete olnud siin järjepidev ja kogu see, ütleme, [teater], mida on meedias etendatud, kuidas regionaal- ja …",
+          "topic": "Arupärimine põllumajandussektori rahastamise kohta (nr 961)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609211500",
+          "wordCount": 184
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Tanel Kiik",
+        "excerpt": "Minister ja temaga kaasas olnud Sotsiaalministeeriumi hoolekande osakonna puudega inimeste õiguste poliitikajuht Kadri Mets ja tervisekorralduse osakonna ravimi- ja meditsiiniseadmete poliitikajuht Kärt Veliste andsid …",
+        "topic": "Ravikindlustuse seaduse ja teiste seaduste muutmise seaduse (abivahendite ja meditsiiniseadmete reform) eelnõu (1036 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 901
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Meelis Kiili",
+      "uuid": "7251e077-1964-4f2b-9dba-349dc127b56e",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 21,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-19",
+        "speaker": "Meelis Kiili",
+        "excerpt": "Needsamad diskussioonid ja vaidlused peavad viima meid lõppude lõpuks ikkagi sellisesse olukorda, mis tagab meie riigi kaitse ja kõige parema toime.",
+        "topic": "Arupärimine Aidu tuulepargi arendamise kokkuleppe ja sellest tulenevate riigikaitseliste riskide kohta (nr 1062)",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 890
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Signe Kivi",
+      "uuid": "71bdc9b2-841d-408f-8ace-909e8c11d7d5",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 19,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-14",
+        "speaker": "Signe Kivi",
+        "excerpt": "Minu meelest on tegemist väga olulise valdkonnaga ja tegelikult ka sisuka avaldusega.",
+        "topic": "Riigikogu avalduse \"Kõrghariduse toetuseks\" eelnõu (894 AE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 37
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Ando Kiviberg",
+      "uuid": "4e2e1744-16b5-4d88-a08a-cf250c776956",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 131,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Ando Kiviberg",
+        "excerpt": "Ma annan lühikese ülevaate selle kohta, mis toimus antud eelnõu arutusel teisipäeval, 13.",
+        "topic": "Pühade ja tähtpäevade seaduse ning Eesti lipu seaduse muutmise seaduse eelnõu (939 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 279
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Toomas Kivimägi",
+      "uuid": "906f1a0a-0000-4a96-866c-b30f2b6adc49",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 4009,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Toomas Kivimägi",
+        "excerpt": "Korra oli keegi kohvitassiga, võib-olla oli see teema, aga sellest oleks ju mööda või üle saanud.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 118
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Toomas Kivimägi",
+          "excerpt": "Korra oli keegi kohvitassiga, võib-olla oli see teema, aga sellest oleks ju mööda või üle saanud.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 118
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Toomas Kivimägi",
+          "excerpt": "Jaa, ma ikkagi jätkuvalt ei tea täpseid asjaolusid, aga mäletate, kolleegid, me oleme ise võtnud selge seisukoha, et me siia saali mingeid asju kaasa …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 111
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Toomas Kivimägi",
+          "excerpt": "Oleme jõudnud enim meedia tähelepanu [pälvinud] tänase päevakorrapunktini, milleks on Riigikogu liikmete Tiit Marani, Anti Allase, Kalev Stoicescu, Tanel Kiige, Ester Karuse, Madis Kallase, …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 67
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Toomas Kivimägi",
+          "excerpt": "Te olete üks hea näide sellest, et on võimalik ka lühidalt rääkides väga hästi rääkida.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 52
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Toomas Kivimägi",
+        "excerpt": "Mina ütlen ja olen seda korduvalt öelnud, et ei ole teist ligilähedalt sarnast projekti, mis mõjutaks sel määral positiivselt Eestimaa majandust, arengut, kättesaadavust, kui …",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 886
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Mait Klaassen",
+      "uuid": "122e850b-5e6b-41f6-8b91-830ca8de8450",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 41,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Mait Klaassen",
+        "excerpt": "Kanade puuris pidamist ei poolda ka sellelsamal teemal omal ajal kandidaadikraadi kaitsnud Renaldo Mändmets.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 382
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Mait Klaassen",
+          "excerpt": "Kanade puuris pidamist ei poolda ka sellelsamal teemal omal ajal kandidaadikraadi kaitsnud Renaldo Mändmets.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 382
+        },
+        {
+          "date": "2026-10-21",
+          "speaker": "Mait Klaassen",
+          "excerpt": "Lubage mul tänada kõigepealt aga Eesti Loomaarstide Koda ja paljusid loomakaitsega tegelevaid organisatsioone, kes kõik on andnud oma panuse seaduse päris pikal ettevalmistamisel.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) kolmas lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610211400",
+          "wordCount": 446
+        },
+        {
+          "date": "2026-04-15",
+          "speaker": "Mait Klaassen",
+          "excerpt": "Vabariigi Valitsuse algatatud atmosfääriõhu kaitse seaduse, keskkonnatasude seaduse ja riigilõivuseaduse muutmise seaduse eelnõu 8[61] esimese lugemise ettevalmistamine toimus esmaspäeval, 6.",
+          "topic": "Atmosfääriõhu kaitse seaduse, keskkonnatasude seaduse ja riigilõivuseaduse muutmise seaduse eelnõu (861 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604151400",
+          "wordCount": 654
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Mait Klaassen",
+        "excerpt": "Minu poolt samuti tänu hea ettekande eest, aga ma pöörduksin sinna piirialadele ja Kagu-Eestisse tagasi.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 132
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Aivar Kokk",
+      "uuid": "2dcb35ed-acbc-4bcf-9e9d-9da681842d6d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 426,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-09-28",
+          "speaker": "Aivar Kokk",
+          "excerpt": "Aga nüüd me kogeme seda, et see rahapatakas on Eesti 200-st tõesti väga palju ja see raha on jõudnud ka regionaal- ja põllumajandusminister Hendrik …",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609281500",
+          "wordCount": 211
+        },
+        {
+          "date": "2026-09-21",
+          "speaker": "Aivar Kokk",
+          "excerpt": "Diislikütus ei ole üksnes autojuhile [vajalik], vaid on veonduses, logistikas, põllumajanduses, metsanduses, ehituses ja tööstuses vältimatu sisend.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609211500",
+          "wordCount": 198
+        },
+        {
+          "date": "2026-09-16",
+          "speaker": "Aivar Kokk",
+          "excerpt": "Mul on üle anda kaks arupärimist, üks neist regionaal- ja põllumajandusminister Hendrik Johannes Terrasele ja teine taristuminister Kuldar Leisile.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609161400",
+          "wordCount": 208
+        },
+        {
+          "date": "2026-06-08",
+          "speaker": "Aivar Kokk",
+          "excerpt": "Sest kui vaadata lihtsalt põllumajandus- ja regionaalministeeriumi rida, siis on näha, et võetakse ära toetused, mis on suure tõenäosusega ühekordne kulu, ja jagatakse ära …",
+          "topic": "Riigi 2026. aasta lisaeelarve seaduse eelnõu (910 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606081500",
+          "wordCount": 567
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Aivar Kokk",
+        "excerpt": "Ma tsiteerin ikkagi tänast rahandusministrit, kes ütles väga selgelt juba järgmise aasta riigieelarve kohta, kui me rääkisime kuludest ja ridadest, et see on sulitegemine.",
+        "topic": "Riigi 2026. aasta teise lisaeelarve seaduse eelnõu (1019 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 547
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Rene Kokk",
+      "uuid": "694b084f-e151-4f7e-8a5c-2664a40cee7a",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 104,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-05-21",
+          "speaker": "Rene Kokk",
+          "excerpt": "Kas selle arutelu ajal komisjonis Vabariigi Valitsuse esindaja sai aru sellest, et kui kütuse hind soodsamaks reguleerida, panna lagi ette, siis pikas perspektiivis hoiab …",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele mootorikütuste hinnatõusu mõjude leevendamiseks Eesti Vabariigis registreeritud sõidukite kasutajatele\" eelnõu (874 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605211000",
+          "wordCount": 60
+        },
+        {
+          "date": "2026-03-12",
+          "speaker": "Rene Kokk",
+          "excerpt": "Vaata, siin kooskõlastuses on nii Eesti Põllumajandus-Kaubanduskoda kui ka linnade ja valdade liit välja toonud, et nad tegelikult ei toeta neid ettepanekuid.",
+          "topic": "Keskkonnajärelevalve seaduse ja teiste seaduste muutmise seaduse (Keskkonnaameti vahetu sunni kohaldamise õiguse laiendamine) eelnõu (811 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603121000",
+          "wordCount": 136
+        },
+        {
+          "date": "2026-02-10",
+          "speaker": "Rene Kokk",
+          "excerpt": "Kurb on see, et teie kui regionaal- ja põllumajandusminister olete sattunud kuidagi äraspidisesse rolli, võrreldes teie tegeliku ametiga.",
+          "topic": "Postiseaduse, konkurentsiseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (781 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202602101000",
+          "wordCount": 127
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-19",
+        "speaker": "Rene Kokk",
+        "excerpt": "Sa oled täna nüüd päris tugevalt siin rääkinud, kui hästi kõik on.",
+        "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 198
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Andrei Korobeinik",
+      "uuid": "a62b7530-a1fb-4c0b-b041-f10c2cfaa31a",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 113,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Andrei Korobeinik",
+        "excerpt": "Mul kindlasti ei lähe nii kaua aega, aga ma tuletan teile meelde, et juba aasta pärast toimuvad Riigikogu valimised.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 192
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Andrei Korobeinik",
+          "excerpt": "Mul kindlasti ei lähe nii kaua aega, aga ma tuletan teile meelde, et juba aasta pärast toimuvad Riigikogu valimised.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 192
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Andrei Korobeinik",
+          "excerpt": "Puurikanade eelnõu saatus ei ole nii roosiline.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 431
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Andrei Korobeinik",
+          "excerpt": "Seda eriti tänasel turbulentsel ajal, kui hommikul saabus uudis, et põllumajandusminister läheb põllumeestega koos protestiaktsioonile.",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele õiglase astmelise tulumaksu kehtestamise kohta\" eelnõu (745 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181400",
+          "wordCount": 479
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Andrei Korobeinik",
+        "excerpt": "Eile käis jutt sellest, et nelja aastaga, Mart, nelja aastaga on Leedu majandus kasvanud 10%.",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimese lugemise jätkamine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 163
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Anastassia Kovalenko-Kõlvart",
+      "uuid": "04510d7c-b12a-48aa-8402-80b0efb114a6",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 215,
+      "highestRelevant": {
+        "date": "2026-10-21",
+        "speaker": "Anastassia Kovalenko-Kõlvart",
+        "excerpt": "Sellele loomakaitseseaduse eelnõule, sellele kobar- ja praakeelnõule tuleb kindlalt vastu hääletada.",
+        "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) kolmas lugemine",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 836
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-10-21",
+          "speaker": "Anastassia Kovalenko-Kõlvart",
+          "excerpt": "Sellele loomakaitseseaduse eelnõule, sellele kobar- ja praakeelnõule tuleb kindlalt vastu hääletada.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) kolmas lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610211400",
+          "wordCount": 836
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Anastassia Kovalenko-Kõlvart",
+          "excerpt": "Kui mitu loomakaitseorganisatsiooni, kui mitu sellist vabatahtlikku päästeorganisatsiooni panevad oma uksed kinni?",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 465
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Anastassia Kovalenko-Kõlvart",
+          "excerpt": "Loomakaitseseadus ei reguleeri seda küsimust lõpuni välja.",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 203
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Anastassia Kovalenko-Kõlvart",
+        "excerpt": "Tõesti, viimastel aastatel vastu võetud erinevad maksutõusud on väga oluliselt mõjutanud erinevate perede toimetulekut.",
+        "topic": "Perehüvitise seaduse muutmise seaduse eelnõu (959 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 129
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Eerik-Niiles Kross",
+      "uuid": "b2226516-4cd4-4471-b93b-696c40b7a9e2",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 14,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Eerik-Niiles Kross",
+        "excerpt": "Riigikogu enamuse poolt on meil esitatud ja esimesel lugemisel Kaitseliidu seaduse ja kaitseväeteenistuse seaduse muutmise seaduse eelnõu.",
+        "topic": "Kaitseliidu seaduse ja kaitseväeteenistuse seaduse muutmise seaduse (välisriigi kodanike riigikaitsesse kaasamine) eelnõu (962 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 136
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Urmas Kruuse",
+      "uuid": "4a332fbb-be05-4cb2-b6a0-5916eb40fe89",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 100,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Urmas Kruuse",
+        "excerpt": "Ka meie arutelu hetkel kahjuks näitavad viimased uuringud, et kui vahepeal kukkus statistikas konkreetne [puurikanade munade] ostmine kaubanduskettidest kuskile 60% peale, siis praegu on …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 526
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Urmas Kruuse",
+          "excerpt": "Ka meie arutelu hetkel kahjuks näitavad viimased uuringud, et kui vahepeal kukkus statistikas konkreetne [puurikanade munade] ostmine kaubanduskettidest kuskile 60% peale, siis praegu on …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 526
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Urmas Kruuse",
+          "excerpt": "Aga kurbloolisus on tegelikult ju lihtsalt selles, nagu ma ütlesin, et munakanu on Euroopas üle 350 miljoni.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 301
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Urmas Kruuse",
+          "excerpt": "Põhimõtteliselt põhiküsimused, mille üle arutleti, olid seotud sellega, mis puudutab ettevõtjate tahteavaldust, et nad on valmis [kanade puuris pidamiselt] üle minema.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 262
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Urmas Kruuse",
+          "excerpt": "Võib-olla praegu on leidnud vähe käsitlust ka see, et kuigi auväärt härra Maran märkis seda, et Euroopas justkui on menetluses või menetlusse minemas loomade …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 245
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Urmas Kruuse",
+        "excerpt": "Tähtajaks ühtegi muudatusettepanekut Riigikogu liikmetelt, fraktsioonidelt ja rahvasaadikutelt ei tulnud, aga koostöös eelnõu algatajaga tehti eelnõu kohta 12 muudatusettepanekut.",
+        "topic": "Veterinaarseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (918 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 159
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Leo Kunnas",
+      "uuid": "fd2d1dd5-ff19-445e-b190-28aabb07763a",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 15,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-19",
+        "speaker": "Leo Kunnas",
+        "excerpt": "Küsisin täna siin saalis peaminister Kristen Michalilt, kas Riigi Kaitseinvesteeringute Keskus peaks riiulifirmadega sõlmitud lepingud ära lõpetama.",
+        "topic": "Arupärimine \"Varitseva õhuründemoona raamlepingu\" kohta (nr 1046)",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 40
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Helmen Kütt",
+      "uuid": "1d0b281d-b769-4e94-8c67-faa1cb1b1395",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 209,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Helmen Kütt",
+        "excerpt": "On täiesti selge, et need inimesed, kes on näinud, millistes mitteelamisväärsetes tingimustes elavad puurikanad, saavad ka aru, et nende kanade munad ei ole kindlasti …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 116
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Helmen Kütt",
+          "excerpt": "On täiesti selge, et need inimesed, kes on näinud, millistes mitteelamisväärsetes tingimustes elavad puurikanad, saavad ka aru, et nende kanade munad ei ole kindlasti …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 116
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Helmen Kütt",
+          "excerpt": "Oled olnud ka põllumajandusminister ja kindlasti oli loomakaitseseadus ka siis laua peal, kui sa minister olid.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 115
+        },
+        {
+          "date": "2026-09-21",
+          "speaker": "Helmen Kütt",
+          "excerpt": "Mõistagi ei saa see tulla toidujulgeoleku arvelt.",
+          "topic": "Arupärimine põllumajandussektori rahastamise kohta (nr 961)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609211500",
+          "wordCount": 64
+        },
+        {
+          "date": "2026-06-15",
+          "speaker": "Helmen Kütt",
+          "excerpt": "Pean kohe tunnistama, et see ei ole minu valdkond ja selle tõttu ma kuulan küsimusi ja vastuseid ning üritan selle põhjal pildi kokku panna.",
+          "topic": "Arupärimine Räpina aianduskooli rahastamise ja kutseõppe tuleviku kohta (nr 1002)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606151500",
+          "wordCount": 123
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Helmen Kütt",
+        "excerpt": "Seaduseelnõu 980, okupatsioonirežiimide poolt represseeritud isiku seaduse muutmise ja sotsiaalhoolekande seaduse muutmise seadus (represseeritute ja tuumakatastroofi tagajärgede likvideerijate toetuse suurendamine) on oma vormilt lühike …",
+        "topic": "Okupatsioonirežiimide poolt represseeritud isiku seaduse muutmise ja sotsiaalhoolekande seaduse muutmise seaduse (represseeritute ja tuumakatastroofi tagajärgede likvideerijate toetuse suurendamine) eelnõu (980 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 961
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Kalle Laanet",
+      "uuid": "31eee189-0019-469f-8469-7da564bf1af9",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 13,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-01",
+        "speaker": "Kalle Laanet",
+        "excerpt": "Kelle kanda see jääb kahe erandi puhul, just nimelt valitsuse [otsustatava erandi] ja teise erandi puhul, mis puudutab ka Riigikogu?",
+        "topic": "Kriminaalmenetluse seadustiku, väärteomenetluse seadustiku, elektroonilise side seaduse ja teiste seaduste muutmise seaduse (sideandmete säilitamine ja kasutamine) eelnõu (1007 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610011000",
+        "wordCount": 45
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Lauri Laats",
+      "uuid": "1839253a-aec0-4019-995a-1c031db8fd10",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 527,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-06-03",
+          "speaker": "Lauri Laats",
+          "excerpt": "Analüüs käsitleb muu hulgas hinnamõjusid tarbimise kasvule ning võimalikke positiivseid mõjusid kodumaisele toidutootmisele ja elanike toimetulekule.",
+          "topic": "Käibemaksuseaduse muutmise seaduse eelnõu (885 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606031400",
+          "wordCount": 570
+        },
+        {
+          "date": "2026-04-23",
+          "speaker": "Lauri Laats",
+          "excerpt": "Toidujulgeolek, toimetulek, elektri hind, toidu kallinemine, inflatsioon – kõik on omavahel seotud, sellepärast et majanduse üheks sisendiks on loomulikult elekter, elektri hind.",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja elektrihinna kriisi leevendamise pakett\" eelnõu (815 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604231000",
+          "wordCount": 801
+        },
+        {
+          "date": "2026-04-06",
+          "speaker": "Lauri Laats",
+          "excerpt": "Järgmine arupärimine on meil regionaal- ja põllumajandusminister Hendrik Johannes Terrasele.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604061500",
+          "wordCount": 1519
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Lauri Laats",
+          "excerpt": "Me räägime Eesti toidujulgeolekust, maaelu tulevikust ja sellest, kas Eesti riik seisab oma inimeste kõrval või mitte.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 520
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Lauri Laats",
+        "excerpt": "Täna hakkame Keskerakonna fraktsiooni poolt menetlema ühte eelnõu, mis on tegelikult Riigikogu otsuse eelnõu, väga oluline eelnõu, puudutab see meie noori ja tööhõivet ja …",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja õpilaste töötamisele maksusoodustused\" eelnõu (940 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 256
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Hanah Lahe",
+      "uuid": "d18cee4c-7b30-405f-96f2-4ab6f81efaf2",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 36,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Hanah Lahe",
+        "excerpt": "Teil on siin eelnõus ettepanek, et selle eelnõu vastuvõtmisel luuakse lapsevanematele üleriigiline praktiline nõuandeliin või tugitelefon ja koostatakse veebipõhised juhendmaterjalid.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 107
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Alar Laneman",
+      "uuid": "563f86fd-db45-4046-b8ed-b66e5a2aec45",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 13,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-06-17",
+        "speaker": "Alar Laneman",
+        "excerpt": "Läheneva võidupüha vaimus on kohane teha midagi olulist meie riigikaitsjate jaoks.",
+        "topic": "Istungi rakendamine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202606171400",
+        "wordCount": 104
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Maris Lauri",
+      "uuid": "315ea785-8f59-40e5-a158-3de8b908572f",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 17,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Maris Lauri",
+        "excerpt": "Ja neid tuli mitmeid, kusjuures osa arvamusi oli nii, et hiljem tulid ka teised arvamused.",
+        "topic": "Maksukorralduse seaduse, rahapesu ja terrorismi rahastamise tõkestamise seaduse ning tsiviilkohtumenetluse seadustiku ja täitemenetluse seadustiku rakendamise seaduse muutmise seaduse eelnõu (924 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 354
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Mihkel Lees",
+      "uuid": "1c173f0d-6c5e-445a-934f-32e7edf903db",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 43,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Mihkel Lees",
+        "excerpt": "No eks tegelikult neist valitsuse tegevustest võiks ju rääkida päris pikalt.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 414
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Tõnis Lukas",
+      "uuid": "9a8a55b8-c946-47a2-9e17-9978c3fd23f8",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 123,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-01-26",
+          "speaker": "Tõnis Lukas",
+          "excerpt": "Aga üleüldse, kui Regionaal- ja Põllumajandusministeerium on väga kaua asunud pealinnas, siis äkki see elust võõrandumine ametnikkonna puhul ja võib-olla ka ministri puhul on …",
+          "topic": "33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes Terrasele",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202601261500",
+          "wordCount": 103
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Tõnis Lukas",
+        "excerpt": "Meil on kõlanud siin mitmed hüüatused, et regionaalpoliitika ja tasakaalu huvides viiakse Tallinnast töökohti maakonnakeskustesse.",
+        "topic": "Muud küsimused",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 197
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Irja Lutsar",
+      "uuid": "3febb869-f443-4aba-908e-7c0c30f8c4dd",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 104,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Irja Lutsar",
+        "excerpt": "Lauri, sa jätad mulle niisuguse vana väsinud mehe mulje, kes kõigest ja kõigist heietab.",
+        "topic": "Perehüvitise seaduse muutmise seaduse eelnõu (959 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 119
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Lauri Läänemets",
+      "uuid": "d557812c-971d-415b-827d-aa6a382ec6ef",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 200,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Lauri Läänemets",
+        "excerpt": "Kolleeg Aller küsis ennem siin küsimuse, kuidas me siis nüüd teeme seaduse ega usalda ettevõtjaid.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 151
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Lauri Läänemets",
+          "excerpt": "Kolleeg Aller küsis ennem siin küsimuse, kuidas me siis nüüd teeme seaduse ega usalda ettevõtjaid.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 151
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Lauri Läänemets",
+          "excerpt": "Me teame, et see raha pannakse kuskile mujale, põllumajanduses on vajadusi [küllalt].",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 139
+        },
+        {
+          "date": "2026-06-17",
+          "speaker": "Lauri Läänemets",
+          "excerpt": "Põllumajanduses on päris palju otsad lahtised, erihoolekandes on riigi kohustused täitmata, hoolekandes samamoodi.",
+          "topic": "Riigi juhtimine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606171200",
+          "wordCount": 235
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Lauri Läänemets",
+          "excerpt": "Ma mõistan seda, et te põllumajandusekspert ei ole, ja ei peagi olema.",
+          "topic": "Põllumeeste toetamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181200",
+          "wordCount": 246
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-14",
+        "speaker": "Lauri Läänemets",
+        "excerpt": "Ja lugupeetud õppejõud rakenduskõrgkoolidest, ülikoolidest, üliõpilased nendest kõrgharidusasutustest ja loomulikult nende kõrghariduste juhid!",
+        "topic": "Riigikogu avalduse \"Kõrghariduse toetuseks\" eelnõu (894 AE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 1936
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Mart Maastik",
+      "uuid": "29068268-672d-451a-a08a-5727ec4300f4",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 148,
+      "highestRelevant": {
+        "date": "2026-04-23",
+        "speaker": "Mart Maastik",
+        "excerpt": "Kui rääkida loomade heaolust ja näiteks ka puurikanadest, siis sotsiaaldemokraadid olid väga mures.",
+        "topic": "Regionaal- ja põllumajandusministri 2026. a ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "laying_hen_cages",
+        "source": "https://stenogrammid.riigikogu.ee/202604231000",
+        "wordCount": 531
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-23",
+          "speaker": "Mart Maastik",
+          "excerpt": "Kui rääkida loomade heaolust ja näiteks ka puurikanadest, siis sotsiaaldemokraadid olid väga mures.",
+          "topic": "Regionaal- ja põllumajandusministri 2026. a ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202604231000",
+          "wordCount": 531
+        },
+        {
+          "date": "2026-09-30",
+          "speaker": "Mart Maastik",
+          "excerpt": "Usun, et iga põllumees oleks õnnelik, kui teie juhtimisel saaks põllumajanduse kliimakindlaks teha.",
+          "topic": "Kliimaseadus ja majanduse konkurentsivõime",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609301200",
+          "wordCount": 194
+        },
+        {
+          "date": "2026-06-16",
+          "speaker": "Mart Maastik",
+          "excerpt": "Mul on üle anda arupärimine regionaal- ja põllumajandusminister härra Terrasele.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606161000",
+          "wordCount": 168
+        },
+        {
+          "date": "2026-06-10",
+          "speaker": "Mart Maastik",
+          "excerpt": "Mul on üle anda arupärimine regionaal- ja põllumajandusminister härra Terrasele.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606101400",
+          "wordCount": 115
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Mart Maastik",
+        "excerpt": "No viimasel ajal televisiooni vaadates on näha, kuidas ultraliberaalne immigratsioonipoliitika Euroopas on viinud kahjuks äärmusliku noorte vägivallani ja millesse peab sekkuma isegi politsei.",
+        "topic": "Noored ja eakad",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 181
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Tiit Maran",
+      "uuid": "9d863d49-8bfb-4314-bd3c-cfa143f518c8",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 76,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Tiit Maran",
+        "excerpt": "Muuseas, protsentuaalselt on vaid Maltas rohkem puurikanu kui Eestis.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 731
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Tiit Maran",
+          "excerpt": "Muuseas, protsentuaalselt on vaid Maltas rohkem puurikanu kui Eestis.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 731
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Tiit Maran",
+          "excerpt": "Eesti juhtivad munatootjad on välja tulnud hea tahte algatusega lõpetada kanade puuris pidamine aastaks 2035.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 676
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Tiit Maran",
+          "excerpt": "Ausalt öelda ma ei oska sellele vastata, sest kui me arvestame seda, et ettevõtjad on teinud hea tahte avalduse minna 2035.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 197
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Tiit Maran",
+          "excerpt": "Poolas on praegu 98% jaekettidest teatanud lähiaastatel üleminekust täielikult puurivabade [kanade] munade müügile, 89% toitlustusest on teatanud puurikanade munadest loobumisest, ka 61% hulgimüüjatest ja …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 121
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Tiit Maran",
+        "excerpt": "Sind kuulates tuli mul meelde üks kogemus Hispaaniast, mis puudutab lastevanematele abimaterjale, kuidas nad peaksid käituma laste ja nutiseadmete vahel.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 119
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Eero Merilind",
+      "uuid": "7d6b0605-e425-41c8-9a53-3b92b81f21b1",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 30,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Eero Merilind",
+        "excerpt": "Diana Ingerainen küsis, millisel õiguslikul tasandil sätestatakse teenuse korraldust ja patsiendi teekonda käsitlevaid nõudeid.",
+        "topic": "Tervishoiuteenuste korraldamise seaduse ja Kaitseväe korralduse seaduse muutmise seaduse (tegevusloa ja registreeringuga seotud muudatused) eelnõu (1000 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 320
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Andres Metsoja",
+      "uuid": "d5f3dddb-d809-448a-a94f-adbf208e408a",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 56,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-06-10",
+          "speaker": "Andres Metsoja",
+          "excerpt": "Arupärimine on härra Terrasele, regionaal- ja põllumajandusministrile.",
+          "topic": "Istungi rakendamine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606101400",
+          "wordCount": 534
+        },
+        {
+          "date": "2026-04-23",
+          "speaker": "Andres Metsoja",
+          "excerpt": "Ma annaks teile võimaluse anda kümne punkti skaalal hinnang meie põllumajandussektori hetkeolukorrale.",
+          "topic": "Regionaal- ja põllumajandusministri 2026. a ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604231000",
+          "wordCount": 110
+        },
+        {
+          "date": "2026-03-25",
+          "speaker": "Andres Metsoja",
+          "excerpt": "Ja tegelikult see on nüüd ilmselt üks mõttekohti, et äkki ikkagi on, sest me jõuame kogu oma põllumajandussektoriga ju toidujulgeoleku teema juurde.",
+          "topic": "Põllumehed",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603251200",
+          "wordCount": 208
+        },
+        {
+          "date": "2026-03-25",
+          "speaker": "Andres Metsoja",
+          "excerpt": "Kas neljapäevase otsuse juures on ka seda klauslit arvestatud või käsitleb see otsus laiemalt kogu ühiskonda, mitte kitsalt põllumajandussektorit?",
+          "topic": "Põllumehed",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603251200",
+          "wordCount": 177
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-20",
+        "speaker": "Andres Metsoja",
+        "excerpt": "Jõukohane riik ei ole alati ei valitsejatele ega ka Riigikogu saalile väga populaarne teema, sest poliitikutel on kombeks lubada ja ettevõtjad kratsivad kukalt, et …",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610201000",
+        "wordCount": 119
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Marko Mihkelson",
+      "uuid": "58be6531-1f4b-4b0b-9c21-92566a40ae8b",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 20,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-09-30",
+        "speaker": "Marko Mihkelson",
+        "excerpt": "67 Riigikogu liikme poolt algatatud avalduse eelnõu \"Ukraina võidu ja Euroopa julgeoleku tagamiseks\" on äärmiselt ajakohane.",
+        "topic": "Riigikogu avalduse \"Ukraina võidu ja Euroopa julgeoleku tagamiseks\" eelnõu (1015 AE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609301400",
+        "wordCount": 1542
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Tõnis Mölder",
+      "uuid": "d7d9e4d7-699e-4038-83c3-d13369f644c9",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 56,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-01",
+        "speaker": "Tõnis Mölder",
+        "excerpt": "septembril andis samamoodi eelnõu algataja Toomas Uibo sellest teemast meile ülevaate.",
+        "topic": "Liiklusseaduse muutmise seaduse eelnõu (911 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609301400",
+        "wordCount": 140
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Hanno Pevkur",
+      "uuid": "cf42a56a-b91a-4a51-913b-a489305326a2",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 0,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": null,
+      "quoteStatus": "no_2026_quote_found"
+    },
+    {
+      "name": "Heljo Pikhof",
+      "uuid": "b5922bb2-56bb-4de6-a7e1-754553191c27",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 106,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Heljo Pikhof",
+        "excerpt": "Te küll mainisite seda, et komisjonis on olnud sellel teemal kaks istungit, ja ütlesite ka seda, et puurivabadele süsteemidele üleminek läheb maksma umbes 50 …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 55
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Heljo Pikhof",
+          "excerpt": "Te küll mainisite seda, et komisjonis on olnud sellel teemal kaks istungit, ja ütlesite ka seda, et puurivabadele süsteemidele üleminek läheb maksma umbes 50 …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 55
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Heljo Pikhof",
+          "excerpt": "Kui me kasse ja koeri niimoodi kohtleks, nagu me täna puurikanu kohtleme, siis sellele järgneks karistus.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 43
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-20",
+        "speaker": "Heljo Pikhof",
+        "excerpt": "Teatavasti haige inimene ei saa oma ravi edasi lükata seni, kuni valitsuse eelarve numbrid paremad välja näevad.",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610201000",
+        "wordCount": 77
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Õnne Pillak",
+      "uuid": "8d9daaeb-dbaf-4887-8311-881b29bedfa9",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 77,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Õnne Pillak",
+        "excerpt": "See teema on, ma arvan, meil kõigil hinge peal ja kunagi ei saa liiga palju teha.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 1072
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Siim Pohlak",
+      "uuid": "d8b9f165-31aa-46a4-8dbd-964cbe89cfb8",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 86,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-03-16",
+          "speaker": "Siim Pohlak",
+          "excerpt": "jaanuaril üle arupärimise, mille põhjuseks oli regionaal- ja põllumajandusministri väljendatud soov kehtestada maakonnaliinidel pensionäridele ja lastele kuukaarditasu.",
+          "topic": "Arupärimine kavatsuse kohta kehtestada ühistranspordile maakonnaliinidel kuukaarditasu pensionäridele ja lastele (nr 895)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603161500",
+          "wordCount": 315
+        },
+        {
+          "date": "2026-03-16",
+          "speaker": "Siim Pohlak",
+          "excerpt": "Ma saan aru, et te mõtlesite järele ja tegite ka regionaal- ja põllumajandusministrile asja selgeks.",
+          "topic": "Arupärimine kavatsuse kohta kehtestada ühistranspordile maakonnaliinidel kuukaarditasu pensionäridele ja lastele (nr 895)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603161500",
+          "wordCount": 146
+        },
+        {
+          "date": "2026-01-26",
+          "speaker": "Siim Pohlak",
+          "excerpt": "Te olete siin vastanud mitmetele maaelu ja põllumajanduse hääbumise pärast muretsejatele, et kõik läheb paremaks, euroraha tuleb muudkui peale, et toidujulgeoleku pärast ka ei …",
+          "topic": "33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes Terrasele",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202601261500",
+          "wordCount": 171
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Siim Pohlak",
+        "excerpt": "Ka Eesti inimesed näevad viimastel aastatel, kuidas ravijärjekorrad pikenevad, pidevalt ka perearstid kurdavad, et tegelikult nad ei tule toime ka sisserändajate vooluga.",
+        "topic": "Tervishoiuteenuste korraldamise seaduse ja Kaitseväe korralduse seaduse muutmise seaduse (tegevusloa ja registreeringuga seotud muudatused) eelnõu (1000 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 134
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Anti Poolamets",
+      "uuid": "bc9c1725-2fd8-4f54-a0e3-58b87e9dfe1f",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 242,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Anti Poolamets",
+        "excerpt": "Mis tänast teemat puudutab, siis need, kes sooviksid õiglast lähenemist antud teemal, peaks ju mõtlema hoopis sellele, et puurikanade munade müümine tuleks keelata.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 109
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Anti Poolamets",
+          "excerpt": "Mis tänast teemat puudutab, siis need, kes sooviksid õiglast lähenemist antud teemal, peaks ju mõtlema hoopis sellele, et puurikanade munade müümine tuleks keelata.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 109
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Anti Poolamets",
+          "excerpt": "Ma võin sulle …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 4
+        },
+        {
+          "date": "2026-06-03",
+          "speaker": "Anti Poolamets",
+          "excerpt": "Tegelikult on nad totalitaristliku maksu kehtestanud, kaaperdanud tagaukse kaudu liikmesriikide maksu kehtestamise õiguse, [kehtestanud maksu] tööstustele, autodele, toitudele, põllumajandusele – läbivalt kõikidele eluvaldkondadele.",
+          "topic": "Atmosfääriõhu kaitse seaduse muutmise seaduse eelnõu (839 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606031400",
+          "wordCount": 102
+        },
+        {
+          "date": "2026-04-13",
+          "speaker": "Anti Poolamets",
+          "excerpt": "Praegu võitlevad põllumehed selle eest, et saada päriselt endale põllumajanduse arendamiseks mõeldud raha.",
+          "topic": "Arupärimine riigivara kahjustamise kohta looduskaitse- ja kliimapoliitika meetmete rakendamisel (nr 936)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604131500",
+          "wordCount": 404
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Anti Poolamets",
+        "excerpt": "Minu meelest siin on just tegu juhtumiga, kus hakatakse lahendama probleemi, mida ei eksisteeri.",
+        "topic": "Kaitseliidu seaduse ja kaitseväeteenistuse seaduse muutmise seaduse (välisriigi kodanike riigikaitsesse kaasamine) eelnõu (962 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 508
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Evelin Poolamets",
+      "uuid": "afc264da-dc7d-4885-a971-0e645995e6de",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 238,
+      "highestRelevant": {
+        "date": "2026-01-26",
+        "speaker": "Evelin Poolamets",
+        "excerpt": "Tootmissisendite hinnad on järsult kasvanud, rohepöörde nõuded karmistuvad, ÜPP toetusi ähvardab ligi 30% ulatuses kärbe ning samal ajal ujutab siseturu üle odav import, mis …",
+        "topic": "33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes Terrasele",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202601261500",
+        "wordCount": 57
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-01-26",
+          "speaker": "Evelin Poolamets",
+          "excerpt": "Tootmissisendite hinnad on järsult kasvanud, rohepöörde nõuded karmistuvad, ÜPP toetusi ähvardab ligi 30% ulatuses kärbe ning samal ajal ujutab siseturu üle odav import, mis …",
+          "topic": "33 Riigikogu liikme esitatud kirjalik nõue umbusalduse avaldamiseks regionaal- ja põllumajandusminister Hendrik Johannes Terrasele",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202601261500",
+          "wordCount": 57
+        },
+        {
+          "date": "2026-03-11",
+          "speaker": "Evelin Poolamets",
+          "excerpt": "Nüüd on regionaal- ja põllumajandusminister Hendrik Johannes Terras käinud välja plaani, et seni maakonnabussides tasuta sõitnud lapsed ja pensionärid peaksid tulevikus ostma kuukaardi või …",
+          "topic": "Mootorsõidukimaksu seaduse kehtetuks tunnistamise ja liiklusseaduses sõiduautode registreerimistasu kehtetuks tunnistamise seaduse eelnõu (782 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603111400",
+          "wordCount": 75
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Evelin Poolamets",
+        "excerpt": "Kõik, mis puudutab Rail Balticut, on, ma arvan, väga paljudele inimestele arusaamatu.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 72
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Henn Põlluaas",
+      "uuid": "65b1d8bb-7f45-48f5-b4aa-7ba4ca459824",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 115,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-19",
+        "speaker": "Henn Põlluaas",
+        "excerpt": "Mul on au esitada peaaegu veerandi Riigikogu liikmete nimel arupärimine varitseva õhuründemoona raamlepingu kohta.",
+        "topic": "Arupärimine \"Varitseva õhuründemoona raamlepingu\" kohta (nr 1046)",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 389
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Juku-Kalle Raid",
+      "uuid": "a5d17c31-61e5-4e45-87b0-5834b6728fe6",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 12,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-15",
+        "speaker": "Juku-Kalle Raid",
+        "excerpt": "Aga see on ju täiesti ajuvaba, kui keegi vaevleb kuskil ja kiirabi peab ootama Päästeametit.",
+        "topic": "Päästeseaduse ja teiste seaduste muutmise seaduse eelnõu (989 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 35
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Mati Raidma",
+      "uuid": "410c0030-7bcd-4977-85c2-27af3439770f",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 6,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-06-02",
+        "speaker": "Mati Raidma",
+        "excerpt": "Ajaloo huvides on oluline ära markeerida selle eelnõu arvestatavalt pikk ajalugu.",
+        "topic": "Kriisiolukorra ja riigikaitse seaduse eelnõu (668 SE) kolmas lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202606021000",
+        "wordCount": 337
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Reili Rand",
+      "uuid": "988995d4-3cbe-4ea7-acdd-6222d0b658b1",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 185,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Reili Rand",
+        "excerpt": "Te olete ise rõhutanud, et enamik munatootjaid on juba ise valmis minema vabapidamise peale üle.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 130
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Reili Rand",
+          "excerpt": "Te olete ise rõhutanud, et enamik munatootjaid on juba ise valmis minema vabapidamise peale üle.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 130
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Reili Rand",
+          "excerpt": "Me tarbijatena saame tegelikult juba täna igaüks teha teadliku valiku ja eelistada jaekettides vabapidamisel kanade mune, aga selle eelnõu üks oluline tahk on tõesti …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 97
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Reili Rand",
+          "excerpt": "Aga et ka kolleegidel ja teistel, kes seda menetlust võib-olla jälgivad, ei jääks muljet, et kõik loomakaitseorganisatsioonid on üheselt kõnealuse eelnõu vastu, siis ma …",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 320
+        },
+        {
+          "date": "2026-10-14",
+          "speaker": "Reili Rand",
+          "excerpt": "Seetõttu on põhjendatud kehtestada kasside rühma suurusele selge ennetav piirang, sealhulgas kaaluda kuue kassi ülempiiri, ning tagada, et suuremate rühmade puhul hinnatakse eraldi ruumi …",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 232
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Reili Rand",
+        "excerpt": "Mul on hea meel teile tutvustada pühade ja tähtpäevade seaduse muutmise seaduse eelnõu.",
+        "topic": "Pühade ja tähtpäevade seaduse ning Eesti lipu seaduse muutmise seaduse eelnõu (939 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 837
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Valdo Randpere",
+      "uuid": "966e7ccd-b097-4e49-923c-c8d39dae2d62",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 94,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Valdo Randpere",
+        "excerpt": "Möödunud nädalal andisid Reformierakonna fraktsioon ja Eesti 200 fraktsioon sisse seaduseelnõu, mis annaks sünnijärgsetele Eesti kodanikele võimaluse omandada ka topeltkodakondsus meile sõbralike riikide kodakondsuste …",
+        "topic": "Segadus valitsuskabinetis",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 207
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Marek Reinaas",
+      "uuid": "798de8ee-0587-4543-aa2e-89c3f6c8f914",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 45,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Marek Reinaas",
+        "excerpt": "septembril toimus majanduskomisjonis istung, kus me arutasime selle eelnõu esimesele lugemisele saatmist Riigikogu saali.",
+        "topic": "Võlaõigusseaduse ja teiste seaduste muutmise seaduse (uue tarbijakrediidi direktiivi ülevõtmine) eelnõu (947 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 486
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Urmas Reinsalu",
+      "uuid": "a78027e5-2480-49f2-a340-ee88daf92d53",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 418,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-09-23",
+          "speaker": "Urmas Reinsalu",
+          "excerpt": "Põllumajandus- ja regionaalminister sisuliselt ju tunnistas seda, et kõnealune rahastus väheneb kolm korda.",
+          "topic": "Kalapüügiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (887 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609231400",
+          "wordCount": 536
+        },
+        {
+          "date": "2026-09-23",
+          "speaker": "Urmas Reinsalu",
+          "excerpt": "Ja teiseks, kui sa ütled, et raha tegelikult ei vähendatudki nii palju, nagu põllumajandusminister rahvusringhäälingus oma manifestilaadses dokumendis väitis, siis kui palju seda ikkagi …",
+          "topic": "Kalapüügiseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (887 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609231400",
+          "wordCount": 131
+        },
+        {
+          "date": "2026-06-17",
+          "speaker": "Urmas Reinsalu",
+          "excerpt": "Milline on regionaalministeeriumi – ma ei tea, miks meil põllumajandusministeerium tegeleb postiga, aga jumal sellega – taotlus, konkreetselt, mida meie ametist lahkuv valitsus ette …",
+          "topic": "Postiseaduse, konkurentsiseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (781 SE) kolmas lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606171400",
+          "wordCount": 840
+        },
+        {
+          "date": "2026-05-20",
+          "speaker": "Urmas Reinsalu",
+          "excerpt": "Ma küsisin selle kohta Regionaal‑ ja Põllumajandusministeeriumi esindajatelt, kes omavalitsuste valdkonnaga tegelevad, ka minister Terraselt, aga ega ma sisulist vastust ei saanud.",
+          "topic": "Kriisiolukorra ja riigikaitse seaduse eelnõu (668 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605201400",
+          "wordCount": 856
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-20",
+        "speaker": "Urmas Reinsalu",
+        "excerpt": "Loomulikult ei ole see mitte riigi intressikulude maksmine, mis on eraldi rida riigivalitsemise programmi all.",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610201000",
+        "wordCount": 125
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Signe Riisalo",
+      "uuid": "0e66e826-df65-4fdd-a098-66a7e9a7c911",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 131,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Signe Riisalo",
+        "excerpt": "See arutelu oli tingitud asjaolust, et meil on käesoleva aasta 14.",
+        "topic": "Perehüvitiste seaduse muutmise seaduse eelnõu (1022 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 661
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Maido Ruusmann",
+      "uuid": "d4effc9d-0aee-4450-9926-5246efcda08c",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 5,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-05-13",
+          "speaker": "Maido Ruusmann",
+          "excerpt": "Nr 829, Vabariigi Valitsuse algatatud Euroopa Ühenduste Komisjoni, kes esindab Euroopa Ühendust, ja Eesti Vabariigi vahel sõlmitud Eesti Vabariigis põllumajanduse ja maaelu arendamise liitumiseelse …",
+          "topic": "Euroopa Ühenduste Komisjoni, kes esindab Euroopa Ühendust, ja Eesti Vabariigi vahel sõlmitud Eesti Vabariigis põllumajanduse ja maaelu arendamise liitumiseelse programmi mitmeaastase rahastuslepingu ratifitseerimise seaduse muutmise seaduse eelnõu (829 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605131400",
+          "wordCount": 97
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Maido Ruusmann",
+          "excerpt": "[Tänane teema on] põllumajandus ja toidutootmine kui Eesti jaoks strateegiliselt tähtis majandusharu.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 357
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Maido Ruusmann",
+          "excerpt": "Igal juhul maaelu vaatest, ma arvan, on nii tänane arutelu siin kui ka põllumajandusettevõtjate väljatulek hästi oluline ja vajalik.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 235
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Maido Ruusmann",
+          "excerpt": "Lisaks maaelukomisjoni liikmetele olid kohale kutsutud Regionaal- ja Põllumajandusministeeriumi biomajanduse asekantsler Madis Pärtel ja õigusosakonna nõunik Jaana Lepik.",
+          "topic": "Euroopa Ühenduste Komisjoni, kes esindab Euroopa Ühendust, ja Eesti Vabariigi vahel sõlmitud Eesti Vabariigis põllumajanduse ja maaelu arendamise liitumiseelse programmi mitmeaastase rahastuslepingu ratifitseerimise seaduse muutmise seaduse eelnõu (829 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181400",
+          "wordCount": 317
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-04-15",
+        "speaker": "Maido Ruusmann",
+        "excerpt": "Selle liiklusseaduse muutmise näol on kahtlemata tegemist majanduslikult kasuliku, keskkonda hoidva ja liiklusohutust suurendava muudatusega.",
+        "topic": "Liiklusseaduse muutmise seaduse eelnõu (798 SE) kolmas lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202604151400",
+        "wordCount": 234
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Stig Rästa",
+      "uuid": "6434e7ab-6aba-4945-9812-e7a2e7c8bf3f",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 8,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Stig Rästa",
+        "excerpt": ") Kui me vaatame seda klotsi siin käes, siis siiapoole jääb meil ekraan ja siin taga on sajad miljardid dollarid, sajad tuhanded inimesed, kes …",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 383
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Kersti Sarapuu",
+      "uuid": "caea357b-12c0-4069-b53e-89f69f517212",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 9,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-09-30",
+        "speaker": "Kersti Sarapuu",
+        "excerpt": "Vastavalt Riigikontrolli seaduse §-le 5 määrab audiitori Riigikontrolli eelarveaasta tegevuse kontrollimiseks rahanduskomisjoni ettepanekul Riigikogu.",
+        "topic": "Riigikogu otsuse \"Audiitori nimetamine Riigikontrolli 2026.–2028. aasta tegevuse kontrollimiseks\" eelnõu (1014 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609301400",
+        "wordCount": 182
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Helir-Valdor Seeder",
+      "uuid": "23161df7-bc1b-442e-b4cd-2d1f37627658",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 216,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-04-06",
+          "speaker": "Helir-Valdor Seeder",
+          "excerpt": "Nüüd ühistranspordi arengukavast, mis ei puuduta ainult tänast ministrit, vaid puudutab ka regionaal- ja põllumajandusministrit ja mitmeid teisi ministreid, kes räägivad, et ühistranspordi arengukava …",
+          "topic": "Arupärimine Rail Balticu kohalike peatuste asukohtade kohta (nr 955)",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604061500",
+          "wordCount": 1054
+        },
+        {
+          "date": "2026-03-25",
+          "speaker": "Helir-Valdor Seeder",
+          "excerpt": "Ma loodan, et teie oskate vastata, kas sellised plaanid on ja kas põllumajandus- ja regionaalminister on sellise taotluse või ettepanekuga ka valitsusse tulnud.",
+          "topic": "Põllumehed",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603251200",
+          "wordCount": 151
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Helir-Valdor Seeder",
+          "excerpt": "Põllumeeste rahastamise küsimuses teatas rahandusminister Jürgen Ligi, et see raha, nii nagu Euroopa Komisjon seda järgmiseks perioodiks on arvestanud, ei peaks kõik sihtotstarbeliselt põllumajandussektorisse …",
+          "topic": "Riigikogu otsuse \"Riigikogu uurimiskomisjoni moodustamine politseijuhtide kriminaalmenetluse ja sellele eelnenud Kaitsepolitseiameti tegevuse õigusriigi põhimõtetele vastavuse uurimiseks\" eelnõu (790 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181400",
+          "wordCount": 654
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Helir-Valdor Seeder",
+          "excerpt": "Minu küsimus puudutab ka põllumajandust, mida siin kolleegid varasemalt juba puudutasid.",
+          "topic": "Valitsuse poliitika",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181200",
+          "wordCount": 266
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Helir-Valdor Seeder",
+        "excerpt": "Minu küsimus puudutab noorte ja eakate kodanike teemat ja on jätk meie eelneva kodakondsuse küsimuse arutelule.",
+        "topic": "Noored ja eakad",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 288
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Andrus Seeme",
+      "uuid": "fd57045c-5dde-4c26-bf60-e5c294da0e4c",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 11,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-09-16",
+          "speaker": "Andrus Seeme",
+          "excerpt": "Kohal oli regionaal- ja põllumajandusminister Hendrik Johannes Terras, osakonnajuhataja ja kaks valdkonnajuhti, kes andsid ülevaate.",
+          "topic": "Taimekaitseseaduse muutmise seaduse eelnõu (919 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202609161400",
+          "wordCount": 88
+        },
+        {
+          "date": "2026-04-23",
+          "speaker": "Andrus Seeme",
+          "excerpt": "On see põllumajandus, seakasvatus ja nii edasi?",
+          "topic": "Regionaal- ja põllumajandusministri 2026. a ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604231000",
+          "wordCount": 49
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Andrus Seeme",
+        "excerpt": "septembriks ei laekunud ühtegi muudatusettepanekut Riigikogu liikmetelt, fraktsioonidelt ega teistelt komisjonidelt.",
+        "topic": "Taimekaitseseaduse muutmise seaduse eelnõu (919 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 137
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Priit Sibul",
+      "uuid": "8940964b-6bfd-482d-a4f5-53f2cccb149d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 113,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Priit Sibul",
+        "excerpt": "Täna oli siin maja ees [aktsioon] ja ma olen saanud terve nädala kirju eri inimestelt, kes seovad ennast organisatsiooniga, kus toetatakse puurikanade pidamise lõpetamist.",
+        "topic": "Erakonnaseaduse ja krediidiasutuste seaduse muutmise seaduse eelnõu (585 SE) teine lugemine",
+        "category": "laying_hen_cages",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 540
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Priit Sibul",
+          "excerpt": "Täna oli siin maja ees [aktsioon] ja ma olen saanud terve nädala kirju eri inimestelt, kes seovad ennast organisatsiooniga, kus toetatakse puurikanade pidamise lõpetamist.",
+          "topic": "Erakonnaseaduse ja krediidiasutuste seaduse muutmise seaduse eelnõu (585 SE) teine lugemine",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 540
+        },
+        {
+          "date": "2026-04-23",
+          "speaker": "Priit Sibul",
+          "excerpt": "Vaatame näiteks Euroopas planeeritavaid loomade heaolu nõudeid ja seda, kuidas meil osa elusloomi liigub välja ja nii edasi, vaatame, kus me geograafiliselt oleme – …",
+          "topic": "Regionaal- ja põllumajandusministri 2026. a ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202604231000",
+          "wordCount": 147
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Priit Sibul",
+          "excerpt": "Ma tahtsin lihtsalt eilsete ja tänaste uudiste valguses küsida selle kohta, et põllumajandus- ja regionaalministrile on ette heidetud, et ta hakkab homme iseennast ründama.",
+          "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele toiduainete käibemaksu langetamiseks 9-le protsendile\" eelnõu (783 OE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181400",
+          "wordCount": 119
+        },
+        {
+          "date": "2026-03-18",
+          "speaker": "Priit Sibul",
+          "excerpt": "Nüüd ma tulen tagasi Heliri esimese küsimuse juurde ja ka tänase infotunni esimese [küsimuse] juurde, mis puudutas põllumajandustoetusi, täiendavat 546 miljonit ja umbes pooltteist …",
+          "topic": "Valitsuse poliitika",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603181200",
+          "wordCount": 109
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Priit Sibul",
+        "excerpt": "Minu küsimus on ka täiendavalt ja me ise tekitame endale täiendavat julgeolekuohtu.",
+        "topic": "Eesti julgeolek",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211200",
+        "wordCount": 180
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Pipi-Liis Siemann",
+      "uuid": "9035e217-d990-40ca-87ed-54c77653c6d7",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 44,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-01-14",
+          "speaker": "Pipi-Liis Siemann",
+          "excerpt": "detsembril ning lisaks komisjoni liikmetele osalesid istungitel algataja ehk Regionaal- ja Põllumajandusministeeriumi esindajad.",
+          "topic": "Kohaliku omavalitsuse korralduse seaduse ja sellega seonduvate seaduste muutmise seaduse eelnõu (688 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202601141400",
+          "wordCount": 222
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Pipi-Liis Siemann",
+        "excerpt": "oktoobril teiseks lugemiseks ette Vabariigi Valitsuse algatatud isikut tõendavate dokumentide seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu.",
+        "topic": "Isikut tõendavate dokumentide seaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (905 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 200
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Riina Sikkut",
+      "uuid": "76c477e6-4b49-4d49-ad7b-a4853182a1da",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 245,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Riina Sikkut",
+        "excerpt": "Kui puurikanade osakaalu vähenemine toimuks iseenesest, siis meil ei oleks seda seadust vaja.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 139
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Riina Sikkut",
+          "excerpt": "Kui puurikanade osakaalu vähenemine toimuks iseenesest, siis meil ei oleks seda seadust vaja.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 139
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Riina Sikkut",
+          "excerpt": "Kas sa tead mingit põhjust, miks loomade heaolu küsimuses meil sellist selget sihti vaja ei ole?",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 138
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Riina Sikkut",
+          "excerpt": "Toetus puurikanade pidamise lõpetamisele on veel kõrgem, aga valitsus ei näe …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 12
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Riina Sikkut",
+          "excerpt": "… vajadust tegutseda. Miks?",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 4
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Riina Sikkut",
+        "excerpt": "Ma ka tunnistan, et siin lapsed kasvavad hoopis digiteadlikumas ja nutimaailmas üles kui lapsevanemad.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 138
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Kalev Stoicescu",
+      "uuid": "987e47c7-929b-4437-9385-fab4f4fd7824",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 57,
+      "highestRelevant": {
+        "date": "2026-10-14",
+        "speaker": "Kalev Stoicescu",
+        "excerpt": "Kuidas me saaksime paremini julgustada loomakaitseorganisatsioone, et nad ka omavahel saaksid paremini läbi ja oleks suurem kooskõla nende vahel?",
+        "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+        "category": "animal_welfare",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 131
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-10-14",
+          "speaker": "Kalev Stoicescu",
+          "excerpt": "Kuidas me saaksime paremini julgustada loomakaitseorganisatsioone, et nad ka omavahel saaksid paremini läbi ja oleks suurem kooskõla nende vahel?",
+          "topic": "Loomakaitseseaduse ja veterinaarseaduse muutmise seaduse eelnõu (899 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202610141400",
+          "wordCount": 131
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-20",
+        "speaker": "Kalev Stoicescu",
+        "excerpt": "Peaminister Michal teatas eile kõnepuldis – seal, kus teie praegu seisate –, et nii kaua, kui tema on peaminister, on pensionide indekseerimine kaitstud.",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610201000",
+        "wordCount": 130
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Timo Suslov",
+      "uuid": "0f9372ee-f108-47f9-9192-82ff84cf3efb",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 18,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-15",
+        "speaker": "Timo Suslov",
+        "excerpt": "septembril käesoleval aastal ja mõnevõrra teine ettekandja küll, aga sisu on sama, et Riigikogu liikme palk oleks tema osalemisega seotud.",
+        "topic": "Riigikogu liikme staatuse seaduse muutmise seaduse eelnõu (943 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 216
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Margit Sutrop",
+      "uuid": "ee639cdf-b86c-48b7-9b34-fbba9b83826d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 71,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-06-10",
+          "speaker": "Margit Sutrop",
+          "excerpt": "Komisjon kuulas ära Haridus- ja Teadusministeeriumi, Majandus- ja Kommunikatsiooniministeeriumi, Regionaal- ja Põllumajandusministeeriumi ning Keeleameti seisukohad.",
+          "topic": "Keeleseaduse, riigilõivuseaduse ning põhikooli- ja gümnaasiumiseaduse muutmise seaduse eelnõu (740 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606101400",
+          "wordCount": 871
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Margit Sutrop",
+        "excerpt": "See teema, mille kohta te praegu ettekande tegite, on ülimalt tähtis ja mulle ka väga südamelähedane.",
+        "topic": "Riigikogu otsuse \"Ettepaneku tegemine Vabariigi Valitsusele töötada välja meetmed laste ja noorte vaimse tervise abi kättesaadavuse parandamiseks ning lapsevanemate toetamiseks nutiseadmete ja sotsiaalmeedia kasutuse piiramisel\" eelnõu (977 OE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 128
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Andres Sutt",
+      "uuid": "8e9879fd-2967-45ca-892b-42e927b22d75",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 0,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": null,
+      "quoteStatus": "no_2026_quote_found"
+    },
+    {
+      "name": "Aivar Sõerd",
+      "uuid": "5650dddf-f2ca-4b94-8888-e7482808f81b",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 50,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Aivar Sõerd",
+        "excerpt": "Me peaksime ikkagi natukene mõtlema, kuidas sellised asjad eelarve baasseaduse tasemel ära lahendada, et Riigikogu otsustaks summade üle, mis on vähemalt ümardatud, alla 1000 …",
+        "topic": "Riigi 2026. aasta teise lisaeelarve seaduse eelnõu (1019 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 111
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Kristina Šmigun-Vähi",
+      "uuid": "28e48bd7-9f1f-4d6a-b40c-9c6ff6d445e5",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 25,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-06-11",
+          "speaker": "Kristina Šmigun-Vähi",
+          "excerpt": "Regionaal- ja Põllumajandusministeerium esitas eelnõu kohta ka täiendavad ettepanekud.",
+          "topic": "Postiseaduse, konkurentsiseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (781 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606101400",
+          "wordCount": 286
+        },
+        {
+          "date": "2026-06-11",
+          "speaker": "Kristina Šmigun-Vähi",
+          "excerpt": "Nii nagu regionaal- ja põllumajandusminister meile esimesel kohtumisel ütles, kuni 2028.",
+          "topic": "Postiseaduse, konkurentsiseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (781 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202606101400",
+          "wordCount": 21
+        },
+        {
+          "date": "2026-02-10",
+          "speaker": "Kristina Šmigun-Vähi",
+          "excerpt": "Regionaal- ja põllumajandusminister Hendrik Johannes Terras ning Regionaal- ja Põllumajandusministeeriumi esindajad andsid ülevaate eelnõu eesmärkidest, keskendudes universaalse postiteenuse muutmisele kulupõhiseks ja teenuse pikaajalisele jätkusuutlikkusele.",
+          "topic": "Postiseaduse, konkurentsiseaduse ja riigilõivuseaduse muutmise seaduse eelnõu (781 SE) esimene lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202602101000",
+          "wordCount": 264
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-09-16",
+        "speaker": "Kristina Šmigun-Vähi",
+        "excerpt": "Kõigepealt ma tõesti tänan teid: alati, kui ma helistan, saan ma vastuse, isegi siis, kui te kohe vastata ei oska.",
+        "topic": "Kultuuriministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest (sealhulgas \"Eesti spordipoliitika põhialused aastani 2030\" elluviimisest)",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609161400",
+        "wordCount": 102
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Kadri Tali",
+      "uuid": "2bc608c1-1c67-4db8-968b-94bc3947dfac",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 14,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-14",
+        "speaker": "Kadri Tali",
+        "excerpt": "Ma arvan, et kui kultuurikomisjonis eelnõu arutades oleks seda esitatud sellisel kujul, nagu see täna meie ette rullus ja kujunes, siis üksmeel ei oleks …",
+        "topic": "Riigikogu avalduse \"Kõrghariduse toetuseks\" eelnõu (894 AE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 458
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Peeter Tali",
+      "uuid": "b6f8dff5-7c69-4d4c-b978-be0a2ad6e161",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 73,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Peeter Tali",
+        "excerpt": "Mitte see majade soojustamise osa – ma arvan, et see on täitsa okei.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 703
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Tarmo Tamm",
+      "uuid": "236e49d6-eecb-4562-8ad4-bedd586bb149",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 5,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-05-20",
+        "speaker": "Tarmo Tamm",
+        "excerpt": "Täna arutleme eelnõu üle, mille kõige olulisem mõte on lihtne: kui Eestisse tahetakse rajada tootmist, teha suuri investeeringuid või tuua siia uut tööstust, siis …",
+        "topic": "Planeerimisseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse (strateegiliste investeeringute ekspressrada) eelnõu (906 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202605201400",
+        "wordCount": 424
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Tanel Tein",
+      "uuid": "4f816f8e-1501-4940-b87a-af029fcd98c0",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 53,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-06-04",
+        "speaker": "Tanel Tein",
+        "excerpt": "Ja veel suurem tänu kõigile tänastele esinejatele ja ettekandjatele, kes sellise üliolulise teema Riigikogu saali tõid!",
+        "topic": "Olulise tähtsusega riikliku küsimuse \"Laste kehalise aktiivsuse tõstmine vaimse ja füüsilise tervise parandamiseks\" arutelu",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202606041000",
+        "wordCount": 573
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Urve Tiidus",
+      "uuid": "0c571754-914d-406a-baba-6734212353de",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 70,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-04-23",
+          "speaker": "Urve Tiidus",
+          "excerpt": "Tuleb sada protsenti nõus olla, et toidujulgeolek on tihedalt põimitud regionaalarenguga, nagu te oma ettekandes ka kinnitasite.",
+          "topic": "Regionaal- ja põllumajandusministri 2026. a ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202604231000",
+          "wordCount": 68
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Urve Tiidus",
+          "excerpt": "Mida teie kui ettevõtete kogenud rajaja ütleksite ühele noorele põllumehele, kes tegutseb põllumajanduses ja ühtäkki tajub, et oleks vaja tootmist suurendada?",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 73
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Urve Tiidus",
+          "excerpt": "Põllumajandustoodangu väärtuselt ühe hektari põllumajandusmaa kohta me oleme Euroopa Liidus tagapool.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 63
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Urve Tiidus",
+        "excerpt": "Vesi on maailmas üks kõige hinnalisemaid ja väga paljudes kohtades ka üsna keeruliselt kättesaadavaid ressursse.",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 78
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Madis Timpson",
+      "uuid": "429e71ce-d5ba-4617-8db4-d546482d43bc",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 57,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-01",
+        "speaker": "Madis Timpson",
+        "excerpt": "Peale ministri oli meil kohal ministeeriumi karistusõiguse ja menetluse talituse nõunik Anna Leena Neering.",
+        "topic": "Karistusseadustiku, kriminaalmenetluse seadustiku ja väärteomenetluse seadustiku muutmise seaduse eelnõu (934 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610011000",
+        "wordCount": 863
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Vilja Toomast",
+      "uuid": "7b6823ed-96f9-462b-b931-3dd4faceb09e",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 43,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-01",
+        "speaker": "Vilja Toomast",
+        "excerpt": "Õiguskomisjon valmistas Vabariigi Valitsuse algatatud kriminaalmenetluse seadustiku muutmise seaduse (rahvusvahelise koostöö lihtsustamine) eelnõu 933 esimeseks lugemiseks ette oma käesoleva aasta esmaspäevasel, 14.",
+        "topic": "Kriminaalmenetluse seadustiku muutmise seaduse (rahvusvahelise koostöö lihtsustamine) eelnõu (933 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610011000",
+        "wordCount": 397
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Aleksandr Tšaplõgin",
+      "uuid": "fe6fcd51-6911-4dc6-9232-ddeac5ec1155",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 93,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-19",
+        "speaker": "Aleksandr Tšaplõgin",
+        "excerpt": "Veel kuu aega tagasi väitsite, et Rail Baltic on valmis aastaks 2030.",
+        "topic": "34 Riigikogu liikme kirjalik nõue umbusalduse avaldamiseks Vabariigi Valitsusele",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610191500",
+        "wordCount": 78
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Toomas Uibo",
+      "uuid": "d0d7a6a5-25de-40d0-b5df-09575a7c9bfc",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 30,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Toomas Uibo",
+        "excerpt": "Tänase eelnõu valguses on meil ka selge üleskutse nii sellele saalile kui ka kogu Eesti elanikkonnale, et kui vähegi võimalik, siis ärge ostke puurikanade …",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 661
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Toomas Uibo",
+          "excerpt": "Tänase eelnõu valguses on meil ka selge üleskutse nii sellele saalile kui ka kogu Eesti elanikkonnale, et kui vähegi võimalik, siis ärge ostke puurikanade …",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 661
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Toomas Uibo",
+          "excerpt": "Soovitakse ühelt poolt madalat toidu hinda ja teiselt poolt suurt loomade heaolu, samuti on nõuded toidutootmisele paljuski konkurentsi piiravad.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 94
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Toomas Uibo",
+          "excerpt": "Tegelikult algab toidujulgeolek mitte ladudest, vaid tootmisest: põllult, laudast, merelt ja toidutööstusest.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 586
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-01",
+        "speaker": "Toomas Uibo",
+        "excerpt": "Selle öötöö või töö-öö lõpetuseks üks hästi lihtne ja konkreetne eelnõu, 911 SE, mille eesmärk on lubada mootorrattad bussirajale.",
+        "topic": "Liiklusseaduse muutmise seaduse eelnõu (911 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202609301400",
+        "wordCount": 54
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Kristo Enn Vaga",
+      "uuid": "1600fe77-4b45-44ab-972a-181a5ef71767",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 10,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Kristo Enn Vaga",
+        "excerpt": "Lisaks arutasime seda ka mitteametlikult eile koos kapo peadirektor Margo Pallosoniga.",
+        "topic": "Kaitseliidu seaduse ja kaitseväeteenistuse seaduse muutmise seaduse (välisriigi kodanike riigikaitsesse kaasamine) eelnõu (962 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 253
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Jaak Valge",
+      "uuid": "54bc0d5b-7c98-4245-8682-4a3a0b6e0275",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 53,
+      "highestRelevant": {
+        "date": "2026-04-22",
+        "speaker": "Jaak Valge",
+        "excerpt": "Ma ei kahtle teie pädevuses selle teema puhul, aga mul on selline laiem, nihukene metafüüsilisem küsimus.",
+        "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+        "category": "cage_bill_debate",
+        "source": "https://stenogrammid.riigikogu.ee/202604221400",
+        "wordCount": 85
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-04-22",
+          "speaker": "Jaak Valge",
+          "excerpt": "Ma ei kahtle teie pädevuses selle teema puhul, aga mul on selline laiem, nihukene metafüüsilisem küsimus.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 85
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Jaak Valge",
+          "excerpt": "Teatavasti oli see eelnõu plaanis esialgu esitada valitsuse eelnõuna, aga valitsuses jäi see mingil põhjusel peaministril päevakorda panemata ja see takerdus.",
+          "topic": "Loomakaitseseaduse muutmise seaduse eelnõu (828 SE) esimene lugemine",
+          "category": "cage_bill_debate",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 62
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-14",
+        "speaker": "Jaak Valge",
+        "excerpt": "Küllap me siin saalis räägime üsna tihti demokraatiast ja õigusriigist, aga demokraatia aluseks ei ole ikkagi midagi muud kui ausad valimised.",
+        "topic": "Riigikogu valimise seaduse ja teiste seaduste muutmise seaduse eelnõu (904 SE) esimene lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 506
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Varro Vooglaid",
+      "uuid": "b5e0d7fe-b784-4057-bf7e-cc3f1873887d",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 302,
+      "highestRelevant": {
+        "date": "2026-02-18",
+        "speaker": "Varro Vooglaid",
+        "excerpt": "Näiteks oletame, et kodanike ühendus, kes seisab kanade puurispidamise vastu, korraldab meeleavalduse kas parlamendi ees, Stenbocki maja ees või kusagil mujal.",
+        "topic": "Reklaamiseaduse ja isikuandmete kaitse seaduse muutmise seaduse eelnõu (696 SE) kolmas lugemine",
+        "category": "laying_hen_cages",
+        "source": "https://stenogrammid.riigikogu.ee/202602181400",
+        "wordCount": 475
+      },
+      "topicCandidates": [
+        {
+          "date": "2026-02-18",
+          "speaker": "Varro Vooglaid",
+          "excerpt": "Näiteks oletame, et kodanike ühendus, kes seisab kanade puurispidamise vastu, korraldab meeleavalduse kas parlamendi ees, Stenbocki maja ees või kusagil mujal.",
+          "topic": "Reklaamiseaduse ja isikuandmete kaitse seaduse muutmise seaduse eelnõu (696 SE) kolmas lugemine",
+          "category": "laying_hen_cages",
+          "source": "https://stenogrammid.riigikogu.ee/202602181400",
+          "wordCount": 475
+        },
+        {
+          "date": "2026-04-22",
+          "speaker": "Varro Vooglaid",
+          "excerpt": "Öelge nüüd mulle palun üks põhjus, miks näiteks mingisugune loomakaitsjate ühing ei või enne valimisi öelda, et meie soovitame toetada nendel valimistel Sotsiaaldemokraatlikku Erakonda, …",
+          "topic": "Erakonnaseaduse ja krediidiasutuste seaduse muutmise seaduse eelnõu (585 SE) teine lugemine",
+          "category": "animal_welfare",
+          "source": "https://stenogrammid.riigikogu.ee/202604221400",
+          "wordCount": 550
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-22",
+        "speaker": "Varro Vooglaid",
+        "excerpt": "President Alar Karis andis hiljuti tavapäratult avameelse intervjuu, kus ta muu hulgas ütles, et teda survestati pikka aega avalikkusele valetama seonduvalt sellega, et Rail …",
+        "topic": "Taristuministri 2026. aasta ettekanne riigi pikaajalise arengustrateegia \"Eesti 2035\" elluviimisest",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610221000",
+        "wordCount": 181
+      },
+      "quoteStatus": "topic_candidate_unverified"
+    },
+    {
+      "name": "Mart Võrklaev",
+      "uuid": "8600af41-4dcc-424d-9d05-7c851e5270b5",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 69,
+      "highestRelevant": null,
+      "topicCandidates": [
+        {
+          "date": "2026-05-13",
+          "speaker": "Mart Võrklaev",
+          "excerpt": "Sul ei ole võimalik kasutada seda maksuerandit nii, et sa tood siia ehitussektorisse või põllumajandussektorisse lühiajalist odavat tööjõudu ja siis hoiad maksude pealt kokku, …",
+          "topic": "Sotsiaalmaksuseaduse muutmise ja sellega seonduvalt teiste seaduste muutmise seaduse eelnõu (860 SE) teine lugemine",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202605131400",
+          "wordCount": 195
+        },
+        {
+          "date": "2026-03-19",
+          "speaker": "Mart Võrklaev",
+          "excerpt": "Kuulnud täna siin opositsiooni hääli, julgen mina küll kindlalt öelda, et see raha põllumajandusse tuleb.",
+          "topic": "Maaelukomisjoni algatatud olulise tähtsusega riikliku küsimuse \"Põllumajandus ja toidutootmine kui strateegiline majandusharu\" arutelu",
+          "category": "agriculture_and_food",
+          "source": "https://stenogrammid.riigikogu.ee/202603191000",
+          "wordCount": 144
+        }
+      ],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-21",
+        "speaker": "Mart Võrklaev",
+        "excerpt": "Eile kuulsime siin nelja erineva fraktsiooni poolt uhkeid sõnavõtte, kuidas riigieelarvesse tuleks igale poole raha juurde panna, makse alandada ja siis sai valitsus nahutada, …",
+        "topic": "2027. aasta riigieelarve seaduse eelnõu (1037 SE) esimese lugemise jätkamine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610211400",
+        "wordCount": 548
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    },
+    {
+      "name": "Luisa Värk",
+      "uuid": "17d27ea5-b5e6-43e0-86db-ebc15bdd5788",
+      "officialSource": "https://api.riigikogu.ee/api/plenary-members?lang=ET",
+      "activeMemberAsOf": "2026-10-23",
+      "parliamentaryInterventions": 5,
+      "highestRelevant": null,
+      "topicCandidates": [],
+      "otherParliamentaryExcerpt": {
+        "date": "2026-10-14",
+        "speaker": "Luisa Värk",
+        "excerpt": "Annan väliskomisjoni nimel ülevaate Vabariigi Valitsuse algatatud konsulaarseaduse ja teiste seaduste muutmise seaduse eelnõu 896 teiseks lugemiseks ettevalmistamisest.",
+        "topic": "Konsulaarseaduse ja teiste seaduste muutmise seaduse eelnõu (896 SE) teine lugemine",
+        "category": "other_parliamentary_speech",
+        "source": "https://stenogrammid.riigikogu.ee/202610141400",
+        "wordCount": 279
+      },
+      "quoteStatus": "unrelated_quote_candidate_unverified"
+    }
+  ]
+}
