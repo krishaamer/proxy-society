@@ -728,3 +728,60 @@
 .controls input::placeholder { color: #a8a1b9; }
 .tracker .timeline a,
 .tracker .methodLinks a { min-height: 36px; display: inline-flex; align-items: center; }
+
+/* Linked, attributed record for every MP; unlike an issue quote, this can be unrelated. */
+.researchRecord {
+  border: 1px solid var(--line-strong);
+  padding: 20px;
+  margin-bottom: 22px;
+  background: rgba(99, 245, 209, .024);
+}
+.researchRecord h4 {
+  margin: 0 0 10px;
+  font-size: 16px;
+  letter-spacing: -.016em;
+  color: var(--ink);
+}
+.researchSubject {
+  color: var(--cyan);
+  font: 740 10px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace;
+  margin: 0 0 10px;
+}
+.researchSubject time { font-variant-numeric: tabular-nums; }
+.researchTopic {
+  margin: 0 0 14px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--muted);
+}
+.researchRecord blockquote {
+  margin: 0 0 16px;
+  color: var(--ink);
+  font-size: 17px;
+  line-height: 1.55;
+  letter-spacing: -.008em;
+  border-left: 2px solid var(--violet);
+  padding-left: 14px;
+}
+.researchRecord .researchWarning {
+  color: #b4afc3;
+  font-size: 12px;
+  line-height: 1.55;
+  margin: 12px 0;
+}
+.researchLinks {
+  display: flex;
+  gap: 13px 20px;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+}
+.researchLinks a {
+  color: var(--cyan);
+  font: 700 10px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+@media (max-width: 680px) {
+  .researchRecord { padding: 15px; }
+  .researchRecord blockquote { font-size: 15px; }
+}
