@@ -126,7 +126,7 @@ export default function ChickenLegalNotice({ locale }: { locale: CivicLocale }) 
           <span className="mark" aria-hidden="true">P/S</span>
           <span className="wordmark-copy"><strong>PROXY SOCIETY</strong><small>HUMAN / AGENT / SOCIETY</small></span>
         </a>
-        <nav aria-label="Primary navigation">
+        <nav aria-label={locale === "et" ? "Põhinavigatsioon" : "Primary navigation"}>
           <a href={t.home}>{t.back}</a>
           {([
             { code: "et", label: "ET", lang: "et", href: "/et/projects/chickens-no-cages/rights" },
@@ -139,7 +139,7 @@ export default function ChickenLegalNotice({ locale }: { locale: CivicLocale }) 
               href={option.href}
               hrefLang={option.lang}
               lang={option.lang}
-              aria-label={`Read these terms in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
+              aria-label={locale === "et" ? `Loe õigusteavet ${option.code === "en" ? "inglise" : "hiina"} keeles` : `Read these terms in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
             >
               {option.label}
             </a>
