@@ -139,7 +139,7 @@ export default function ChickenLegalNotice({ locale }: { locale: CivicLocale }) 
               href={option.href}
               hrefLang={option.lang}
               lang={option.lang}
-              aria-label={locale === "et" ? `Loe õigusteavet ${option.code === "en" ? "inglise" : "hiina"} keeles` : `Read these terms in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}
+              aria-label={`${option.label} · ${locale === "et" ? `Loe õigusteavet ${option.code === "en" ? "inglise" : "hiina"} keeles` : `Read these terms in ${option.code === "et" ? "Estonian" : option.code === "en" ? "English" : "Traditional Chinese"}`}`}
             >
               {option.label}
             </a>
