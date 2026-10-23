@@ -18,7 +18,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       canonical: `https://proxysociety.org/zh-tw/projects/${slug}`,
       languages: {
         en: `https://proxysociety.org/projects/${slug}`,
-        "zh-Hant-TW": `https://proxysociety.org/zh-tw/projects/${slug}`
+        "zh-Hant-TW": `https://proxysociety.org/zh-tw/projects/${slug}`,
+        ...(slug === "chickens-no-cages" ? { et: "https://proxysociety.org/et/projects/chickens-no-cages" } : {})
       }
     }
   };
