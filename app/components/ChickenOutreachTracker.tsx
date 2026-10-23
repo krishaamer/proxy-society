@@ -9,7 +9,7 @@ import {
   type ChickenAction,
   type ChickenMember,
 } from "../chicken-outreach-data";
-import type { ProjectLocale } from "../projects-data";
+import type { CivicLocale } from "../chicken-locales";
 import { civicPortraits } from "../chicken-portrait-rights";
 import styles from "./ChickenOutreachTracker.module.css";
 
@@ -122,6 +122,105 @@ const text = {
       furBill: "Co-initiated the 2021 fur-farming ban bill (a different animal-welfare issue)",
     },
   },
+  et: {
+    kicker: "AVALIK REGISTER / EESTI / 2026",
+    heading: "Üks soov. Jälgitavad sammud.",
+    description:
+      "Üks inimese soov, 101 Riigikogu liiget ja kaks eelnõu. Siin on eraldi näha, mida saadikud on avalikult öelnud või teinud ning kas Proxy Society on neile kirjutanud. See pole saadikute ega erakondade edetabel.",
+    snapshotLabel: "Andmete seis",
+    snapshotNote: "Avalikud tsitaadid kontrollitud 23.10.2026. Saadikute ja komisjonide täielik nimekiri vaadati üle 28.09.2026. See on kuupäevastatud uurimisväljavõte, mitte reaalajas uuenev Riigikogu register.",
+    metrics: {
+      members: "Kaardistatud saadikuid",
+      profiles: "Allikaga avalikke sõnavõtte",
+      quotes: "Eraldi üle vaadatud tsitaate",
+      contacted: "Kinnitatud saadetud kirju",
+      replies: "Saabunud vastuseid"
+    },
+    coverage: "Isikustatud tõendite kaetus",
+    quoteLegend: "Üle vaadatud tsitaat",
+    actionLegend: "Ainult dokumenteeritud tegevus",
+    unknownLegend: "Puurispidamise kohta seisukoht kinnitamata",
+    coverageNote: "Seaduseelnõu algatamine, komisjoni kuulumine ja arutelul sõna võtmine on eri liiki tõendid. Ükski neist ei ole iseenesest tõend saadiku hääletamiskavatsusest.",
+    issue: "Menetluses olevad eelnõud",
+    billOne: "828 SE",
+    billOneStatus: "Esimene lugemine lõpetatud; teise lugemise etapis",
+    billTwo: "970 SE",
+    billTwoStatus: "Algatatud 17.06.2026; juhtivkomisjon on maaelukomisjon",
+    noLaw: "Kumbagi eelnõu ei käsitleta siin juba vastu võetud puurispidamise keeluna.",
+    timeline: "Kuidas küsimus Riigikokku jõudis",
+    source: "Algallikas ↗",
+    quotesTitle: "Saadikute enda sõnadega",
+    quotesIntro: "Valik konteksti arvestades üle vaadatud isikustatud sõnavõtte. Kõigi 101 saadiku kohta on allpool ka allikaga avalik väljavõte, kuid osa neist käsitleb muid teemasid.",
+    originalLanguage: "Eestikeelne algtsitaat",
+    directory: "Kõik 101 Riigikogu liiget",
+    directoryIntro: "Otsi saadikut nime järgi. Iga nime juures on kuupäevaga avalik sõnavõtt, algallikas ning meie pöördumise seis. Muul teemal öeldu ei näita saadiku suhtumist kanade puurispidamisse.",
+    search: "Otsi saadikut",
+    searchPlaceholder: "Näiteks Maran või Kruuse",
+    evidenceLabel: "Avalikud tõendid",
+    evidenceAll: "Kõik tõendiliigid",
+    evidenceQuote: "Üle vaadatud tsitaat",
+    evidenceAction: "Dokumenteeritud tegevus ilma tsitaadita",
+    evidenceUnknown: "Muu avalik sõnavõtt",
+    outreachLabel: "Pöördumise seis",
+    outreachAll: "Kõik pöördumised",
+    notContacted: "Pole ühendust võetud",
+    contacted: "Kiri saadetud",
+    replied: "Vastus saabunud",
+    count: "sobivat saadikut",
+    pagination: "Riigikogu liikmete nimekirja leheküljed",
+    previousPage: "Eelmine lehekülg",
+    nextPage: "Järgmine lehekülg",
+    pageLabel: "Lehekülg",
+    nameCol: "Saadik",
+    evidenceCol: "Tõend",
+    contactCol: "Pöördumine",
+    quoteEvidence: "Üle vaadatud tsitaat",
+    actionEvidence: "Dokumenteeritud tegevus",
+    unknownEvidence: "Muu avalik sõnavõtt",
+    noQuote: "Selle saadiku puurispidamist puudutavat isikustatud tsitaati ei ole veel eraldi toimetuslikult kontrollitud.",
+    noAction: "Selle saadiku seisukoht kanade puurispidamise kohta pole kinnitatud; muuteemalist sõnavõttu ei tohi selle asemel kasutada.",
+    researchTitle: "Avalik sõnavõtt koos algallikaga",
+    researchExcerpt: "Avaliku sõnavõtu katkend",
+    researchCaution: "Katkend ei tõenda iseenesest saadiku seisukohta kanade puurispidamise suhtes. Loe täielikku stenogrammi ja arutelu konteksti.",
+    researchSource: "Loe algallikat ↗",
+    officialDirectory: "Riigikogu ametlik liikmete register ↗",
+    issueCategory: "Sõnavõtt eelnõu 828 SE arutelul; tegemist võis olla küsimuse või protseduurilise märkusega",
+    henCategory: "Puurikanade mainimine muus parlamendiarutelus",
+    welfareCategory: "Muu loomakaitse- või loomade heaolu teema",
+    agricultureCategory: "Põllumajandus või toidupoliitika, mitte seisukoht puurispidamise suhtes",
+    otherCategory: "Muu parlamenditeema; ei tõenda seisukohta puurispidamise suhtes",
+    noTranscriptCategory: "Muu isikustatud avalik sõnavõtt ametlikust allikast",
+    researchPeriod: "Stenogrammide uurimisperiood kuni 22.10.2026",
+    actionsTitle: "Dokumenteeritud tegevus",
+    sourceLabel: "Vaata allikat ↗",
+    scope: "Tsitaadi kontekst ja omistamise piirid",
+    outreachTitle: "Meie kirjavahetuse seis",
+    noSent: "Sellele saadikule saadetud kirja ei ole kinnitatud.",
+    sentOn: "Kiri saadetud",
+    repliedOn: "Vastus saabunud",
+    replyCaution: "Vastuse teksti ei ole siin avaldatud. Erakirjavahetuse avaldamist hinnatakse eraldi.",
+    empty: "Valitud filtritele vastavaid saadikuid ei leitud.",
+    reset: "Tühista filtrid",
+    portraitPhoto: "Kasutusloaga foto",
+    portraitSource: "Foto algallikas ↗",
+    portraitNotEndorse: "Foto aitab isikut tuvastada ega tähenda, et saadik toetab seda projekti.",
+    noClearedPhoto: "Fotot ei näidata enne kasutusõiguse kontrollimist.",
+    complianceNote: "Avalik, viidatud ja kuupäevastatud uurimisregister. Avalikult leitav teave pole automaatselt autoriõigusest ega isikuandmete kaitsest vaba.",
+    rightsAndSources: "Allikad, isikuandmed ja fotode kasutusõigused ↗",
+    methodology: "Kuidas registrit lugeda",
+    methods: "Isikustatud tsitaadil peab olema kõneleja, kuupäev ja kontrollitav algallikas. Eelnõu algatamine, komisjonitöö, istungil kõnelemine ja vastamine on eri sündmused. Vaikimine ei ole vastuseis. Saatmata kirjamustand ei ole saadetud kiri. Vastuse avaldamine eeldab eraldi kontrolli.",
+    sourceCode: "Vaata 101 saadiku avalikke lähteandmeid ↗",
+    footer: "Ootame parandusi ja viiteid algallikatele. Saadik võib saata ka lingi varem avaldatud seisukohale. Ajaloolist kirjet ei kirjutata paranduse tõttu märkamatult ümber.",
+    correct: "Teata veast või saada täiendus ↗",
+    eventNote: "See on allikatega sündmuste ajajoon, mitte ennustus seaduse vastuvõtmise kohta.",
+    actions: {
+      initiated828: "Eelnõu 828 SE kaasalgataja",
+      initiated970: "Eelnõu 970 SE kaasalgataja",
+      committee: "Maaelukomisjon",
+      spoke828: "Võttis eelnõu 828 SE esimesel lugemisel sõna; see ei näita automaatselt seisukohta",
+      furBill: "2021. aasta karusloomakasvanduste keelustamise eelnõu kaasalgataja (eraldiseisev loomakaitseküsimus)"
+    }
+  },
   "zh-TW": {
     kicker: "實地紀錄 / 愛沙尼亞 / 2026",
     heading: "把公民訴求的後續進展攤開來看。",
@@ -229,6 +328,7 @@ const chronology = [
   {
     date: "2024-06-13",
     en: "The Rural Affairs Committee calls for deeper analysis of ending cage housing.",
+    et: "Maaelukomisjon peab vajalikuks uurida põhjalikumalt kanade puurispidamise lõpetamise mõjusid.",
     zh: "農村事務委員會要求進一步分析廢除籠飼制度。",
     source:
       "https://www.riigikogu.ee/pressiteated/maaelukomisjon-kanade-puurispidamise-lopetamist-on-vaja-suvitsi-analuusida/",
@@ -236,6 +336,7 @@ const chronology = [
   {
     date: "2026-02-19",
     en: "Eighteen MPs introduce bill 828 SE.",
+    et: "18 Riigikogu liiget algatavad eelnõu 828 SE.",
     zh: "18 位議員提出 828 SE 法案。",
     source:
       "https://www.riigikogu.ee/pressiteated/18-riigikogu-liiget-esitas-eeln-u-kanade-puurispidamise-keelustamiseks/",
@@ -243,6 +344,7 @@ const chronology = [
   {
     date: "2026-02-25",
     en: "Four major egg producers sign a voluntary transition commitment for 2035.",
+    et: "Neli suurt munatootjat allkirjastavad vabatahtliku kokkuleppe minna 2035. aastaks üle puurivabale pidamisele.",
     zh: "四家主要雞蛋生產商簽署最晚於 2035 年轉型的自願承諾。",
     source:
       "https://epkk.ee/eesti-suurimad-munatootjad-allkirjastasid-pidulikult-kokkuleppe-uleminekuks-puurivabadele-tootmisviisidele-hiljemalt-2035-aastaks/",
@@ -250,6 +352,7 @@ const chronology = [
   {
     date: "2026-04-22",
     en: "Bill 828 SE completes its first reading.",
+    et: "Eelnõu 828 SE läbib esimese lugemise.",
     zh: "828 SE 法案完成一讀。",
     source:
       "https://www.riigikogu.ee/pressiteated/riigikogus-labis-munakanade-puurispidamist-keelav-eelnou-esimese-lugemise/",
@@ -257,6 +360,7 @@ const chronology = [
   {
     date: "2026-06-17",
     en: "Seventeen MPs introduce bill 970 SE, assigned to the Rural Affairs Committee.",
+    et: "17 Riigikogu liiget algatavad eelnõu 970 SE, mis antakse maaelukomisjoni menetleda.",
     zh: "17 位議員提出 970 SE 法案，交由農村事務委員會。",
     source:
       "https://www.riigikogu.ee/pressiteated/muu-pressiteade-et/menetlusse-voeti-eelnou-tarbijakaitse-kohta/",
@@ -264,11 +368,35 @@ const chronology = [
   {
     date: "2026-10-20",
     en: "TV3 reports that the legislative process remains stalled. This is reporting, not a parliamentary decision.",
+    et: "TV3 kajastab eelnõude menetluse venimist. Tegemist on ajakirjandusliku käsitluse, mitte Riigikogu otsusega.",
     zh: "TV3 報導立法進程停滯；這是新聞報導，並非國會決議。",
     source:
       "https://www.tv3.ee/tv3telekanal/tv3-uudised/tv3-uudised-kanad-jaavad-puuridesse-keelustav-eelnou-istub-riigikogulaste-sahtlis/",
   },
 ];
+
+const quoteContextEt: Record<string, string> = {
+  "Jaak Aab": "Küsis 828 SE arutelul üleminekuks vajalike investeeringute toetamise kohta. Küsimus ei ütle, kuidas ta eelnõu lõpphääletusel hääletaks.",
+  "Anti Allas": "Kritiseeris 19. oktoobril 2026 eelnõu menetluse viibimist. See oli tema sõnavõtt, mitte komisjoni ühine seisukoht.",
+  "Arvo Aller": "2024. aasta hinnang puudutas nelja- kuni viieaastast üleminekuaega, mitte hilisemat 2035. aasta tähtaega.",
+  "Peeter Ernits": "Küsis 828 SE esimesel lugemisel puurikanade munade müügi võimaliku keelamise kohta. Küsimusest ei saa järeldada tema eelistatud lahendust.",
+  "Andre Hanimägi": "Küsis, kas Euroopa Liidu õiguses oleks võimalik piirata puurikanade munade müüki. Väljavõte on lühendatud.",
+  "Züleyxa Izmailova": "2026. aasta maikuine erakonna avaldus kirjeldas valitsuse eelnõu toonast viivitust. See ei kinnita eelnõude praegust menetlusstaadiumi.",
+  "Madis Kallas": "Meenutas oma varasemat ministritööd ja kohtumisi munatootjatega, mitte kindlat hääletamiskavatsust.",
+  "Tanel Kiik": "Rääkis 828 SE esimesel lugemisel muudatuse võimalikest mõjudest. Väljavõte on lühendatud ega hõlma kogu seisukohta.",
+  "Mait Klaassen": "Viitas teise teadlase arvamusele kanade puurispidamise kohta. Seda ei saa automaatselt pidada tema enda seisukohaks.",
+  "Andrei Korobeinik": "Märkis 14. oktoobril 2026, et puurikanade eelnõu edasine käekäik pole roosiline. See ei kirjelda tema seisukohta eelnõu iga sätte suhtes.",
+  "Anastassia Kovalenko-Kõlvart": "ERR omistas 2024. aastal loomakaitse toetusrühma juhile selle avaliku sõnavõtu puurikanade petitsiooni üleandmisel. Sellest ei saa järeldada tema suhtumist 2026. aasta eelnõude kõigisse tingimustesse.",
+  "Urmas Kruuse": "Rääkis 2025. aastal maaelukomisjoni esimehena toonastest komisjonis arutatud lahendustest. See ei tõenda tema 2026. aasta isiklikku hääletamiskavatsust.",
+  "Helmen Kütt": "Kirjeldas puurikanade pidamistingimusi eelnõu arutelul. Katkend on lühendatud.",
+  "Tiit Maran": "2026. aasta veebruarikuine avalik sõnavõtt kutsus üles sätestama puurispidamise lõpetamine seaduses.",
+  "Heljo Pikhof": "Võrdles puurikanade kohtlemist kasside ja koerte kohtlemisega 828 SE esimesel lugemisel.",
+  "Anti Poolamets": "Tõstatas puurikanade munade müügipiirangu võimaluse. Tegu on arutelumärkuse, mitte hääletustulemusega.",
+  "Reili Rand": "Käsitles ostjate valikuid ja puurivabasid mune. Väljavõte ei anna ülevaadet kogu tema võimalikust hääletamiskavatsusest.",
+  "Riina Sikkut": "Rääkis õigusliku muudatuse vajalikkusest juhul, kui puurispeetavate kanade osakaal iseenesest ei vähene.",
+  "Toomas Uibo": "Käsitles istungil tarbijate valikuid puurikanade munade ostmisel. Lühike väljavõte ei ole tema terviklik poliitiline programm.",
+  "Jaak Valge": "Küsis eelnõu valitsuses ettevalmistamise ja menetluse viibimise kohta."
+};
 
 const quoteContextZh: Record<string, string> = {
   "Tiit Maran": "這段 2026 年 2 月的發言呼籲將結束籠飼的承諾寫入法律；不代表可推定後續修正案或最終投票意向。",
@@ -291,9 +419,17 @@ function normalizeName(value: string) {
   return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-function actionDescription(action: ChickenAction, locale: ProjectLocale) {
+function actionDescription(action: ChickenAction, locale: CivicLocale) {
   const t = text[locale].actions;
   if (action.kind === "committee") {
+    if (locale === "et") {
+      const role = action.detail?.includes("Chair;")
+        ? " (esimees, 828 SE juhtivkomisjoni esindaja)"
+        : action.detail?.includes("Deputy Chair")
+          ? " (aseesimees)"
+          : " (liige)";
+      return t.committee + role;
+    }
     if (locale === "zh-TW") {
       const role = action.detail?.includes("Chair;")
         ? "（主席，828 SE 主責委員會代表）"
@@ -313,7 +449,7 @@ function evidenceKind(member: ChickenMember): EvidenceFilter {
   return "unknown";
 }
 
-export default function ChickenOutreachTracker({ locale }: { locale: ProjectLocale }) {
+export default function ChickenOutreachTracker({ locale }: { locale: CivicLocale }) {
   const t = text[locale];
   const [query, setQuery] = useState("");
   const [evidence, setEvidence] = useState<EvidenceFilter>("all");
@@ -437,7 +573,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
           {chronology.map((event) => (
             <li key={event.date}>
               <time dateTime={event.date}>{event.date}</time>
-              <span>{locale === "en" ? event.en : event.zh}</span>
+              <span>{locale === "zh-TW" ? event.zh : locale === "et" ? event.et : event.en}</span>
               <a href={event.source} target="_blank" rel="noreferrer">{t.source}</a>
             </li>
           ))}
@@ -485,7 +621,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
 
       <div className={styles.directory}>
         <div className={styles.subhead}>
-          <span className={styles.kicker}>04 / 101 MEMBERS</span>
+          <span className={styles.kicker}>{locale === "et" ? "04 / 101 RIIGIKOGU LIIGET" : "04 / 101 MEMBERS"}</span>
           <h3>{t.directory}</h3>
           <p>{t.directoryIntro}</p>
         </div>
@@ -592,7 +728,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                         <div className={styles.recordQuote}>
                           <span>{t.originalLanguage} / {member.quote.date}</span>
                           <blockquote lang="et">“{member.quote.text}”</blockquote>
-                          <p>{t.scope}: {locale === "zh-TW" ? (quoteContextZh[member.name] ?? member.quote.context) : member.quote.context}</p>
+                          <p>{t.scope}: {locale === "zh-TW" ? (quoteContextZh[member.name] ?? member.quote.context) : locale === "et" ? (quoteContextEt[member.name] ?? "Tsitaadi tähendus sõltub täielikust kontekstist. See ei näita iseenesest saadiku hääletamiskavatsust.") : member.quote.context}</p>
 <p className={styles.citationTitle}>{member.quote.sourcePublisher}{member.quote.sourceAuthor ? " · " + member.quote.sourceAuthor : ""}: <cite>{member.quote.sourceTitle}</cite></p>
                           <a href={member.quote.source} aria-label={`${t.sourceLabel}: ${member.name}: ${member.quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
                         </div>
