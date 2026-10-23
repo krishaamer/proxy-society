@@ -4,7 +4,7 @@ This is the project's research index. Index updated 23 October 2026 (Asia/Taipei
 
 ## Civic evidence and accountability
 
-- [Chickens, No Cages parliamentary outreach tracker](chickens-no-cages/README.md): 101-member source-backed public quotation directory (20 selected issue-related quotes, with a separate public transcript for every MP), bill timeline, zero-sent baseline and editorial update protocol (23 October 2026). [English page](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese page](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach). [2026 individual MP research](chickens-no-cages/2026-101-mp-source-review.md) · [Bilingual rights and copyright notice](https://proxysociety.org/projects/chickens-no-cages/rights) · [photo licences and GDPR review](chickens-no-cages/legal-and-photo-review.md).
+- [Chickens, No Cages parliamentary outreach tracker](chickens-no-cages/README.md): 101-member source-backed public quotation directory (20 selected issue-related quotes, with a separate public transcript for every MP), bill timeline, zero-sent baseline and editorial update protocol (23 October 2026). [Estonian page](https://proxysociety.org/et/projects/chickens-no-cages#outreach) · [English page](https://proxysociety.org/projects/chickens-no-cages#outreach) · [Traditional Chinese page](https://proxysociety.org/zh-tw/projects/chickens-no-cages#outreach). [2026 individual MP research](chickens-no-cages/2026-101-mp-source-review.md) · [Bilingual rights and copyright notice](https://proxysociety.org/projects/chickens-no-cages/rights) · [photo licences and GDPR review](chickens-no-cages/legal-and-photo-review.md).
 
 ## Culture and cinema
 
