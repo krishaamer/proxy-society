@@ -132,17 +132,18 @@ const englishProjects: ProjectCase[] = [
     domain: "CIVIC INTENT / EVIDENCE",
     year: "2026",
     tagline: "State a preference once. Keep the evidence separate.",
-    summary: "A civic-accountability experiment that begins with one explicitly stated personal preference and then keeps research, political evidence and outreach methodologically separate from that preference.",
+    summary: "A public, source-linked parliamentary and outreach tracker built from one stated preference: laying hens should not be kept in cages. Statements, legislative actions and correspondence are recorded separately.",
     humanIntent: "The project's stated preference is: “Laying hens should not be kept in cages.”",
     systemAction: "Track the 101 members of the Riigikogu, direct evidence of positions, two relevant legislative files, source dates, outreach and responses without inferring individual views from party, committee, silence or non-response.",
     boundary: "The system may organize evidence for a person's civic intent, but it must not manufacture political positions. Direct sponsorship, statements, amendments or recorded votes can support a claim only about what they actually address.",
     evidence: [
       "Riigikogu lists bill 828 SE at second-reading stage after its first reading in April 2026.",
       "A second Animal Protection Act amendment file, 970 SE, was initiated on 17 June 2026 and assigned to the Rural Affairs Committee.",
-      "The project's evidence rules explicitly reject party membership, committee membership and silence as proof of an individual position."
+      "The project's evidence rules explicitly reject party membership, committee membership and silence as proof of an individual position.",
+      "An October 2026 evidence snapshot shows 101 MPs, verified direct quotations, parliamentary actions and independently confirmed outreach outcomes as different states."
     ],
     question: "How can an agent advocate persistently for a person's stated value without turning uncertain political evidence into certainty?",
-    status: "Active civic research prototype",
+    status: "Public evidence tracker / October 2026 snapshot",
     links: [
       { label: "Riigikogu 828 SE ↗", href: "https://www.riigikogu.ee/en/eelnoud/e5671f5a-d571-4fcb-96d5-cd2afd5734c4/Loomakaitseseaduse%20muutmise%20seadus/" },
       { label: "Riigikogu 970 SE context ↗", href: "https://www.riigikogu.ee/pressiteated/muu-pressiteade-et/menetlusse-voeti-eelnou-tarbijakaitse-kohta/" }
@@ -347,17 +348,18 @@ const traditionalChineseProjects: ProjectCase[] = [
     ...englishProjects[5],
     domain: "公民意圖 / 證據",
     tagline: "偏好可以先說一次，證據必須一直分開。",
-    summary: "一個公民責任實驗。它從一個明確寫下來的個人偏好開始，再把研究、政治證據與外聯方法和這個偏好保持分離。",
+    summary: "這是一個公開、可追溯來源的國會與聯繫追蹤頁面。從「蛋雞不應該被籠飼」這項明確意願出發，"分開記錄議員發言、立法行動與通信。",
     humanIntent: "這個專案明確記錄的偏好是：「蛋雞不應該被關在籠子裡飼養。」",
     systemAction: "追蹤愛沙尼亞國會 101 位議員、直接立場證據、兩個相關法案、來源日期、外聯與回覆，同時不從政黨、委員會、沉默或未回覆推論個人立場。",
     boundary: "系統可以協助一個人的公民意圖持續運作，但不能製造政治人物的立場。只有直接提案、聲明、修正案或具名投票，才能支持它實際涵蓋的主張。",
     evidence: [
       "Riigikogu 目前把 828 SE 列在第二讀階段，第一讀已於 2026 年 4 月完成。",
       "另一個動物保護法修正案 970 SE 於 2026 年 6 月 17 日提出，並交由農村事務委員會處理。",
-      "專案規則明確拒絕把黨籍、委員會身分或沉默當成個人立場證據。"
+      "專案規則明確拒絕把黨籍、委員會身分或沉默當成個人立場證據。",
+      "2026 年 10 月的公開證據快照分別追蹤 101 位議員、核實引言、國會行動與已確認的聯繫紀錄。"
     ],
     question: "代理人要怎麼長期替一個人的價值做公民行動，又不把不確定的政治證據變成確定答案？",
-    status: "持續運作中的公民研究原型",
+    status: "公開證據追蹤頁 / 2026 年 10 月快照",
     links: [
       { label: "Riigikogu 828 SE ↗", href: "https://www.riigikogu.ee/en/eelnoud/e5671f5a-d571-4fcb-96d5-cd2afd5734c4/Loomakaitseseaduse%20muutmise%20seadus/" },
       { label: "Riigikogu 970 SE 資訊 ↗", href: "https://www.riigikogu.ee/pressiteated/muu-pressiteade-et/menetlusse-voeti-eelnou-tarbijakaitse-kohta/" }
