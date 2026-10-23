@@ -1,12 +1,15 @@
 import EtiquetteLab from "./EtiquetteLab";
 import LineageTrail from "./LineageTrail";
 import ProjectsPreview from "./ProjectsPreview";
+import variStyles from "./VariFilmClub.module.css";
 import type { SiteContent } from "../site-content";
 
 export default function SitePage({ content }: { content: SiteContent }) {
   const spectrumPositions = [4, 16, 31, 49, 67, 82, 93];
   const contactHref = content.lang === "zh-Hant-TW" ? "/zh-tw/contact" : "/contact";
   const projectsHref = content.lang === "zh-Hant-TW" ? "/zh-tw/projects" : "/projects";
+  const variHref = content.lang === "zh-Hant-TW" ? "/zh-tw/vari" : "/vari";
+  const isTraditionalChinese = content.lang === "zh-Hant-TW";
 
   return (
     <main lang={content.lang}>
@@ -24,6 +27,7 @@ export default function SitePage({ content }: { content: SiteContent }) {
           <a href="#principles">{content.nav.principles}</a>
           <a href={projectsHref}>{content.nav.projects}</a>
           <a href="/architecture">{content.lang === "zh-Hant-TW" ? "建築" : "Architecture"}</a>
+          <a className={variStyles.homeNavLink} href={variHref}>{isTraditionalChinese ? "電影" : "Cinema"}</a>
           <a href="#research">{content.nav.research}</a>
           <a className="locale-switch" href={content.otherLocaleHref}>{content.otherLocaleLabel}</a>
           <a className="nav-cta" href={contactHref}>{content.nav.contact}</a>
@@ -181,6 +185,22 @@ export default function SitePage({ content }: { content: SiteContent }) {
         <div className="plurality-grid">
           <h2>{content.plurality.title}</h2>
           <div>{content.plurality.copy.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>
+        </div>
+      </section>
+
+
+      <section className="section shell" aria-labelledby="vari-feature-title">
+        <div className={variStyles.homeTeaser}>
+          <div>
+            <span className={variStyles.homeTeaserKicker}>{isTraditionalChinese ? "文化實驗室 / 電影社群" : "CULTURE LAB / FILM CLUB"}</span>
+            <p className={variStyles.homeTeaserMark} aria-hidden="true">VARI.</p>
+          </div>
+          <div>
+            <p className="section-kicker">{isTraditionalChinese ? "新計畫 / 籌備中" : "NEW PROGRAM / IN FORMATION"}</p>
+            <h2 id="vari-feature-title">{isTraditionalChinese ? "當 AI 替我們創作，誰才是電影的作者？" : "When AI creates for us, who is the filmmaker?"}</h2>
+            <p>{isTraditionalChinese ? "VARI 是 Proxy Society 的實驗電影俱樂部，一起看電影、做電影，也討論作者身分、影像與 AI。歡迎來自臺灣、愛沙尼亞及更多地方的創作者。" : "VARI is Proxy Society's experimental film club. Screen short films, open up the creative process, and explore the space between human intention and generated images."}</p>
+            <a href={variHref}>{isTraditionalChinese ? "認識 VARI 電影俱樂部" : "EXPLORE VARI FILM CLUB"} <span aria-hidden="true">↗</span></a>
+          </div>
         </div>
       </section>
 

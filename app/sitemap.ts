@@ -78,6 +78,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
         }
       }
     },
+    {
+      url: "https://proxysociety.org/vari",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.85,
+      alternates: {
+        languages: {
+          en: "https://proxysociety.org/vari",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/vari"
+        }
+      }
+    },
+    {
+      url: "https://proxysociety.org/zh-tw/vari",
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.8,
+      alternates: {
+        languages: {
+          en: "https://proxysociety.org/vari",
+          "zh-Hant-TW": "https://proxysociety.org/zh-tw/vari"
+        }
+      }
+    },
     ...projectEntries,
     {
       url: "https://proxysociety.org/contact",

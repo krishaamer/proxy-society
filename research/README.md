@@ -1,6 +1,10 @@
 # Proxy Society research
 
-This is the project's research index. Updated 13 October 2026 (Asia/Taipei); individual source dates retain their provenance.
+This is the project's research index. Index updated 23 October 2026 (Asia/Taipei); individual source dates retain their provenance.
+
+## Culture and cinema
+
+- [VARI experimental film club](vari/README.md): new cultural program exploring AI cinema, creative decisions, authorship, consent and public film discussion. Proposed pilot only; no announced date or venue. Public English and Traditional Chinese pages at `/vari` and `/zh-tw/vari`.
 
 ## Architecture and PhD
 
