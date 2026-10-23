@@ -4,7 +4,7 @@
  * images merely because they are publicly accessible.
  *
  * These are Wikimedia Commons file-specific CC grants. Files are served
- * through Next.js's on-site image optimizer and linked to original file,
+ * as first-party versioned 256px WebP assets and linked to original file,
  * creator, license and adaptation history. This is a dated rights audit,
  * not a warranty of unrestricted reuse or of personality-rights clearance.
  */
@@ -19,12 +19,13 @@ export type CivicPortrait = {
   sourceDate: string;
   checkedAt: string;
   editNote: string;
+  optimizedBytes: number;
 };
 
 export const civicPortraits: Readonly<Record<string, CivicPortrait>> = {
   "Arvo Aller": {
     person: "Arvo Aller",
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arvo_Aller_2023_%28cropped%29.jpg/250px-Arvo_Aller_2023_%28cropped%29.jpg",
+    src: "/portraits/arvo-aller.webp",
     originalFile: "https://commons.wikimedia.org/wiki/File:Arvo_Aller_2023_(cropped).jpg",
     attribution: "Kultuuriministeerium / Ilja Smirnov",
     creditDetails: "Photo by Ilja Smirnov, published by the Estonian Ministry of Culture; Wikimedia Commons crop by Karljohan29.",
@@ -32,11 +33,12 @@ export const civicPortraits: Readonly<Record<string, CivicPortrait>> = {
     licenseUrl: "https://creativecommons.org/licenses/by/2.0/",
     sourceDate: "2023-02-22",
     checkedAt: "2026-10-23",
-    editNote: "Commons file was cropped from the originally licensed photograph by Karljohan29. Displayed as a resized, unretouched thumbnail."
+    editNote: "Commons original was cropped by Karljohan29. Proxy Society made a technical 256px WebP resize/format conversion, with no further crop or retouching.",
+    optimizedBytes: 12244
   },
   "Urmas Kruuse": {
     person: "Urmas Kruuse",
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Urmas_Kruuse.jpg/330px-Urmas_Kruuse.jpg",
+    src: "/portraits/urmas-kruuse.webp",
     originalFile: "https://commons.wikimedia.org/wiki/File:Urmas_Kruuse.jpg",
     attribution: "Renee Altrov / Riigikantselei",
     creditDetails: "Photo by Renee Altrov for the Estonian Government Office. Wikimedia VRT permission ticket 2021033010001343.",
@@ -44,11 +46,12 @@ export const civicPortraits: Readonly<Record<string, CivicPortrait>> = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     sourceDate: "2021-01-25",
     checkedAt: "2026-10-23",
-    editNote: "Resized for website display; not otherwise retouched. Image itself remains CC BY-SA 4.0."
+    editNote: "Proxy Society made a technical 256px WebP resize/format conversion, with no crop or artistic retouching. The image remains CC BY-SA 4.0.",
+    optimizedBytes: 2230
   },
   "Züleyxa Izmailova": {
     person: "Züleyxa Izmailova",
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Z%C3%BCleyxa_Izmailova_2021._aasta_Arvamusfestivalil.jpg/330px-Z%C3%BCleyxa_Izmailova_2021._aasta_Arvamusfestivalil.jpg",
+    src: "/portraits/zuleyxa-izmailova.webp",
     originalFile: "https://commons.wikimedia.org/wiki/File:Z%C3%BCleyxa_Izmailova_2021._aasta_Arvamusfestivalil.jpg",
     attribution: "Sillerkiil",
     creditDetails: "Photographed by Sillerkiil at the 2021 Arvamusfestival.",
@@ -56,6 +59,7 @@ export const civicPortraits: Readonly<Record<string, CivicPortrait>> = {
     licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/",
     sourceDate: "2021-08-14",
     checkedAt: "2026-10-23",
-    editNote: "Resized for website display; not otherwise retouched. Image itself remains CC BY-SA 4.0."
+    editNote: "Proxy Society made a technical 256px WebP resize/format conversion, with no crop or artistic retouching. The image remains CC BY-SA 4.0.",
+    optimizedBytes: 5148
   }
 } as const;
