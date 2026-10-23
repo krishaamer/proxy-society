@@ -223,6 +223,13 @@ const chronology = [
   },
 ];
 
+const quoteContextZh: Record<string, string> = {
+  "Tiit Maran": "這段 2026 年 2 月的發言呼籲將結束籠飼的承諾寫入法律；不代表可推定後續修正案或最終投票意向。",
+  "Urmas Kruuse": "他以農村事務委員會主席身分概述 2025 年委員會當時的看法；不能據此推定他對 2026 年兩項法案的個人投票意向。",
+  "Arvo Aller": "這段 2024 年發言是針對當時建議的四至五年轉型期，並非後來提出的 2035 年期限。",
+  "Züleyxa Izmailova": "這段 2026 年 5 月的黨部公開聲明描述的是政府版草案當時的延誤，無法確認目前的精確程序狀態。",
+};
+
 const counts = {
   members: chickenMembers.length,
   profiles: chickenMembers.filter((m) => m.profileRecorded).length,
@@ -473,7 +480,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                         <div className={styles.recordQuote}>
                           <span>{t.originalLanguage} / {member.quote.date}</span>
                           <blockquote lang="et">“{member.quote.text}”</blockquote>
-                          <p>{t.scope}: {member.quote.context}</p>
+                          <p>{t.scope}: {locale === "zh-TW" ? (quoteContextZh[member.name] ?? member.quote.context) : member.quote.context}</p>
                           <a href={member.quote.source} target="_blank" rel="noreferrer">{t.sourceLabel}</a>
                         </div>
                       ) : <p className={styles.muted}>{t.noQuote}</p>}
