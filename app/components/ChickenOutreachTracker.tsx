@@ -15,6 +15,7 @@ import styles from "./ChickenOutreachTracker.module.css";
 
 type EvidenceFilter = "all" | "quote" | "action" | "unknown";
 type OutreachFilter = "all" | "not_contacted" | "contacted" | "replied";
+const PAGE_SIZE = 12;
 
 const text = {
   en: {
@@ -64,7 +65,11 @@ const text = {
     notContacted: "Not contacted",
     contacted: "Contacted",
     replied: "Replied",
-    count: "members shown",
+    count: "matching MPs",
+    pagination: "Parliamentary directory pages",
+    previousPage: "Previous page",
+    nextPage: "Next page",
+    pageLabel: "Page",
     nameCol: "Member",
     evidenceCol: "Evidence",
     contactCol: "Contact",
@@ -151,6 +156,10 @@ const text = {
     contacted: "已聯繫",
     replied: "已收到回覆",
     count: "位議員符合條件",
+    pagination: "國會議員資料分頁",
+    previousPage: "上一頁",
+    nextPage: "下一頁",
+    pageLabel: "第",
     nameCol: "議員",
     evidenceCol: "證據",
     contactCol: "聯繫",
@@ -285,6 +294,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
   const [query, setQuery] = useState("");
   const [evidence, setEvidence] = useState<EvidenceFilter>("all");
   const [outreach, setOutreach] = useState<OutreachFilter>("all");
+  const [page, setPage] = useState(1);
 
   const featured = useMemo(
     () =>
@@ -307,7 +317,14 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
     [query, evidence, outreach],
   );
 
+  // Only 12 entries are hydrated at a time. Otherwise all 101 records,
+  // including content hidden under <details>, inflate the initial DOM and RSC payload.
+  const pageCount = Math.max(1, Math.ceil(visible.length / PAGE_SIZE));
+  const currentPage = Math.min(page, pageCount);
+  const pageMembers = visible.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
+
   const resetFilters = () => {
+    setPage(1);
     setQuery("");
     setEvidence("all");
     setOutreach("all");
@@ -420,7 +437,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                 </div>
                 {civicPortraits[member.name] ? (
                   <figure className={styles.portrait}>
-                    <Image src={civicPortraits[member.name].src} alt={"Portrait of " + member.name} width={120} height={126} className={styles.portraitImage} />
+                    <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} sizes="(max-width: 740px) 92px, 108px" quality={60} loading="lazy" decoding="async" className={styles.portraitImage} />
                     <figcaption>
                       <span>{t.portraitPhoto}: {civicPortraits[member.name].attribution}</span>
                       <span>
@@ -431,11 +448,11 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                       <small>{t.portraitNotEndorse}</small>
                     </figcaption>
                   </figure>
-                ) : <p className={styles.noImageNotice}>{t.noClearedPhoto}</p>}
+                ) : null}
                 <p className={styles.languageNote}>{t.originalLanguage}</p>
                 <blockquote lang="et">“{quote.text}”</blockquote>
 <p className={styles.citationTitle}>{quote.sourcePublisher}{quote.sourceAuthor ? " · " + quote.sourceAuthor : ""}: <cite>{quote.sourceTitle}</cite></p>
-                <a href={quote.source} target="_blank" rel="noreferrer">{t.source}</a>
+                <a href={quote.source} aria-label={`${quote.sourcePublisher}: ${quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.source}</a>
               </article>
             );
           })}
@@ -455,13 +472,13 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
             <input
               type="search"
               value={query}
-              onChange={(event) => setQuery(event.target.value)}
+              onChange={(event) => { setQuery(event.target.value); setPage(1); }}
               placeholder={t.searchPlaceholder}
             />
           </label>
           <label>
             <span>{t.evidenceLabel}</span>
-            <select value={evidence} onChange={(event) => setEvidence(event.target.value as EvidenceFilter)}>
+            <select value={evidence} onChange={(event) => { setEvidence(event.target.value as EvidenceFilter); setPage(1); }}>
               <option value="all">{t.evidenceAll}</option>
               <option value="quote">{t.evidenceQuote}</option>
               <option value="action">{t.evidenceAction}</option>
@@ -470,7 +487,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
           </label>
           <label>
             <span>{t.outreachLabel}</span>
-            <select value={outreach} onChange={(event) => setOutreach(event.target.value as OutreachFilter)}>
+            <select value={outreach} onChange={(event) => { setOutreach(event.target.value as OutreachFilter); setPage(1); }}>
               <option value="all">{t.outreachAll}</option>
               <option value="not_contacted">{t.notContacted}</option>
               <option value="contacted">{t.contacted}</option>
@@ -480,7 +497,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
         </div>
 
         <div className={styles.resultLine} role="status" aria-live="polite">
-          <span>{visible.length} {t.count}</span>
+          <span>{visible.length === 0 ? "0" : `${(currentPage - 1) * PAGE_SIZE + 1}–${Math.min(currentPage * PAGE_SIZE, visible.length)} / ${visible.length}`} {t.count}</span>
           {(query || evidence !== "all" || outreach !== "all") && (
             <button type="button" onClick={resetFilters}>{t.reset}</button>
           )}
@@ -493,7 +510,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
               <span>{t.evidenceCol}</span>
               <span>{t.contactCol}</span>
             </div>
-            {visible.map((member) => {
+            {pageMembers.map((member) => {
               const kind = evidenceKind(member);
               return (
                 <details className={styles.entry} key={member.name}>
@@ -512,7 +529,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                     <div>
                         {civicPortraits[member.name] ? (
                           <figure className={styles.portrait}>
-                            <Image src={civicPortraits[member.name].src} alt={"Portrait of " + member.name} width={120} height={126} className={styles.portraitImage} />
+                            <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} sizes="(max-width: 740px) 92px, 108px" quality={60} loading="lazy" decoding="async" className={styles.portraitImage} />
                             <figcaption>
                               <span>{t.portraitPhoto}: {civicPortraits[member.name].attribution}</span>
                               <span>
@@ -530,7 +547,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                           <blockquote lang="et">“{member.quote.text}”</blockquote>
                           <p>{t.scope}: {locale === "zh-TW" ? (quoteContextZh[member.name] ?? member.quote.context) : member.quote.context}</p>
 <p className={styles.citationTitle}>{member.quote.sourcePublisher}{member.quote.sourceAuthor ? " · " + member.quote.sourceAuthor : ""}: <cite>{member.quote.sourceTitle}</cite></p>
-                          <a href={member.quote.source} target="_blank" rel="noreferrer">{t.sourceLabel}</a>
+                          <a href={member.quote.source} aria-label={`${member.name}: ${member.quote.sourceTitle}`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
                         </div>
                       ) : <p className={styles.muted}>{t.noQuote}</p>}
                       {member.actions.length > 0 ? (
@@ -540,7 +557,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                             {member.actions.map((action) => (
                               <li key={action.kind}>
                                 <span>{actionDescription(action, locale)} ({action.date})</span>
-                                <a href={action.source} target="_blank" rel="noreferrer">{t.sourceLabel}</a>
+                                <a href={action.source} aria-label={`${member.name}: ${actionDescription(action, locale)} (${action.date})`} target="_blank" rel="noopener noreferrer">{t.sourceLabel}</a>
                               </li>
                             ))}
                           </ul>
@@ -566,6 +583,17 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
             <p>{t.empty}</p>
             <button type="button" onClick={resetFilters}>{t.reset}</button>
           </div>
+        )}
+        {pageCount > 1 && (
+          <nav className={styles.pagination} aria-label={t.pagination}>
+            <button type="button" onClick={() => setPage(Math.max(1, currentPage - 1))} disabled={currentPage === 1}>
+              ← {t.previousPage}
+            </button>
+            <span aria-live="polite">{t.pageLabel} {currentPage} / {pageCount}</span>
+            <button type="button" onClick={() => setPage(Math.min(pageCount, currentPage + 1))} disabled={currentPage === pageCount}>
+              {t.nextPage} →
+            </button>
+          </nav>
         )}
       </div>
 
