@@ -27,8 +27,8 @@ const text = {
     snapshotNote: "Public quotations checked 23 Oct 2026. The full member and committee review dates to 28 Sep 2026. This is a dated research snapshot, not a live parliamentary feed.",
     metrics: {
       members: "MPs in the research map",
-      profiles: "First-pass profiles",
-      quotes: "Verified direct quotes",
+      profiles: "MPs with sourced public excerpts",
+      quotes: "Reviewed individual quotations",
       contacted: "Emails confirmed sent",
       replies: "Replies recorded",
     },
@@ -48,18 +48,18 @@ const text = {
     source: "Original source ↗",
     quotesTitle: "In their own words",
     quotesIntro:
-      "A short selection of individual quotations with their dates and original sources. Historical comments are not assumed to be present-day positions.",
+      "Selected, context-reviewed remarks. Each of the 101 MPs also has an individual, source-linked public excerpt below, including 2026 transcript statements unrelated to cages.",
     originalLanguage: "Original Estonian statement",
     directory: "Every member, every recorded step",
     directoryIntro:
-      "Search all 101 members. Open a row to see the actual source, its limits, and the recorded outreach state.",
+      "All 101 MPs now have an attributable public excerpt and source. Some concern entirely different issues and are never evidence of a view on hens. Open a row for context, official links and outreach history.",
     search: "Find a member",
     searchPlaceholder: "Name, for example Maran or Kruuse",
     evidenceLabel: "Public evidence",
     evidenceAll: "All evidence",
     evidenceQuote: "Verified quotation",
     evidenceAction: "Documented action only",
-    evidenceUnknown: "No verified hook",
+    evidenceUnknown: "No cage-specific evidence",
     outreachLabel: "Outreach",
     outreachAll: "All outreach statuses",
     notContacted: "Not contacted",
@@ -75,9 +75,21 @@ const text = {
     contactCol: "Contact",
     quoteEvidence: "Verified quotation",
     actionEvidence: "Documented action",
-    unknownEvidence: "Not yet established",
-    noQuote: "No individual direct quotation has been verified for this entry.",
-    noAction: "No qualifying individual statement or parliamentary action is recorded yet. This does not imply opposition or support.",
+    unknownEvidence: "Cage position unknown",
+    noQuote: "No cage-specific individual quote has yet completed editorial verification for this MP.",
+    noAction: "No verified individual position about hen cages has been established; unrelated public speeches must not be used as a substitute.",
+    researchTitle: "Public record with original source",
+    researchExcerpt: "Recorded public statement",
+    researchCaution: "This excerpt is not automatically evidence of a view on hen cages.",
+    researchSource: "Read original public source ↗",
+    officialDirectory: "Official Riigikogu member register ↗",
+    issueCategory: "Speech during 828 SE cage debate; statement, question or procedure must be read in context",
+    henCategory: "Mention of hen cages in another parliamentary context",
+    welfareCategory: "Other animal-welfare legislation or discussion",
+    agricultureCategory: "Agriculture or food-policy statement, not a cage-specific view",
+    otherCategory: "Other parliamentary topic; no implication about cages",
+    noTranscriptCategory: "Other individually attributed official public statement",
+    researchPeriod: "Speech sources reviewed through 22 October 2026",
     actionsTitle: "Documented activity",
     sourceLabel: "View source ↗",
     scope: "Context and attribution limits",
@@ -119,8 +131,8 @@ const text = {
     snapshotNote: "公開引言於 2026 年 10 月 23 日核對；完整議員與委員會名單上次全面檢查為 9 月 28 日。這是有日期的研究紀錄，並非即時國會資料。",
     metrics: {
       members: "追蹤的國會議員",
-      profiles: "完成初步資料研究",
-      quotes: "已核實的本人引言",
+      profiles: "已附來源的議員公開發言",
+      quotes: "已審核之個人引言",
       contacted: "確認寄出的信件",
       replies: "已記錄的回覆",
     },
@@ -139,17 +151,17 @@ const text = {
     timeline: "這項議題如何進入國會",
     source: "原始資料 ↗",
     quotesTitle: "議員親自說過的話",
-    quotesIntro: "保留原文、日期與來源。較早的發言不代表議員如今仍持相同立場。",
+    quotesIntro: "此處精選經過脈絡檢視的發言。下方 101 位議員各附公開來源引言，其中部分 2026 年國會發言與蛋雞議題無關。",
     originalLanguage: "愛沙尼亞語原文",
     directory: "逐一檢視 101 位議員",
-    directoryIntro: "可搜尋所有議員，展開個別紀錄查看來源、歸屬限制及聯繫進度。",
+    directoryIntro: "101 位議員均附有來源可追溯的公開發言節錄。部分言論涉及其他議題，不能視為蛋雞籠飼立場；請展開紀錄查看來源、背景與聯繫進度。",
     search: "搜尋議員",
     searchPlaceholder: "姓名，例如 Maran 或 Kruuse",
     evidenceLabel: "公開證據",
     evidenceAll: "全部證據",
     evidenceQuote: "已核實本人引言",
     evidenceAction: "僅有行動紀錄",
-    evidenceUnknown: "無核實線索",
+    evidenceUnknown: "尚無蛋雞議題證據",
     outreachLabel: "聯繫狀態",
     outreachAll: "全部聯繫狀態",
     notContacted: "尚未聯繫",
@@ -165,9 +177,21 @@ const text = {
     contactCol: "聯繫",
     quoteEvidence: "已核實引言",
     actionEvidence: "有公開行動紀錄",
-    unknownEvidence: "尚未確認",
-    noQuote: "這位議員的本人公開引言目前尚未完成核實。",
-    noAction: "目前沒有可歸屬的發言或國會行動紀錄；不代表支持或反對。",
+    unknownEvidence: "蛋雞議題立場未確認",
+    noQuote: "目前尚未完成此議員蛋雞籠飼相關直接引言的個別編輯審核。",
+    noAction: "尚未核實此人在蛋雞籠飼議題上的立場；其他議題的公開言論不能用來替代。",
+    researchTitle: "可追溯來源的公開發言紀錄",
+    researchExcerpt: "議員本人公開發言節錄",
+    researchCaution: "這段引言不一定代表議員對蛋雞籠飼的立場。",
+    researchSource: "閱讀原始公開來源 ↗",
+    officialDirectory: "Riigikogu 國會議員官方名錄 ↗",
+    issueCategory: "828 SE 蛋雞籠飼法案討論；須確認原話是提問、程序說明或個人主張",
+    henCategory: "於其他國會議題提及蛋雞籠飼",
+    welfareCategory: "其他動物福利法案或討論",
+    agricultureCategory: "農業或食品政策言論，不能視為蛋雞籠飼立場",
+    otherCategory: "其他議題的國會言論，不能推論蛋雞籠飼立場",
+    noTranscriptCategory: "來自其他官方來源的個人公開發言",
+    researchPeriod: "涵蓋至 2026 年 10 月 22 日的國會發言",
     actionsTitle: "已記錄的行動",
     sourceLabel: "查看來源 ↗",
     scope: "發言背景與歸屬限制",
@@ -255,7 +279,7 @@ const quoteContextZh: Record<string, string> = {
 
 const counts = {
   members: chickenMembers.length,
-  profiles: chickenMembers.filter((m) => m.profileRecorded).length,
+  profiles: chickenMembers.filter((m) => m.publicResearch?.source).length,
   quotes: chickenMembers.filter((m) => m.quote !== null).length,
   actionOnly: chickenMembers.filter((m) => m.quote === null && m.actions.length > 0).length,
   contacted: chickenMembers.filter((m) => m.outreach.status !== "not_contacted").length,
@@ -299,7 +323,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
   const featured = useMemo(
     () =>
       chickenMembers
-        .filter((member) => member.quote !== null)
+        .filter((member) => ["Tiit Maran", "Urmas Kruuse", "Arvo Aller", "Züleyxa Izmailova", "Riina Sikkut", "Heljo Pikhof"].includes(member.name) && member.quote !== null)
         .sort((a, b) => a.name.localeCompare(b.name, "et")),
     [],
   );
@@ -307,7 +331,7 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
   const visible = useMemo(
     () =>
       chickenMembers
-        .filter((m) => normalizeName(m.name).includes(normalizeName(query.trim())))
+        .filter((m) => normalizeName([m.name, ...(m.knownAs ?? [])].join(" ")).includes(normalizeName(query.trim())))
         .filter((m) => evidence === "all" || evidenceKind(m) === evidence)
         .filter((m) => outreach === "all" || m.outreach.status === outreach)
         .sort((a, b) => {
@@ -527,6 +551,29 @@ export default function ChickenOutreachTracker({ locale }: { locale: ProjectLoca
                   </summary>
                   <div className={styles.entryBody}>
                     <div>
+                      {member.publicResearch && (
+                        <section className={styles.researchRecord} aria-label={t.researchTitle}>
+                          <h4>{t.researchTitle}</h4>
+                          <p className={styles.researchSubject}>
+                            <time dateTime={member.publicResearch.date}>{member.publicResearch.date}</time>
+                            {" / "}
+                            {member.publicResearch.category === "cage_bill_debate" ? t.issueCategory :
+                            member.publicResearch.category === "laying_hen_cages" ? t.henCategory :
+                            member.publicResearch.category === "animal_welfare" ? t.welfareCategory :
+                            member.publicResearch.category === "agriculture_and_food" ? t.agricultureCategory :
+                            member.publicResearch.category === "other_official_statement" ? t.noTranscriptCategory : t.otherCategory}
+                          </p>
+                          <p className={styles.researchTopic}>{member.publicResearch.sourceTitle}</p>
+                          {member.publicResearch.excerpt !== member.quote?.text && (
+                            <blockquote lang="et">“{member.publicResearch.excerpt}”</blockquote>
+                          )}
+                          <p className={styles.researchWarning}>{t.researchCaution}</p>
+                          <div className={styles.researchLinks}>
+                            <a href={member.publicResearch.source} target="_blank" rel="noopener noreferrer" aria-label={t.researchSource + ": " + member.name + ": " + member.publicResearch.sourceTitle}>{t.researchSource}</a>
+                            {member.parliamentarySource && <a href={member.parliamentarySource.officialRoster} target="_blank" rel="noopener noreferrer">{t.officialDirectory}</a>}
+                          </div>
+                        </section>
+                      )}
                         {civicPortraits[member.name] ? (
                           <figure className={styles.portrait}>
                             <Image src={civicPortraits[member.name].src} alt="" width={112} height={112} unoptimized loading="lazy" decoding="async" className={styles.portraitImage} />
