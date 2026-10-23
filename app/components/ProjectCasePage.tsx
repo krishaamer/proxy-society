@@ -1,4 +1,5 @@
 import styles from "./Projects.module.css";
+import ChickenOutreachTracker from "./ChickenOutreachTracker";
 import { getProject, getProjects, type ProjectLocale } from "../projects-data";
 
 const labels = {
@@ -76,11 +77,19 @@ export default function ProjectCasePage({ locale, slug }: { locale: ProjectLocal
           <div className={styles.caseLead}>
             <strong>{project.status}</strong>
             <p>{project.summary}</p>
+            {slug === "chickens-no-cages" && (
+              <div className={styles.linkRow}>
+                <a className="button primary" href="#outreach">
+                  {locale === "zh-TW" ? "查看公開追蹤紀錄 ↓" : "Explore the public tracker ↓"}
+                </a>
+              </div>
+            )}
           </div>
         </div>
       </section>
 
       <section className={`${styles.caseBody} shell`}>
+        {slug === "chickens-no-cages" && <ChickenOutreachTracker locale={locale} />}
         <div className={styles.signalGrid}>
           <article className={styles.signal}>
             <span>01 / {t.intent}</span>
